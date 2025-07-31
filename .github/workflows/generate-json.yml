@@ -39,7 +39,7 @@ jobs:
         const matter = require('gray-matter');
         const glob = require('glob');
         
-        const markdownFiles = glob.sync('**/*.md');
+        const markdownFiles = glob.sync('src/books/*.md');
         const results = [];
         
         markdownFiles.forEach(file => {
