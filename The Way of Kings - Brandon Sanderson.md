@@ -1,0 +1,33 @@
+---
+tags:
+  - Fantasy
+title: The Way of Kings
+subtitle: " 1"
+author:
+  - Brandon Sanderson
+publisher: Victor Gollancz Limited
+published: 2010-09-15T20:43:50+01:00
+page_count: 
+isbn: 
+description: ""
+coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
+shelf: to-read
+owned: false
+start_date: 
+finished_date: 
+rating: 
+recommended_by: 
+created: 
+---
+
+# The Way of Kings by Brandon Sanderson
+
+![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
+
+| Shelf | to-read |
+| --- | --- |
+| Genre | Fantasy |
+| Started |  |
+| Finished |  |
+| Rating | /5 |
+
