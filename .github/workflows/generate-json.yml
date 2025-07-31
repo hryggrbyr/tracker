@@ -62,6 +62,29 @@ jobs:
         }
         
         fs.writeFileSync('public/frontmatter.json', JSON.stringify(results, null, 2));
+
+                // Create a simple index.html for easier access
+        const html = `<!DOCTYPE html>
+        <html>
+        <head>
+            <title>Frontmatter JSON</title>
+        </head>
+        <body>
+            <h1>Frontmatter Data</h1>
+            <p><a href="frontmatter.json">Download JSON</a></p>
+            <pre id="json-content"></pre>
+            <script>
+                fetch('frontmatter.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        document.getElementById('json-content').textContent = JSON.stringify(data, null, 2);
+                    });
+            </script>
+        </body>
+        </html>`;
+        
+        fs.writeFileSync('public/index.html', html);
+        
         console.log(`Generated JSON with ${results.length} entries`);
         EOF
         
