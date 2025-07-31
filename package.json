@@ -1,0 +1,22 @@
+{
+  "name": "book-tracker.11ty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "fs": "^0.0.1-security",
+    "glob": "^11.0.3",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "path": "^0.12.7"
+  }
+}

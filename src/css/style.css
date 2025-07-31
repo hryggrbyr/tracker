@@ -1,0 +1,71 @@
+:root {
+    font-family: "Inclusive Sans", system-ui;
+    background: canvas;
+    color: canvasText;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+body > header {
+    background: goldenrod;
+    color: white;
+}
+
+.wrapper {
+    max-width: 80rem;
+    margin-inline: auto;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto auto auto;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background: white;
+}
+
+.card-image {
+  grid-row: 1 / -1; /* Spans all rows */
+  grid-column: 1;
+  max-height: 20rem;
+}
+
+.card-title {
+  grid-row: 1;
+  grid-column: 2;
+}
+
+.card-subtitle {
+  grid-row: 2;
+  grid-column: 2;
+}
+
+.card-author {
+  grid-row: 3;
+  grid-column: 2;
+}
+
+.card > * {
+    margin: 0;
+}
+.card > *:empty { display: none;  }
+
+.flow > *+* {
+    margin-block-start: 1lh;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.title {
+    font-size: 2em;
+}

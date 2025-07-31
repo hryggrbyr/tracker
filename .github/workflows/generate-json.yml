@@ -1,0 +1,66 @@
+name: Generate JSON from Markdown Frontmatter
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  generate-json:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    
+    - name: Install dependencies
+      run: |
+        npm init -y
+        npm install gray-matter glob
+    
+    - name: Generate JSON
+      run: |
+        cat > generate-json.js << 'EOF'
+        const fs = require('fs');
+        const path = require('path');
+        const matter = require('gray-matter');
+        const glob = require('glob');
+        
+        // Adjust this pattern to match your markdown files location
+        const markdownFiles = glob.sync('**/*.md');
+        
+        const results = [];
+        
+        markdownFiles.forEach(file => {
+          const content = fs.readFileSync(file, 'utf8');
+          const { data } = matter(content);
+          
+          results.push({
+            filename: path.basename(file),
+            path: file,
+            frontmatter: data
+          });
+        });
+        
+        // Create public directory if it doesn't exist
+        if (!fs.existsSync('public')) {
+          fs.mkdirSync('public');
+        }
+        
+        fs.writeFileSync('public/frontmatter.json', JSON.stringify(results, null, 2));
+        console.log(`Generated JSON with ${results.length} entries`);
+        EOF
+        
+        node generate-json.js
+    
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public

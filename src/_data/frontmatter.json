@@ -1,0 +1,29 @@
+[
+  {
+    "filename": "Catching Fire - Susanne Collins.md",
+    "path": "src/books/Catching Fire - Susanne Collins.md",
+    "frontmatter": {
+      "tags": [
+        "fantasy"
+      ],
+      "title": "Catching Fire",
+      "subtitle": "The Hunger Games 2",
+      "author": [
+        "Suzanne Collins"
+      ],
+      "publisher": "Scholastic Press",
+      "published": "2009-01-01T06:00:00.000Z",
+      "page_count": null,
+      "isbn": null,
+      "description": "",
+      "coverUrl": "https://covers.openlibrary.org/b/olid/OL22842132M-M.jpg",
+      "shelf": "read",
+      "owned": true,
+      "start_date": null,
+      "finished_date": "2014-02-02T00:00:00.000Z",
+      "rating": 3,
+      "recommended_by": null,
+      "created": "2015-10-06T00:00:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+---
+layout: base.njk
+---
+
+<h1 style="display: none;">{{ title }} ({{ subtitle }}) by {{ author }}</h1>
+
+<div class="card">
+	<figure class="card-image"><img src="{{ coverUrl }}"></figure>
+	<div class="card-title flow">
+		<p class="title"><strong>{{ title }}</strong></p>
+		{% if subtitle %}<p class="card-subtitle"></p>{% endif %}
+		<p>{{ author }}</p>
+	</div>
+	<div class="card-author">
+		{{ rating }}/5 @ {{ finished_date }}
+	</div>
+</div>
