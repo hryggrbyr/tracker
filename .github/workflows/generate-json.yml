@@ -9,30 +9,69 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  generate-json:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v4
-      with:
-        fetch-depth: 0  # Fetch full history
+    - name: Checkout
+      uses: actions/checkout@v4
     
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '18'
     
-    - name: Configure Git
+    - name: Install dependencies
+      run: npm install gray-matter glob
+    
+    - name: Generate JSON
       run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
+        cat > generate-json.js << 'EOF'
+        const fs = require('fs');
+        const path = require('path');
+        const matter = require('gray-matter');
+        const glob = require('glob');
+        
+        const markdownFiles = glob.sync('**/*.md');
+        const results = [];
+        
+        markdownFiles.forEach(file => {
+          try {
+            const content = fs.readFileSync(file, 'utf8');
+            const { data } = matter(content);
+            
+            results.push({
+              filename: path.basename(file),
+              path: file,
+              frontmatter: data
+            });
+          } catch (error) {
+            console.error(`Error processing ${file}:`, error);
+          }
+        });
+        
+        if (!fs.existsSync('public')) {
+          fs.mkdirSync('public');
+        }
+        
+        fs.writeFileSync('public/frontmatter.json', JSON.stringify(results, null, 2));
+        console.log(`Generated JSON with ${results.length} entries`);
+        EOF
+        
+        node generate-json.js
     
-    # ... rest of your steps
-    
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      if: github.ref == 'refs/heads/main'
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+      
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+        path: ./public
+        
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
