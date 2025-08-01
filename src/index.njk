@@ -40,11 +40,11 @@ layout: base.njk
 		</ul>
 	</section>	
     <section class="tab-content" id="content2">
-<h2>Wishlist</h2>
-<p>Books from my TBR that I don't own yet.</p>
+		<h2>Wishlist</h2>
+		<p>Books from my TBR that I don't own yet.</p>
 		<ul class="grid">
 		{% for book in frontmatter | reverse %}
-			{% if book.frontmatter.shelf == 'to-read' AND book.frontmatter.owned != 'true' %}
+			{% if book.frontmatter.shelf == 'to-read' and book.frontmatter.owned != 'true' %}
 				<li id="{{ book.frontmatter.title | slugify }}">
 					{% include "book-card.njk" %}
 				</li>
