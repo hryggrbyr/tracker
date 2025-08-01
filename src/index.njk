@@ -27,7 +27,7 @@ layout: base.njk
   
   <!-- Tab content -->
   <div class="tab-content-wrapper">
-    <section class="tab-content" id="content1">
+    <section class="tab-content flow" id="content1">
 		<h2>To Be Read</h2>
 		<div class="grid">
 		{% for book in frontmatter | reverse %}
@@ -37,7 +37,7 @@ layout: base.njk
 		{% endfor %}
 		</ul>
 	</section>	
-    <section class="tab-content" id="content2">
+    <section class="tab-content flow" id="content2">
 		<h2>Wishlist</h2>
 		<p>Books from my TBR that I don't own yet.</p>
 		<div class="grid">
@@ -48,7 +48,7 @@ layout: base.njk
 		{% endfor %}
 		</ul>
     </section>
-    <section class="tab-content" id="content3">
+    <section class="tab-content flow" id="content3">
 <h2>Read</h2>
 		<ul class="grid">
 		{% for book in frontmatter | reverse %}
