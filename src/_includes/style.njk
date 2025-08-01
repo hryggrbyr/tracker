@@ -1,8 +1,11 @@
 <style>
 :root {
+  color-scheme: light dark;
     font-family: "Inclusive Sans", system-ui;
     background: canvas;
     color: canvasText;
+    --color-primary: goldenrod;
+    --width-card: 100%;
 }
 
 body {
@@ -11,24 +14,38 @@ body {
 }
 
 body > header {
-    background: goldenrod;
+    background: var(--color-primary);
     color: white;
+    padding-block: 1lh;
+}
+
+p {
+  margin: 0;
 }
 
 .wrapper {
     max-width: 80rem;
     margin-inline: auto;
+    padding-inline: 1rem;
+}
+
+@media screen and (min-width: 80rem) {
+  :root {
+    --width-card: 30%;
+  }
+  .wrapper {
+    padding-inline: 0;
+  }
 }
 
 .card {
   display: grid;
   grid-template-columns: auto 1fr;
   grid-template-rows: auto auto auto;
-  gap: 12px;
-  padding: 16px;
+  gap: 0.5rem;
+  padding: 1rem;
   border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  background: white;
+  border-radius: 0.25rem;
 }
 
 .card-image {
@@ -72,15 +89,10 @@ img {
 }
 
 .grid {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 1rem;
-}
-
-.grid > * {
-    flex-basis: 30%;
-    flex-grow: 0;
+  width: 100%;
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill,minmax(var(--width-card,10rem),1fr));
+  grid-gap: var(--grid-gap,1rem);
 }
 
 ul.grid {
@@ -90,8 +102,7 @@ ul.grid {
 }
 
 .tabs {
-  width: 100%;
-  margin: 0 auto;
+
 }
 
 /* Hide radio inputs */
@@ -103,42 +114,37 @@ ul.grid {
 .tab-buttons {
   display: flex;
   border-bottom: 2px solid #e0e0e0;
-  background: #f8f9fa;
 }
 
 /* Individual tab button styling */
 .tab-button {
   flex: 1;
-  padding: 12px 20px;
+  padding: 1rem 1.5rem;
   text-align: center;
   cursor: pointer;
-  background: #f8f9fa;
   border: none;
   border-bottom: 3px solid transparent;
   transition: all 0.3s ease;
   font-weight: 500;
-  color: #666;
 }
 
 .tab-button:hover {
-  background: #e9ecef;
-  color: #333;
+  background: canvasText;
+  color: canvas;
 }
 
 /* Active tab button */
 #tab1:checked ~ .tab-buttons label[for="tab1"],
 #tab2:checked ~ .tab-buttons label[for="tab2"],
 #tab3:checked ~ .tab-buttons label[for="tab3"] {
-  background: white;
-  color: #007bff;
-  border-bottom-color: #007bff;
+  color: canvasText;
+  background: var(--color-primary);
+  border-bottom-color: var(--color-primary);
 }
 
 /* Tab content wrapper */
 .tab-content-wrapper {
   position: relative;
-  background: white;
-  border: 1px solid #e0e0e0;
   border-top: none;
   min-height: 200px;
 }
@@ -146,7 +152,7 @@ ul.grid {
 /* Hide all content by default */
 .tab-content {
   display: none;
-  padding: 20px;
+  padding: 1.5rem;
   animation: fadeIn 0.3s ease-in-out;
 }
 
@@ -166,12 +172,11 @@ ul.grid {
 /* Responsive design */
 @media (max-width: 600px) {
   .tab-button {
-    padding: 10px 8px;
-    font-size: 14px;
+    padding: 1rem 0.5rem;
   }
   
   .tab-content {
-    padding: 15px;
+    padding: 1rem;
   }
 }
 </style>

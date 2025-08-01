@@ -3,10 +3,21 @@
 		<figure class="card-image"><img src="{{ book.frontmatter.coverUrl }} /"></figure>
 	{% endif %}
 	<p>
-		<strong>{{ book.frontmatter.title }}</strong>
+		<strong class="title">{{ book.frontmatter.title }}</strong>
 		{% if book.frontmatter.subtitle %}
 			<br />{{ book.frontmatter.subtitle }}
 		{% endif %}
 	</p>
 	<p>{{ book.frontmatter.author }}</p>
+	{% if book.frontmatter.owned == 'true' %}
+		<p>I own this!</p>
+	{% endif %}
+	{% if book.frontmatter.shelf == 'read' and book.frontmatter.finished_date %}
+		<p>
+			I read this on {{ book.frontmatter.finished_date }}
+			{% if book.frontmatter.rating %}
+				and I gave it {{ book.frontmatter.rating }} stars out of 5
+			{% endif %}
+		</p>
+	{% endif %}
 </article>

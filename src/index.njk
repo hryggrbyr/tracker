@@ -29,12 +29,10 @@ layout: base.njk
   <div class="tab-content-wrapper">
     <section class="tab-content" id="content1">
 		<h2>To Be Read</h2>
-		<ul class="grid">
+		<div class="grid">
 		{% for book in frontmatter | reverse %}
 			{% if book.frontmatter.shelf == 'to-read' %}
-				<li id="{{ book.frontmatter.title | slugify }}">
-					{% include "book-card.njk" %}
-				</li>
+				{% include "book-card.njk" %}
 			{% endif %}	
 		{% endfor %}
 		</ul>
@@ -42,12 +40,10 @@ layout: base.njk
     <section class="tab-content" id="content2">
 		<h2>Wishlist</h2>
 		<p>Books from my TBR that I don't own yet.</p>
-		<ul class="grid">
+		<div class="grid">
 		{% for book in frontmatter | reverse %}
-			{% if book.frontmatter.shelf == 'to-read' and book.frontmatter.owned != 'true' %}
-				<li id="{{ book.frontmatter.title | slugify }}">
-					{% include "book-card.njk" %}
-				</li>
+			{% if book.frontmatter.shelf == 'to-read' and book.frontmatter.owned != true %}
+				{% include "book-card.njk" %}
 			{% endif %}
 		{% endfor %}
 		</ul>
@@ -57,9 +53,7 @@ layout: base.njk
 		<ul class="grid">
 		{% for book in frontmatter | reverse %}
 			{% if book.frontmatter.shelf == 'read' %}
-				<li id="{{ book.frontmatter.title | slugify }}">
-					{% include "book-card.njk" %}
-				</li>
+				{% include "book-card.njk" %}
 			{% endif %}
 		{% endfor %}
 		</ul>
