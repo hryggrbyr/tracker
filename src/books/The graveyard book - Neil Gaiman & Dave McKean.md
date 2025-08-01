@@ -1,7 +1,7 @@
 ---
 tags:
   - child
-title: The graveyard book
+title: The Graveyard Book
 subtitle: " 1"
 author:
   - Neil Gaiman & Dave McKean
@@ -12,7 +12,7 @@ isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
-owned: false
+owned: true
 start_date: 
 finished_date: 
 rating: 

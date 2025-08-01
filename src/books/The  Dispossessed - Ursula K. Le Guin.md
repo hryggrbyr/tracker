@@ -1,27 +1,27 @@
 ---
 tags: []
-title: Chain-Gang All-Stars
+title: The  Dispossessed
 subtitle: " "
 author:
-  - Nana Kwame Adjei-Brenyah
+  - Ursula K. Le Guin
 publisher: 
 published: 
 page_count: 
 isbn: 
 description: ""
-coverUrl: https://covers.openlibrary.org/b/olid/OL38446434M-M.jpg
+coverUrl: https://covers.openlibrary.org/b/olid/OL20294300M-M.jpg
 shelf: to-read
 owned: true
 start_date: 
 finished_date: 
 rating: 
 recommended_by: 
-created: 2025-05-22
+created: 2025-04-26
 ---
 
-# Chain-Gang All-Stars by Nana Kwame Adjei-Brenyah
+# The  Dispossessed by Ursula K. Le Guin
 
-![Book Cover Art](https://covers.openlibrary.org/b/olid/OL38446434M-M.jpg)
+![Book Cover Art](https://covers.openlibrary.org/b/olid/OL20294300M-M.jpg)
 
 | Shelf | to-read |
 | --- | --- |
