@@ -1,27 +1,27 @@
 ---
 tags: []
-title: Chain-Gang All-Stars
+title: "The Tin"
 subtitle: " "
 author:
-  - Nana Kwame Adjei-Brenyah
+  - Thomas Kinsella
 publisher: 
 published: 
 page_count: 
 isbn: 
 description: ""
-coverUrl: https://covers.openlibrary.org/b/olid/OL38446434M-M.jpg
+coverUrl: https://covers.openlibrary.org/b/olid/OL33988699M-M.jpg
 shelf: to-read
 owned: true
 start_date: 
 finished_date: 
 rating: 
 recommended_by: 
-created: 2025-05-22
+created: 2022-11-06
 ---
 
-# Chain-Gang All-Stars by Nana Kwame Adjei-Brenyah
+# The Tin by Thomas Kinsella
 
-![Book Cover Art](https://covers.openlibrary.org/b/olid/OL38446434M-M.jpg)
+![Book Cover Art](https://covers.openlibrary.org/b/olid/OL33988699M-M.jpg)
 
 | Shelf | to-read |
 | --- | --- |
