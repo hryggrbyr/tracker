@@ -67,7 +67,7 @@ jobs:
       run: npm install @11ty/eleventy
     
     - name: Build 11ty site
-      run: npm start
+      run: npm run build
     
     - name: Setup Pages
       uses: actions/configure-pages@v4
