@@ -1,13 +1,5 @@
 [
   {
-    "filename": "tmpl_reading.md",
-    "path": "src/books/tmpl_reading.md",
-    "frontmatter": {
-      "creation date": "<% tp.file.creation_date() %>",
-      "modification date": "<% tp.file.last_modified_date(\"dddd Do MMMM YYYY HH:mm:ss\") %>"
-    }
-  },
-  {
     "filename": "You Can't Stop Me - Max Allan Collins & Matthew Clemens.md",
     "path": "src/books/You Can't Stop Me - Max Allan Collins & Matthew Clemens.md",
     "frontmatter": {
@@ -310,11 +302,6 @@
       "recommended_by": null,
       "created": "2025-01-11T00:00:00.000Z"
     }
-  },
-  {
-    "filename": "Wishlist.md",
-    "path": "src/books/Wishlist.md",
-    "frontmatter": {}
   },
   {
     "filename": "Will Grayson - John Green.md",
@@ -1211,11 +1198,6 @@
     }
   },
   {
-    "filename": "To Be Read.md",
-    "path": "src/books/To Be Read.md",
-    "frontmatter": {}
-  },
-  {
     "filename": "Through the Looking-Glass by Lewis Carroll - Lewis Carroll.md",
     "path": "src/books/Through the Looking-Glass by Lewis Carroll - Lewis Carroll.md",
     "frontmatter": {
@@ -1788,31 +1770,6 @@
     }
   },
   {
-    "filename": "The Tin - Thomas Kinsella.md",
-    "path": "src/books/The Tin - Thomas Kinsella.md",
-    "frontmatter": {
-      "tags": [],
-      "title": "The Tin",
-      "subtitle": " ",
-      "author": [
-        "Thomas Kinsella"
-      ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL33988699M-M.jpg",
-      "shelf": "to-read",
-      "owned": true,
-      "start_date": null,
-      "finished_date": null,
-      "rating": null,
-      "recommended_by": null,
-      "created": "2022-11-06T00:00:00.000Z"
-    }
-  },
-  {
     "filename": "The Troubled Man - Henning Mankell.md",
     "path": "src/books/The Troubled Man - Henning Mankell.md",
     "frontmatter": {
@@ -1967,6 +1924,31 @@
       "rating": null,
       "recommended_by": null,
       "created": "2025-06-16T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "The Tain - Thomas Kinsella.md",
+    "path": "src/books/The Tain - Thomas Kinsella.md",
+    "frontmatter": {
+      "tags": [],
+      "title": "The Tain",
+      "subtitle": " ",
+      "author": [
+        "Thomas Kinsella"
+      ],
+      "publisher": null,
+      "published": null,
+      "page_count": null,
+      "isbn": null,
+      "description": "",
+      "coverUrl": "https://covers.openlibrary.org/b/olid/OL33988699M-M.jpg",
+      "shelf": "to-read",
+      "owned": true,
+      "start_date": null,
+      "finished_date": null,
+      "rating": null,
+      "recommended_by": null,
+      "created": "2022-11-06T00:00:00.000Z"
     }
   },
   {
@@ -7694,16 +7676,6 @@
     }
   },
   {
-    "filename": "Read.md",
-    "path": "src/books/Read.md",
-    "frontmatter": {}
-  },
-  {
-    "filename": "Read Next.md",
-    "path": "src/books/Read Next.md",
-    "frontmatter": {}
-  },
-  {
     "filename": "Rakkety Tam - Brian Jacques.md",
     "path": "src/books/Rakkety Tam - Brian Jacques.md",
     "frontmatter": {
@@ -12141,11 +12113,6 @@
     }
   },
   {
-    "filename": "Dashboard.md",
-    "path": "src/books/Dashboard.md",
-    "frontmatter": {}
-  },
-  {
     "filename": "Darkness - Tanith Lee.md",
     "path": "src/books/Darkness - Tanith Lee.md",
     "frontmatter": {
@@ -12294,11 +12261,6 @@
       "recommended_by": null,
       "created": "2024-11-28T00:00:00.000Z"
     }
-  },
-  {
-    "filename": "Currently Reading.md",
-    "path": "src/books/Currently Reading.md",
-    "frontmatter": {}
   },
   {
     "filename": "Crow Folk - Mark Stay.md",

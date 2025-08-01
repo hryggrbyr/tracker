@@ -1,6 +1,6 @@
 ---
 tags: []
-title: "The Tin"
+title: "The Tain"
 subtitle: " "
 author:
   - Thomas Kinsella
@@ -19,7 +19,7 @@ recommended_by:
 created: 2022-11-06
 ---
 
-# The Tin by Thomas Kinsella
+# The Tain by Thomas Kinsella
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL33988699M-M.jpg)
 
