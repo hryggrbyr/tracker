@@ -1,14 +1,18 @@
 name: Generate JSON from Markdown Frontmatter
+
 on:
   push:
     branches: [ main ]
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 concurrency:
   group: "pages"
   cancel-in-progress: false
+
 jobs:
   build-and-deploy:
     environment:
@@ -53,21 +57,38 @@ jobs:
           }
         });
         
-        if (!fs.existsSync('src/_data')) {
-          fs.mkdirSync('src/_data', { recursive: true });
+        if (!fs.existsSync('public')) {
+          fs.mkdirSync('public');
         }
         
-        fs.writeFileSync('src/_data/frontmatter.json', JSON.stringify(results, null, 2));
+        fs.writeFileSync('public/frontmatter.json', JSON.stringify(results, null, 2));
+
+                // Create a simple index.html for easier access
+        const html = `<!DOCTYPE html>
+        <html>
+        <head>
+            <title>Frontmatter JSON</title>
+        </head>
+        <body>
+            <h1>Frontmatter Data</h1>
+            <p><a href="frontmatter.json">Download JSON</a></p>
+            <pre id="json-content"></pre>
+            <script>
+                fetch('frontmatter.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        document.getElementById('json-content').textContent = JSON.stringify(data, null, 2);
+                    });
+            </script>
+        </body>
+        </html>`;
+        
+        fs.writeFileSync('public/index.html', html);
+        
         console.log(`Generated JSON with ${results.length} entries`);
         EOF
         
         node generate-json.js
-    
-    - name: Install 11ty dependencies
-      run: npm install @11ty/eleventy
-    
-    - name: Build 11ty site
-      run: npm start
     
     - name: Setup Pages
       uses: actions/configure-pages@v4

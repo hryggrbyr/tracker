@@ -1,0 +1,12 @@
+<article class="card">
+	{% if book.frontmatter.coverUrl %}
+		<figure class="card-image"><img src="{{ book.frontmatter.coverUrl }} /"></figure>
+	{% endif %}
+	<p>
+		<strong>{{ book.frontmatter.title }}</strong>
+		{% if book.frontmatter.subtitle %}
+			<br />{{ book.frontmatter.subtitle }}
+		{% endif %}
+	</p>
+	<p>{{ book.frontmatter.author }}</p>
+</article>

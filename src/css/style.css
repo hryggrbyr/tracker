@@ -69,3 +69,107 @@ img {
 .title {
     font-size: 2em;
 }
+
+.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.grid > * {
+    flex-basis: 30%;
+    flex-grow: 0;
+}
+
+ul.grid {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.tabs {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Hide radio inputs */
+.tabs input[type="radio"] {
+  display: none;
+}
+
+/* Tab buttons container */
+.tab-buttons {
+  display: flex;
+  border-bottom: 2px solid #e0e0e0;
+  background: #f8f9fa;
+}
+
+/* Individual tab button styling */
+.tab-button {
+  flex: 1;
+  padding: 12px 20px;
+  text-align: center;
+  cursor: pointer;
+  background: #f8f9fa;
+  border: none;
+  border-bottom: 3px solid transparent;
+  transition: all 0.3s ease;
+  font-weight: 500;
+  color: #666;
+}
+
+.tab-button:hover {
+  background: #e9ecef;
+  color: #333;
+}
+
+/* Active tab button */
+#tab1:checked ~ .tab-buttons label[for="tab1"],
+#tab2:checked ~ .tab-buttons label[for="tab2"],
+#tab3:checked ~ .tab-buttons label[for="tab3"] {
+  background: white;
+  color: #007bff;
+  border-bottom-color: #007bff;
+}
+
+/* Tab content wrapper */
+.tab-content-wrapper {
+  position: relative;
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-top: none;
+  min-height: 200px;
+}
+
+/* Hide all content by default */
+.tab-content {
+  display: none;
+  padding: 20px;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+/* Show active content */
+#tab1:checked ~ .tab-content-wrapper #content1,
+#tab2:checked ~ .tab-content-wrapper #content2,
+#tab3:checked ~ .tab-content-wrapper #content3 {
+  display: block;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+  .tab-button {
+    padding: 10px 8px;
+    font-size: 14px;
+  }
+  
+  .tab-content {
+    padding: 15px;
+  }
+}

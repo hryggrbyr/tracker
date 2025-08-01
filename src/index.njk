@@ -1,0 +1,76 @@
+---
+title: Dashboard
+layout: base.njk
+---
+
+<h1>{{ title }}</h1>
+
+<h2>Currently Reading</h2>
+{% for book in frontmatter %}
+	{% if book.frontmatter.shelf == 'reading' %}
+		{% include "book-card.njk" %}
+	{% endif %}
+{% endfor %}
+
+<div class="tabs">
+  <!-- Tab inputs (hidden) -->
+  <input type="radio" id="tab1" name="tabs" checked>
+  <input type="radio" id="tab2" name="tabs">
+  <input type="radio" id="tab3" name="tabs">
+  
+  <!-- Tab buttons -->
+  <div class="tab-buttons">
+    <label for="tab1" class="tab-button">To Be Read</label>
+    <label for="tab2" class="tab-button">Wishlist</label>
+    <label for="tab3" class="tab-button">Read</label>
+  </div>
+  
+  <!-- Tab content -->
+  <div class="tab-content-wrapper">
+    <section class="tab-content" id="content1">
+		<h2>To Be Read</h2>
+		<ul class="grid">
+		{% for book in frontmatter | reverse %}
+			{% if book.frontmatter.title %}
+			{% if book.frontmatter.shelf == 'to-read' %}
+				<li id="{{ book.frontmatter.title | slugify }}">
+					{% include "book-card.njk" %}
+				</li>
+			{% endif %}	
+			{% endif %}
+		{% endfor %}
+		</ul>
+	</section>	
+    <section class="tab-content" id="content2">
+<h2>Wishlist</h2>
+<p>Books from my TBR that I don't own yet.</p>
+		<ul class="grid">
+		{% for book in frontmatter | reverse %}
+			{% if book.frontmatter.title %}
+			{% if book.frontmatter.shelf == 'to-read' AND book.frontmatter.owned != 'true' %}
+				<li id="{{ book.frontmatter.title | slugify }}">
+					{% include "book-card.njk" %}
+				</li>
+			{% endif %}	
+			{% endif %}
+		{% endfor %}
+		</ul>
+    </section>
+    <section class="tab-content" id="content3">
+<h2>Read</h2>
+		<ul class="grid">
+		{% for book in frontmatter | reverse %}
+			{% if book.frontmatter.title %}
+			{% if book.frontmatter.shelf == 'read' %}
+				<li id="{{ book.frontmatter.title | slugify }}">
+					{% include "book-card.njk" %}
+				</li>
+			{% endif %}	
+			{% endif %}
+		{% endfor %}
+		</ul>
+    </section>
+  </div>
+</div>
+
+
