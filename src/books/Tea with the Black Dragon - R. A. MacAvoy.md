@@ -11,7 +11,7 @@ isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL30941658M-M.jpg
 shelf: to-read
-owned: false
+owned: true
 start_date: 
 finished_date: 
 rating: 
