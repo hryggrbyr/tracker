@@ -11,7 +11,7 @@ isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL57540896M-M.jpg
 shelf: to-read
-owned: false
+owned: true
 start_date: 
 finished_date: 
 rating: 
