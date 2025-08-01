@@ -31,13 +31,11 @@ layout: base.njk
 		<h2>To Be Read</h2>
 		<ul class="grid">
 		{% for book in frontmatter | reverse %}
-			{% if book.frontmatter.title %}
 			{% if book.frontmatter.shelf == 'to-read' %}
 				<li id="{{ book.frontmatter.title | slugify }}">
 					{% include "book-card.njk" %}
 				</li>
 			{% endif %}	
-			{% endif %}
 		{% endfor %}
 		</ul>
 	</section>	
@@ -46,12 +44,10 @@ layout: base.njk
 <p>Books from my TBR that I don't own yet.</p>
 		<ul class="grid">
 		{% for book in frontmatter | reverse %}
-			{% if book.frontmatter.title %}
 			{% if book.frontmatter.shelf == 'to-read' AND book.frontmatter.owned != 'true' %}
 				<li id="{{ book.frontmatter.title | slugify }}">
 					{% include "book-card.njk" %}
 				</li>
-			{% endif %}	
 			{% endif %}
 		{% endfor %}
 		</ul>
@@ -60,12 +56,10 @@ layout: base.njk
 <h2>Read</h2>
 		<ul class="grid">
 		{% for book in frontmatter | reverse %}
-			{% if book.frontmatter.title %}
 			{% if book.frontmatter.shelf == 'read' %}
 				<li id="{{ book.frontmatter.title | slugify }}">
 					{% include "book-card.njk" %}
 				</li>
-			{% endif %}	
 			{% endif %}
 		{% endfor %}
 		</ul>
