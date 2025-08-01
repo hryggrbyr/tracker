@@ -10,20 +10,20 @@ page_count:
 isbn: 
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
-shelf: to-read
-owned: false
+shelf: read
+owned: true
 start_date: 
-finished_date: 
+finished_date: 2011-02-02
 rating: 
 recommended_by: 
-created: 
+created: 2025-07-31
 ---
 
 # Percy Jackson and the Lightning Thief by Rick Riordan
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | to-read |
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started |  |
