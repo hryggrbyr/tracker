@@ -1,23 +1,30 @@
 <article class="card">
 	{% if book.frontmatter.coverUrl %}
-		<figure class="card-image"><img src="{{ book.frontmatter.coverUrl }} /"></figure>
+		<figure class="card-image"><img src="{{ book.frontmatter.coverUrl }}" alt="Book cover art for {{ book.frontmatter.title }}" loading="lazy"></figure>
 	{% endif %}
-	<p>
-		<strong class="title">{{ book.frontmatter.title }}</strong>
-		{% if book.frontmatter.subtitle %}
-			<br />{{ book.frontmatter.subtitle }}
-		{% endif %}
-	</p>
-	<p>{{ book.frontmatter.author }}</p>
-	{% if book.frontmatter.owned == 'true' %}
+	<div class="card-title">
+		<p>
+			<strong class="title">{{ book.frontmatter.title }}</strong>
+			{% if book.frontmatter.subtitle %}
+				<br />{{ book.frontmatter.subtitle }}
+			{% endif %}
+		</p>
+		<p>{{ book.frontmatter.author }}</p>
+	</div>
+	<div class="card-author">
+	{% if book.frontmatter.owned == true %}
 		<p>I own this!</p>
+	{% endif %}
+	{% if book.frontmatter.shelf == 'reading' and book.frontmatter.start_date %}
+		<p>I started reading this on {{ book.frontmatter.start_date | humanReadableDate }}</p>
 	{% endif %}
 	{% if book.frontmatter.shelf == 'read' and book.frontmatter.finished_date %}
 		<p>
-			I read this on {{ book.frontmatter.finished_date }}
+			I finished this on {{ book.frontmatter.finished_date | humanReadableDate }}
 			{% if book.frontmatter.rating %}
 				and I gave it {{ book.frontmatter.rating }} stars out of 5
 			{% endif %}
 		</p>
 	{% endif %}
+	</div>
 </article>
