@@ -1,7 +1,11 @@
 ---
-tags: []
-title: Percy Jackson and the Sword of Hades; Horrible Histories - Groovy Greeks
-subtitle: " "
+tags:
+  - fantasy
+  - UrbanFantasy
+  - mythology
+  - magic
+title: Percy Jackson and the Sword of Hades
+subtitle: Percy Jackson and The Olympians
 author:
   - Rick Riordan
 publisher: 
@@ -12,8 +16,8 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL26811424M-M.jpg
 shelf: read
 owned: false
-start_date: 
-finished_date: 
+start_date: 2011-02-02
+finished_date: 2011-02-02
 rating: 4
 recommended_by: 
 created: 2015-10-06
@@ -25,8 +29,8 @@ created: 2015-10-06
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
-| Started |  |
+| Genre | fantasy,UrbanFantasy,mythology,magic |
+| Started | 2011-02-02T00:00:00.000+00:00 |
 | Finished |  |
 | Rating | 4/5 |
 
