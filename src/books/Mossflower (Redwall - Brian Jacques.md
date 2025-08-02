@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Mossflower (Redwall
+title: Mossflower
 subtitle: Redwall 2
 author:
   - Brian Jacques
@@ -19,7 +19,7 @@ recommended_by:
 created: 2015-10-06
 ---
 
-# Mossflower (Redwall by Brian Jacques
+# Mossflower by Brian Jacques
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7524079M-M.jpg)
 

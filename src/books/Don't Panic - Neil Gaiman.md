@@ -10,7 +10,7 @@ page_count:
 isbn: 
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL29415266M-M.jpg
-shelf: read
+shelf: to-read
 owned: false
 start_date: 
 finished_date: 
@@ -23,7 +23,7 @@ created: 2015-11-02
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL29415266M-M.jpg)
 
-| Shelf | read |
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |

@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Salamandastron (Redwall
+title: Salamandastron
 subtitle: Redwall 5
 author:
   - Brian Jacques
@@ -19,7 +19,7 @@ recommended_by:
 created: 2015-10-06
 ---
 
-# Salamandastron (Redwall by Brian Jacques
+# Salamandastron by Brian Jacques
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7361099M-M.jpg)
 

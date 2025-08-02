@@ -1,19 +1,23 @@
 ---
-tags: []
-title: "Breaking Dawn (Twilight #4)"
-subtitle: " "
+tags:
+  - fantasy
+  - vampire
+  - UrbanFantasy
+  - romance
+title: Breaking Dawn
+subtitle: The Twilight Saga 4
 author:
   - Stephenie Meyer
 publisher: 
-published: 
+published: 2008-12-31
 page_count: 
 isbn: 
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL37075048M-M.jpg
 shelf: read
 owned: true
-start_date: 
-finished_date: 
+start_date: 2009-02-02
+finished_date: 2009-02-02
 rating: 3
 recommended_by: 
 created: 2015-10-06
@@ -25,8 +29,8 @@ created: 2015-10-06
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
-| Started |  |
+| Genre | fantasy,vampire,UrbanFantasy,romance |
+| Started | 2009-02-02T00:00:00.000+00:00 |
 | Finished |  |
 | Rating | 3/5 |
 

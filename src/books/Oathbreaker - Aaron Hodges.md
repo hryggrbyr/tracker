@@ -1,7 +1,11 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - wizards
+  - dragons
+  - war
 title: Oathbreaker
-subtitle: " "
+subtitle: Legend of the Gods 1
 author:
   - Aaron Hodges
 publisher: 
@@ -13,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL28527603M-M.jpg
 shelf: read
 owned: true
 start_date: 2025-03-18
-finished_date: 
+finished_date: 2025-03-31
 rating: 4
 recommended_by: 
 created: 2025-04-19
@@ -25,7 +29,7 @@ created: 2025-04-19
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,wizards,dragons,war |
 | Started | 2025-03-18T00:00:00.000+00:00 |
 | Finished |  |
 | Rating | 4/5 |

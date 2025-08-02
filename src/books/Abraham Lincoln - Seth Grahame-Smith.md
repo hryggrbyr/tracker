@@ -12,8 +12,8 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL24194711M-M.jpg
 shelf: read
 owned: false
-start_date: 
-finished_date: 
+start_date: 2010-03-02
+finished_date: 2010-03-02
 rating: 3
 recommended_by: 
 created: 2015-10-06
@@ -26,7 +26,7 @@ created: 2015-10-06
 | Shelf | read |
 | --- | --- |
 | Genre |  |
-| Started |  |
+| Started | 2010-03-02T00:00:00.000+00:00 |
 | Finished |  |
 | Rating | 3/5 |
 

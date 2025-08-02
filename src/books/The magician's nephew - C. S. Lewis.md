@@ -2,7 +2,7 @@
 tags:
   - fantasy
   - child
-title: The magician's nephew
+title: The Magician's Nephew
 subtitle: "Chronicles of Narnia: Chronological order 1"
 author:
   - C. S. Lewis
@@ -14,21 +14,21 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
-start_date: 
-finished_date: 
-rating: 
+start_date: 1994-07-01
+finished_date: 1994-07-01
+rating: 2
 recommended_by: 
-created: 
+created: 1994-07-01
 ---
 
-# The magician's nephew by C. S. Lewis
+# The Magician's Nephew by C. S. Lewis
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
 | Shelf | read |
 | --- | --- |
 | Genre | fantasy,child |
-| Started |  |
+| Started | 1994-07-01T00:00:00.000+01:00 |
 | Finished |  |
-| Rating | /5 |
+| Rating | 2/5 |
 

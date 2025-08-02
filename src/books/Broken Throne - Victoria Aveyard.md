@@ -10,20 +10,20 @@ page_count:
 isbn: 
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
-shelf: read
+shelf: to-read
 owned: true
 start_date: 
 finished_date: 
 rating: 
 recommended_by: 
-created: 
+created: 2019-08-02
 ---
 
 # Broken Throne by Victoria Aveyard
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | read |
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |
