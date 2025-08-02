@@ -1,7 +1,7 @@
 ---
 tags: []
-title: Northern Lights (His Dark Materials)
-subtitle: " "
+title: Northern Lights
+subtitle: His Dark Materials 1
 author:
   - Philip Pullman
 publisher: 
