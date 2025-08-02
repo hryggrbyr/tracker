@@ -2,7 +2,7 @@
 tags:
   - fantasy
   - child
-title: The silver chair
+title: The Silver Chair
 subtitle: "Chronicles of Narnia: Chronological order 6"
 author:
   - C. S. Lewis
@@ -14,11 +14,11 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
-start_date: 
-finished_date: 
-rating: 
+start_date: 1994-07-01
+finished_date: 1994-07-01
+rating: 4
 recommended_by: 
-created: 
+created: 1994-07-01
 ---
 
 # The silver chair by C. S. Lewis
@@ -28,7 +28,7 @@ created:
 | Shelf | read |
 | --- | --- |
 | Genre | fantasy,child |
-| Started |  |
+| Started | 1994-07-01T00:00:00.000+01:00 |
 | Finished |  |
-| Rating | /5 |
+| Rating | 4/5 |
 
