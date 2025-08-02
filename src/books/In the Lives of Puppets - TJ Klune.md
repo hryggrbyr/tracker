@@ -26,7 +26,7 @@ created: 2025-02-19
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | lgbt |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
