@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Percy Jackson and the Lightning Thief
-subtitle: " 1"
+subtitle: Percy Jackson and The Olympians 1
 author:
   - Rick Riordan
 publisher: Penguin Books Ltd
@@ -12,11 +12,11 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
-start_date: 
+start_date: 2011-02-02
 finished_date: 2011-02-02
-rating: 
+rating: 4
 recommended_by: 
-created: 2025-07-31
+created: 2015-10-06
 ---
 
 # Percy Jackson and the Lightning Thief by Rick Riordan
@@ -26,7 +26,7 @@ created: 2025-07-31
 | Shelf | read |
 | --- | --- |
 | Genre |  |
-| Started |  |
+| Started | 2011-02-02T00:00:00.000+00:00 |
 | Finished |  |
-| Rating | /5 |
+| Rating | 4/5 |
 
