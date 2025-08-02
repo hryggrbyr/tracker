@@ -2,7 +2,7 @@
 tags:
   - fantasy
   - child
-title: The voyage of the Dawn Treader
+title: The Voyage of the Dawn Treader
 subtitle: "Chronicles of Narnia: Chronological order 5"
 author:
   - C. S. Lewis
@@ -14,21 +14,21 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
-start_date: 
-finished_date: 
-rating: 
+start_date: 1994-07-01
+finished_date: 1994-07-01
+rating: 4
 recommended_by: 
 created: 
 ---
 
-# The voyage of the Dawn Treader by C. S. Lewis
+# The Voyage of the Dawn Treader by C. S. Lewis
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
 | Shelf | read |
 | --- | --- |
 | Genre | fantasy,child |
-| Started |  |
+| Started | 1994-07-01T00:00:00.000+01:00 |
 | Finished |  |
-| Rating | /5 |
+| Rating | 4/5 |
 
