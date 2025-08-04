@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL27215155M-M.jpg
 shelf: read
 owned: true
 start_date: 2010-02-02
-finished_date: 2010-02-02
+end_date: 2010-02-02
 rating: 3
 recommended_by: 
 created: 2022-12-22
@@ -23,10 +23,10 @@ created: 2022-12-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27215155M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 2010-02-02T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2010-02-02T00:00:00.000+00:00 |
 | Rating | 3/5 |
 
