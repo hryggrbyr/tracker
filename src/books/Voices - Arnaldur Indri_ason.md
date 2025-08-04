@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2025-04-26
@@ -24,7 +24,7 @@ created: 2025-04-26
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre | Fiction:Suspense |
 | Started |  |
