@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL28330645M-M.jpg
 shelf: read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 4
 recommended_by: 
 created: 2020-07-01
@@ -23,7 +23,7 @@ created: 2020-07-01
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28330645M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |
