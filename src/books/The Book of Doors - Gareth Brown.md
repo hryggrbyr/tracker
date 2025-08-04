@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL50624803M-M.jpg
 shelf: read
 owned: true
 start_date: 2025-06-02
-finished_date: 2025-06-19
+end_date: 2025-06-19
 rating: 5
 recommended_by: 
 created: 2025-06-20
@@ -23,10 +23,10 @@ created: 2025-06-20
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL50624803M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 2025-06-02T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 2025-06-19T00:00:00.000+01:00 |
 | Rating | 5/5 |
 
