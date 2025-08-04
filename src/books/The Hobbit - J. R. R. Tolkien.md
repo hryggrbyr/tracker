@@ -1,9 +1,9 @@
 ---
 tags: []
 title: The Hobbit
-subtitle: " "
+subtitle: or There and Back Again
 author:
-  - J. R. R. Tolkien
+  - JRR Tolkien
 publisher: 
 published: 
 page_count: 
@@ -13,9 +13,9 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL31900303M-M.jpg
 shelf: read
 owned: true
 start_date: 1988-09-04
-finished_date: 1989-08-10
+end_date: 1990-08-10
 rating: 3
-recommended_by: 
+recommended_by: Mr Preston
 created: 2015-10-06
 ---
 
@@ -23,10 +23,10 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL31900303M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 1988-09-04T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 1990-08-10T00:00:00.000+01:00 |
 | Rating | 3/5 |
 
