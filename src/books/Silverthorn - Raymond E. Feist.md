@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL7883106M-M.jpg
 shelf: read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2021-03-17
@@ -23,7 +23,7 @@ created: 2021-03-17
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7883106M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |
