@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL28736702M-M.jpg
 shelf: read
 owned: false
 start_date: 1997-06-15
-finished_date: 1997-06-15
+end_date: 1997-06-15
 rating: 
 recommended_by: 
 created: 2025-06-16
@@ -23,10 +23,10 @@ created: 2025-06-16
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28736702M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 1997-06-15T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 1997-06-15T00:00:00.000+01:00 |
 | Rating | /5 |
 
