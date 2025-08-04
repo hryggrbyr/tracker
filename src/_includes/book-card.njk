@@ -18,9 +18,9 @@
 	{% if book.frontmatter.shelf == 'reading' and book.frontmatter.start_date %}
 		<p>I started reading this on {{ book.frontmatter.start_date | humanReadableDate }}</p>
 	{% endif %}
-	{% if book.frontmatter.shelf == 'read' and book.frontmatter.finished_date %}
+	{% if book.frontmatter.shelf == 'read' and book.frontmatter.end_date %}
 		<p>
-			I finished this on {{ book.frontmatter.finished_date | humanReadableDate }}
+			I finished this on {{ book.frontmatter.end_date | humanReadableDate }}
 			{% if book.frontmatter.rating %}
 				and I gave it {{ book.frontmatter.rating }} stars out of 5
 			{% endif %}
