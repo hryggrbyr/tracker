@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL7829271M-M.jpg
 shelf: read
 owned: true
 start_date: 2021-01-16
-finished_date: 2021-02-19
+end_date: 2021-02-19
 rating: 4
 recommended_by: 
 created: 2021-01-15
@@ -23,10 +23,10 @@ created: 2021-01-15
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7829271M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 2021-01-16T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2021-02-19T00:00:00.000+00:00 |
 | Rating | 4/5 |
 
