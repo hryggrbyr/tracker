@@ -19,7 +19,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL39610101M-M.jpg
 shelf: read
 owned: true
 start_date: 2025-07-04
-finished_date: 2025-07-14
+end_date: 2025-07-14
 rating: 3
 recommended_by: 
 created: 2025-07-05
@@ -29,10 +29,10 @@ created: 2025-07-05
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL39610101M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | crime,scandinoir,iceland,police,DrugSmuggling,lgbt |
 | Started | 2025-07-04T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 2025-07-14T00:00:00.000+01:00 |
 | Rating | 3/5 |
 
