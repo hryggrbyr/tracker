@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL7826592M-M.jpg
 shelf: read
 owned: true
 start_date: 2001-02-02
-finished_date: 2001-02-02
+end_date: 2001-02-02
 rating: 5
 recommended_by: 
 created: 2020-04-22
@@ -27,10 +27,10 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7826592M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | fantasy,magic,wizards,dragons |
 | Started | 2001-02-02T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2001-02-02T00:00:00.000+00:00 |
 | Rating | 5/5 |
 
