@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date: 
-finished_date: 2011-02-02
+end_date: 2011-02-02
 rating: 5
 recommended_by: 
 created: 
@@ -24,10 +24,10 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | Fantasy |
 | Started |  |
-| Finished |  |
+| Finished | 2011-02-02T00:00:00.000+00:00 |
 | Rating | 5/5 |
 
