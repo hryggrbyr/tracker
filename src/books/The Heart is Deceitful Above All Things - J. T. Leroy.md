@@ -16,7 +16,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL30542176M-M.jpg
 shelf: read
 owned: true
 start_date: 2017-03-12
-finished_date: 2017-03-12
+end_date: 2017-03-12
 rating: 5
 recommended_by: 
 created: 2017-03-12
@@ -26,10 +26,10 @@ created: 2017-03-12
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL30542176M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | thriller,americana,bleak |
 | Started | 2017-03-12T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2017-03-12T00:00:00.000+00:00 |
 | Rating | 5/5 |
 
