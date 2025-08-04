@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL7524261M-M.jpg
 shelf: read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 5
 recommended_by: 
 created: 2020-04-22
@@ -24,7 +24,7 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7524261M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | Sci-Fi Short |
 | Started |  |
