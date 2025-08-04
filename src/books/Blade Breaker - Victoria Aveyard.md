@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL36483032M-M.jpg
 shelf: read
 owned: true
 start_date: 2022-08-07
-finished_date: 2022-09-04
+end_date: 2022-09-04
 rating: 5
 recommended_by: 
 created: 2022-08-07
@@ -23,10 +23,10 @@ created: 2022-08-07
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL36483032M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 2022-08-07T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 2022-09-04T00:00:00.000+01:00 |
 | Rating | 5/5 |
 
