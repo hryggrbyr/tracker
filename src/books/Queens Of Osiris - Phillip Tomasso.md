@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL37777063M-M.jpg
 shelf: read
 owned: true
 start_date: 2024-07-02
-finished_date: 2024-07-16
+end_date: 2024-07-16
 rating: 3
 recommended_by: 
 created: 2024-07-17
@@ -23,10 +23,10 @@ created: 2024-07-17
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL37777063M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 2024-07-02T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 2024-07-16T00:00:00.000+01:00 |
 | Rating | 3/5 |
 
