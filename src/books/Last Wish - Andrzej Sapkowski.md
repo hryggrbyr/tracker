@@ -16,7 +16,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL10426195M-M.jpg
 shelf: read
 owned: false
 start_date: 2019-12-20
-finished_date: 2020-01-01
+end_date: 2020-01-01
 rating: 4
 recommended_by: Netflix
 created: 2020-04-22
@@ -26,10 +26,10 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL10426195M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | fantasy,magic,wizards |
 | Started | 2019-12-20T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2020-01-01T00:00:00.000+00:00 |
 | Rating | 4/5 |
 
