@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date: 2024-10-13
-finished_date: 2024-10-17
+end_date: 2024-10-17
 rating: 
 recommended_by: 
 created: 2024-10-18
@@ -27,10 +27,10 @@ created: 2024-10-18
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | steampunk,pirates,postapocalyptic,england |
 | Started | 2024-10-13T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 2024-10-17T00:00:00.000+01:00 |
 | Rating | /5 |
 
