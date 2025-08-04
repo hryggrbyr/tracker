@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL51643987M-M.jpg
 shelf: read
 owned: true
 start_date: 2025-03-11
-finished_date: 2025-03-18
+end_date: 2025-03-18
 rating: 4
 recommended_by: 
 created: 2025-03-18
@@ -23,10 +23,10 @@ created: 2025-03-18
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL51643987M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 2025-03-11T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2025-03-18T00:00:00.000+00:00 |
 | Rating | 4/5 |
 
