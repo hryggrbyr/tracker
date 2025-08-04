@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL27164919M-M.jpg
 shelf: read
 owned: false
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2021-01-15
@@ -23,7 +23,7 @@ created: 2021-01-15
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27164919M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |
