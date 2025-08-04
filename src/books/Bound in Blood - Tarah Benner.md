@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL54744566M-M.jpg
 shelf: read
 owned: false
 start_date: 2024-12-17
-finished_date: 2024-12-22
+end_date: 2024-12-22
 rating: 4
 recommended_by: 
 created: 2024-12-22
@@ -23,10 +23,10 @@ created: 2024-12-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL54744566M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 2024-12-17T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2024-12-22T00:00:00.000+00:00 |
 | Rating | 4/5 |
 
