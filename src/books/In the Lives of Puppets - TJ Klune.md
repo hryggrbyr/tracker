@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2025-02-19
@@ -24,9 +24,9 @@ created: 2025-02-19
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
-| Genre |  |
+| Genre | lgbt |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

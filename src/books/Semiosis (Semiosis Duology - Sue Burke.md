@@ -1,7 +1,7 @@
 ---
 tags: []
-title: Semiosis (Semiosis Duology
-subtitle: " "
+title: Semiosis
+subtitle: Semiosis Duology
 author:
   - Sue Burke
 publisher: 
@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
 owned: false
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2024-08-09
@@ -23,7 +23,7 @@ created: 2024-08-09
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |

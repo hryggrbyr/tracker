@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL29438703M-M.jpg
 shelf: read
 owned: true
 start_date: 2020-01-01
-finished_date: 2020-01-20
+end_date: 2020-01-20
 rating: 3
 recommended_by: 
 created: 2021-12-18
@@ -27,10 +27,10 @@ created: 2021-12-18
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL29438703M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | thriller,scandinoir,norway,crime |
 | Started | 2020-01-01T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2020-01-20T00:00:00.000+00:00 |
 | Rating | 3/5 |
 

@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL29520358M-M.jpg
 shelf: to-read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2024-10-21
@@ -23,7 +23,7 @@ created: 2024-10-21
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL29520358M-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |

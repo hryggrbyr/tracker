@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL27228453M-M.jpg
 shelf: read
 owned: true
 start_date: 2017-11-02
-finished_date: 2018-02-08
+end_date: 2018-02-08
 rating: 
 recommended_by: 
 created: 2017-11-02
@@ -23,10 +23,10 @@ created: 2017-11-02
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27228453M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 2017-11-02T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2018-02-08T00:00:00.000+00:00 |
 | Rating | /5 |
 

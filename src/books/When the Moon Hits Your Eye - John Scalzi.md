@@ -26,9 +26,7 @@ created: 2025-07-25 10:34:24
 
 
 
-| . | . |
-|---|---|
-| Shelf | to-read |
+| --- | --- |
 | Genre | Fiction |
 | Started |  |
 | Finished |  |

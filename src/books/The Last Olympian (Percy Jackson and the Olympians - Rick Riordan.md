@@ -1,8 +1,12 @@
 ---
 tags:
   - YoungAdult
-title: The Last Olympian (Percy Jackson and the Olympians
-subtitle: " 1"
+  - fantasy
+  - UrbanFantasy
+  - mythology
+  - magic
+title: The Last Olympian
+subtitle: Percy Jackson and the Olympians 1
 author:
   - Rick Riordan
 publisher: Disney Book Group
@@ -14,7 +18,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date: 
-finished_date: 2011-02-02
+end_date: 2011-02-02
 rating: 
 recommended_by: 
 created: 
@@ -24,10 +28,10 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
-| Genre | YoungAdult |
+| Genre | YoungAdult,fantasy,UrbanFantasy,mythology,magic |
 | Started |  |
-| Finished |  |
+| Finished | 2011-02-02T00:00:00.000+00:00 |
 | Rating | /5 |
 

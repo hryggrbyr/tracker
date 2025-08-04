@@ -14,7 +14,7 @@ coverUrl: http://books.google.com/books/content?id=ej_3DwAAQBAJ&printsec=frontco
 shelf: to-read
 owned: false
 start_date: 
-finished_date: 
+end_date: 
 rating: 0
 recommended_by: Robin Rendle, https://robinrendle.com/notes/book-notes/
 created: 2025-07-18 05:08:39
@@ -26,9 +26,7 @@ created: 2025-07-18 05:08:39
 
 
 
-| . | . |
-|---|---|
-| Shelf | to-read |
+| --- | --- |
 | Genre | Design |
 | Started |  |
 | Finished |  |

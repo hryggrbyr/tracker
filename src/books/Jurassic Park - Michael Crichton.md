@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL27254979M-M.jpg
 shelf: read
 owned: false
 start_date: 1995-01-01
-finished_date: 1995-01-01
+end_date: 1995-01-01
 rating: 
 recommended_by: 
 created: 2025-04-25
@@ -23,10 +23,10 @@ created: 2025-04-25
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27254979M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started | 1995-01-01T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 1995-01-01T00:00:00.000+00:00 |
 | Rating | /5 |
 

@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL28026447M-M.jpg
 shelf: read
 owned: true
 start_date: 2021-06-01
-finished_date: 2021-07-19
+end_date: 2021-07-19
 rating: 3
 recommended_by: 
 created: 2021-06-01
@@ -24,10 +24,10 @@ created: 2021-06-01
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28026447M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | Mystery |
 | Started | 2021-06-01T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 2021-07-19T00:00:00.000+01:00 |
 | Rating | 3/5 |
 

@@ -26,9 +26,8 @@ created: 2025-07-27 20:40:08
 
 
 
-| . | . |
-|---|---|
-| Shelf | reading |
+
+| --- | --- |
 | Genre | Fiction |
 | Started | 2025-07-27T00:00:00.000+01:00 |
 | Finished |  |

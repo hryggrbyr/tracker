@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL9836585M-M.jpg
 shelf: read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 3
 recommended_by: 
 created: 2015-10-06
@@ -24,7 +24,7 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL9836585M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | Fiction |
 | Started |  |

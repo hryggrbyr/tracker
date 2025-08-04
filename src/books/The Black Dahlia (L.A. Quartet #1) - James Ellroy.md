@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL24201809M-M.jpg
 shelf: read
 owned: false
 start_date: 
-finished_date: 2002-08-02
+end_date: 2002-08-02
 rating: 
 recommended_by: 
 created: 2024-08-03
@@ -27,6 +27,6 @@ created: 2024-08-03
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
+| Finished | 2002-08-02T00:00:00.000+01:00 |
 | Rating | /5 |
 

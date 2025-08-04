@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL28046359M-M.jpg
 shelf: to-read
 owned: false
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2024-08-27
@@ -23,7 +23,7 @@ created: 2024-08-27
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28046359M-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |

@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL34401770M-M.jpg
 shelf: read
 owned: true
 start_date: 2022-01-05
-finished_date: 2022-08-07
+end_date: 2022-08-07
 rating: 4
 recommended_by: 
 created: 2022-01-05
@@ -27,10 +27,10 @@ created: 2022-01-05
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL34401770M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | crime,scandinoir,iceland,police |
 | Started | 2022-01-05T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2022-08-07T00:00:00.000+01:00 |
 | Rating | 4/5 |
 

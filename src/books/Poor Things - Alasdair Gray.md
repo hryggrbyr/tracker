@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL8662085M-M.jpg
 shelf: to-read
 owned: false
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2024-01-10
@@ -23,7 +23,7 @@ created: 2024-01-10
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL8662085M-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |

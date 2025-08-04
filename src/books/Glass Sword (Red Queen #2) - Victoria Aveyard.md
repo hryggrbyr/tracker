@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL25934733M-M.jpg
 shelf: read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2016-05-06

@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL27983419M-M.jpg
 shelf: to-read
 owned: false
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2023-03-14
@@ -23,7 +23,7 @@ created: 2023-03-14
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27983419M-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |

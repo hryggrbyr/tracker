@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL9720768M-M.jpg
 shelf: read
 owned: false
 start_date: 1992-12-01
-finished_date: 1992-12-24
+end_date: 1992-12-24
 rating: 5
 recommended_by: 
 created: 2023-09-29
@@ -24,10 +24,10 @@ created: 2023-09-29
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL9720768M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | Fiction |
 | Started | 1992-12-01T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 1992-12-24T00:00:00.000+00:00 |
 | Rating | 5/5 |
 

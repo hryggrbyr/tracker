@@ -1,7 +1,7 @@
 ---
 tags: []
-title: Sleepyhead (Tom Thorne
-subtitle: " "
+title: Sleepyhead
+subtitle: A Tom Thorne Novel
 author:
   - Mark Billingham
 publisher: 
@@ -13,17 +13,17 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2015-11-02
 ---
 
-# Sleepyhead (Tom Thorne by Mark Billingham
+# Sleepyhead by Mark Billingham
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |

@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date: 
-finished_date: 2012-08-01
+end_date: 2012-08-01
 rating: 
 recommended_by: 
 created: 2024-08-02
@@ -23,10 +23,10 @@ created: 2024-08-02
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
+| Finished | 2012-08-01T00:00:00.000+01:00 |
 | Rating | /5 |
 

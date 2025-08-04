@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL49628595M-M.jpg
 shelf: to-read
 owned: false
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2024-04-22
@@ -23,7 +23,7 @@ created: 2024-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL49628595M-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |

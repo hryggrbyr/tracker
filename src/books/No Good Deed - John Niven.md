@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL26788450M-M.jpg
 shelf: read
 owned: false
 start_date: 
-finished_date: 
+end_date: 
 rating: 5
 recommended_by: 
 created: 2021-06-01
@@ -23,7 +23,7 @@ created: 2021-06-01
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL26788450M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |

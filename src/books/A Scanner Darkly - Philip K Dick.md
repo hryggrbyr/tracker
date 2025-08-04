@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL8132395M-M.jpg
 shelf: stopped-reading
 owned: true
 start_date: 2023-11-22
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2023-12-20
@@ -24,7 +24,7 @@ created: 2023-12-20
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL8132395M-M.jpg)
 
-| Shelf | stopped-reading |
+
 | --- | --- |
 | Genre | cyberpunk |
 | Started | 2023-11-22T00:00:00.000+00:00 |

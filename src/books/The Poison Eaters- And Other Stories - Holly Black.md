@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL24033592M-M.jpg
 shelf: to-read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 
@@ -24,7 +24,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL24033592M-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre | YoungAdult |
 | Started |  |

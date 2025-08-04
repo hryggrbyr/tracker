@@ -26,9 +26,8 @@ created: 2025-07-25 10:34:04
 
 
 
-| . | . |
-|---|---|
-| Shelf | to-read |
+
+| --- | --- |
 | Genre | Music |
 | Started |  |
 | Finished |  |

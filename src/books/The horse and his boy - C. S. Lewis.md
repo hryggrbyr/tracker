@@ -15,7 +15,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date: 1994-07-01
-finished_date: 1994-07-01
+end_date: 1994-07-01
 rating: 2
 recommended_by: 
 created: 
@@ -25,10 +25,10 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | fantasy,child |
 | Started | 1994-07-01T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 1994-07-01T00:00:00.000+01:00 |
 | Rating | 2/5 |
 
