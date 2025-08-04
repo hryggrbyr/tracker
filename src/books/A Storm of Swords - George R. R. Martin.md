@@ -16,7 +16,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL7829769M-M.jpg
 shelf: read
 owned: true
 start_date: 2008-02-02
-finished_date: 2008-02-02
+end_date: 2008-02-02
 rating: 4
 recommended_by: 
 created: 2015-10-06
@@ -26,10 +26,10 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7829769M-M.jpg)
 
-| Shelf | read |
+
 | --- | --- |
 | Genre | fantasy,dragons,magic |
 | Started | 2008-02-02T00:00:00.000+00:00 |
-| Finished |  |
+| Finished | 2008-02-02T00:00:00.000+00:00 |
 | Rating | 4/5 |
 
