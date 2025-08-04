@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL46938M-M.jpg
 shelf: to-read
 owned: false
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2023-02-10
@@ -23,7 +23,7 @@ created: 2023-02-10
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL46938M-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |
