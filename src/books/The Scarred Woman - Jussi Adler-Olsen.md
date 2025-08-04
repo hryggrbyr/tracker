@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL26925983M-M.jpg
 shelf: to-read
 owned: true
 start_date: 
-finished_date: 
+end_date: 
 rating: 
 recommended_by: 
 created: 2025-07-12
@@ -23,7 +23,7 @@ created: 2025-07-12
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL26925983M-M.jpg)
 
-| Shelf | to-read |
+
 | --- | --- |
 | Genre |  |
 | Started |  |
