@@ -4,7 +4,7 @@ tags:
   - dragons
   - magic
 title: A Game of Thrones
-subtitle: " "
+subtitle: A Song of Ice and Fire 1
 author:
   - George R. R. Martin
 publisher: 
