@@ -1,11 +1,13 @@
 ---
 tags:
-  - child_sf
+  - fantasy
+  - child
+  - ParallelWorlds
 title: "Abarat: The First Book of Hours"
 subtitle: " 1"
 author:
   - Clive Barker
-publisher: "HarperCollins ChildrenÃ¢ÂÂs Books"
+publisher: HarperCollins Childrens Books
 published: 2002-05-15T00:00:00+01:00
 page_count: 
 isbn: 
@@ -26,7 +28,7 @@ created:
 
 
 | --- | --- |
-| Genre | child_sf |
+| Genre | fantasy,child,ParallelWorlds |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
