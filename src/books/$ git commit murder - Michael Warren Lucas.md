@@ -25,7 +25,9 @@ created: 2024-10-19
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_ _
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | thriller,code |
 | Started |  |
