@@ -23,7 +23,9 @@ created: 2025-05-01
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL23150292M-M.jpg)
 
+_Magician 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started | 2025-04-18T00:00:00.000+01:00 |
