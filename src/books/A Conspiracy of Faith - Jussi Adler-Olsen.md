@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Department Q (US) 3_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | Police Procedural |
 | Started |  |
