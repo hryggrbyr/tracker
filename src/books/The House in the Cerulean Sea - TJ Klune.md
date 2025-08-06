@@ -26,7 +26,9 @@ created: 2024-09-21
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27930457M-M.jpg)
 
+_The Cerulean Chronicles 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | UrbanFantasy,lgbt,romance |
 | Started | 2024-08-23T00:00:00.000+01:00 |
