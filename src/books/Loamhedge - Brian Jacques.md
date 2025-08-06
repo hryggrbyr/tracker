@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Redwall 16_
 
+| Shelf | read |
 | --- | --- |
 | Genre | Juvenile Fiction |
 | Started |  |
