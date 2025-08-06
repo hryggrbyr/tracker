@@ -26,7 +26,9 @@ created: 2017-03-12
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL30542176M-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre | thriller,americana,bleak |
 | Started | 2017-03-12T00:00:00.000+00:00 |
