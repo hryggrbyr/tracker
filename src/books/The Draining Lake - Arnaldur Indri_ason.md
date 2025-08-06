@@ -24,7 +24,9 @@ created: 2025-04-26
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL22761534M-M.jpg)
 
+_Kriminalpolis Erlendur Sveinsson 6_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | Fiction:Suspense |
 | Started |  |
