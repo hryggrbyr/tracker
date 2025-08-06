@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Inspector Erlendur: UK Publication Order 1_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | Fiction:Suspense |
 | Started |  |
