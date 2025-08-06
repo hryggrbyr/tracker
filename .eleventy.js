@@ -26,6 +26,7 @@ const humanReadableDate = (value = null, lang = 'en-GB') => {
 module.exports = function (eleventyConfig) {
 
   eleventyConfig.addNunjucksFilter('humanReadableDate', humanReadableDate);
+  eleventyConfig.addPassthroughCopy("./_data/frontmatter.json");
   eleventyConfig.addPassthroughCopy("./src/css");
   eleventyConfig.addWatchTarget("./src/css/");
 
