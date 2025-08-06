@@ -28,7 +28,9 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_The Twilight Saga 3_
 
+| Shelf | read |
 | --- | --- |
 | Genre | UrbanFantasy,fantasy,vampires,werewolf,romance |
 | Started | 2010-07-15T00:00:00.000+01:00 |
