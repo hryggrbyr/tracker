@@ -25,7 +25,9 @@ updated: 2025-07-16 16:17:11
 
 ![Book Cover Art](http://books.google.com/books/content?id=uKKuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
+_An Epic Fantasy Novel With Gods, Dragons and Magic_
 
+| Shelf | read |
 | --- | --- |
 | Genre | Fiction |
 | Started | 2025-03-31T00:00:00.000+01:00 |
