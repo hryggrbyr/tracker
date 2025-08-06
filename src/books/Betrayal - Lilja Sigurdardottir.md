@@ -27,7 +27,9 @@ created: 2022-01-05
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL34401770M-M.jpg)
 
+__
 
+| Shelf | read |
 | --- | --- |
 | Genre | crime,scandinoir,iceland,police |
 | Started | 2022-01-05T00:00:00.000+00:00 |
