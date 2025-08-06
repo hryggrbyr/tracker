@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - vampires
 title: "Vampirates: Demons of the Ocean"
 subtitle: " "
 author:
@@ -25,7 +27,7 @@ created: 2025-04-28
 
 
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,vampires |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
