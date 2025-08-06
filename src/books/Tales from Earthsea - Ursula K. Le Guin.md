@@ -27,7 +27,9 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7524237M-M.jpg)
 
+_Earthsea 5_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,magic,wizards,dragons |
 | Started |  |
