@@ -26,7 +26,9 @@ created: 2021-03-17
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7883162M-M.jpg)
 
+_The Riftwar Saga 3_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,magic,wizards |
 | Started |  |
