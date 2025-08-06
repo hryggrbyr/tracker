@@ -26,7 +26,9 @@ created: 2024-11-07
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre | thriller,crime,prison |
 | Started | 2024-10-31T00:00:00.000+00:00 |
