@@ -24,7 +24,9 @@ created: 2025-02-19
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_ _
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | lgbt |
 | Started |  |
