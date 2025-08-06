@@ -22,6 +22,9 @@ created: 2025-07-12
 # The Purity of Vengeance  (Department Q #4) by Jussi Adler-Olsen
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
+_Department Q 4_
+
+| Shelf | to-read |_Department Q 4_
 
 | Shelf | to-read |
 | --- | --- |
