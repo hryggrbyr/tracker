@@ -22,6 +22,9 @@ created: 2025-07-12
 # Buried (Department Q #5) by Jussi Adler-Olsen
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28414938M-M.jpg)
+_Department Q 5_
+
+| Shelf | to-read |_Department Q 5_
 
 | Shelf | to-read |
 | --- | --- |
