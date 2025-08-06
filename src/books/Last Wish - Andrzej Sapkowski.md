@@ -26,7 +26,9 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL10426195M-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,magic,wizards |
 | Started | 2019-12-20T00:00:00.000+00:00 |
