@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_A Kurt Wallander Mystery 2_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | Mystery |
 | Started |  |
