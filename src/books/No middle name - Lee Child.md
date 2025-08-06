@@ -26,7 +26,9 @@ created: 2018-02-08
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27231044M-M.jpg)
 
+_Jack Reacher_
 
+| Shelf | read |
 | --- | --- |
 | Genre | thriller,crime,ShortStories |
 | Started | 2018-02-08T00:00:00.000+00:00 |
