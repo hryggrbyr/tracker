@@ -22,6 +22,9 @@ created:
 # Red Queen Novella #1 by Victoria Aveyard
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
+_Red Queen 0.1_
+
+| Shelf | to-read |_Red Queen 0.1_
 
 | Shelf | to-read |
 | --- | --- |
