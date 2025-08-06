@@ -69,6 +69,15 @@ jobs:
     - name: Build 11ty site
       run: npm run build
     
+    - name: Copy JSON to public directory
+      run: |
+        if [ -f "src/_data/frontmatter.json" ]; then
+          cp src/_data/frontmatter.json public/frontmatter.json
+          echo "Copied frontmatter.json to public directory"
+        else
+          echo "Warning: src/_data/frontmatter.json not found"
+        fi
+    
     - name: Setup Pages
       uses: actions/configure-pages@v4
       
