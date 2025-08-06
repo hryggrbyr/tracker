@@ -24,7 +24,9 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7524261M-M.jpg)
 
+_ 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | Sci-Fi Short |
 | Started |  |
