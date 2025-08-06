@@ -26,7 +26,9 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7830295M-M.jpg)
 
+_A Song of Ice and Fire 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,dragons,magic |
 | Started | 2008-02-02T00:00:00.000+00:00 |
