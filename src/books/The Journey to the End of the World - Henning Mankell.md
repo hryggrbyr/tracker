@@ -23,7 +23,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Joel Gustafson Stories_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |
