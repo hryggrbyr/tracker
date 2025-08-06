@@ -24,7 +24,9 @@ created: 2023-09-29
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL9720768M-M.jpg)
 
+_ 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | Fiction |
 | Started | 1992-12-01T00:00:00.000+00:00 |
