@@ -26,7 +26,9 @@ created: 2025-01-21
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL38009025M-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre | drama,publishing,crime |
 | Started | 2025-01-11T00:00:00.000+00:00 |
