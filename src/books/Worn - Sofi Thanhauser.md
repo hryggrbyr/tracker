@@ -25,7 +25,9 @@ created: 2025-07-18 05:08:39
 ![Book Cover Art](http://books.google.com/books/content?id=ej_3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 
+_A People's History of Clothing_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | Design |
 | Started |  |
