@@ -27,7 +27,9 @@ created: 2025-08-04 14:55:57
 
 
 
+_A Novel_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | Fiction |
 | Started |  |
