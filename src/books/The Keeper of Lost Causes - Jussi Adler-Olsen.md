@@ -23,7 +23,9 @@ created: 2025-07-12
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL24842474M-M.jpg)
 
+_Department Q 1_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |
