@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - drama
+  - publishing
+  - crime
 title: Yellowface
 subtitle: " "
 author:
@@ -25,7 +28,7 @@ created: 2025-01-21
 
 
 | --- | --- |
-| Genre |  |
+| Genre | drama,publishing,crime |
 | Started | 2025-01-11T00:00:00.000+00:00 |
 | Finished | 2025-01-21T00:00:00.000+00:00 |
 | Rating | 4/5 |

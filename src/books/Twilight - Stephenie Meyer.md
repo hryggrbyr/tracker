@@ -1,6 +1,10 @@
 ---
 tags:
-  - Fiction
+  - UrbanFantasy
+  - fantasy
+  - vampires
+  - werewolf
+  - romance
 title: Twilight
 subtitle: The Twilight Saga 1
 author:
@@ -26,7 +30,7 @@ created:
 
 
 | --- | --- |
-| Genre | Fiction |
+| Genre | UrbanFantasy,fantasy,vampires,werewolf,romance |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

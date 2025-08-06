@@ -1,13 +1,11 @@
 ---
-tags:
-  - fantasy
-  - vampires
-title: "Vampirates: Demons of the Ocean"
-subtitle: " "
+tags: []
+title: Yesterday's Spy
+subtitle: ""
 author:
-  - Justin Somper
-publisher: 
-published: 
+  - Len Deighton
+publisher: Harcourt Brace Jovanovich
+published: 1975-01-01T01:00:00+01:00
 page_count: 
 isbn: 
 description: ""
@@ -18,16 +16,16 @@ start_date:
 end_date: 
 rating: 
 recommended_by: 
-created: 2025-04-28
+created: 
 ---
 
-# Vampirates: Demons of the Ocean by Justin Somper
+# Yesterday's Spy by Len Deighton
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
 
 | --- | --- |
-| Genre | fantasy,vampires |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

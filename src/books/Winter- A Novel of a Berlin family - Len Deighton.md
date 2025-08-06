@@ -1,13 +1,13 @@
 ---
 tags:
-  - fantasy
-  - vampires
-title: "Vampirates: Demons of the Ocean"
-subtitle: " "
+  - thriller
+  - espionage
+title: "Winter: A Novel of a Berlin family"
+subtitle: ""
 author:
-  - Justin Somper
-publisher: 
-published: 
+  - Len Deighton
+publisher: New York Knopf
+published: 1987-11-12T00:00:00+01:00
 page_count: 
 isbn: 
 description: ""
@@ -18,16 +18,16 @@ start_date:
 end_date: 
 rating: 
 recommended_by: 
-created: 2025-04-28
+created: 
 ---
 
-# Vampirates: Demons of the Ocean by Justin Somper
+# Winter: A Novel of a Berlin family by Len Deighton
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
 
 | --- | --- |
-| Genre | fantasy,vampires |
+| Genre | thriller,espionage |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
