@@ -1,7 +1,9 @@
 ---
 tags:
+  - fantasy
   - dystopia
   - YoungAdult
+  - romance
 title: The Hunger Games
 subtitle: The Hunger Games 1
 author:
@@ -14,8 +16,8 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL22549594M-M.jpg
 shelf: read
 owned: true
-start_date: 
-end_date: 
+start_date: 2011-09-06
+end_date: 2011-09-27
 rating: 3
 recommended_by: 
 created: 2015-10-06
@@ -27,8 +29,8 @@ created: 2015-10-06
 
 
 | --- | --- |
-| Genre | dystopia,YoungAdult |
-| Started |  |
-| Finished |  |
+| Genre | fantasy,dystopia,YoungAdult,romance |
+| Started | 2011-09-06T00:00:00.000+01:00 |
+| Finished | 2011-09-27T00:00:00.000+01:00 |
 | Rating | 3/5 |
 
