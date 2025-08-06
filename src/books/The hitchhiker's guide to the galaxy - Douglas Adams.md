@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_The Hitchhiker's Guide to the Galaxy 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | sci-fi |
 | Started |  |
