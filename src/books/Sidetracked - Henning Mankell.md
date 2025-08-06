@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Kurt Wallander 5_
 
+| Shelf | read |
 | --- | --- |
 | Genre | Mystery |
 | Started |  |
