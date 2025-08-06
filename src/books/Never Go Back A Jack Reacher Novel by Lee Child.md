@@ -25,7 +25,9 @@ created: 2024-08-21
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL26841788M-M.jpg)
 
+_A Jack Reacher Novel_
 
+| Shelf | read |
 | --- | --- |
 | Genre | thriller,crime |
 | Started | 2016-08-01T00:00:00.000+01:00 |
