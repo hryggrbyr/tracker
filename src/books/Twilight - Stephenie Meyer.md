@@ -17,11 +17,11 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
-start_date: 
-end_date: 
-rating: 
+start_date: 2009-12-01
+end_date: 2009-12-14
+rating: 5
 recommended_by: 
-created: 
+created: 2008-12-01
 ---
 
 # Twilight by Stephenie Meyer
@@ -31,7 +31,7 @@ created:
 
 | --- | --- |
 | Genre | UrbanFantasy,fantasy,vampires,werewolf,romance |
-| Started |  |
-| Finished |  |
-| Rating | /5 |
+| Started | 2009-12-01T00:00:00.000+00:00 |
+| Finished | 2009-12-14T00:00:00.000+00:00 |
+| Rating | 5/5 |
 
