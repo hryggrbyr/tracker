@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Bernard Samson 6_
 
+| Shelf | read |
 | --- | --- |
 | Genre | [object Object] |
 | Started |  |
