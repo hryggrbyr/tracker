@@ -28,7 +28,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Percy Jackson and the Olympians 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | YoungAdult,fantasy,UrbanFantasy,mythology,magic |
 | Started |  |
