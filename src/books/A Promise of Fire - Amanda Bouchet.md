@@ -27,7 +27,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27213327M-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,romantasy,YoungAdult,romance |
 | Started | 2022-05-13T00:00:00.000+01:00 |
