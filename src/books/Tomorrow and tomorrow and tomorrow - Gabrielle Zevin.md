@@ -26,7 +26,9 @@ created: 2024-08-23
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL47709411M-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre | drama,relationships,software |
 | Started | 2024-08-05T00:00:00.000+01:00 |
