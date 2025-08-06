@@ -27,7 +27,9 @@ created: 2021-12-18
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL29438703M-M.jpg)
 
+_The Selma Falck Series 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | thriller,scandinoir,norway,crime |
 | Started | 2020-01-01T00:00:00.000+00:00 |
