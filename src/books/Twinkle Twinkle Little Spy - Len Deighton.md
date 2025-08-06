@@ -25,7 +25,9 @@ created: 2024-09-13
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL17340484M-M.jpg)
 
+__
 
+| Shelf | read |
 | --- | --- |
 | Genre | thriller,espionage |
 | Started |  |
