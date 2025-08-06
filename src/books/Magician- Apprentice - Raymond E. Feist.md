@@ -23,7 +23,9 @@ created: 2021-01-15
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7829271M-M.jpg)
 
+_The Riftwar Saga 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started | 2021-01-16T00:00:00.000+00:00 |
