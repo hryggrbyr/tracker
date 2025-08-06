@@ -24,7 +24,9 @@ created: 2021-06-01
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28026447M-M.jpg)
 
+_Kurt Wallander 6_
 
+| Shelf | read |
 | --- | --- |
 | Genre | Mystery |
 | Started | 2021-06-01T00:00:00.000+01:00 |
