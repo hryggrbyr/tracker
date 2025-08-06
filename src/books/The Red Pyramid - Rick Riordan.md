@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_The Kane Chronicles 1_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | YoungAdult |
 | Started |  |
