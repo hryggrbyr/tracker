@@ -23,7 +23,9 @@ created: 2019-08-02
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Red Queen 0_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |
