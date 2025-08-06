@@ -23,7 +23,9 @@ created: 2024-08-03
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL34366096M-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started |  |

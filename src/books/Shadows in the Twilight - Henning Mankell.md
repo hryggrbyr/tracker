@@ -26,7 +26,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Joel Gustafsson 2_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | crime,scandinoir,YoungAdult |
 | Started |  |

@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Bernard Samson 4_
 
+| Shelf | read |
 | --- | --- |
 | Genre | espionage |
 | Started |  |

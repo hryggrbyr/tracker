@@ -26,7 +26,9 @@ created: 2024-10-30
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL51579259M-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre | UrbanFantasy,fantasy,demons |
 | Started | 2024-10-18T00:00:00.000+01:00 |

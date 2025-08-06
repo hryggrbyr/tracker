@@ -27,7 +27,9 @@ created: 2024-10-18
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre | steampunk,pirates,postapocalyptic,england |
 | Started | 2024-10-13T00:00:00.000+01:00 |

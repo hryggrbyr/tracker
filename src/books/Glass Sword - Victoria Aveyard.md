@@ -22,6 +22,9 @@ created: 2016-05-06
 # Glass Sword (Red Queen #2) by Victoria Aveyard
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL25934733M-M.jpg)
+_Red Queen 2_
+
+| Shelf | read |_Red Queen 2_
 
 | Shelf | read |
 | --- | --- |

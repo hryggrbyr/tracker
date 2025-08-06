@@ -22,6 +22,9 @@ created: 2024-08-03
 # The Black Dahlia (L.A. Quartet #1) by James Ellroy
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL24201809M-M.jpg)
+_LA Quartet 1_
+
+| Shelf | read |_LA Quartet 1_
 
 | Shelf | read |
 | --- | --- |

@@ -25,7 +25,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Tales From Verania 1_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | romance,lgbt |
 | Started |  |

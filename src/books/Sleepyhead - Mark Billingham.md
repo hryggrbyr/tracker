@@ -23,7 +23,9 @@ created: 2015-11-02
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_A Tom Thorne Novel_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |

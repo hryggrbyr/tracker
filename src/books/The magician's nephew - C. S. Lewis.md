@@ -25,7 +25,9 @@ created: 1994-07-01
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Chronicles of Narnia: Chronological order 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,child |
 | Started | 1994-07-01T00:00:00.000+01:00 |

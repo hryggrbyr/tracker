@@ -27,7 +27,9 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL23026851M-M.jpg)
 
+_Earthsea 2_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,magic,wizards,dragons |
 | Started |  |

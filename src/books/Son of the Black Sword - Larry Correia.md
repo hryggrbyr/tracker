@@ -23,7 +23,9 @@ created: 2024-02-27
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27097432M-M.jpg)
 
+_Saga of the Forgotten Warrior_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |

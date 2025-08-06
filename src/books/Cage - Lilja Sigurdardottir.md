@@ -29,7 +29,9 @@ created: 2022-01-05
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL34739573M-M.jpg)
 
+_The Reykjavik Noir 03_
 
+| Shelf | read |
 | --- | --- |
 | Genre | crime,scandinoir,iceland,police,DrugSmuggling,lgbt |
 | Started | 2025-07-20T00:00:00.000+01:00 |

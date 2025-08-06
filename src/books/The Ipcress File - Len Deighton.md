@@ -25,7 +25,9 @@ created: 2024-08-02
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL18146157M-M.jpg)
 
+_Harry Palmer 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | espionage,thriller |
 | Started | 1993-07-26T00:00:00.000+01:00 |

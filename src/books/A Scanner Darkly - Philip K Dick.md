@@ -24,7 +24,9 @@ created: 2023-12-20
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL8132395M-M.jpg)
 
+_ _
 
+| Shelf | stopped-reading |
 | --- | --- |
 | Genre | cyberpunk |
 | Started | 2023-11-22T00:00:00.000+00:00 |

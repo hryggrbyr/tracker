@@ -24,7 +24,9 @@ created: 2024-08-02
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7883191M-M.jpg)
 
+_Bernard Samson 5_
 
+| Shelf | read |
 | --- | --- |
 | Genre | Mystery |
 | Started |  |

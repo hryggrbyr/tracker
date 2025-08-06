@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Percy Jackson and the Olympians 6_
 
+| Shelf | read |
 | --- | --- |
 | Genre | Fantasy |
 | Started |  |

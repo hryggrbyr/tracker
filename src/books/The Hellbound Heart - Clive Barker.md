@@ -26,7 +26,9 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL24209310M-M.jpg)
 
+_ _
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,horror,ParallelWorlds |
 | Started | 1995-06-02T00:00:00.000+01:00 |

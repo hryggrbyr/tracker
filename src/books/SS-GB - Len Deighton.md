@@ -26,7 +26,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Nazi-occupied Britain 1941_
 
+| Shelf | read |
 | --- | --- |
 | Genre | Fiction,HistoricalFiction,espionage |
 | Started |  |

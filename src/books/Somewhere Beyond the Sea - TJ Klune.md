@@ -25,7 +25,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_The Cerulean Chronicles 2_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | UrbanFantasy,lgbt |
 | Started |  |

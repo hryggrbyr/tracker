@@ -27,7 +27,9 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL8456760M-M.jpg)
 
+_Earthsea 4_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,magic,wizards,dragons |
 | Started |  |

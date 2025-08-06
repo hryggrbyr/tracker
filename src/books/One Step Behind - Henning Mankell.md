@@ -23,7 +23,9 @@ created: 2021-07-19
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL9272839M-M.jpg)
 
+_A Kurt Wallender Mystery_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started | 2021-07-19T00:00:00.000+01:00 |

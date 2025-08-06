@@ -27,7 +27,9 @@ created: 2025-04-19
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28527603M-M.jpg)
 
+_Legend of the Gods 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,wizards,dragons,war |
 | Started | 2025-03-18T00:00:00.000+00:00 |

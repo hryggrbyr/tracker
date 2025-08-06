@@ -23,7 +23,9 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL38804098M-M.jpg)
 
+_Percy Jackson and the Olympians 4_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started |  |

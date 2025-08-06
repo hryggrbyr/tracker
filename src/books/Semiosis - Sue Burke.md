@@ -23,7 +23,9 @@ created: 2024-08-09
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Semiosis Duology_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |

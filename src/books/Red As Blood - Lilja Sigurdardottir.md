@@ -27,7 +27,9 @@ created: 2023-08-17
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL37339698M-M.jpg)
 
+_An Áróra Investigation 02_
 
+| Shelf | read |
 | --- | --- |
 | Genre | crime,scandinoir,iceland,police |
 | Started | 2023-07-24T00:00:00.000+01:00 |

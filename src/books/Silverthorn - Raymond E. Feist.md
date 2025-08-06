@@ -23,7 +23,9 @@ created: 2021-03-17
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7883106M-M.jpg)
 
+_The Riftwar Saga 2_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started |  |

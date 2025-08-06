@@ -26,7 +26,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_The Heroes of Olympus 1_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | mythology,UrbanFantasy,YoungAdult |
 | Started |  |

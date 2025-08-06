@@ -23,7 +23,9 @@ created: 2022-12-17
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28375944M-M.jpg)
 
+_Crow Investigations 2_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started | 2022-11-25T00:00:00.000+00:00 |

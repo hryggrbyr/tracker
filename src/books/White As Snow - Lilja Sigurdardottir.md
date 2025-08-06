@@ -23,7 +23,9 @@ created: 2024-02-08
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL48937389M-M.jpg)
 
+_An Áróra Investigation 03_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started | 2024-01-22T00:00:00.000+00:00 |

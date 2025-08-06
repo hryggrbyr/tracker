@@ -27,7 +27,9 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7826592M-M.jpg)
 
+_Earthsea 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,magic,wizards,dragons |
 | Started | 2001-02-02T00:00:00.000+00:00 |

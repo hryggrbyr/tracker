@@ -23,7 +23,9 @@ created: 2015-11-16
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL33473600M-M.jpg)
 
+_Red Queen 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started | 2015-11-16T00:00:00.000+00:00 |

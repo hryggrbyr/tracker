@@ -24,7 +24,9 @@ created: 2025-07-27 20:40:08
 # The Garden of Delights by Amal Singh
 
 ![Book Cover Art](http://books.google.com/books/content?id=8m_mEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
-| .   | reading |
+| .   | reading |__
+
+| Shelf | reading |
 | --- | --- |
 | Genre | fantasy,magic |
 | Started | 2025-07-27T00:00:00.000+01:00 |

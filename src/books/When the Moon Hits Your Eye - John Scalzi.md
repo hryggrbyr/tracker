@@ -25,7 +25,9 @@ created: 2025-07-25 10:34:24
 ![Book Cover Art](http://books.google.com/books/content?id=Zsz-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 
+_A light-hearted science fiction adventure for fans of Douglas Adams_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | Fiction |
 | Started |  |

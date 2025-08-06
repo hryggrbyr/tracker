@@ -23,7 +23,9 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL24083821M-M.jpg)
 
+_A Percy Jackson and the Olympians Guide_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |

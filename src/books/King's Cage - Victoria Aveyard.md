@@ -23,7 +23,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_Red Queen 3_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started |  |

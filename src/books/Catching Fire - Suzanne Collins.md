@@ -27,7 +27,9 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL22842132M-M.jpg)
 
+_The Hunger Games 2_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,dystopia,YoungAdult,romance |
 | Started | 2011-09-27T00:00:00.000+01:00 |

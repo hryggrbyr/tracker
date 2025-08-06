@@ -27,7 +27,9 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL26811424M-M.jpg)
 
+_Percy Jackson and The Olympians_
 
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,UrbanFantasy,mythology,magic |
 | Started | 2011-02-02T00:00:00.000+00:00 |

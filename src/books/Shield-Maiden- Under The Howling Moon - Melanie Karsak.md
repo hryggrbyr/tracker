@@ -23,7 +23,9 @@ created: 2023-09-05
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL35689255M-M.jpg)
 
+_The Road to Valhalla Book 1_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started | 2023-08-17T00:00:00.000+01:00 |

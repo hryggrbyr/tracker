@@ -29,6 +29,9 @@ created: 2020-04-22
 _The Word for World Is Forest | Five Ways to Forgiveness | The Telling | Stories_
 
 
+_The Word for World Is Forest | Five Ways to Forgiveness | The Telling | Stories_
+
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,anthropology,ShortStories |
 | Started | 2020-04-22T00:00:00.000+01:00 |

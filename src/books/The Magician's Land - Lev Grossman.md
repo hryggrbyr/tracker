@@ -23,7 +23,9 @@ created: 2025-05-23
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL29708536M-M.jpg)
 
+_Magician 3_
 
+| Shelf | read |
 | --- | --- |
 | Genre |  |
 | Started | 2025-05-10T00:00:00.000+01:00 |
