@@ -24,7 +24,9 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_ 6_
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | Fiction |
 | Started |  |
