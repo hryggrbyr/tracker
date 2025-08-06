@@ -1,6 +1,9 @@
 ---
 tags:
   - fantasy
+  - dystopia
+  - YoungAdult
+  - romance
 title: Catching Fire
 subtitle: The Hunger Games 2
 author:
@@ -13,8 +16,8 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL22842132M-M.jpg
 shelf: read
 owned: true
-start_date: 
-end_date: 
+start_date: 2011-09-27
+end_date: 2011-10-19
 rating: 3
 recommended_by: 
 created: 2015-10-06
@@ -26,8 +29,8 @@ created: 2015-10-06
 
 
 | --- | --- |
-| Genre | fantasy |
-| Started |  |
-| Finished |  |
+| Genre | fantasy,dystopia,YoungAdult,romance |
+| Started | 2011-09-27T00:00:00.000+01:00 |
+| Finished | 2011-10-19T00:00:00.000+01:00 |
 | Rating | 3/5 |
 

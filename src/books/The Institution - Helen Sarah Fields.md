@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - thriller
+  - crime
+  - prison
 title: The Institution
 subtitle: " "
 author:
@@ -25,7 +28,7 @@ created: 2024-11-07
 
 
 | --- | --- |
-| Genre |  |
+| Genre | thriller,crime,prison |
 | Started | 2024-10-31T00:00:00.000+00:00 |
 | Finished | 2024-11-07T00:00:00.000+00:00 |
 | Rating | 3/5 |
