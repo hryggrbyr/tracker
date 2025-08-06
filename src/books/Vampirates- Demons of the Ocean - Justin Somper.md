@@ -25,7 +25,9 @@ created: 2025-04-28
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
+_ _
 
+| Shelf | to-read |
 | --- | --- |
 | Genre | fantasy,vampires |
 | Started |  |
