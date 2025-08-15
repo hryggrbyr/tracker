@@ -20,7 +20,7 @@ recommended_by: Alice at Wallflower Digest
 created: 2024-08-27
 ---
 
-# Convenience Store Woman by Ginny Tapley Takemori
+# Convenience Store Woman by Sayaka Murata
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28719876M-M.jpg)
 
