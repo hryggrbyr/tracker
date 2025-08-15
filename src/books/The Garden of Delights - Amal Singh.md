@@ -2,6 +2,8 @@
 tags:
   - fantasy
   - magic
+  - politics
+  - Religon
 title: The Garden of Delights
 subtitle: ""
 author:
@@ -17,7 +19,7 @@ owned: true
 start_date: 2025-07-27
 end_date: 
 rating: 0
-recommended_by: 
+recommended_by: Bookbub
 created: 2025-07-27 20:40:08
 ---
 
@@ -28,7 +30,7 @@ created: 2025-07-27 20:40:08
 
 | Shelf | reading |
 | --- | --- |
-| Genre | fantasy,magic |
+| Genre | fantasy,magic,politics,Religon |
 | Started | 2025-07-27T00:00:00.000+01:00 |
 | Finished |  |
 | Rating | /5 |
