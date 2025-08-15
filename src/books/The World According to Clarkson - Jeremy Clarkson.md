@@ -26,7 +26,10 @@ created: 2025-08-06 08:33:24
 
 _The World According to Clarkson Volume 1_
 
-| &nbsp; | read | 
+
+| &nbsp; | read | _The World According to Clarkson Volume 1_
+
+| Shelf | read |
 | --- | --- |
 | Genre | Humor |
 | Started | 2005-12-25T00:00:00.000+00:00 |
