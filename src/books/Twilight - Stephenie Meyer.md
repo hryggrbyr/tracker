@@ -11,17 +11,17 @@ author:
   - Stephenie Meyer
 publisher: Thorndike Press
 published: 2009-03-15T08:00:00+01:00
-page_count: 
-isbn: 
+page_count:
+isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
-shelf: read
+shelf: reading
 owned: true
 start_date: 2009-12-01
 end_date: 2009-12-14
 rating: 5
-recommended_by: 
-created: 2008-12-01
+recommended_by:
+created: 2009-12-01
 ---
 
 # Twilight by Stephenie Meyer
@@ -30,7 +30,7 @@ created: 2008-12-01
 
 _The Twilight Saga 1_
 
-| Shelf | read |
+| Shelf | reading |
 | --- | --- |
 | Genre | UrbanFantasy,fantasy,vampires,werewolf,romance |
 | Started | 2009-12-01T00:00:00.000+00:00 |
