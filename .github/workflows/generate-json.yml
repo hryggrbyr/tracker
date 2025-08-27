@@ -71,11 +71,11 @@ jobs:
     
     - name: Copy JSON to public directory
       run: |
-        if [ -f "src/_data/frontmatter.json" ]; then
-          cp src/_data/frontmatter.json public/frontmatter.json
-          echo "Copied frontmatter.json to public directory"
+        if [ -f "src/_data/books.json" ]; then
+          cp src/_data/books.json public/books.json
+          echo "Copied books.json to public directory"
         else
-          echo "Warning: src/_data/frontmatter.json not found"
+          echo "Warning: src/_data/books.json not found"
         fi
     
     - name: Setup Pages
