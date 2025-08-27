@@ -57,7 +57,7 @@ jobs:
           fs.mkdirSync('src/_data', { recursive: true });
         }
         
-        fs.writeFileSync('src/_data/frontmatter.json', JSON.stringify(results, null, 2));
+        fs.writeFileSync('src/_data/books.json', JSON.stringify(results, null, 2));
         console.log(`Generated JSON with ${results.length} entries`);
         EOF
         
