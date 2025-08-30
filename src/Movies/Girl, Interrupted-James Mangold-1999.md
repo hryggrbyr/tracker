@@ -12,9 +12,10 @@ genre:
   - Biography
   - Drama
 length: 127
-shelf:
+shelf: watched
 owned:
 rating:
+watched: 1999-12-31
 poster: https://m.media-amazon.com/images/M/MV5BZWVhYzdiMTQtMzJkMC00YWEwLTkyNDEtNzkwMGQ3NTBhMzExXkEyXkFqcGc@._V1_SX300.jpg
 url: N/A
 ---

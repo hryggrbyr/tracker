@@ -16,6 +16,7 @@ length: N/A
 shelf: watchlist
 owned: false
 rating:
+watched:
 poster: https://m.media-amazon.com/images/M/MV5BNjE1NDk0NmYtM2FiNS00MDkwLWI4NTgtNTNjY2YyOWYyMzgxXkEyXkFqcGc@._V1_SX300.jpg
 url:
   "{ Website }":
