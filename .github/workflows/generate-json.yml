@@ -9,6 +9,11 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: false
+
+# Global environment variables for content types
+env:
+  CONTENT_TYPES: "Books Movies Series"
+
 jobs:
   build-and-deploy:
     environment:
@@ -27,7 +32,9 @@ jobs:
     - name: Install dependencies
       run: npm install gray-matter glob
     
-    - name: Generate JSON
+    - name: Generate JSON files
+      env:
+        CONTENT_TYPES: ${{ env.CONTENT_TYPES }}
       run: |
         cat > generate-json.js << 'EOF'
         const fs = require('fs');
@@ -35,30 +42,81 @@ jobs:
         const matter = require('gray-matter');
         const glob = require('glob');
         
-        const markdownFiles = glob.sync('src/books/*.md');
-        const results = [];
+        // Get content types from environment variable or use defaults
+        const contentTypeNames = process.env.CONTENT_TYPES ? 
+          process.env.CONTENT_TYPES.split(' ') : 
+          ['books', 'movies', 'series'];
         
-        markdownFiles.forEach(file => {
-          try {
-            const content = fs.readFileSync(file, 'utf8');
-            const { data } = matter(content);
-            
-            results.push({
-              filename: path.basename(file),
-              path: file,
-              frontmatter: data
-            });
-          } catch (error) {
-            console.error(`Error processing ${file}:`, error);
-          }
-        });
+        // Configuration for different content types
+        const contentTypes = contentTypeNames.map(name => ({
+          name: name,
+          sourceDir: `src/${name}`
+        }));
         
+        console.log('Content types:', contentTypes.map(ct => ct.name).join(', '));
+        
+        // Reusable function to process markdown files
+        function processMarkdownFiles(sourceDir, outputName) {
+          const pattern = `${sourceDir}/*.md`;
+          const markdownFiles = glob.sync(pattern);
+          const results = [];
+          
+          console.log(`Processing ${outputName}: Found ${markdownFiles.length} files in ${sourceDir}`);
+          
+          markdownFiles.forEach(file => {
+            try {
+              const content = fs.readFileSync(file, 'utf8');
+              const { data, content: markdownContent } = matter(content);
+              
+              const result = {
+                filename: path.basename(file),
+                path: file,
+                slug: path.basename(file, '.md'),
+                frontmatter: data
+              };
+              
+              // Optional: Include excerpt or full content if needed
+              // result.content = markdownContent;
+              // result.excerpt = markdownContent.split('\n').slice(0, 3).join('\n');
+              
+              results.push(result);
+            } catch (error) {
+              console.error(`Error processing ${file}:`, error);
+            }
+          });
+          
+          return results;
+        }
+        
+        // Create output directory if it doesn't exist
         if (!fs.existsSync('src/_data')) {
           fs.mkdirSync('src/_data', { recursive: true });
         }
         
-        fs.writeFileSync('src/_data/books.json', JSON.stringify(results, null, 2));
-        console.log(`Generated JSON with ${results.length} entries`);
+        // Process each content type
+        contentTypes.forEach(({ name, sourceDir }) => {
+          const results = processMarkdownFiles(sourceDir, name);
+          const outputPath = `src/_data/${name}.json`;
+          
+          fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
+          console.log(`Generated ${outputPath} with ${results.length} entries`);
+        });
+        
+        // Generate a combined index of all content types
+        const combinedIndex = {};
+        contentTypes.forEach(({ name }) => {
+          const filePath = `src/_data/${name}.json`;
+          if (fs.existsSync(filePath)) {
+            const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+            combinedIndex[name] = {
+              count: data.length,
+              items: data
+            };
+          }
+        });
+        
+        fs.writeFileSync('src/_data/index.json', JSON.stringify(combinedIndex, null, 2));
+        console.log('Generated combined index.json');
         EOF
         
         node generate-json.js
@@ -69,14 +127,37 @@ jobs:
     - name: Build 11ty site
       run: npm run build
     
-    - name: Copy JSON to public directory
+    - name: Copy JSON files to public directory
+      env:
+        CONTENT_TYPES: ${{ env.CONTENT_TYPES }}
       run: |
-        if [ -f "src/_data/books.json" ]; then
-          cp src/_data/books.json public/books.json
-          echo "Copied books.json to public directory"
-        else
-          echo "Warning: src/_data/books.json not found"
-        fi
+        mkdir -p public/api
+        
+        # Convert environment variable to array
+        IFS=' ' read -ra content_types <<< "$CONTENT_TYPES"
+        
+        echo "Processing content types: ${content_types[*]}"
+        
+        # Copy all JSON files to API directory
+        for json_file in src/_data/*.json; do
+          if [ -f "$json_file" ]; then
+            filename=$(basename "$json_file")
+            cp "$json_file" "public/api/$filename"
+            echo "Copied $filename to public/api/"
+          fi
+        done
+        
+        # Copy individual content type files to root level for backwards compatibility
+        for content_type in "${content_types[@]}"; do
+          if [ -f "src/_data/${content_type}.json" ]; then
+            cp "src/_data/${content_type}.json" "public/${content_type}.json"
+            echo "Copied ${content_type}.json to root level"
+          else
+            echo "Warning: ${content_type}.json not found, skipping"
+          fi
+        done
+        
+        echo "All JSON files copied successfully"
     
     - name: Setup Pages
       uses: actions/configure-pages@v4

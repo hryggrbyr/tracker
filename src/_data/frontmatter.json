@@ -361,6 +361,61 @@
     }
   },
   {
+    "filename": "Winter's Bone-Debra Granik-2010.md",
+    "path": "src/books/Winter's Bone-Debra Granik-2010.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Winter's Bone",
+      "year": 2010,
+      "director": "Debra Granik",
+      "actors": [
+        "Jennifer Lawrence",
+        "John Hawkes",
+        "Garret Dillahunt"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "length": 100,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA0OTM3MDMxNF5BMl5BanBnXkFtZTcwMDY1MjI0Mw@@._V1_SX300.jpg",
+      "url": "N/A"
+    }
+  },
+  {
+    "filename": "Will Grayson Will Grayson - John Green David Levithan.md",
+    "path": "src/books/Will Grayson Will Grayson - John Green David Levithan.md",
+    "frontmatter": {
+      "tags": [
+        "Juvenile Fiction"
+      ],
+      "title": "Will Grayson, Will Grayson",
+      "subtitle": "",
+      "author": [
+        "John Green",
+        "David Levithan"
+      ],
+      "publisher": "Penguin UK",
+      "published": "2012-05-31T00:00:00.000Z",
+      "page_count": 352,
+      "isbn": "0141346124 9780141346120",
+      "description": "The New York Times bestselling novel from John Green, the author of multi-million bestseller The Fault in Our Stars, and David Levithan. One cold night, in a most unlikely corner of Chicago, Will Grayson crosses paths with . . . Will Grayson. Two guys with the same name, running in two very different circles, suddenly find their lives going in new and unexpected directions, and culminating in epic turns-of-heart and the most fabulous musical ever to grace the high-school stage. Told in alternating voices from two award-winning authors - John Green (author of The Fault in Our Stars) and David Levithan (author of Boy Meets Boy) - this unique collaborative novel features a double helping of the heart and humour that has won both authors legions of fans. 'Funny, rude and original' - New York Times Book Review 'Will have readers simultaneously laughing, crying and singing at the top of their lungs' - Kirkus Reviews 'This novel has serious buzz' - Entertainment Weekly",
+      "coverUrl": "http://books.google.com/books/content?id=HHDAs8tS4sUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "2016-05-06T00:00:00.000Z",
+      "end_date": "2016-05-22T00:00:00.000Z",
+      "rating": 2,
+      "recommended_by": null,
+      "created": "2016-05-06T00:00:00.000Z"
+    }
+  },
+  {
     "filename": "Will Grayson - John Green.md",
     "path": "src/books/Will Grayson - John Green.md",
     "frontmatter": {
@@ -667,6 +722,33 @@
     }
   },
   {
+    "filename": "Warm Bodies - Isaac Marion.md",
+    "path": "src/books/Warm Bodies - Isaac Marion.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Warm Bodies",
+      "subtitle": "A Novel",
+      "author": [
+        "Isaac Marion"
+      ],
+      "publisher": "Simon and Schuster",
+      "published": "2012-12-25T00:00:00.000Z",
+      "page_count": 259,
+      "isbn": "147671746X 9781476717463",
+      "description": "Alienated from his fellow zombies because of his dislike of having to kill humans and his enjoyment of Sinatra music, R meets a living girl who sharply contrasts with his cold and dreary world and whom he resolves to protect in spite of her delicious appearance.",
+      "coverUrl": "http://books.google.com/books/content?id=S4Rt16aKwZYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "2012-12-25T00:00:00.000Z",
+      "end_date": "2012-12-31T00:00:00.000Z",
+      "rating": 4,
+      "recommended_by": null,
+      "created": "2025-08-06T19:30:40.000Z"
+    }
+  },
+  {
     "filename": "War Storm - Victoria Aveyard.md",
     "path": "src/books/War Storm - Victoria Aveyard.md",
     "frontmatter": {
@@ -853,21 +935,23 @@
     "filename": "Veronika Decides to Die - Paulo Coelho.md",
     "path": "src/books/Veronika Decides to Die - Paulo Coelho.md",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "Fiction"
+      ],
       "title": "Veronika Decides to Die",
-      "subtitle": " ",
+      "subtitle": "A Novel of Redemption",
       "author": [
         "Paulo Coelho"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL24371474M-M.jpg",
+      "publisher": "Harper Collins",
+      "published": "2009-03-17T00:00:00.000Z",
+      "page_count": 241,
+      "isbn": "0061835439 9780061835438",
+      "description": "“A highly original, moving, and ultimately life-affirming book.” – Sunday Mirror (London) Twenty-four-year-old Veronika seems to have everything – youth and beauty, boyfriends and a loving family, a fulfilling job. But something is missing in her life. So, one cold November morning. She takes a handful of sleeping pills expecting to never wake up. But she does—at a mental hospital where she is told that she has only days to live. Inspired by events in Coelho’s own life, Veronika Decides to Die questions the meaning of madness and celebrates individuals who do not fit into patterns society considers to be normal. Bold and illuminating, it is a dazzling portrait of a young woman at the crossroads of despair and liberation, and a poetic, exuberant appreciation of each day as a renewed opportunity.",
+      "coverUrl": "http://books.google.com/books/content?id=u2-IuWjVqFwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": false,
-      "start_date": null,
+      "start_date": "2014-08-10T00:00:00.000Z",
       "end_date": "2014-08-17T00:00:00.000Z",
       "rating": 4,
       "recommended_by": null,
@@ -1052,13 +1136,13 @@
       "isbn": null,
       "description": "",
       "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-      "shelf": "read",
+      "shelf": "reading",
       "owned": true,
       "start_date": "2009-12-01T00:00:00.000Z",
       "end_date": "2009-12-14T00:00:00.000Z",
       "rating": 5,
       "recommended_by": null,
-      "created": "2008-12-01T00:00:00.000Z"
+      "created": "2009-12-01T00:00:00.000Z"
     }
   },
   {
@@ -1772,6 +1856,35 @@
     }
   },
   {
+    "filename": "The Woman in the Wall-2023–2024.md",
+    "path": "src/books/The Woman in the Wall-2023–2024.md",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "The Woman in the Wall",
+      "year": "2023–2024",
+      "director": "N/A",
+      "actors": [
+        "Ruth Wilson",
+        "Daryl McCormack",
+        "Simon Delaney"
+      ],
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "length": "N/A",
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjE1NDk0NmYtM2FiNS00MDkwLWI4NTgtNTNjY2YyOWYyMzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "url": {
+        "{ Website }": null
+      }
+    }
+  },
+  {
     "filename": "The Wind's Twelve Quarters - Ursula K. Le Guin.md",
     "path": "src/books/The Wind's Twelve Quarters - Ursula K. Le Guin.md",
     "frontmatter": {
@@ -1923,6 +2036,36 @@
       "rating": null,
       "recommended_by": null,
       "created": "2025-01-09T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "The Virgin Suicides - Jeffrey Eugenides.md",
+    "path": "src/books/The Virgin Suicides - Jeffrey Eugenides.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction",
+        "suicide",
+        "DarkHumour",
+        "ComingOfAge"
+      ],
+      "title": "The Virgin Suicides",
+      "subtitle": "A Novel (Twenty-Fifth Anniversary Edition)",
+      "author": [
+        "Jeffrey Eugenides"
+      ],
+      "publisher": "Farrar, Straus and Giroux",
+      "published": "1993-04-01T00:00:00.000Z",
+      "page_count": 260,
+      "isbn": "1429960442 9781429960441",
+      "description": "The national bestseller from Jeffrey Eugenides, the Pulitzer Prize–Winning Author of Middlesex and The Marriage Plot With a New Introduction by Emma Cline Adapted into a critically acclaimed film by Sofia Coppola, The Virgin Suicides is a modern classic, a lyrical and timeless tale of sex and suicide that transforms and mythologizes suburban middle-American life. First published in 1993, The Virgin Suicides announced the arrival of a major new American novelist. In a quiet suburb of Detroit, the five Lisbon sisters—beautiful, eccentric, and obsessively watched by the neighborhood boys—commit suicide one by one over the course of a single year. As the boys observe them from afar, transfixed, they piece together the mystery of the family's fatal melancholy, in this hypnotic and unforgettable novel of adolescent love, disquiet, and death. Jeffrey Eugenides evokes the emotions of youth with haunting sensitivity and dark humor and creates a coming-of-age story unlike any of our time.",
+      "coverUrl": "http://books.google.com/books/content?id=Pf1xhp6u-w0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": null,
+      "created": "2025-08-17T06:42:41.000Z"
     }
   },
   {
@@ -3179,6 +3322,33 @@
     }
   },
   {
+    "filename": "The Plague Dogs - Richard Adams.md",
+    "path": "src/books/The Plague Dogs - Richard Adams.md",
+    "frontmatter": {
+      "tags": [
+        "Juvenile Fiction"
+      ],
+      "title": "The Plague Dogs",
+      "subtitle": "",
+      "author": [
+        "Richard Adams"
+      ],
+      "publisher": "Simon and Schuster",
+      "published": "2015-09-03T00:00:00.000Z",
+      "page_count": 568,
+      "isbn": "1780747926 9781780747927",
+      "description": "Two dogs, Snitter and Rowf, escape from a research laboratory in the Lake District where it is wrongly supposed they have been purposely infected with a deadly virus and now pose a dangerous threat to the human population. As the authorities give chase, the two friends make their way through the hills and across the moors, along the way learning to survive on their wits and finding friendship and help from a fox they encounter. They dream of finding their original owners and a safe haven - but the hunt is on. A lyrical and engrossing tale, The Plague Dogs is a remarkable journey into the hearts and minds of two canine heroes.",
+      "coverUrl": "http://books.google.com/books/content?id=Wh29DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": null,
+      "created": "2025-08-06T19:32:37.000Z"
+    }
+  },
+  {
     "filename": "The Pearl King - Sarah Painter.md",
     "path": "src/books/The Pearl King - Sarah Painter.md",
     "frontmatter": {
@@ -3284,6 +3454,31 @@
     }
   },
   {
+    "filename": "The Ninth Gate-Roman Polanski-1999.md",
+    "path": "src/books/The Ninth Gate-Roman Polanski-1999.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "France, Spain, United States",
+      "title": "The Ninth Gate",
+      "year": 1999,
+      "director": "Roman Polanski",
+      "actors": [
+        "Johnny Depp",
+        "Frank Langella",
+        "Lena Olin"
+      ],
+      "genre": [
+        "Mystery",
+        "Thriller"
+      ],
+      "length": 133,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTQ2ODM2NjktMzJjMC00MWJiLWI2MjMtMzhiOTFmMzc1ZDUyXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "The Night Raven - Sarah Painter.md",
     "path": "src/books/The Night Raven - Sarah Painter.md",
     "frontmatter": {
@@ -3306,6 +3501,35 @@
       "rating": 5,
       "recommended_by": null,
       "created": "2021-04-22T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "The Nevers-2021–2023.md",
+    "path": "src/books/The Nevers-2021–2023.md",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom, United States",
+      "title": "The Nevers",
+      "year": "2021–2023",
+      "director": "N/A",
+      "actors": [
+        "Laura Donnelly",
+        "Ann Skelly",
+        "Olivia Williams"
+      ],
+      "genre": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "length": 58,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGJmNDY4YjItZjlmMC00ODE0LTk2NjgtNWFiODA0NDhlYWVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "url": {
+        "{ Website }": null
+      }
     }
   },
   {
@@ -3408,6 +3632,33 @@
       "rating": 3,
       "recommended_by": null,
       "created": "2024-08-03T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "The Midnight Library - Matt Haig.md",
+    "path": "src/books/The Midnight Library - Matt Haig.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Midnight Library",
+      "subtitle": "The No.1 Sunday Times bestseller and worldwide phenomenon",
+      "author": [
+        "Matt Haig"
+      ],
+      "publisher": "Canongate Books",
+      "published": "2020-08-13T00:00:00.000Z",
+      "page_count": 324,
+      "isbn": "1786892715 9781786892713",
+      "description": "* New novel THE LIFE IMPOSSIBLE available now * THE SUNDAY TIMES NUMBER ONE BESTSELLING WORLDWIDE PHENOMENON READERS' MOST LOVED BOOK OF 2021 WINNER OF THE GOODREADS CHOICE AWARD FOR FICTION 'BEAUTIFUL' Jodi Picoult, 'UPLIFTING' i, 'BRILLIANT' Daily Mail, 'AMAZING' Joanna Cannon, 'ABSORBING' New York Times, 'THOUGHT-PROVOKING' Independent Nora's life has been going from bad to worse. Then at the stroke of midnight on her last day on earth she finds herself transported to a library. There she is given the chance to undo her regrets and try out each of the other lives she might have lived. Which raises the ultimate question: with infinite choices, what is the best way to live?",
+      "coverUrl": "http://books.google.com/books/content?id=M53SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": null,
+      "created": "2025-08-17T06:55:42.000Z"
     }
   },
   {
@@ -3758,6 +4009,31 @@
       "rating": 3,
       "recommended_by": null,
       "created": "2015-10-06T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "The Lost Boys-Joel Schumacher-1987.md",
+    "path": "src/books/The Lost Boys-Joel Schumacher-1987.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "The Lost Boys",
+      "year": 1987,
+      "director": "Joel Schumacher",
+      "actors": [
+        "Jason Patric",
+        "Corey Haim",
+        "Dianne Wiest"
+      ],
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "length": 97,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NzljMDQtMWYxMS00ZDIxLTkwY2ItMjZhMzIzNjQ4NDNkXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -4772,6 +5048,32 @@
     }
   },
   {
+    "filename": "The Goonies-Richard Donner-1985.md",
+    "path": "src/books/The Goonies-Richard Donner-1985.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "The Goonies",
+      "year": 1985,
+      "director": "Richard Donner",
+      "actors": [
+        "Sean Astin",
+        "Josh Brolin",
+        "Jeff Cohen"
+      ],
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "length": 114,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE1OWU4ODEtZmEzMC00NTcwLWFlMWUtYjhlNzExOTIxYzVlXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "The God Killers - David Simpson.md",
     "path": "src/books/The God Killers - David Simpson.md",
     "frontmatter": {
@@ -4927,7 +5229,9 @@
     "frontmatter": {
       "tags": [
         "fantasy",
-        "magic"
+        "magic",
+        "politics",
+        "Religon"
       ],
       "title": "The Garden of Delights",
       "subtitle": "",
@@ -4940,12 +5244,12 @@
       "isbn": "1787589102 9781787589100",
       "description": "Amal Singh is an engaging and motivated writer from Mumbai, India, with a long list of short story credits in Clarkesworld, F&SF, Apex, Fantasy and many others. In the city of Sirvassa, where petals are currency and flowers are magic, the Caretaker tends to the Garden of Delights. He imparts temporary magical abilities to the citizens of Sirvassa, while battling a curse of eternal old age. No Delight could uplift his curse, and so he must seek out a mythical figure. A god. When a Delight allows a young girl an ability to change reality, the Caretaker believes he’s at the end of his search. But soon a magical rot takes root in his Garden, and the Caretaker must join forces with the girl and stop it from spreading. Even as he battles a different rot that plagues Sirvassa, he learns that Delights are always a precursor to Sorrows. FLAME TREE PRESS is the imprint of long-standing Independent Flame Tree Publishing, dedicated to full-length original fiction in the horror and suspense, science fiction & fantasy, and crime / mystery / thriller categories. The list brings together fantastic new authors and the more established; the award winners, and exciting, original voices. Learn more about Flame Tree Press at www.flametreepress.com and connect on social media @FlameTreePress.",
       "coverUrl": "http://books.google.com/books/content?id=8m_mEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "shelf": "reading",
+      "shelf": "read",
       "owned": true,
       "start_date": "2025-07-27T00:00:00.000Z",
-      "end_date": null,
-      "rating": 0,
-      "recommended_by": null,
+      "end_date": "2025-08-20T00:00:00.000Z",
+      "rating": 5,
+      "recommended_by": "Bookbub",
       "created": "2025-07-27T20:40:08.000Z"
     }
   },
@@ -4997,6 +5301,32 @@
       "rating": 4,
       "recommended_by": null,
       "created": "2015-10-06T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "The Firm-Sydney Pollack-1993.md",
+    "path": "src/books/The Firm-Sydney Pollack-1993.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "The Firm",
+      "year": 1993,
+      "director": "Sydney Pollack",
+      "actors": [
+        "Tom Cruise",
+        "Jeanne Tripplehorn",
+        "Gene Hackman"
+      ],
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "length": 154,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE3ZDZkMWMtY2RkMC00YzJjLWFhYTUtYmRjMzAyMzEwZDE5XkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -5390,6 +5720,32 @@
     }
   },
   {
+    "filename": "The Crow-Alex Proyas-1994.md",
+    "path": "src/books/The Crow-Alex Proyas-1994.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "The Crow",
+      "year": 1994,
+      "director": "Alex Proyas",
+      "actors": [
+        "Brandon Lee",
+        "Michael Wincott",
+        "Rochelle Davis"
+      ],
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "length": 102,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTBiNzhkZTItZWUwZS00YTJkLTg0YTEtN2I0ZDI5ODI2MWFjXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "The Crow Road - Iain M. Banks.md",
     "path": "src/books/The Crow Road - Iain M. Banks.md",
     "frontmatter": {
@@ -5652,18 +6008,20 @@
     "filename": "The Book of Doors - Gareth Brown.md",
     "path": "src/books/The Book of Doors - Gareth Brown.md",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "Fiction"
+      ],
       "title": "The Book of Doors",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Gareth Brown"
       ],
-      "publisher": "HarperCollins",
-      "published": "2023-12-27T00:00:00.000Z",
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL50624803M-M.jpg",
+      "publisher": "William Morrow",
+      "published": "2024-02-13T00:00:00.000Z",
+      "page_count": 0,
+      "isbn": "0063323982 9780063323988",
+      "description": "A debut novel full of magic, adventure, and romance, The Book of Doors opens up a thrilling world of contemporary fantasy for readers of The Midnight Library, The Invisible Life of Addie Larue, The Night Circus, and any modern story that mixes the wonder of the unknown with just a tinge of darkness. Cassie Andrews works in a New York City bookshop, shelving books, making coffee for customers, and living an unassuming, ordinary life. Until the day one of her favorite customers--a lonely yet charming old man--dies right in front of her. Cassie is devastated. She always loved his stories, and now she has nothing to remember him by. Nothing but the last book he was reading. But this is no ordinary book... It is the Book of Doors. Inscribed with enigmatic words and mysterious drawings, it promises Cassie that any door is every door. You just need to know how to open them. Then she's approached by a gaunt stranger in a rumpled black suit with a Scottish brogue who calls himself Drummond Fox. He's a librarian who keeps watch over a unique set of rare volumes. The tome now in Cassie's possession is not the only book with great power, but it is the one most coveted by those who collect them. Now Cassie is being hunted by those few who know of the Special Books. With only her roommate Izzy to confide in, she has to decide if she will help the mysterious and haunted Drummond protect the Book of Doors--and the other books in his secret library's care--from those who will do evil. Because only Drummond knows where the unique library is and only Cassie's book can get them there. But there are those willing to kill to obtain those secrets. And a dark force--in the form of a shadowy, sadistic woman--is at the very top of that list.",
+      "coverUrl": "http://books.google.com/books/content?id=UJ_wzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": true,
       "start_date": "2025-06-02T00:00:00.000Z",
@@ -5699,6 +6057,33 @@
     }
   },
   {
+    "filename": "The Blind Assassin - Margaret Atwood.md",
+    "path": "src/books/The Blind Assassin - Margaret Atwood.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Blind Assassin",
+      "subtitle": "",
+      "author": [
+        "Margaret Atwood"
+      ],
+      "publisher": "Hachette UK",
+      "published": "2009-09-03T00:00:00.000Z",
+      "page_count": 483,
+      "isbn": "0748113347 9780748113347",
+      "description": "BY THE BESTSELLING AUTHOR OF THE HANDMAID'S TALE AND THE TESTAMENTS WINNER OF THE 2000 MAN BOOKER PRIZE 'Ten days after the war ended, my sister Laura drove a car off a bridge' Decades after Laura's mysterious demise, her sister Iris recounts her memories of their childhood, and of the dramatic deaths that have punctuated their wealthy, eccentric family's history. Intertwined with Iris's story are chapters from the scandalous novel that made Laura famous, in which two unnamed lovers meet secretly in rented rooms and seedy cafés, themselves writing a pulp fantasy novel of a blind killer on a distant planet. As these stories-within-stories twist and turn through love and jealousy, self-sacrifice and betrayal, so does the real narrative, as all move closer to catastrophe in a brilliant and astonishing final twist. By turns lyrical, outrageous, formidable, compelling and funny, this is a novel filled with deep humour and dark drama.",
+      "coverUrl": "http://books.google.com/books/content?id=4WcFyY8ZEgkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "2015-10-06T00:00:00.000Z",
+      "end_date": "2015-10-16T00:00:00.000Z",
+      "rating": 3,
+      "recommended_by": null,
+      "created": "2015-10-06T00:00:00.000Z"
+    }
+  },
+  {
     "filename": "The Black Dahlia - James Ellroy.md",
     "path": "src/books/The Black Dahlia - James Ellroy.md",
     "frontmatter": {
@@ -5721,6 +6106,33 @@
       "rating": null,
       "recommended_by": null,
       "created": "2024-08-03T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "The Binding - Bridget Collins.md",
+    "path": "src/books/The Binding - Bridget Collins.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Binding",
+      "subtitle": "",
+      "author": [
+        "Bridget Collins"
+      ],
+      "publisher": "HarperCollins UK",
+      "published": "2019-01-07T00:00:00.000Z",
+      "page_count": 481,
+      "isbn": "0008272131 9780008272135",
+      "description": "*PRE-ORDER YOUR COPY OF BRIDGET COLLINS' STUNNING NEW NOVEL, THE NAKED LIGHT* LOSE YOURSELF IN THE BREAKOUT SENSATION OF THE YEAR SHORTLISTED FOR WATERSTONES BOOK OF THE YEAR 2019 ‘Spellbinding’ Guardian ‘Magic’ Erin Kelly ‘Immersive’ Sunday Times ‘Astounding’ Anna Mazzola",
+      "coverUrl": "http://books.google.com/books/content?id=XgRYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": true,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": null,
+      "created": "2025-08-11T21:31:52.000Z"
     }
   },
   {
@@ -5876,6 +6288,33 @@
       "rating": null,
       "recommended_by": null,
       "created": "2022-12-22T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "The Alchemist - 10th Anniversary Edition - Paulo Coelho.md",
+    "path": "src/books/The Alchemist - 10th Anniversary Edition - Paulo Coelho.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Alchemist - 10th Anniversary Edition",
+      "subtitle": "",
+      "author": [
+        "Paulo Coelho"
+      ],
+      "publisher": "Harper Collins",
+      "published": "2009-10-13T00:00:00.000Z",
+      "page_count": 196,
+      "isbn": "0061741248 9780061741241",
+      "description": "\"My heart is afraid that it will have to suffer,\" the boy told the alchemist one night as they looked up at the moonless sky. \"Tell your heart that the fear of suffering is worse than the suffering itself. And that no heart has ever suffered when it goes in search of its dreams.\" Every few decades a book is published that changes the lives of its readers forever. The Alchemist is such a book. With over a million and a half copies sold around the world, The Alchemist has already established itself as a modern classic, universally admired. Paulo Coelho's charming fable, now available in English for the first time, will enchant and inspire an even wider audience of readers for generations to come. The Alchemist is the magical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure as extravagant as any ever found. From his home in Spain he journeys to the markets of Tangiers and across the Egyptian desert to a fateful encounter with the alchemist. The story of the treasures Santiago finds along the way teaches us, as only a few stories have done, about the essential wisdom of listening to our hearts, learning to read the omens strewn along life's path, and, above all, following our dreams.",
+      "coverUrl": "http://books.google.com/books/content?id=FEL8DlqjYEkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": null,
+      "created": "2025-08-17T06:35:36.000Z"
     }
   },
   {
@@ -6395,6 +6834,84 @@
     }
   },
   {
+    "filename": "Star Wars Episode VI - Return of the Jedi-Richard Marquand-1983.md",
+    "path": "src/books/Star Wars Episode VI - Return of the Jedi-Richard Marquand-1983.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Star Wars Episode VI - Return of the Jedi",
+      "year": 1983,
+      "director": "Richard Marquand",
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "length": 131,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Star Wars Episode V - The Empire Strikes Back-Irvin Kershner-1980.md",
+    "path": "src/books/Star Wars Episode V - The Empire Strikes Back-Irvin Kershner-1980.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Star Wars Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "director": "Irvin Kershner",
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "length": 124,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Star Wars Episode IV - A New Hope-George Lucas-1977.md",
+    "path": "src/books/Star Wars Episode IV - A New Hope-George Lucas-1977.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Star Wars Episode IV - A New Hope",
+      "year": 1977,
+      "director": "George Lucas",
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "length": 121,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Spy Sinker - Len Deighton.md",
     "path": "src/books/Spy Sinker - Len Deighton.md",
     "frontmatter": {
@@ -6475,6 +6992,33 @@
       "rating": 3,
       "recommended_by": null,
       "created": null
+    }
+  },
+  {
+    "filename": "Spirited Away-Hayao Miyazaki-2001.md",
+    "path": "src/books/Spirited Away-Hayao Miyazaki-2001.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "Japan, United States",
+      "title": "Spirited Away",
+      "year": 2001,
+      "director": "Hayao Miyazaki",
+      "actors": [
+        "Daveigh Chase",
+        "Suzanne Pleshette",
+        "Miyu Irino"
+      ],
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "length": 124,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "url": "N/A"
     }
   },
   {
@@ -6687,6 +7231,32 @@
       "rating": null,
       "recommended_by": null,
       "created": "2015-11-02T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Sleepy Hollow-Tim Burton-1999.md",
+    "path": "src/books/Sleepy Hollow-Tim Burton-1999.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, Germany, United Kingdom",
+      "title": "Sleepy Hollow",
+      "year": 1999,
+      "director": "Tim Burton",
+      "actors": [
+        "Johnny Depp",
+        "Christina Ricci",
+        "Miranda Richardson"
+      ],
+      "genre": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "length": 105,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWIwMTIxZTQtNDZhNS00ZDZlLTg5MTEtOTNkMmNjOGUzMTA1XkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -6941,6 +7511,32 @@
       "rating": null,
       "recommended_by": null,
       "created": null
+    }
+  },
+  {
+    "filename": "Sid and Nancy-Alex Cox-1986.md",
+    "path": "src/books/Sid and Nancy-Alex Cox-1986.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United Kingdom",
+      "title": "Sid and Nancy",
+      "year": 1986,
+      "director": "Alex Cox",
+      "actors": [
+        "Gary Oldman",
+        "Chloe Webb",
+        "David Hayman"
+      ],
+      "genre": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "length": 112,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGY1NTc0M2MtY2UxOS00OTllLTk1NjItZWIwOWE2OTUzYjdiXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -7228,6 +7824,33 @@
     }
   },
   {
+    "filename": "Scenes from a Tragedy - Carole Hailey.md",
+    "path": "src/books/Scenes from a Tragedy - Carole Hailey.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Scenes from a Tragedy",
+      "subtitle": "",
+      "author": [
+        "Carole Hailey"
+      ],
+      "publisher": "Atlantic Books",
+      "published": "2025-03-06T00:00:00.000Z",
+      "page_count": 381,
+      "isbn": "1805461559 9781805461555",
+      "description": "'COMPULSIVE AS HELL' ABIGAIL DEAN If you hurt me, I'll hurt you. Not right away of course, because where's the fun in that? When an empty passenger plane mysteriously crashes in the Lake District, journalist Carly Atherton is determined to get to the truth of what happened - the love of her life was one of the two pilots on board. But when she contacts the family of the other pilot, the conflicting memories of his wife and his sister draw her into a story far darker than she could possibly have imagined. As Carly delves into the dynamics of a seemingly ordinary family, she realises that the bonds that shape us can also tear us apart - and that sometimes there are monsters living among us, hiding in plain sight... 'MASTERFUL' JANICE HALLETT 'EXTRAORDINARY' JENNIE GODFREY",
+      "coverUrl": "http://books.google.com/books/content?id=nn0TEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": true,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": null,
+      "created": "2025-08-13T15:40:58.000Z"
+    }
+  },
+  {
     "filename": "Scale - Greg Egan.md",
     "path": "src/books/Scale - Greg Egan.md",
     "frontmatter": {
@@ -7482,6 +8105,32 @@
     }
   },
   {
+    "filename": "Romper Stomper-Geoffrey Wright-1992.md",
+    "path": "src/books/Romper Stomper-Geoffrey Wright-1992.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "Australia",
+      "title": "Romper Stomper",
+      "year": 1992,
+      "director": "Geoffrey Wright",
+      "actors": [
+        "Russell Crowe",
+        "Daniel Pollock",
+        "Jacqueline McKenzie"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "length": 94,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODUxYmUxZDUtZTA4Yi00NDY0LWI3NGUtODk1YjAwMzAxYTg4XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Rogue - Danielle Steel.md",
     "path": "src/books/Rogue - Danielle Steel.md",
     "frontmatter": {
@@ -7529,6 +8178,33 @@
       "rating": null,
       "recommended_by": null,
       "created": "2023-10-31T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Roar of the Lambs - Jamison Shea.md",
+    "path": "src/books/Roar of the Lambs - Jamison Shea.md",
+    "frontmatter": {
+      "tags": [
+        "Young Adult Fiction"
+      ],
+      "title": "Roar of the Lambs",
+      "subtitle": "",
+      "author": [
+        "Jamison Shea"
+      ],
+      "publisher": "Henry Holt Books For Young Readers",
+      "published": "2025-08-26T00:00:00.000Z",
+      "page_count": 0,
+      "isbn": "1250381738 9781250381736",
+      "description": "If you knew the world was ending, who would you save? And would they let you? Sixteen-year-old Winnie Bray is a liar. As the resident psychic at an oddities shop, Winnie truly can see the future. But her customers only want reassurance, and Winnie only wants their money. Favorable fortunes are a fast track to funding her way out of Buffalo, New York for good, after all. But all of that changes when a vision sends her stalking in the remains of her family home that burned down in a fire 10 years ago. Among the ash and rubble, Winnie finds a box made of bone, untouched by flames and...whispering. At the touch of her finger, the box shows her a vision of death, chaos, and apocalypse, with her and rich kids Apollo and Cyrus Rathbun at the center. Apollo knows their cousin is up to no good, and with the Rathbun family scattered to the wind, they know Cyrus is aiming to present himself as the new patriarch. Despite an initial attraction, Apollo is reluctant to believe Winnie. But soon it becomes clear that their family histories are intertwined, with the whispering, hungry box at the very center, and more than their lives are on the line. Together, they must discover the origins of the box and stop unforeseen forces from fulfilling the apocalyptic prophecy, or die trying. From the author of I Feed Her to the Beast and the Beast is Me comes a speculative thriller about the ties that bind us to places and people, perfect for fans of Andrew Joseph White and Tochi Onyebuchi.",
+      "coverUrl": "http://books.google.com/books/content?id=eaxQEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": "Jamison Shea",
+      "created": "2025-08-26T21:08:39.000Z"
     }
   },
   {
@@ -7918,6 +8594,31 @@
     }
   },
   {
+    "filename": "Raiders of the Lost Ark-Steven Spielberg-1981.md",
+    "path": "src/books/Raiders of the Lost Ark-Steven Spielberg-1981.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "director": "Steven Spielberg",
+      "actors": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman"
+      ],
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "length": 115,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Rage - Stephen King.md",
     "path": "src/books/Rage - Stephen King.md",
     "frontmatter": {
@@ -8195,6 +8896,110 @@
       "rating": null,
       "recommended_by": null,
       "created": "2021-07-19T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Pirates of the Caribbean The Curse of the Black Pearl-Gore Verbinski-2003.md",
+    "path": "src/books/Pirates of the Caribbean The Curse of the Black Pearl-Gore Verbinski-2003.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Pirates of the Caribbean The Curse of the Black Pearl",
+      "year": 2003,
+      "director": "Gore Verbinski",
+      "actors": [
+        "Johnny Depp",
+        "Geoffrey Rush",
+        "Orlando Bloom"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "length": 143,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Pirates of the Caribbean On Stranger Tides-Rob Marshall-2011.md",
+    "path": "src/books/Pirates of the Caribbean On Stranger Tides-Rob Marshall-2011.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, United Kingdom",
+      "title": "Pirates of the Caribbean On Stranger Tides",
+      "year": 2011,
+      "director": "Rob Marshall",
+      "actors": [
+        "Johnny Depp",
+        "Penélope Cruz",
+        "Ian McShane"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "length": 136,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Pirates of the Caribbean Dead Man's Chest-Gore Verbinski-2006.md",
+    "path": "src/books/Pirates of the Caribbean Dead Man's Chest-Gore Verbinski-2006.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Pirates of the Caribbean Dead Man's Chest",
+      "year": 2006,
+      "director": "Gore Verbinski",
+      "actors": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Keira Knightley"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "length": 151,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Pirates of the Caribbean At World's End-Gore Verbinski-2007.md",
+    "path": "src/books/Pirates of the Caribbean At World's End-Gore Verbinski-2007.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Pirates of the Caribbean At World's End",
+      "year": 2007,
+      "director": "Gore Verbinski",
+      "actors": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Keira Knightley"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "length": 169,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX300.jpg"
     }
   },
   {
@@ -9138,6 +9943,32 @@
     }
   },
   {
+    "filename": "My Girl-Howard Zieff-1991.md",
+    "path": "src/books/My Girl-Howard Zieff-1991.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "My Girl",
+      "year": 1991,
+      "director": "Howard Zieff",
+      "actors": [
+        "Anna Chlumsky",
+        "Macaulay Culkin",
+        "Dan Aykroyd"
+      ],
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "length": 102,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmI5M2EzZDUtZTBkZS00YWFmLWFhZTMtNjc3YTllZDBhODQ4XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Murder in the Family - Cara Hunter.md",
     "path": "src/books/Murder in the Family - Cara Hunter.md",
     "frontmatter": {
@@ -9623,6 +10454,35 @@
       "rating": null,
       "recommended_by": null,
       "created": null
+    }
+  },
+  {
+    "filename": "Luther-2010–2019.md",
+    "path": "src/books/Luther-2010–2019.md",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "Luther",
+      "year": "2010–2019",
+      "director": "N/A",
+      "actors": [
+        "Idris Elba",
+        "Dermot Crowley",
+        "Michael Smiley"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "length": 1,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmViZjE1MjEtZjRlZC00MWMzLTg0ODItYjI1ODZiNzk5YzBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "url": {
+        "{ Website }": null
+      }
     }
   },
   {
@@ -10187,6 +11047,33 @@
     }
   },
   {
+    "filename": "Katabasis - R F Kuang.md",
+    "path": "src/books/Katabasis - R F Kuang.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Katabasis",
+      "subtitle": "A Novel",
+      "author": [
+        "R. F. Kuang"
+      ],
+      "publisher": "HarperCollins",
+      "published": "2025-08-26T00:00:00.000Z",
+      "page_count": 579,
+      "isbn": "0063021498 9780063021495",
+      "description": "Dante’s Inferno meets Susanna Clarke’s Piranesi in this all-new dark academia fantasy from R. F. Kuang, the #1 New York Times bestselling author of Babel and Yellowface, in which two graduate students must put aside their rivalry and journey to Hell to save their professor’s soul—perhaps at the cost of their own. Katabasis, noun, Ancient Greek: The story of a hero’s descent to the underworld Alice Law has only ever had one goal: to become one of the brightest minds in the field of Magick. She has sacrificed everything to make that a reality: her pride, her health, her love life, and most definitely her sanity. All to work with Professor Jacob Grimes at Cambridge, the greatest magician in the world. That is, until he dies in a magical accident that could possibly be her fault. Grimes is now in Hell, and she’s going in after him. Because his recommendation could hold her very future in his now incorporeal hands and even death is not going to stop the pursuit of her dreams…. Nor will the fact that her rival, Peter Murdoch, has come to the very same conclusion. With nothing but the tales of Orpheus and Dante to guide them, enough chalk to draw the Pentagrams necessary for their spells, and the burning desire to make all the academic trauma mean anything, they set off across Hell to save a man they don’t even like. But Hell is not like the storybooks say, Magick isn’t always the answer, and there’s something in Alice and Peter’s past that could forge them into the perfect allies…or lead to their doom.",
+      "coverUrl": "http://books.google.com/books/content?id=Nlf8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": null,
+      "created": "2025-08-25T19:05:40.000Z"
+    }
+  },
+  {
     "filename": "Kalyna the Soothsayer - Elijah Kinch Spector.md",
     "path": "src/books/Kalyna the Soothsayer - Elijah Kinch Spector.md",
     "frontmatter": {
@@ -10312,6 +11199,33 @@
     }
   },
   {
+    "filename": "Jonathan Livingston Seagull - Richard Bach.md",
+    "path": "src/books/Jonathan Livingston Seagull - Richard Bach.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Jonathan Livingston Seagull",
+      "subtitle": "The Complete Edition",
+      "author": [
+        "Richard Bach"
+      ],
+      "publisher": "Simon and Schuster",
+      "published": "2014-10-21T00:00:00.000Z",
+      "page_count": 144,
+      "isbn": "147679331X 9781476793313",
+      "description": "More concerned with the dynamics of his flight than with gathering food, Jonathan is scorned by the other seagulls.",
+      "coverUrl": "http://books.google.com/books/content?id=0lHRBAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "1989-02-02T00:00:00.000Z",
+      "end_date": "1989-02-02T00:00:00.000Z",
+      "rating": 2,
+      "recommended_by": "My mum",
+      "created": "2025-08-17T06:37:45.000Z"
+    }
+  },
+  {
     "filename": "Johnny Mnemonic - William Gibson.md",
     "path": "src/books/Johnny Mnemonic - William Gibson.md",
     "frontmatter": {
@@ -10434,6 +11348,83 @@
       "rating": null,
       "recommended_by": null,
       "created": null
+    }
+  },
+  {
+    "filename": "Invisible Cities - Italo Calvino.md",
+    "path": "src/books/Invisible Cities - Italo Calvino.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Invisible Cities",
+      "subtitle": "",
+      "author": [
+        "Italo Calvino"
+      ],
+      "publisher": "Random House",
+      "published": "2010-12-14T00:00:00.000Z",
+      "page_count": 162,
+      "isbn": "1446414272 9781446414279",
+      "description": "Fifty-five fictional cities, each described in beautiful detail - each with a woman's name... In Invisible Cities Marco Polo conjures up cities of magical times for his host, the Chinese ruler Kublai Khan, but gradually it becomes clear that he is actually describing one city: Venice. As Gore Vidal wrote 'Of all tasks, describing the contents of a book is the most difficult and in the case of a marvellous invention like Invisible Cities, perfectly irrelevant.' This is a captivating meditation on culture, language, time, memory and the nature of human experience. 'Invisible Cities changed the way we read and what is possible in the balance between poetry and prose... The book I would choose as pillow and plate, alone on a desert island' Jeanette Winterson 'Touches inexhaustibly on the essence of the human urge to create cities, be in cities, speak of cities' Guardian 'A subtle and beautiful meditation' Sunday Times",
+      "coverUrl": "http://books.google.com/books/content?id=E98zchtHZNQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": null,
+      "created": "2025-08-17T06:36:20.000Z"
+    }
+  },
+  {
+    "filename": "Indiana Jones and the Temple of Doom-Steven Spielberg-1984.md",
+    "path": "src/books/Indiana Jones and the Temple of Doom-Steven Spielberg-1984.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, United Kingdom",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984,
+      "director": "Steven Spielberg",
+      "actors": [
+        "Harrison Ford",
+        "Kate Capshaw",
+        "Ke Huy Quan"
+      ],
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "length": 118,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGUwZjZiNWQtYzAzZi00NGI5LWE4YmUtN2Y4YWMwY2RlZDkyXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Indiana Jones and the Last Crusade-Steven Spielberg-1989.md",
+    "path": "src/books/Indiana Jones and the Last Crusade-Steven Spielberg-1989.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, Italy, Spain, United Kingdom, Jordan",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "director": "Steven Spielberg",
+      "actors": [
+        "Harrison Ford",
+        "Sean Connery",
+        "Alison Doody"
+      ],
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "length": 127,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -10616,6 +11607,33 @@
     }
   },
   {
+    "filename": "I Feed Her to the Beast and the Beast Is Me - Jamison Shea.md",
+    "path": "src/books/I Feed Her to the Beast and the Beast Is Me - Jamison Shea.md",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "I Feed Her to the Beast and the Beast Is Me",
+      "subtitle": "",
+      "author": [
+        "Jamison Shea"
+      ],
+      "publisher": "Bonnier Zaffre Ltd.",
+      "published": "2023-08-29T00:00:00.000Z",
+      "page_count": 315,
+      "isbn": "1471414876 9781471414879",
+      "description": "An unforgettable YA debut by Jamison Shea. Ace of Spades meets House of Hollow in a thrilling horror novel about the toll of giving everything to a world that will never love you back. Laure Mesny is determined to make it in the cut-throat world of ballet, and she will do anything to prove that this Black girl can take centre stage. Anything . . . Even if it means entering into a bargain with a primordial power in the Catacombs beneath Paris. Laure is promised influence and adoration - and she gets it. But that alone is not enough, not for the cruel and privileged people who surround her. Her climb to stardom leaves broken bodies in her wake, some of which aren't her doing. As she finds herself deep within this monstrous world, she is faced with the ultimate choice: will she retreat or succumb to the darkness forever? THERE WILL BE BLOOD.",
+      "coverUrl": "http://books.google.com/books/content?id=KzG2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": "Jamison Shea",
+      "created": "2025-08-26T21:07:50.000Z"
+    }
+  },
+  {
     "filename": "I Did It for You - Amy Engel.md",
     "path": "src/books/I Did It for You - Amy Engel.md",
     "frontmatter": {
@@ -10723,6 +11741,33 @@
     }
   },
   {
+    "filename": "Howl's Moving Castle-Hayao Miyazaki-2004.md",
+    "path": "src/books/Howl's Moving Castle-Hayao Miyazaki-2004.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "Japan, United States",
+      "title": "Howl's Moving Castle",
+      "year": 2004,
+      "director": "Hayao Miyazaki",
+      "actors": [
+        "Chieko Baishô",
+        "Takuya Kimura",
+        "Tatsuya Gashûin"
+      ],
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "length": 119,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_SX300.jpg",
+      "url": "N/A"
+    }
+  },
+  {
     "filename": "How Infrastructure Works - Deb Chachra.md",
     "path": "src/books/How Infrastructure Works - Deb Chachra.md",
     "frontmatter": {
@@ -10823,6 +11868,57 @@
     }
   },
   {
+    "filename": "Home Alone-Chris Columbus-1990.md",
+    "path": "src/books/Home Alone-Chris Columbus-1990.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Home Alone",
+      "year": 1990,
+      "director": "Chris Columbus",
+      "actors": [
+        "Macaulay Culkin",
+        "Joe Pesci",
+        "Daniel Stern"
+      ],
+      "genre": [
+        "Comedy",
+        "Family"
+      ],
+      "length": 103,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzNmNmQ2ZDEtMTc1MS00NjNiLThlMGUtZmQxNTg1Nzg5NWMzXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Home Alone 2 Lost in New York-Chris Columbus-1992.md",
+    "path": "src/books/Home Alone 2 Lost in New York-Chris Columbus-1992.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Home Alone 2 Lost in New York",
+      "year": 1992,
+      "director": "Chris Columbus",
+      "actors": [
+        "Macaulay Culkin",
+        "Joe Pesci",
+        "Daniel Stern"
+      ],
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "length": 120,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGEyYzRmNzYtYzJjZi00ZjhlLWJiNDktYzZhNTgxMzc1NThlXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Holiday Haunting at the Biltmore - Eva Pohler.md",
     "path": "src/books/Holiday Haunting at the Biltmore - Eva Pohler.md",
     "frontmatter": {
@@ -10876,24 +11972,26 @@
     "filename": "Hokey Pokey - Kate Mascarenhas.md",
     "path": "src/books/Hokey Pokey - Kate Mascarenhas.md",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "Fiction"
+      ],
       "title": "Hokey Pokey",
-      "subtitle": " ",
+      "subtitle": "",
       "author": [
         "Kate Mascarenhas"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL39551147M-M.jpg",
+      "publisher": "Bloomsbury Publishing",
+      "published": "2023-06-08T00:00:00.000Z",
+      "page_count": 288,
+      "isbn": "1789543843 9781789543841",
+      "description": "'Begins as a compelling psychological mystery [and] turns to the supernatural... A well-plotted, original, nightmare blend of madness and monsters.' Guardian The Regent Hotel in Birmingham is a place of lush glamour, where guests sip absinthe cocktails on velvet banquettes and obliging waiters are always on hand. Yet behind its glittering façade, you might find monsters lurking in the shadows... On a cold February evening, Nora Dickinson checks in. A psychoanalyst with a dubious past, Nora has battled not to let her own demons overcome her. But when a terrible snowstorm cuts The Regent off from the outside world, the entire hotel's grip on reality slips – and the nightmares Nora's worked so hard to control begin to bare their teeth. Kate Mascarenhas's latest novel offers her readers a horrifying ride through murder, madness and the darkest recesses of the mind. 'A delicious piece of art deco Gothic' Natalie Marlow 'Dark, complex and beautifully plotted' Rebecca Netley 'Immersive, unique... with a dark supernatural core' Essie Fox 'An atmospheric, claustrophobic novel... mesmerising' Elizabeth Lee",
+      "coverUrl": "http://books.google.com/books/content?id=5wypEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": true,
       "start_date": "2024-12-23T00:00:00.000Z",
       "end_date": "2025-01-01T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": "Terence Eden",
       "created": "2025-01-01T00:00:00.000Z"
     }
   },
@@ -11284,6 +12382,32 @@
     }
   },
   {
+    "filename": "Girl, Interrupted-James Mangold-1999.md",
+    "path": "src/books/Girl, Interrupted-James Mangold-1999.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, Germany",
+      "title": "Girl, Interrupted",
+      "year": 1999,
+      "director": "James Mangold",
+      "actors": [
+        "Winona Ryder",
+        "Angelina Jolie",
+        "Clea DuVall"
+      ],
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "length": 127,
+      "shelf": null,
+      "owned": null,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWVhYzdiMTQtMzJkMC00YWEwLTkyNDEtNzkwMGQ3NTBhMzExXkEyXkFqcGc@._V1_SX300.jpg",
+      "url": "N/A"
+    }
+  },
+  {
     "filename": "Gideon the Ninth - Tamsyn Muir.md",
     "path": "src/books/Gideon the Ninth - Tamsyn Muir.md",
     "frontmatter": {
@@ -11306,6 +12430,58 @@
       "rating": null,
       "recommended_by": null,
       "created": "2022-12-19T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Ghostbusters-Ivan Reitman-1984.md",
+    "path": "src/books/Ghostbusters-Ivan Reitman-1984.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Ghostbusters",
+      "year": 1984,
+      "director": "Ivan Reitman",
+      "actors": [
+        "Bill Murray",
+        "Dan Aykroyd",
+        "Sigourney Weaver"
+      ],
+      "genre": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "length": 105,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Ghostbusters II-Ivan Reitman-1989.md",
+    "path": "src/books/Ghostbusters II-Ivan Reitman-1989.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Ghostbusters II",
+      "year": 1989,
+      "director": "Ivan Reitman",
+      "actors": [
+        "Bill Murray",
+        "Dan Aykroyd",
+        "Sigourney Weaver"
+      ],
+      "genre": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "length": 108,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZThjODU5NTMtMWJiNC00NjNkLWJmM2YtM2EzNDg3NjMxYjU5XkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -11512,6 +12688,32 @@
       "rating": null,
       "recommended_by": null,
       "created": null
+    }
+  },
+  {
+    "filename": "Fight Club-David Fincher-1999.md",
+    "path": "src/books/Fight Club-David Fincher-1999.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, Germany",
+      "title": "Fight Club",
+      "year": 1999,
+      "director": "David Fincher",
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Meat Loaf"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "length": 139,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -11819,6 +13021,32 @@
     }
   },
   {
+    "filename": "Edward Scissorhands-Tim Burton-1990.md",
+    "path": "src/books/Edward Scissorhands-Tim Burton-1990.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Edward Scissorhands",
+      "year": 1990,
+      "director": "Tim Burton",
+      "actors": [
+        "Johnny Depp",
+        "Winona Ryder",
+        "Dianne Wiest"
+      ],
+      "genre": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "length": 105,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Eclipse - Stephenie Meyer.md",
     "path": "src/books/Eclipse - Stephenie Meyer.md",
     "frontmatter": {
@@ -11847,6 +13075,31 @@
       "rating": 3,
       "recommended_by": null,
       "created": "2015-10-06T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Earthlings - Sayaka Murata.md",
+    "path": "src/books/Earthlings - Sayaka Murata.md",
+    "frontmatter": {
+      "tags": [],
+      "title": "Earthlings",
+      "subtitle": "",
+      "author": [
+        "Sayaka Murata"
+      ],
+      "publisher": null,
+      "published": "2021-07",
+      "page_count": 256,
+      "isbn": "1783785691 9781783785698",
+      "description": "",
+      "coverUrl": "http://books.google.com/books/content?id=6Fs2zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": "Alice at Wallflower Digest",
+      "created": "2025-08-15T20:50:24.000Z"
     }
   },
   {
@@ -12047,6 +13300,33 @@
       "rating": 4,
       "recommended_by": null,
       "created": "2015-11-02T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Don't Look Up-Adam McKay-2021.md",
+    "path": "src/books/Don't Look Up-Adam McKay-2021.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, Canada",
+      "title": "Don't Look Up",
+      "year": 2021,
+      "director": "Adam McKay",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Jennifer Lawrence",
+        "Meryl Streep"
+      ],
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "length": 138,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_SX300.jpg",
+      "url": "N/A"
     }
   },
   {
@@ -12427,6 +13707,31 @@
     }
   },
   {
+    "filename": "Cry-Baby-John Waters-1990.md",
+    "path": "src/books/Cry-Baby-John Waters-1990.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Cry-Baby",
+      "year": 1990,
+      "director": "John Waters",
+      "actors": [
+        "Johnny Depp",
+        "Ricki Lake",
+        "Amy Locane"
+      ],
+      "genre": [
+        "Comedy",
+        "Musical"
+      ],
+      "length": 85,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTQ4ZWM2NzQtOTM0MC00ZTIyLWI3MTEtZWZjN2U5ZDBhOGU1XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Crow Folk - Mark Stay.md",
     "path": "src/books/Crow Folk - Mark Stay.md",
     "frontmatter": {
@@ -12554,13 +13859,14 @@
     }
   },
   {
-    "filename": "Convenience Store Woman - Ginny Tapley Takemori.md",
-    "path": "src/books/Convenience Store Woman - Ginny Tapley Takemori.md",
+    "filename": "Convenience Store Woman -  Sayaka Murata.md",
+    "path": "src/books/Convenience Store Woman -  Sayaka Murata.md",
     "frontmatter": {
       "tags": [],
       "title": "Convenience Store Woman",
       "subtitle": " ",
       "author": [
+        "Sayaka Murata",
         "Ginny Tapley Takemori"
       ],
       "publisher": null,
@@ -12574,7 +13880,7 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": "Alice at Wallflower Digest",
       "created": "2024-08-27T00:00:00.000Z"
     }
   },
@@ -12731,6 +14037,30 @@
     }
   },
   {
+    "filename": "Clerks-Kevin Smith-1994.md",
+    "path": "src/books/Clerks-Kevin Smith-1994.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Clerks",
+      "year": 1994,
+      "director": "Kevin Smith",
+      "actors": [
+        "Brian O'Halloran",
+        "Jeff Anderson",
+        "Marilyn Ghigliotti"
+      ],
+      "genre": [
+        "Comedy"
+      ],
+      "length": 92,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzcwZTU5NzMtMGIxYi00NjRhLThkYTItNjhlYWQ0MjdhYWFmXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "City of Last Chances - Adrian Tchaikovsky.md",
     "path": "src/books/City of Last Chances - Adrian Tchaikovsky.md",
     "frontmatter": {
@@ -12858,6 +14188,32 @@
     }
   },
   {
+    "filename": "Chasing Amy-Kevin Smith-1997.md",
+    "path": "src/books/Chasing Amy-Kevin Smith-1997.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Chasing Amy",
+      "year": 1997,
+      "director": "Kevin Smith",
+      "actors": [
+        "Ben Affleck",
+        "Joey Lauren Adams",
+        "Ethan Suplee"
+      ],
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "length": 113,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWQ5OWQ4NWEtZGJlYy00MzI3LTg5YzItZjVhYjJhYmNkZjM4XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Charmed Life - Diana Wynne Jones.md",
     "path": "src/books/Charmed Life - Diana Wynne Jones.md",
     "frontmatter": {
@@ -12962,6 +14318,33 @@
       "rating": 3,
       "recommended_by": null,
       "created": "2015-10-06T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Castle in the Sky-Hayao Miyazaki-1986.md",
+    "path": "src/books/Castle in the Sky-Hayao Miyazaki-1986.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "Japan",
+      "title": "Castle in the Sky",
+      "year": 1986,
+      "director": "Hayao Miyazaki",
+      "actors": [
+        "Mayumi Tanaka",
+        "Keiko Yokozawa",
+        "Kotoe Hatsui"
+      ],
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "length": 124,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjcyMjg2MzktNjg4YS00MjQzLTg0YWQtMjUyZDk2Y2Y0YzZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "url": "N/A"
     }
   },
   {
@@ -13077,25 +14460,27 @@
     "filename": "Bunny - Mona Awad.md",
     "path": "src/books/Bunny - Mona Awad.md",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "FICTION"
+      ],
       "title": "Bunny",
-      "subtitle": " ",
+      "subtitle": "",
       "author": [
         "Mona Awad"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL28046359M-M.jpg",
+      "publisher": "Viking",
+      "published": 2019,
+      "page_count": 0,
+      "isbn": "0525559736 9780525559733",
+      "description": "Samantha Heather Mackey couldn't be more of an outsider in her small, highly selective MFA program at New England's Warren University. A scholarship student who prefers the company of her dark imagination to that of most people, she is utterly repelled by the rest of her fiction writing cohort--a clique of unbearably twee rich girls who call each other 'Bunny,' and are often found entangled in a group hug so tight they become one. But everything changes when Samantha receives an invitation to the Bunnies' fabled 'Smut Salon,' and finds herself inexplicably drawn to their front door--ditching her only friend, Ava, a caustic art school dropout, in the process. As Samantha plunges deeper and deeper into the sinister yet saccharine world of the Bunny cult and starts to take part in their ritualistic off-campus 'Workshop' where they magically conjure their monstrous creations, the edges of reality begin to blur, and her friendships with Ava and the Bunnies are brought into deadly collision.",
+      "coverUrl": "http://books.google.com/books/content?id=EacrvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "to-read",
       "owned": false,
       "start_date": null,
       "end_date": null,
-      "rating": null,
-      "recommended_by": null,
-      "created": "2024-08-27T00:00:00.000Z"
+      "rating": 0,
+      "recommended_by": "Alive at Wallflower Digest",
+      "created": "2024-08-27T21:09:18.000Z"
     }
   },
   {
@@ -13385,6 +14770,30 @@
     }
   },
   {
+    "filename": "Body in the Bin The MUrder of Louise Kam-NA-2023.md",
+    "path": "src/books/Body in the Bin The MUrder of Louise Kam-NA-2023.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "N/A",
+      "title": "Body in the Bin: The Murder of Louise Kam",
+      "year": 2023,
+      "director": "N/A",
+      "actors": [
+        "N/A"
+      ],
+      "genre": [
+        "Documentary",
+        "crime",
+        "murder"
+      ],
+      "length": 45,
+      "shelf": "watching",
+      "owned": false,
+      "rating": 3,
+      "poster": "N/A"
+    }
+  },
+  {
     "filename": "Blood Ties - Lindsay Buroker.md",
     "path": "src/books/Blood Ties - Lindsay Buroker.md",
     "frontmatter": {
@@ -13465,6 +14874,32 @@
     }
   },
   {
+    "filename": "Benny & Joon-Jeremiah S. Chechik-1993.md",
+    "path": "src/books/Benny & Joon-Jeremiah S. Chechik-1993.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Benny & Joon",
+      "year": 1993,
+      "director": "Jeremiah S. Chechik",
+      "actors": [
+        "Johnny Depp",
+        "Mary Stuart Masterson",
+        "Aidan Quinn"
+      ],
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "length": 98,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGQ4YWUyODMtZjQ2MC00OTI4LWE0MzItZmJkZDc5NDcxN2Y5XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Before the Frost - Henning Mankell.md",
     "path": "src/books/Before the Frost - Henning Mankell.md",
     "frontmatter": {
@@ -13512,6 +14947,185 @@
       "rating": 3,
       "recommended_by": null,
       "created": "2015-10-06T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Batman-Tim Burton-1989.md",
+    "path": "src/books/Batman-Tim Burton-1989.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, United Kingdom",
+      "title": "Batman",
+      "year": 1989,
+      "director": "Tim Burton",
+      "actors": [
+        "Michael Keaton",
+        "Jack Nicholson",
+        "Kim Basinger"
+      ],
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "length": 126,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Batman Returns-Tim Burton-1992.md",
+    "path": "src/books/Batman Returns-Tim Burton-1992.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, United Kingdom",
+      "title": "Batman Returns",
+      "year": 1992,
+      "director": "Tim Burton",
+      "actors": [
+        "Michael Keaton",
+        "Danny DeVito",
+        "Michelle Pfeiffer"
+      ],
+      "genre": [
+        "Action",
+        "Crime",
+        "Fantasy"
+      ],
+      "length": 126,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Batman Forever-Joel Schumacher-1995.md",
+    "path": "src/books/Batman Forever-Joel Schumacher-1995.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, United Kingdom",
+      "title": "Batman Forever",
+      "year": 1995,
+      "director": "Joel Schumacher",
+      "actors": [
+        "Val Kilmer",
+        "Tommy Lee Jones",
+        "Jim Carrey"
+      ],
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "length": 121,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Batman & Robin-Joel Schumacher-1997.md",
+    "path": "src/books/Batman & Robin-Joel Schumacher-1997.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, United Kingdom",
+      "title": "Batman & Robin",
+      "year": 1997,
+      "director": "Joel Schumacher",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "George Clooney",
+        "Chris O'Donnell"
+      ],
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "length": 125,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Back to the Future-Robert Zemeckis-1985.md",
+    "path": "src/books/Back to the Future-Robert Zemeckis-1985.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Back to the Future",
+      "year": 1985,
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ],
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "length": 116,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Back to the Future Part III-Robert Zemeckis-1990.md",
+    "path": "src/books/Back to the Future Part III-Robert Zemeckis-1990.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Mary Steenburgen"
+      ],
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "length": 118,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTNkNzJmY2MtOGNjYi00NDJmLWIyZTQtNmFmMGQ5M2VlOTI0XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Back to the Future Part II-Robert Zemeckis-1989.md",
+    "path": "src/books/Back to the Future Part II-Robert Zemeckis-1989.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ],
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "length": 108,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTNlOTRmOTEtMTAyMi00NjFiLTk3NDMtNWI0YzA3ZTZlYjZiXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -13665,6 +15279,33 @@
     }
   },
   {
+    "filename": "Anora-Sean Baker-2024.md",
+    "path": "src/books/Anora-Sean Baker-2024.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Anora",
+      "year": 2024,
+      "director": "Sean Baker",
+      "actors": [
+        "Mikey Madison",
+        "Paul Weissman",
+        "Yura Borisov"
+      ],
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "length": 139,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "url": "N/A"
+    }
+  },
+  {
     "filename": "An Event in Autumn - Henning Mankell.md",
     "path": "src/books/An Event in Autumn - Henning Mankell.md",
     "frontmatter": {
@@ -13717,6 +15358,35 @@
     }
   },
   {
+    "filename": "Amy Bradley Is Missing-2025.md",
+    "path": "src/books/Amy Bradley Is Missing-2025.md",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "Amy Bradley Is Missing",
+      "year": 2025,
+      "director": "N/A",
+      "actors": [
+        "Erin Cullather",
+        "Sarah Luck",
+        "Iva Bradley"
+      ],
+      "genre": [
+        "Documentary",
+        "Crime",
+        "Mystery"
+      ],
+      "length": "N/A",
+      "shelf": "watching",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzQ2N2MwM2YtOWI0ZC00NDYwLWJiYWItMWQxOWM1ZDA5YmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "url": {
+        "{ Website }": null
+      }
+    }
+  },
+  {
     "filename": "American Psycho - Bret Easton Ellis.md",
     "path": "src/books/American Psycho - Bret Easton Ellis.md",
     "frontmatter": {
@@ -13739,6 +15409,31 @@
       "rating": null,
       "recommended_by": null,
       "created": "2024-09-13T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "American History X-Tony Kaye-1998.md",
+    "path": "src/books/American History X-Tony Kaye-1998.md",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "American History X",
+      "year": 1998,
+      "director": "Tony Kaye",
+      "actors": [
+        "Edward Norton",
+        "Edward Furlong",
+        "Beverly D'Angelo"
+      ],
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "length": 119,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -13868,6 +15563,35 @@
       "rating": 4,
       "recommended_by": null,
       "created": "2020-07-01T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Alice in Borderland-2020–.md",
+    "path": "src/books/Alice in Borderland-2020–.md",
+    "frontmatter": {
+      "type": "series",
+      "country": "Japan",
+      "title": "Alice in Borderland",
+      "year": "2020–",
+      "director": "N/A",
+      "actors": [
+        "Kento Yamazaki",
+        "Tao Tsuchiya",
+        "Nijirô Murakami"
+      ],
+      "genre": [
+        "Action",
+        "Drama",
+        "Horror"
+      ],
+      "length": 50,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGM4OWUwYjUtODA1My00ZjgxLWE5NjQtYTg4MzA2MjQ1NWU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "url": {
+        "{ Website }": null
+      }
     }
   },
   {
