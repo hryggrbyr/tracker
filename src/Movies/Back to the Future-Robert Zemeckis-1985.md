@@ -16,6 +16,7 @@ length: 116
 shelf: watched
 owned: false
 rating:
+watched: 1985-12-31
 poster: https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
