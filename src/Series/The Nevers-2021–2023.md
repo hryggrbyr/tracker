@@ -16,6 +16,7 @@ length: 58
 shelf: watchlist
 owned: false
 rating:
+watched:
 poster: https://m.media-amazon.com/images/M/MV5BNGJmNDY4YjItZjlmMC00ODE0LTk2NjgtNWFiODA0NDhlYWVmXkEyXkFqcGc@._V1_SX300.jpg
 url:
   "{ Website }":
