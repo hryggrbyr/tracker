@@ -1,26 +1,29 @@
 ---
-type: movie
-country: United Kingdom
+type: Movie
+country: GB
 title: Hellraiser
 year: 1987
 director: Clive Barker
 actors:
-  - Andrew Robinson
   - Clare Higgins
   - Ashley Laurence
+  - Sean Chapman
+  - Oliver Smith
+  - Andrew Robinson
 genre:
   - Horror
   - Thriller
-length: 94
+  - Fantasy
+length: 1h 34m
 shelf: watched
 owned: false
 rating:
-watched: 1987-12-31
-poster: https://m.media-amazon.com/images/M/MV5BZGI4MzkzNzQtYjA3MC00ZjE1LWI0NWUtMDdjNWQ3OTgxZTkwXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1987-09-18
+poster: https://image.tmdb.org/t/p/w500/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg
 ---
 
 # Hellraiser (1987)
 
-![](https://m.media-amazon.com/images/M/MV5BZGI4MzkzNzQtYjA3MC00ZjE1LWI0NWUtMDdjNWQ3OTgxZTkwXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg)
 
-A woman discovers the newly resurrected, partially formed, body of her brother-in-law and lover. She starts killing for him to revitalize his body and escape the demonic beings that are pursuing him after he escaped their underworld.
+Hedonist Frank Cotton finds a mysterious puzzle box that summons the Cenobites, who open the doors to a dominion where pain and pleasure are indivisible.
