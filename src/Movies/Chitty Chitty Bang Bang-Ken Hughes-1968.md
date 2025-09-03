@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United Kingdom, United States, France
+type: Movie
+country: US, GB
 title: Chitty Chitty Bang Bang
 year: 1968
 director: Ken Hughes
@@ -8,20 +8,24 @@ actors:
   - Dick Van Dyke
   - Sally Ann Howes
   - Lionel Jeffries
+  - Gert Fröbe
+  - Anna Quayle
 genre:
-  - Adventure
   - Family
+  - Music
+  - Adventure
   - Fantasy
-length: 144
+  - Comedy
+length: 2h 24m
 shelf: watched
 owned: false
-rating: 4
-watched: 1968-12-31
-poster: https://m.media-amazon.com/images/M/MV5BMzI2MTEwNTYtYWU1MS00NzkwLTk0MjktYjliNzdkYmQzYTEzXkEyXkFqcGc@._V1_SX300.jpg
+rating:
+watched: 1968-12-17
+poster: https://image.tmdb.org/t/p/w500/wJ62FzGeCAs6PjCIK1as6xzdIY5.jpg
 ---
 
 # Chitty Chitty Bang Bang (1968)
 
-![](https://m.media-amazon.com/images/M/MV5BMzI2MTEwNTYtYWU1MS00NzkwLTk0MjktYjliNzdkYmQzYTEzXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/wJ62FzGeCAs6PjCIK1as6xzdIY5.jpg)
 
-A down-on-his-luck inventor turns a broken-down Grand Prix car into a fancy vehicle for his children, and then they go off on a magical fantasy adventure to save their grandfather in a far-off land.
+A hapless inventor finally finds success with a flying car, which a dictator from a foreign government sets out to take for himself.
