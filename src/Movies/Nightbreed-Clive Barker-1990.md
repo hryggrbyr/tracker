@@ -1,27 +1,29 @@
 ---
-type: movie
-country: United Kingdom, Canada, United States
+type: Movie
+country: US
 title: Nightbreed
 year: 1990
 director: Clive Barker
 actors:
   - Craig Sheffer
-  - David Cronenberg
   - Anne Bobby
+  - David Cronenberg
+  - Charles Haid
+  - Hugh Quarshie
 genre:
-  - Action
-  - Fantasy
   - Horror
-length: 102
+  - Fantasy
+  - Action
+length: 2h 1m
 shelf: watched
 owned: false
 rating:
-watched: 1990-12-31
-poster: https://m.media-amazon.com/images/M/MV5BZGEzYWQxNjgtYjMzNC00NzA3LWE1NzctYjZkOTZmOGEwNDFhXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1990-02-16
+poster: https://image.tmdb.org/t/p/w500/1ChluYH0BEvJo3gtYoFHnMZI660.jpg
 ---
 
 # Nightbreed (1990)
 
-![](https://m.media-amazon.com/images/M/MV5BZGEzYWQxNjgtYjMzNC00NzA3LWE1NzctYjZkOTZmOGEwNDFhXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/1ChluYH0BEvJo3gtYoFHnMZI660.jpg)
 
 A troubled young man is drawn to a mythical place called Midian where a variety of friendly monsters are hiding from humanity. Meanwhile, a sadistic serial killer is looking for a patsy.
