@@ -1,26 +1,28 @@
 ---
-type: movie
-country: United States, Japan
+type: Movie
+country: US
 title: The Ring
 year: 2002
 director: Gore Verbinski
 actors:
   - Naomi Watts
   - Martin Henderson
+  - David Dorfman
   - Brian Cox
+  - Jane Alexander
 genre:
   - Horror
   - Mystery
-length: 115
+length: 1h 55m
 shelf: watched
 owned: false
 rating:
-watched: 2002-12-31
-poster: https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_SX300.jpg
+watched: 2002-10-18
+poster: https://image.tmdb.org/t/p/w500/AeRpUynJKDpJveklBJipOYrVxCS.jpg
 ---
 
 # The Ring (2002)
 
-![](https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/AeRpUynJKDpJveklBJipOYrVxCS.jpg)
 
-A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.
+Rachel Keller is a journalist investigating a videotape that may have killed four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring so she can save herself and her son.
