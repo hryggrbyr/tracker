@@ -1,26 +1,28 @@
 ---
-type: movie
-country: United States, Italy, Spain, United Kingdom, Jordan
+type: Movie
+country: US
 title: Indiana Jones and the Last Crusade
 year: 1989
 director: Steven Spielberg
 actors:
   - Harrison Ford
   - Sean Connery
+  - Denholm Elliott
   - Alison Doody
+  - John Rhys-Davies
 genre:
-  - Action
   - Adventure
-length: 127
+  - Action
+length: 2h 7m
 shelf: watched
 owned: false
 rating:
-watched: 1989-12-31
-poster: https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1989-05-24
+poster: https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg
 ---
 
 # Indiana Jones and the Last Crusade (1989)
 
-![](https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg)
 
-In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.
+In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!
