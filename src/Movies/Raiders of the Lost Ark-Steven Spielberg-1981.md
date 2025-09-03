@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Raiders of the Lost Ark
 year: 1981
 director: Steven Spielberg
@@ -8,19 +8,21 @@ actors:
   - Harrison Ford
   - Karen Allen
   - Paul Freeman
+  - John Rhys-Davies
+  - Ronald Lacey
 genre:
-  - Action
   - Adventure
-length: 115
+  - Action
+length: 1h 55m
 shelf: watched
 owned: false
 rating:
-watched: 1981-12-31
-poster: https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg
+watched: 2023-07-01
+poster: https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
 ---
 
 # Raiders of the Lost Ark (1981)
 
-![](https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg)
 
-In 1936, archaeologist Indiana Jones is tasked by Army Intelligence to help locate a legendary ancient power, the Ark of Covenant, before the Nazis get it first.
+When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.
