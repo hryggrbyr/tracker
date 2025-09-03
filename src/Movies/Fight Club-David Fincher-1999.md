@@ -1,27 +1,28 @@
 ---
-type: movie
-country: United States, Germany
+type: Movie
+country: US
 title: Fight Club
 year: 1999
 director: David Fincher
 actors:
-  - Brad Pitt
   - Edward Norton
+  - Brad Pitt
+  - Helena Bonham Carter
   - Meat Loaf
+  - Jared Leto
 genre:
-  - Crime
   - Drama
   - Thriller
-length: 139
+length: 2h 19m
 shelf: watched
 owned: false
 rating:
-watched: 1999-12-31
-poster: https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_SX300.jpg
+watched: 2023-01-29
+poster: https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg
 ---
 
 # Fight Club (1999)
 
-![](https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg)
 
-An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground "fight clubs" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.
