@@ -1,27 +1,28 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Noah
 year: 2014
 director: Darren Aronofsky
 actors:
   - Russell Crowe
   - Jennifer Connelly
+  - Ray Winstone
   - Anthony Hopkins
+  - Emma Watson
 genre:
-  - Action
-  - Adventure
   - Drama
-length: 138
+  - Adventure
+length: 2h 18m
 shelf: watched
 owned: false
-rating: 2
-watched: 2014-12-31
-poster: https://m.media-amazon.com/images/M/MV5BMjI2OTgyNTc0Ml5BMl5BanBnXkFtZTgwNDM1NTQxMTE@._V1_SX300.jpg
+rating:
+watched: 2014-03-28
+poster: https://image.tmdb.org/t/p/w500/9ftKmR9dXmI4aSJJikXNWHNSDq3.jpg
 ---
 
 # Noah (2014)
 
-![](https://m.media-amazon.com/images/M/MV5BMjI2OTgyNTc0Ml5BMl5BanBnXkFtZTgwNDM1NTQxMTE@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/9ftKmR9dXmI4aSJJikXNWHNSDq3.jpg)
 
-Noah is chosen by God to undertake a momentous mission before an apocalyptic flood cleanses the world.
+A man who suffers visions of an apocalyptic deluge takes measures to protect his family from the coming flood.
