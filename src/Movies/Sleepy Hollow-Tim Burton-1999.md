@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States, Germany, United Kingdom
+type: Movie
+country: US
 title: Sleepy Hollow
 year: 1999
 director: Tim Burton
@@ -8,20 +8,23 @@ actors:
   - Johnny Depp
   - Christina Ricci
   - Miranda Richardson
+  - Michael Gambon
+  - Casper Van Dien
 genre:
   - Fantasy
-  - Horror
+  - Thriller
   - Mystery
-length: 105
+  - Horror
+length: 1h 45m
 shelf: watched
 owned: false
 rating:
-watched: 1999-12-31
-poster: https://m.media-amazon.com/images/M/MV5BYWIwMTIxZTQtNDZhNS00ZDZlLTg5MTEtOTNkMmNjOGUzMTA1XkEyXkFqcGc@._V1_SX300.jpg
+watched: 2023-01-29
+poster: https://image.tmdb.org/t/p/w500/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg
 ---
 
 # Sleepy Hollow (1999)
 
-![](https://m.media-amazon.com/images/M/MV5BYWIwMTIxZTQtNDZhNS00ZDZlLTg5MTEtOTNkMmNjOGUzMTA1XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg)
 
-Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of three people; the culprit is legendary apparition The Headless Horseman.
+Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people – murders the townsfolk attribute to a legendary specter, The Headless Horseman.
