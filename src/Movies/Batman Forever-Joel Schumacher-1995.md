@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States, United Kingdom
+type: Movie
+country: US
 title: Batman Forever
 year: 1995
 director: Joel Schumacher
@@ -8,19 +8,22 @@ actors:
   - Val Kilmer
   - Tommy Lee Jones
   - Jim Carrey
+  - Nicole Kidman
+  - Chris O'Donnell
 genre:
   - Action
-  - Adventure
-length: 121
+  - Crime
+  - Fantasy
+length: 2h 1m
 shelf: watched
 owned: false
 rating:
-watched: 1995-12-31
-poster: https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1995-06-16
+poster: https://image.tmdb.org/t/p/w500/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg
 ---
 
 # Batman Forever (1995)
 
-![](https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg)
 
-Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin.
+Batman faces off against two foes: the schizophrenic, horribly scarred former District Attorney Harvey Dent, aka Two-Face, and the Riddler, a disgruntled ex-Wayne Enterprises inventor seeking revenge against his former employer by unleashing his brain-sucking weapon on Gotham City's residents. As the caped crusader also copes with tortured memories of his parents' murder, he has a new romance, with psychologist Chase Meridian.
