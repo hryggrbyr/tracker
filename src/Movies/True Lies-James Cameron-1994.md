@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: True Lies
 year: 1994
 director: James Cameron
@@ -8,20 +8,21 @@ actors:
   - Arnold Schwarzenegger
   - Jamie Lee Curtis
   - Tom Arnold
+  - Bill Paxton
+  - Tia Carrere
 genre:
   - Action
-  - Comedy
   - Thriller
-length: 141
+length: 2h 21m
 shelf: watched
 owned: false
 rating:
-watched: 1994-12-31
-poster: https://m.media-amazon.com/images/M/MV5BYjU1ZjNhMjMtOTMxZS00MDc1LTlkNzQtZTdjNGQyYjQ4YTA4XkEyXkFqcGc@._V1_SX300.jpg
+watched: 1994-07-15
+poster: https://image.tmdb.org/t/p/w500/pweFTnzzTfGK68woSVkiTgjLzWm.jpg
 ---
 
 # True Lies (1994)
 
-![](https://m.media-amazon.com/images/M/MV5BYjU1ZjNhMjMtOTMxZS00MDc1LTlkNzQtZTdjNGQyYjQ4YTA4XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/pweFTnzzTfGK68woSVkiTgjLzWm.jpg)
 
-A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used-car salesman while terrorists smuggle nuclear war heads into the United S...
+A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.
