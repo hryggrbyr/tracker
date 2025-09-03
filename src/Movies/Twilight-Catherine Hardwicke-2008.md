@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States, United Kingdom
+type: Movie
+country: US
 title: Twilight
 year: 2008
 director: Catherine Hardwicke
@@ -8,20 +8,22 @@ actors:
   - Kristen Stewart
   - Robert Pattinson
   - Billy Burke
+  - Peter Facinelli
+  - Ashley Greene
 genre:
-  - Drama
   - Fantasy
+  - Drama
   - Romance
-length: 122
+length: 2h 2m
 shelf: watched
 owned: false
-rating: 5
-watched: 2008-12-31
-poster: https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_SX300.jpg
+rating:
+watched: 2008-11-21
+poster: https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg
 ---
 
 # Twilight (2008)
 
-![](https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg)
 
-When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire.
+When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.
