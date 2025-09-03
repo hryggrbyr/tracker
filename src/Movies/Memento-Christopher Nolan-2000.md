@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Memento
 year: 2000
 director: Christopher Nolan
@@ -8,20 +8,21 @@ actors:
   - Guy Pearce
   - Carrie-Anne Moss
   - Joe Pantoliano
+  - Mark Boone Junior
+  - Russ Fega
 genre:
-  - Drama
   - Mystery
   - Thriller
-length: 113
+length: 1h 53m
 shelf: watched
 owned: false
 rating:
-watched: 2000-12-31
-poster: https://m.media-amazon.com/images/M/MV5BYmQ3MjliNjAtNWFiZS00YWI1LTlmZTktMzBiNDE1NjRhZjU0XkEyXkFqcGc@._V1_SX300.jpg
+watched: 2001-03-16
+poster: https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg
 ---
 
 # Memento (2000)
 
-![](https://m.media-amazon.com/images/M/MV5BYmQ3MjliNjAtNWFiZS00YWI1LTlmZTktMzBiNDE1NjRhZjU0XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg)
 
-A former insurance investigator who now suffers from anterograde amnesia uses notes and tattoos to hunt down his wife's murderer.
+Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.
