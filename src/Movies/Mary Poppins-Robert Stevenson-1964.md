@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Mary Poppins
 year: 1964
 director: Robert Stevenson
@@ -8,20 +8,22 @@ actors:
   - Julie Andrews
   - Dick Van Dyke
   - David Tomlinson
+  - Glynis Johns
+  - Hermione Baddeley
 genre:
   - Comedy
   - Family
   - Fantasy
-length: 139
+length: 2h 19m
 shelf: watched
-owned: true
-rating: 4
-watched: 1964-12-31
-poster: https://m.media-amazon.com/images/M/MV5BNThiNjgzMTYtZjUzMC00YTVlLTg4MDItMmFjMDIwYjg4ZDAwXkEyXkFqcGc@._V1_SX300.jpg
+owned: false
+rating:
+watched: 1965-08-18
+poster: https://image.tmdb.org/t/p/w500/ei8hhYCMfURfPOXKBnyl61be2iV.jpg
 ---
 
 # Mary Poppins (1964)
 
-![](https://m.media-amazon.com/images/M/MV5BNThiNjgzMTYtZjUzMC00YTVlLTg4MDItMmFjMDIwYjg4ZDAwXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/ei8hhYCMfURfPOXKBnyl61be2iV.jpg)
 
-In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.
+Mr Banks is looking for a nanny for his two mischievous children and comes across Mary Poppins, an angelic nanny. She not only brings a change in their lives but also spreads happiness.
