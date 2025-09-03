@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Buffy the Vampire Slayer
 year: 1992
 director: Fran Rubel Kuzui
@@ -8,20 +8,22 @@ actors:
   - Kristy Swanson
   - Donald Sutherland
   - Paul Reubens
+  - Rutger Hauer
+  - Luke Perry
 genre:
   - Action
   - Comedy
-  - Fantasy
-length: 86
+  - Horror
+length: 1h 26m
 shelf: watched
 owned: false
 rating:
-watched: 1992-12-31
-poster: https://m.media-amazon.com/images/M/MV5BZDQ4MzNlMzAtZDMxMy00YzcwLWJiMTMtNDBmMWMyMTAwODM5XkEyXkFqcGc@._V1_SX300.jpg
+watched: 2023-01-29
+poster: https://image.tmdb.org/t/p/w500/tcF3S4UdFpuoZEWovMDq5AXazNF.jpg
 ---
 
 # Buffy the Vampire Slayer (1992)
 
-![](https://m.media-amazon.com/images/M/MV5BZDQ4MzNlMzAtZDMxMy00YzcwLWJiMTMtNDBmMWMyMTAwODM5XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/tcF3S4UdFpuoZEWovMDq5AXazNF.jpg)
 
-Flighty teenage girl Buffy Summers learns that she is her generation's destined battler of vampires.
+Blonde, bouncy Buffy is your typical high school cheerleader. But all that changes when a strange man informs her she's been chosen by fate to kill vampires.
