@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States, United Kingdom
+type: Movie
+country: US
 title: Batman
 year: 1989
 director: Tim Burton
@@ -8,19 +8,22 @@ actors:
   - Michael Keaton
   - Jack Nicholson
   - Kim Basinger
+  - Robert Wuhl
+  - Pat Hingle
 genre:
+  - Fantasy
   - Action
-  - Adventure
-length: 126
+  - Crime
+length: 2h 6m
 shelf: watched
 owned: false
 rating:
-watched: 1989-12-31
-poster: https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1989-06-23
+poster: https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg
 ---
 
 # Batman (1989)
 
-![](https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg)
 
-The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.
