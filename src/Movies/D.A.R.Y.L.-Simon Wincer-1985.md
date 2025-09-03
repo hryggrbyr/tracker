@@ -1,26 +1,29 @@
 ---
-type: movie
-country: United Kingdom, United States
+type: Movie
+country: GB, US
 title: D.A.R.Y.L.
 year: 1985
 director: Simon Wincer
 actors:
+  - Barret Oliver
   - Mary Beth Hurt
   - Michael McKean
   - Kathryn Walker
+  - Colleen Camp
 genre:
   - Family
-  - Sci-Fi
-length: 99
+  - Science Fiction
+  - Action
+length: 1h 40m
 shelf: watched
 owned: false
 rating:
-watched: 1985-12-31
-poster: https://m.media-amazon.com/images/M/MV5BMjVhOTA1MDgtMzljYi00OGU2LWEzODQtOWM2NjRjZTQyNjIyXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1985-06-14
+poster: https://image.tmdb.org/t/p/w500/87huhTOQijJy0pLhusZfest1MoZ.jpg
 ---
 
 # D.A.R.Y.L. (1985)
 
-![](https://m.media-amazon.com/images/M/MV5BMjVhOTA1MDgtMzljYi00OGU2LWEzODQtOWM2NjRjZTQyNjIyXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/87huhTOQijJy0pLhusZfest1MoZ.jpg)
 
-A seemingly normal young boy is found abandoned on a mountain road and adopted by a family who are increasingly amazed by his abilities before discovering the secret behind his real identity.
+Daryl is a normal 10-year-old boy in many ways. However, unbeknown to his foster parents and friends, Daryl is actually a government-created robot with superhuman reflexes and mental abilities. Even his name has a hidden meaning -- it's actually an acronym for Data Analyzing Robot Youth Life-form. When the organization that created him deems the "super soldier" experiment a failure and schedules Daryl to be disassembled, it is up to a few rogue scientists to help him escape.
