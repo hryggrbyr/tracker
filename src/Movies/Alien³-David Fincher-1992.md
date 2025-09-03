@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United Kingdom, United States
+type: Movie
+country: US
 title: Alien³
 year: 1992
 director: David Fincher
@@ -8,20 +8,22 @@ actors:
   - Sigourney Weaver
   - Charles S. Dutton
   - Charles Dance
+  - Paul McGann
+  - Brian Glover
 genre:
+  - Science Fiction
   - Action
   - Horror
-  - Sci-Fi
-length: 114
+length: 1h 54m
 shelf: watched
 owned: false
 rating:
-watched: 1992-12-31
-poster: https://m.media-amazon.com/images/M/MV5BOGZiNmVlZGEtM2VmMi00ZTFkLTliMzEtZDNhYzUzNTcxMGY3XkEyXkFqcGc@._V1_SX300.jpg
+watched: 1992-05-22
+poster: https://image.tmdb.org/t/p/w500/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg
 ---
 
 # Alien³ (1992)
 
-![](https://m.media-amazon.com/images/M/MV5BOGZiNmVlZGEtM2VmMi00ZTFkLTliMzEtZDNhYzUzNTcxMGY3XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg)
 
-Returning from LV-426, Ellen Ripley crash-lands on the maximum-security prison Fiorina 161, where she discovers that she has unwittingly brought along an unwelcome visitor.
+After escaping with Newt and Hicks from the alien planet, Ripley crash lands on Fiorina 161, a prison planet and host to a correctional facility. Unfortunately, although Newt and Hicks do not survive the crash, a more unwelcome visitor does. The prison does not allow weapons of any kind, and with aid being a long time away, the prisoners must simply survive in any way they can.
