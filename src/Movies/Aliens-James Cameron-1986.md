@@ -1,27 +1,29 @@
 ---
-type: movie
-country: United Kingdom, United States
+type: Movie
+country: US
 title: Aliens
 year: 1986
 director: James Cameron
 actors:
   - Sigourney Weaver
-  - Michael Biehn
   - Carrie Henn
+  - Michael Biehn
+  - Paul Reiser
+  - Lance Henriksen
 genre:
   - Action
-  - Adventure
-  - Horror
-length: 137
+  - Thriller
+  - Science Fiction
+length: 2h 17m
 shelf: watched
 owned: false
 rating:
-watched: 1986-12-31
-poster: https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1986-07-18
+poster: https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg
 ---
 
 # Aliens (1986)
 
-![](https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg)
 
-Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.
+Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.
