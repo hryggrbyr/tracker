@@ -1,27 +1,29 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: The Crow
 year: 1994
 director: Alex Proyas
 actors:
   - Brandon Lee
-  - Michael Wincott
   - Rochelle Davis
+  - Ernie Hudson
+  - Michael Wincott
+  - Bai Ling
 genre:
+  - Fantasy
   - Action
-  - Crime
-  - Drama
-length: 102
+  - Thriller
+length: 1h 42m
 shelf: watched
 owned: false
 rating:
-watched: 1994-12-31
-poster: https://m.media-amazon.com/images/M/MV5BOTBiNzhkZTItZWUwZS00YTJkLTg0YTEtN2I0ZDI5ODI2MWFjXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1994-05-11
+poster: https://image.tmdb.org/t/p/w500/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg
 ---
 
 # The Crow (1994)
 
-![](https://m.media-amazon.com/images/M/MV5BOTBiNzhkZTItZWUwZS00YTJkLTg0YTEtN2I0ZDI5ODI2MWFjXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg)
 
-The night before his wedding, musician Eric Draven and his fiancée are brutally murdered by members of a violent gang. On the anniversary of their death, Eric rises from the grave and assumes the mantle of the Crow, a supernatural...
+Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.

@@ -1,29 +1,29 @@
 ---
-type: series
-country: United States
+type: Series
+country: US
 title: Amy Bradley Is Missing
 year: 2025
-director: N/A
+director: Phil Lott, Ari Mark
 actors:
-  - Erin Cullather
-  - Sarah Luck
   - Iva Bradley
+  - Ron Bradley
+  - Brad Bradley
+  - Erin Sheridan
+  - Erin Cullather
 genre:
   - Documentary
   - Crime
   - Mystery
-length: N/A
+length: 1 season (3 episodes)
 shelf: watched
 owned: false
 rating:
-watched: 2025-08-30
-poster: https://m.media-amazon.com/images/M/MV5BMzQ2N2MwM2YtOWI0ZC00NDYwLWJiYWItMWQxOWM1ZDA5YmU1XkEyXkFqcGc@._V1_SX300.jpg
-url:
-  "{ Website }":
+watched: 2025-08-23
+poster: https://image.tmdb.org/t/p/w500/bS7hWmAGEFXbgSYyKqX0uapxWO7.jpg
 ---
 
 # Amy Bradley Is Missing (2025)
 
-![](https://m.media-amazon.com/images/M/MV5BMzQ2N2MwM2YtOWI0ZC00NDYwLWJiYWItMWQxOWM1ZDA5YmU1XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/bS7hWmAGEFXbgSYyKqX0uapxWO7.jpg)
 
-March 24, 1998, Amy Lynn Bradley, 23, is enjoying a family cruise vacation when Amy suddenly vanishes without a trace. This twist-filled 3-part documentary mystery explores the theories, and a family's desperate search for the truth.
+This true-crime series investigates the 1998 disappearance of a 23-year-old woman from a Caribbean cruise and her family's tireless search for answers.

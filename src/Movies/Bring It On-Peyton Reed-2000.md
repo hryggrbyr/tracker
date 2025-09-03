@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Bring It On
 year: 2000
 director: Peyton Reed
@@ -8,20 +8,20 @@ actors:
   - Kirsten Dunst
   - Eliza Dushku
   - Jesse Bradford
+  - Gabrielle Union
+  - Sherry Hursey
 genre:
   - Comedy
-  - Romance
-  - Sport
-length: 98
+length: 1h 38m
 shelf: watched
-owned: true
-rating: 5
-watched: 2000-12-31
-poster: https://m.media-amazon.com/images/M/MV5BYjNhNmI3YjUtOTY4NS00YmI0LWFhNGQtNzU2YmI5MjBlZTg5XkEyXkFqcGc@._V1_SX300.jpg
+owned: false
+rating:
+watched: 2000-08-25
+poster: https://image.tmdb.org/t/p/w500/bnVby0qI0dS7YunbShP7mw68HY3.jpg
 ---
 
 # Bring It On (2000)
 
-![](https://m.media-amazon.com/images/M/MV5BYjNhNmI3YjUtOTY4NS00YmI0LWFhNGQtNzU2YmI5MjBlZTg5XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/bnVby0qI0dS7YunbShP7mw68HY3.jpg)
 
-A champion high school cheerleading squad discovers its previous captain stole all their best routines from an inner-city school and must scramble to compete at this year's championships.
+The Toro cheerleading squad from Rancho Carne High School in San Diego has got spirit, spunk, sass and a killer routine that's sure to land them the national championship trophy for the sixth year in a row. But for newly-elected team captain Torrance, the Toros' road to total cheer glory takes a shady turn when she discovers that their perfectly-choreographed routines were in fact stolen.

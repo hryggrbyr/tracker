@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States, United Kingdom
+type: Movie
+country: US
 title: Batman Returns
 year: 1992
 director: Tim Burton
@@ -8,20 +8,21 @@ actors:
   - Michael Keaton
   - Danny DeVito
   - Michelle Pfeiffer
+  - Christopher Walken
+  - Michael Gough
 genre:
   - Action
-  - Crime
   - Fantasy
-length: 126
+length: 2h 6m
 shelf: watched
 owned: false
 rating:
-watched: 1992-12-31
-poster: https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1992-06-19
+poster: https://image.tmdb.org/t/p/w500/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg
 ---
 
 # Batman Returns (1992)
 
-![](https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg)
 
-While Batman deals with a deformed man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta.
+The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader.

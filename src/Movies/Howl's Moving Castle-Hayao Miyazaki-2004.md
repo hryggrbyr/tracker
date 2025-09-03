@@ -1,28 +1,29 @@
 ---
-type: movie
-country: Japan, United States
+type: Movie
+country: JP
 title: Howl's Moving Castle
 year: 2004
 director: Hayao Miyazaki
 actors:
-  - Chieko Baishô
+  - Chieko Baisho
   - Takuya Kimura
+  - Akihiro Miwa
   - Tatsuya Gashûin
+  - Ryunosuke Kamiki
 genre:
+  - Fantasy
   - Animation
   - Adventure
-  - Family
-length: 119
+length: 1h 59m
 shelf: watched
 owned: false
-rating: 4
-watched: 2004-12-31
-poster: https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_SX300.jpg
-url: N/A
+rating:
+watched: 2004-11-19
+poster: https://image.tmdb.org/t/p/w500/TkTPELv4kC3u1lkloush8skOjE.jpg
 ---
 
 # Howl's Moving Castle (2004)
 
-![](https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/TkTPELv4kC3u1lkloush8skOjE.jpg)
 
-When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.
+Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.

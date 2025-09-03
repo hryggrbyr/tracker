@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States, Australia
+type: Movie
+country: US
 title: The Matrix
 year: 1999
 director: Lana Wachowski, Lilly Wachowski
@@ -8,19 +8,21 @@ actors:
   - Keanu Reeves
   - Laurence Fishburne
   - Carrie-Anne Moss
+  - Hugo Weaving
+  - Gloria Foster
 genre:
   - Action
-  - Sci-Fi
-length: 136
+  - Science Fiction
+length: 2h 16m
 shelf: watched
 owned: false
 rating:
-watched: 1999-12-31
-poster: https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg
+watched: 2023-01-29
+poster: https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg
 ---
 
 # The Matrix (1999)
 
-![](https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg)
 
-When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
+Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.

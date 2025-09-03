@@ -1,26 +1,28 @@
 ---
-type: movie
-country: United Kingdom, United States
+type: Movie
+country: US
 title: Alien
 year: 1979
 director: Ridley Scott
 actors:
-  - Sigourney Weaver
   - Tom Skerritt
+  - Sigourney Weaver
+  - Veronica Cartwright
+  - Harry Dean Stanton
   - John Hurt
 genre:
   - Horror
-  - Sci-Fi
-length: 117
+  - Science Fiction
+length: 1h 57m
 shelf: watched
 owned: false
 rating:
-watched: 1979-12-31
-poster: https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_SX300.jpg
+watched: 2023-01-29
+poster: https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg
 ---
 
 # Alien (1979)
 
-![](https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg)
 
-After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.
+During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.

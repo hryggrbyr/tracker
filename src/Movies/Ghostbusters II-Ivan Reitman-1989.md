@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Ghostbusters II
 year: 1989
 director: Ivan Reitman
@@ -8,20 +8,21 @@ actors:
   - Bill Murray
   - Dan Aykroyd
   - Sigourney Weaver
+  - Harold Ramis
+  - Rick Moranis
 genre:
-  - Action
   - Comedy
   - Fantasy
-length: 108
+length: 1h 48m
 shelf: watched
 owned: false
 rating:
-watched: 1989-12-31
-poster: https://m.media-amazon.com/images/M/MV5BZThjODU5NTMtMWJiNC00NjNkLWJmM2YtM2EzNDg3NjMxYjU5XkEyXkFqcGc@._V1_SX300.jpg
+watched: 1989-06-16
+poster: https://image.tmdb.org/t/p/w500/yObYPMA58DnTMvJooFW7GG6jWAt.jpg
 ---
 
 # Ghostbusters II (1989)
 
-![](https://m.media-amazon.com/images/M/MV5BZThjODU5NTMtMWJiNC00NjNkLWJmM2YtM2EzNDg3NjMxYjU5XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/yObYPMA58DnTMvJooFW7GG6jWAt.jpg)
 
 The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.

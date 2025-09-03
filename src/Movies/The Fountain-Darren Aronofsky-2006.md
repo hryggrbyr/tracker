@@ -1,27 +1,30 @@
 ---
-type: movie
-country: United States, Canada
+type: Movie
+country: US
 title: The Fountain
 year: 2006
 director: Darren Aronofsky
 actors:
   - Hugh Jackman
   - Rachel Weisz
-  - Sean Patrick Thomas
+  - Ellen Burstyn
+  - Mark Margolis
+  - Stephen McHattie
 genre:
   - Drama
-  - Mystery
+  - Adventure
+  - Science Fiction
   - Romance
-length: 97
+length: 1h 36m
 shelf: watched
 owned: false
-rating: 5
-watched: 2006-12-31
-poster: https://m.media-amazon.com/images/M/MV5BMTU5OTczMTcxMV5BMl5BanBnXkFtZTcwNDg3MTEzMw@@._V1_SX300.jpg
+rating:
+watched: 2006-11-22
+poster: https://image.tmdb.org/t/p/w500/4XTf8GuCVLWolubANaKkpk62YPq.jpg
 ---
 
 # The Fountain (2006)
 
-![](https://m.media-amazon.com/images/M/MV5BMTU5OTczMTcxMV5BMl5BanBnXkFtZTcwNDg3MTEzMw@@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/4XTf8GuCVLWolubANaKkpk62YPq.jpg)
 
-As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.
+Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.

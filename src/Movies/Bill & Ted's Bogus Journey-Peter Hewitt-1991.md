@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States, United Kingdom
+type: Movie
+country: US
 title: Bill & Ted's Bogus Journey
 year: 1991
 director: Peter Hewitt
@@ -8,20 +8,22 @@ actors:
   - Keanu Reeves
   - Alex Winter
   - William Sadler
+  - Joss Ackland
+  - Pam Grier
 genre:
   - Adventure
   - Comedy
-  - Fantasy
-length: 93
+  - Science Fiction
+length: 1h 33m
 shelf: watched
 owned: false
 rating:
-watched: 1991-12-31
-poster: https://m.media-amazon.com/images/M/MV5BOWQyNDNmZDYtZmMxYy00NWE1LTk2MzUtMzc1M2YyOTQ4ZjRmXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1991-07-19
+poster: https://image.tmdb.org/t/p/w500/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg
 ---
 
 # Bill & Ted's Bogus Journey (1991)
 
-![](https://m.media-amazon.com/images/M/MV5BOWQyNDNmZDYtZmMxYy00NWE1LTk2MzUtMzc1M2YyOTQ4ZjRmXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg)
 
-A tyrant from the future creates evil android doubles of Bill and Ted and sends them back to eliminate the originals.
+Amiable slackers Bill and Ted are once again roped into a fantastical adventure when De Nomolos, a villain from the future, sends evil robot duplicates of the two lads to terminate and replace them. The robot doubles actually succeed in killing Bill and Ted, but the two are determined to escape the afterlife, challenging the Grim Reaper to a series of games in order to return to the land of the living.

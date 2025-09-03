@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Edward Scissorhands
 year: 1990
 director: Tim Burton
@@ -8,20 +8,22 @@ actors:
   - Johnny Depp
   - Winona Ryder
   - Dianne Wiest
+  - Anthony Michael Hall
+  - Kathy Baker
 genre:
-  - Drama
   - Fantasy
+  - Drama
   - Romance
-length: 105
+length: 1h 45m
 shelf: watched
 owned: false
 rating:
-watched: 1990-12-31
-poster: https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1990-12-07
+poster: https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg
 ---
 
 # Edward Scissorhands (1990)
 
-![](https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg)
 
-The solitary life of an artificial man - who was incompletely constructed and has scissors for hands - is upended when he is taken in by a suburban family.
+A small suburban town receives a visit from a castaway unfinished science experiment named Edward.

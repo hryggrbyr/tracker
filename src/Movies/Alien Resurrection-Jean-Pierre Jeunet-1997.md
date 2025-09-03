@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Alien Resurrection
 year: 1997
 director: Jean-Pierre Jeunet
@@ -8,20 +8,22 @@ actors:
   - Sigourney Weaver
   - Winona Ryder
   - Dominique Pinon
+  - Ron Perlman
+  - Gary Dourdan
 genre:
-  - Action
+  - Science Fiction
   - Horror
-  - Sci-Fi
-length: 109
+  - Action
+length: 1h 49m
 shelf: watched
 owned: false
 rating:
-watched: 1997-12-31
-poster: https://m.media-amazon.com/images/M/MV5BNDMyNmU5ZGQtNzhiZi00NjRjLTk3NGUtMmQ5YWU4ODlkNTBhXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1997-11-26
+poster: https://image.tmdb.org/t/p/w500/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg
 ---
 
 # Alien Resurrection (1997)
 
-![](https://m.media-amazon.com/images/M/MV5BNDMyNmU5ZGQtNzhiZi00NjRjLTk3NGUtMmQ5YWU4ODlkNTBhXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg)
 
-Two centuries after her death, a powerful human/alien hybrid clone of Ellen Ripley aids a crew of space pirates in stopping the aliens from reaching Earth.
+Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises … as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth.

@@ -1,26 +1,28 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Coneheads
 year: 1993
 director: Steve Barron
 actors:
   - Dan Aykroyd
   - Jane Curtin
-  - Robert Knott
+  - Michael McKean
+  - Laraine Newman
+  - Jason Alexander
 genre:
   - Comedy
-  - Sci-Fi
-length: 88
+  - Science Fiction
+length: 1h 27m
 shelf: watched
 owned: false
 rating:
-watched: 1993-12-31
-poster: https://m.media-amazon.com/images/M/MV5BOTE5NDNjOWUtMDhmZi00MTA2LWEzZWEtYjUxZWYxZGEzNjU4XkEyXkFqcGc@._V1_SX300.jpg
+watched: 1993-07-23
+poster: https://image.tmdb.org/t/p/w500/vlpQnf0rl0FpMjWLS0TNd8Bog2F.jpg
 ---
 
 # Coneheads (1993)
 
-![](https://m.media-amazon.com/images/M/MV5BOTE5NDNjOWUtMDhmZi00MTA2LWEzZWEtYjUxZWYxZGEzNjU4XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/vlpQnf0rl0FpMjWLS0TNd8Bog2F.jpg)
 
-Aliens with conical crania crash-land on Earth.
+A pair of aliens arrive on Earth to prepare for invasion, but crash instead. With enormous cone-shaped heads, robotlike walks and an appetite for toilet paper, aliens Beldar and Prymatt don't exactly blend in with the population of Paramus, N.J. But for some reason, everyone believes them when they say they're from France.

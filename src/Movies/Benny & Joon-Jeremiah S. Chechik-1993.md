@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Benny & Joon
 year: 1993
 director: Jeremiah S. Chechik
@@ -8,20 +8,21 @@ actors:
   - Johnny Depp
   - Mary Stuart Masterson
   - Aidan Quinn
+  - Julianne Moore
+  - Oliver Platt
 genre:
   - Comedy
   - Drama
-  - Romance
-length: 98
+length: 1h 38m
 shelf: watched
 owned: false
 rating:
-watched: 1993-12-31
-poster: https://m.media-amazon.com/images/M/MV5BMGQ4YWUyODMtZjQ2MC00OTI4LWE0MzItZmJkZDc5NDcxN2Y5XkEyXkFqcGc@._V1_SX300.jpg
+watched: 1993-04-16
+poster: https://image.tmdb.org/t/p/w500/t1IVTmj0TrVt5zxps7VRSdvLKSo.jpg
 ---
 
 # Benny & Joon (1993)
 
-![](https://m.media-amazon.com/images/M/MV5BMGQ4YWUyODMtZjQ2MC00OTI4LWE0MzItZmJkZDc5NDcxN2Y5XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/t1IVTmj0TrVt5zxps7VRSdvLKSo.jpg)
 
 A mentally ill young woman finds her love in an eccentric man who models himself after Buster Keaton.

@@ -1,28 +1,29 @@
 ---
-type: movie
-country: Japan, United States
+type: Movie
+country: JP
 title: Spirited Away
 year: 2001
 director: Hayao Miyazaki
 actors:
-  - Daveigh Chase
-  - Suzanne Pleshette
+  - Rumi Hiiragi
   - Miyu Irino
+  - Mari Natsuki
+  - Takashi Naito
+  - Yasuko Sawaguchi
 genre:
   - Animation
-  - Adventure
   - Family
-length: 124
+  - Fantasy
+length: 2h 5m
 shelf: watched
 owned: false
-rating: 5
-watched: 2001-12-31
-poster: https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_SX300.jpg
-url: N/A
+rating:
+watched: 2023-01-29
+poster: https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
 ---
 
 # Spirited Away (2001)
 
-![](https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg)
 
-During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.
+A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.

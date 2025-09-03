@@ -1,6 +1,6 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: While You Were Sleeping
 year: 1995
 director: Jon Turteltaub
@@ -8,20 +8,21 @@ actors:
   - Sandra Bullock
   - Bill Pullman
   - Peter Gallagher
+  - Peter Boyle
+  - Jack Warden
 genre:
-  - Comedy
-  - Drama
   - Romance
-length: 103
+  - Comedy
+length: 1h 43m
 shelf: watched
 owned: false
 rating:
-watched: 1995-12-31
-poster: https://m.media-amazon.com/images/M/MV5BZTJmOWIzY2YtYmE2ZC00NDRiLWIzYmMtNTkyNmNlMTA0N2NkXkEyXkFqcGc@._V1_SX300.jpg
+watched: 1995-04-09
+poster: https://image.tmdb.org/t/p/w500/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg
 ---
 
 # While You Were Sleeping (1995)
 
-![](https://m.media-amazon.com/images/M/MV5BZTJmOWIzY2YtYmE2ZC00NDRiLWIzYmMtNTkyNmNlMTA0N2NkXkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg)
 
-A hopelessly romantic Chicago Transit Authority ticket booth operator is mistaken for the fiancée of a comatose patient.
+A transit worker pulls commuter Peter off railway tracks after he's mugged, but—while he's in a coma—his family mistakenly thinks she's Peter's fiancée, and she doesn't correct them. Things get more complicated when she falls for his brother, who's not quite sure that she's who she claims to be.

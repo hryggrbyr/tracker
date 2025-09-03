@@ -1,26 +1,28 @@
 ---
-type: movie
-country: United States
+type: Movie
+country: US
 title: Cry-Baby
 year: 1990
 director: John Waters
 actors:
   - Johnny Depp
-  - Ricki Lake
   - Amy Locane
+  - Susan Tyrrell
+  - Iggy Pop
+  - Ricki Lake
 genre:
   - Comedy
-  - Musical
-length: 85
+  - Romance
+length: 1h 25m
 shelf: watched
 owned: false
 rating:
-watched: 1990-12-31
-poster: https://m.media-amazon.com/images/M/MV5BYTQ4ZWM2NzQtOTM0MC00ZTIyLWI3MTEtZWZjN2U5ZDBhOGU1XkEyXkFqcGc@._V1_SX300.jpg
+watched: 1990-04-05
+poster: https://image.tmdb.org/t/p/w500/d2QusoWfW4azJtHtJkyLMGSv33n.jpg
 ---
 
 # Cry-Baby (1990)
 
-![](https://m.media-amazon.com/images/M/MV5BYTQ4ZWM2NzQtOTM0MC00ZTIyLWI3MTEtZWZjN2U5ZDBhOGU1XkEyXkFqcGc@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/d2QusoWfW4azJtHtJkyLMGSv33n.jpg)
 
-In 1950s Baltimore, a bad boy with a heart of gold wins the love of a good girl, whose boyfriend sets out for revenge.
+A prim and proper schoolgirl goes against her society grandmother's wishes when she dates a motorcycle-riding juvenile delinquent.
