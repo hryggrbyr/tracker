@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Criminal Minds
 year: 2005
