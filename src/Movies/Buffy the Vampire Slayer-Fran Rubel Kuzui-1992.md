@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Buffy the Vampire Slayer
 year: 1992
