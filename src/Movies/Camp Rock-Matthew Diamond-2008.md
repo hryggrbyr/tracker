@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA, US
 title: Camp Rock
 year: 2008
