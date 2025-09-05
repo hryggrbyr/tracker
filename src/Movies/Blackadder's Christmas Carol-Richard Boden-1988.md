@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Blackadder's Christmas Carol
 year: 1988
