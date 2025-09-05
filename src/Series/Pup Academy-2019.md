@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Pup Academy
 year: 2019
