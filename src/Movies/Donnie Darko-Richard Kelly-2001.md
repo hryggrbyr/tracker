@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Donnie Darko
 year: 2001
