@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: No Vacancy
 year: 1999
