@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: CA, US, GB
 title: The Hunger
 year: 1997
