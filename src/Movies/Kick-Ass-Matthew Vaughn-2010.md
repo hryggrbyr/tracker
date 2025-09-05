@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Kick-Ass
 year: 2010
