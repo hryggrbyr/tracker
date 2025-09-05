@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: House of Cards
 year: 2013
