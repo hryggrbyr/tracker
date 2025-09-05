@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Chronicles of Riddick
 year: 2004
