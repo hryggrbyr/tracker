@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Back to the Future Part II
 year: 1989
