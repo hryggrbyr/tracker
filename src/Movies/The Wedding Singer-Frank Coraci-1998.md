@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Wedding Singer
 year: 1998
