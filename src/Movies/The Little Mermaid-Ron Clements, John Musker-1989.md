@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Little Mermaid
 year: 1989
