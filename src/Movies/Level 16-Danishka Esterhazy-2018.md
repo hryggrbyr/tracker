@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA, US
 title: Level 16
 year: 2018
