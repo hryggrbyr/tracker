@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: Unknown
 title: "Russell Brand: In Plain Sight: Dispatches"
 year: Unknown
