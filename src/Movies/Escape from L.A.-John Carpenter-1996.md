@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Escape from L.A.
 year: 1996
