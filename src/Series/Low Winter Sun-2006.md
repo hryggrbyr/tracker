@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: Unknown
 title: Low Winter Sun
 year: 2006
