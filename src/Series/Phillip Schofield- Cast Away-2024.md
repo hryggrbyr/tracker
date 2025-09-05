@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: "Phillip Schofield: Cast Away"
 year: 2024
