@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Mr. Deeds
 year: 2002
