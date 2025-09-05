@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Alien Resurrection
 year: 1997
