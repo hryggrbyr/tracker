@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: "Love Is Blind: UK"
 year: 2024

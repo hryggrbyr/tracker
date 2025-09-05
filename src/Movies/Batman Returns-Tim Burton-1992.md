@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Batman Returns
 year: 1992

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Citizen Kane
 year: 1941

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Blades of Glory
 year: 2007

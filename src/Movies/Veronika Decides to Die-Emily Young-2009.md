@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Veronika Decides to Die
 year: 2009

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: 127 Hours
 year: 2010

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Kalifornia
 year: 1993

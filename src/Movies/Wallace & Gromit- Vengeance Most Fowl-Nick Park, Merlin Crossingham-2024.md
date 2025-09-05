@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: "Wallace & Gromit: Vengeance Most Fowl"
 year: 2024

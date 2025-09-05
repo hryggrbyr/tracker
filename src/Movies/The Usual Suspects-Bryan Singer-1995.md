@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Usual Suspects
 year: 1995

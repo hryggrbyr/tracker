@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Wolf of Wall Street
 year: 2013

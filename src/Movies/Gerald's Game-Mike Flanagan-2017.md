@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Gerald's Game
 year: 2017

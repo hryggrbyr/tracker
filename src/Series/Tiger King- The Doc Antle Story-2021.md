@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: "Tiger King: The Doc Antle Story"
 year: 2021

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: BE, GB, US
 title: Mandy
 year: 2018

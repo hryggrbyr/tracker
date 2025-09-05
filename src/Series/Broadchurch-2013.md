@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Broadchurch
 year: 2013

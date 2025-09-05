@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: "Glow Up: Britain's Next Make-Up Star"
 year: 2019

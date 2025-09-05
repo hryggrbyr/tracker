@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Cape Fear
 year: 1991

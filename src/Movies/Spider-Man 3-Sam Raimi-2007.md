@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Spider-Man 3
 year: 2007

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Rosemary's Baby
 year: 1968

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: DK
 title: Melancholia
 year: 2011

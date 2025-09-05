@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Snuff Box
 year: 2006

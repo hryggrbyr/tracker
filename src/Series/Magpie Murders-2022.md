@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Magpie Murders
 year: 2022

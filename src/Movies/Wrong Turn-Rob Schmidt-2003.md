@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Wrong Turn
 year: 2003

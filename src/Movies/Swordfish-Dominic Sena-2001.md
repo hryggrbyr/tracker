@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Swordfish
 year: 2001

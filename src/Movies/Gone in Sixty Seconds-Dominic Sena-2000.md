@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Gone in Sixty Seconds
 year: 2000

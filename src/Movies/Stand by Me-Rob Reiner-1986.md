@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Stand by Me
 year: 1986

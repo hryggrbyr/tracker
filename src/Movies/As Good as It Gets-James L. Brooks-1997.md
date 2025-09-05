@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: As Good as It Gets
 year: 1997

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Black Swan
 year: 2010

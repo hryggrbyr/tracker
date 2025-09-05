@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: I Kissed a Boy
 year: 2023

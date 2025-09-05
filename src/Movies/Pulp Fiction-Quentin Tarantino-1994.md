@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Pulp Fiction
 year: 1994

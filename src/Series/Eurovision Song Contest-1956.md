@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: CH
 title: Eurovision Song Contest
 year: 1956

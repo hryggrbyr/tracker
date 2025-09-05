@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Prometheus
 year: 2012

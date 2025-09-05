@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Magnolia
 year: 1999

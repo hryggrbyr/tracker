@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: "Blackadder: Back & Forth"
 year: 1999

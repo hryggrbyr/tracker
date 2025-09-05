@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Black Cauldron
 year: 1985

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: "Fate: The Winx Saga"
 year: 2021

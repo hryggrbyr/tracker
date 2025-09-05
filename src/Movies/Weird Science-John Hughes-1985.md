@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Weird Science
 year: 1985

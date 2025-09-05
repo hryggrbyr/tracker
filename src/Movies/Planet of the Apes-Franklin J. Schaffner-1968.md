@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Planet of the Apes
 year: 1968

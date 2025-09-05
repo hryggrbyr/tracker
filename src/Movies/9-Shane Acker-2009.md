@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, LU
 title: "9"
 year: 2009

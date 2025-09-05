@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Red State
 year: 2011

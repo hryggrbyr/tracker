@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Fifth Estate
 year: 2013

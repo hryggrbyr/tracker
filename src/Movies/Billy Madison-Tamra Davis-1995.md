@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Billy Madison
 year: 1995

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Young Frankenstein
 year: 1974

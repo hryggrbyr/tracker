@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Author: The JT LeRoy Story"
 year: 2016

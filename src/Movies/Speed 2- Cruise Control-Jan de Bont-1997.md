@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Speed 2: Cruise Control"
 year: 1997

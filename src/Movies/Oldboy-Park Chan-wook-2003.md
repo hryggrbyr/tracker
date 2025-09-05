@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: KR
 title: Oldboy
 year: 2003

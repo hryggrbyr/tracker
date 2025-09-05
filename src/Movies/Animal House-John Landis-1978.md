@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Animal House
 year: 1978

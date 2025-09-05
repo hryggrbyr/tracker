@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: The Jetty
 year: 2024

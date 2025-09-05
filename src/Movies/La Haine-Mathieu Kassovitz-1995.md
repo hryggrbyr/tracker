@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: FR
 title: La Haine
 year: 1995

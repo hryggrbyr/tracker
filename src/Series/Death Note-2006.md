@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: JP
 title: Death Note
 year: 2006

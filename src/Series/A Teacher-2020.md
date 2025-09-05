@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: A Teacher
 year: 2020

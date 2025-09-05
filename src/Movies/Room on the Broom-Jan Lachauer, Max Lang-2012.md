@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Room on the Broom
 year: 2012

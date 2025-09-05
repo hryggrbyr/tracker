@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: DK, SE
 title: The Girl Who Kicked the Hornet's Nest
 year: 2009

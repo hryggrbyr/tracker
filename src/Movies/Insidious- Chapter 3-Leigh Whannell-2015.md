@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Insidious: Chapter 3"
 year: 2015

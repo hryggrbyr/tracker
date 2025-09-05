@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Ring
 year: 1998

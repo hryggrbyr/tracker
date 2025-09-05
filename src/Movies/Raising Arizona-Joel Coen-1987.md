@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Raising Arizona
 year: 1987

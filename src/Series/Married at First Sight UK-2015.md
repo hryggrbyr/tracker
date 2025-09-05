@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Married at First Sight UK
 year: 2015

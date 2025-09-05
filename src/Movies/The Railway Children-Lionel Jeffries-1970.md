@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: The Railway Children
 year: 1970

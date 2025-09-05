@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Jaws
 year: 1975

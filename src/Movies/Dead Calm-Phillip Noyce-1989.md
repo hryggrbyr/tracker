@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: AU
 title: Dead Calm
 year: 1989

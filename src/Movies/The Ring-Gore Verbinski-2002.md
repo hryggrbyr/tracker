@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Ring
 year: 2002

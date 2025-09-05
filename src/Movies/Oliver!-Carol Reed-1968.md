@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Oliver!
 year: 1968

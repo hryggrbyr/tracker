@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Amy Bradley Is Missing
 year: 2025

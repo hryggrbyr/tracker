@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Bone Collector
 year: 1999

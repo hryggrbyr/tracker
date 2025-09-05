@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Star Wars
 year: 1977

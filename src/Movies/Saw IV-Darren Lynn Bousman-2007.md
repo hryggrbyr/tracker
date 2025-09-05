@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Saw IV
 year: 2007

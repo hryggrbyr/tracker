@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Teaching Mrs. Tingle
 year: 1999

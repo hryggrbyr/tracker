@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Paradise Lost 2: Revelations"
 year: 2000

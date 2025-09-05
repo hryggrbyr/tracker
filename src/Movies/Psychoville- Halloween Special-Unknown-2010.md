@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: Unknown
 title: "Psychoville: Halloween Special"
 year: 2010

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: NZ, US
 title: West of Memphis
 year: 2012

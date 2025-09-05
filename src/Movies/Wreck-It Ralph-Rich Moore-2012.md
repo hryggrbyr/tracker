@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Wreck-It Ralph
 year: 2012

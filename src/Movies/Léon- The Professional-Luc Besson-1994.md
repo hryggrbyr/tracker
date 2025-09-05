@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: FR
 title: "Léon: The Professional"
 year: 1994

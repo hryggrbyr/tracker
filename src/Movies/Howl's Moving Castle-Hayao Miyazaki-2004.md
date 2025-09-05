@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Howl's Moving Castle
 year: 2004

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: My Girl
 year: 1991

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Groundhog Day
 year: 1993

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Devil's Rejects
 year: 2005

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: "Peter Kay: Live at the Top of the Tower"
 year: 2000

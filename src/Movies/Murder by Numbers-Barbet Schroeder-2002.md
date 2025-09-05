@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Murder by Numbers
 year: 2002

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Love Actually
 year: 2003

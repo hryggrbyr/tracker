@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Young Guns
 year: 1988

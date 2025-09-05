@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Grosse Pointe Blank
 year: 1997

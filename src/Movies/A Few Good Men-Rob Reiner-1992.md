@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: A Few Good Men
 year: 1992

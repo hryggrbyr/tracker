@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Scooby-Doo
 year: 2002

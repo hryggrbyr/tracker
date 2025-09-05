@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Alien
 year: 1979

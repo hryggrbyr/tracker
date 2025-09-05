@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Eastbound & Down
 year: 2009

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Surviving Paradise
 year: 2023

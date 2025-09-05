@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: DE, GB, US
 title: Ghost World
 year: 2001

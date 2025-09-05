@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Tremors
 year: 1990

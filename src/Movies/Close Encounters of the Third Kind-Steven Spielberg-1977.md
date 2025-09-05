@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Close Encounters of the Third Kind
 year: 1977

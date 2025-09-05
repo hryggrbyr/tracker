@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: 28 Days Later
 year: 2002

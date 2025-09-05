@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: He's All That
 year: 2021

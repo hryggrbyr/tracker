@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: "Andrew: The Problem Prince"
 year: 2023

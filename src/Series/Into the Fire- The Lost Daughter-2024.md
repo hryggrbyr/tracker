@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: "Into the Fire: The Lost Daughter"
 year: 2024

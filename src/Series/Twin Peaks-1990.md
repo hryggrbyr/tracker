@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Twin Peaks
 year: 1990

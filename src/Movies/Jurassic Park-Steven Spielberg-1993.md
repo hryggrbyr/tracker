@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Jurassic Park
 year: 1993

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Princess Bride
 year: 1987

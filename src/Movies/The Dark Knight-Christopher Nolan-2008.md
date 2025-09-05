@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Dark Knight
 year: 2008

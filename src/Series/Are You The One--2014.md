@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Are You The One?
 year: 2014

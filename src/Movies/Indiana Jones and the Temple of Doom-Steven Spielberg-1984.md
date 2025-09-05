@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Indiana Jones and the Temple of Doom
 year: 1984

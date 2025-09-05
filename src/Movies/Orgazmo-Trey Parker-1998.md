@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, JP
 title: Orgazmo
 year: 1998

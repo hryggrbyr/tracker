@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Jurassic World
 year: 2015

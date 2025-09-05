@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Gone with the Wind
 year: 1939

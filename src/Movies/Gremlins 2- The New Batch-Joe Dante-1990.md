@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Gremlins 2: The New Batch"
 year: 1990

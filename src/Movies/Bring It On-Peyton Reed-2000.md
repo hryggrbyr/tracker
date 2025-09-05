@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Bring It On
 year: 2000

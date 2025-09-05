@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: I'm Alan Partridge
 year: 1997

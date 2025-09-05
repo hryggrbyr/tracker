@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: He Said, She Said
 year: 1991

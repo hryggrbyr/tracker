@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: First Blood
 year: 1982

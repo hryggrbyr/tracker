@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Peep Show
 year: 2003

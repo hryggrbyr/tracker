@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "The Hunger Games: Catching Fire"
 year: 2013

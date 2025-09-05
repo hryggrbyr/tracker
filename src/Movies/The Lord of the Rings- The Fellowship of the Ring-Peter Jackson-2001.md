@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "The Lord of the Rings: The Fellowship of the Ring"
 year: 2001

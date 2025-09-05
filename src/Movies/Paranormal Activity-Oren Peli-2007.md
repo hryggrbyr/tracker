@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Paranormal Activity
 year: 2007

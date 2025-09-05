@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Coraline
 year: 2009

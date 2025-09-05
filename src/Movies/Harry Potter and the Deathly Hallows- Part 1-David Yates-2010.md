@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: "Harry Potter and the Deathly Hallows: Part 1"
 year: 2010

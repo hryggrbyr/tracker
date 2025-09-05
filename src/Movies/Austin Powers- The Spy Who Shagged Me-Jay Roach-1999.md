@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Austin Powers: The Spy Who Shagged Me"
 year: 1999

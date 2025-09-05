@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Mad Men
 year: 2007

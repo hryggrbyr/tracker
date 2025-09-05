@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Reservoir Dogs
 year: 1992

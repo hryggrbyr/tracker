@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Hills Have Eyes 2
 year: 2007

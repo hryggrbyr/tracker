@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Sleeping with the Enemy
 year: 1991

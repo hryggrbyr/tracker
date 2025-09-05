@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Sleepers
 year: 1996

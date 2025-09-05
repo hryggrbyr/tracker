@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Boiling Point
 year: 2021

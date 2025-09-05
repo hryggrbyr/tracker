@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: JP
 title: Alice in Borderland
 year: 2020

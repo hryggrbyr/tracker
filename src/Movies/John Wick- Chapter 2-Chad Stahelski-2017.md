@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "John Wick: Chapter 2"
 year: 2017

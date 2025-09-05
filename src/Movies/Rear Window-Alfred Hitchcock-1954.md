@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Rear Window
 year: 1954

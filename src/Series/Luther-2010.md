@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Luther
 year: 2010

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Chocolat
 year: 2000

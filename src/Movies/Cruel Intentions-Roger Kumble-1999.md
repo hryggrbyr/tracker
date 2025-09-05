@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Cruel Intentions
 year: 1999

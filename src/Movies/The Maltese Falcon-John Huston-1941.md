@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Maltese Falcon
 year: 1941

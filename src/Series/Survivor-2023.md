@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Survivor
 year: 2023

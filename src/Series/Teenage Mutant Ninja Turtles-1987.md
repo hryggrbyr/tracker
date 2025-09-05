@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Teenage Mutant Ninja Turtles
 year: 1987

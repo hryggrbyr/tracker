@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Bill & Ted's Excellent Adventures
 year: 1990

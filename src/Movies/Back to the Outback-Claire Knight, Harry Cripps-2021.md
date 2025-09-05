@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: AU, US
 title: Back to the Outback
 year: 2021

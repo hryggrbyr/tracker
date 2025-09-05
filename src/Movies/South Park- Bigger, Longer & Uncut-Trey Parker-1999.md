@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "South Park: Bigger, Longer & Uncut"
 year: 1999

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Truman Show
 year: 1998

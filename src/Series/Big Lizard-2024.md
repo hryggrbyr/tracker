@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: FR, GB
 title: Big Lizard
 year: 2024

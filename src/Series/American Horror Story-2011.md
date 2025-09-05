@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: American Horror Story
 year: 2011

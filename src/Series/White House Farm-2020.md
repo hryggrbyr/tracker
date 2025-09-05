@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: White House Farm
 year: 2020

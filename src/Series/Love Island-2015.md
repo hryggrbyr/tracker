@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Love Island
 year: 2015

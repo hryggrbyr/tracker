@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Dead Boy Detectives
 year: 2024

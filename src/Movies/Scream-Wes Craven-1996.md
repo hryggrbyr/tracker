@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Scream
 year: 1996

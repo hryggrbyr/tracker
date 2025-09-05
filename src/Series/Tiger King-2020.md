@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Tiger King
 year: 2020

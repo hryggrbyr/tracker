@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Drop Dead Gorgeous
 year: 1999

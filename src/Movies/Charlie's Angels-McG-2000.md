@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Charlie's Angels
 year: 2000

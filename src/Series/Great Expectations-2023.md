@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB, US
 title: Great Expectations
 year: 2023

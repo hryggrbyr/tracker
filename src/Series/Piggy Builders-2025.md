@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: FR, DE, GB
 title: Piggy Builders
 year: 2025

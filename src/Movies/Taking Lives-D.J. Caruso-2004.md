@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Taking Lives
 year: 2004

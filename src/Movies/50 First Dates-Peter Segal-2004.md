@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: 50 First Dates
 year: 2004

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Deck the Halls
 year: 2006

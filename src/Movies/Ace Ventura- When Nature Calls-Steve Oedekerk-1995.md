@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Ace Ventura: When Nature Calls"
 year: 1995

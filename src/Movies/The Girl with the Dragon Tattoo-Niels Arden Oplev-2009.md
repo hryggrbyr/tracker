@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: DK, DE, NO, SE
 title: The Girl with the Dragon Tattoo
 year: 2009

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Christmas Chronicles
 year: 2018

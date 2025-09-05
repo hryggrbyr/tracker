@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: KR
 title: Sympathy for Mr. Vengeance
 year: 2002

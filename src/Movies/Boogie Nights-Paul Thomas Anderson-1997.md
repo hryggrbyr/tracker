@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Boogie Nights
 year: 1997

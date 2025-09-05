@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: AU
 title: Mad Max 2
 year: 1981

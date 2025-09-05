@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Hatchet Wielding Hitchhiker
 year: 2023

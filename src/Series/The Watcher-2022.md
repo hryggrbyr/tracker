@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: The Watcher
 year: 2022

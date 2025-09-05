@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Christine
 year: 1983

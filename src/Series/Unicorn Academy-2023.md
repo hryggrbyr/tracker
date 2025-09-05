@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: CA
 title: Unicorn Academy
 year: 2023

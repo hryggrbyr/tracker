@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: I Know What You Did Last Summer
 year: 1997

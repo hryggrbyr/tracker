@@ -1,27 +1,28 @@
 ---
 type: movie
-country: United States, Canada
-title: Mother!
+country: US
+title: mother!
 year: 2017
 director: Darren Aronofsky
 actors:
   - Jennifer Lawrence
   - Javier Bardem
   - Ed Harris
+  - Michelle Pfeiffer
+  - Brian Gleeson
 genre:
-  - Drama
   - Horror
-  - Mystery
-length: 121
+  - Drama
+length: 2h 1m
 shelf: watched
 owned: false
-rating: 2
-watched: 2017-12-31
-poster: https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_SX300.jpg
+rating:
+watched: 2017-09-15
+poster: https://image.tmdb.org/t/p/w500/fjny9chXPx69ln1LMJxbwi5yHMt.jpg
 ---
 
-# Mother! (2017)
+# mother! (2017)
 
-![](https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_SX300.jpg)
+![](https://image.tmdb.org/t/p/w500/fjny9chXPx69ln1LMJxbwi5yHMt.jpg)
 
 A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.

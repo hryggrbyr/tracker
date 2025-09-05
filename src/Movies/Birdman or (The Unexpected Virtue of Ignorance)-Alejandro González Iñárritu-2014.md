@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Birdman or (The Unexpected Virtue of Ignorance)
 year: 2014

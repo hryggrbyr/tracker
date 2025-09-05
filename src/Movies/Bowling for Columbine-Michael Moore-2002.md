@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Bowling for Columbine
 year: 2002

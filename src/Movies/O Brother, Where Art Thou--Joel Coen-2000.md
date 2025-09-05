@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: O Brother, Where Art Thou?
 year: 2000

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: "The Ultimatum: Queer Love"
 year: 2023

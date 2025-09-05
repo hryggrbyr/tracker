@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Ghostbusters II
 year: 1989

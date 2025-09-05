@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Sound of Music
 year: 1965

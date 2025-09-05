@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: V for Vendetta
 year: 2006

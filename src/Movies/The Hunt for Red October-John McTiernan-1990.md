@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Hunt for Red October
 year: 1990

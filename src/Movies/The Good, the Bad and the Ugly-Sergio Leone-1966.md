@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: IT
 title: The Good, the Bad and the Ugly
 year: 1966

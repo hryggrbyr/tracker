@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Stepford Wives
 year: 2004

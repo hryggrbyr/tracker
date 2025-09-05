@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Panic Room
 year: 2002

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Olivia Attwood's Bad Boyfriends
 year: 2024

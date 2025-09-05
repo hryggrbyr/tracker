@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: "Avatar: The Last Airbender"
 year: 2005

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Apocalypse Now
 year: 1979

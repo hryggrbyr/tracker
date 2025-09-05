@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: 10 Cloverfield Lane
 year: 2016

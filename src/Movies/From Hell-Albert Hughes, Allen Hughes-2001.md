@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: From Hell
 year: 2001

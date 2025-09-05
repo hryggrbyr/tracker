@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, DE
 title: Red Dragon
 year: 2002

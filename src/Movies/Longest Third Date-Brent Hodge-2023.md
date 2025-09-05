@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Longest Third Date
 year: 2023

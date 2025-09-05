@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Freaky Friday
 year: 2003

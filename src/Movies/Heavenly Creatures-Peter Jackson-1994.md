@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: NZ
 title: Heavenly Creatures
 year: 1994

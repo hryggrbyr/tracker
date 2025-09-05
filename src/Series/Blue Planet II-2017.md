@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Blue Planet II
 year: 2017

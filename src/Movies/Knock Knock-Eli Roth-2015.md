@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Knock Knock
 year: 2015

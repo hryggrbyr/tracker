@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Code of Silence
 year: 2025

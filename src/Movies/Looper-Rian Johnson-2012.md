@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Looper
 year: 2012

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Karate Kid Part III
 year: 1989

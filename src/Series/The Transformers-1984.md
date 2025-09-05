@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: The Transformers
 year: 1984

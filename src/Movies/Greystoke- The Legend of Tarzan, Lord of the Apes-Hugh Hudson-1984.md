@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, GB
 title: "Greystoke: The Legend of Tarzan, Lord of the Apes"
 year: 1984

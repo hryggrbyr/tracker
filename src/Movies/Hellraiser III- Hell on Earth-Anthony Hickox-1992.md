@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Hellraiser III: Hell on Earth"
 year: 1992

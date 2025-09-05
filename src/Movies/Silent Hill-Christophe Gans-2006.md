@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA
 title: Silent Hill
 year: 2006

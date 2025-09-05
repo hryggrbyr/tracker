@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Picture Perfect
 year: 1997

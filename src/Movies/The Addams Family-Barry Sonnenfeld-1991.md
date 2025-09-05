@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Addams Family
 year: 1991

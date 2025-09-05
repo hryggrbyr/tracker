@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Trainspotting
 year: 1996

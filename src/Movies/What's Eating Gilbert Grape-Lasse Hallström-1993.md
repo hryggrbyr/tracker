@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: What's Eating Gilbert Grape
 year: 1993

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Superworm
 year: 2021

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Hellraiser
 year: 1987

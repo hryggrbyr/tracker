@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Tales from Earthsea
 year: 2006

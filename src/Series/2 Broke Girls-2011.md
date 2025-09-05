@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: 2 Broke Girls
 year: 2011

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Strictly Come Dancing
 year: 2004

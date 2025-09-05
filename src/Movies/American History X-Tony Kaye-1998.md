@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: American History X
 year: 1998

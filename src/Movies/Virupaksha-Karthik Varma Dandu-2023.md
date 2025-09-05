@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: IN
 title: Virupaksha
 year: 2023

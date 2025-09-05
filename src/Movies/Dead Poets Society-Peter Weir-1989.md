@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Dead Poets Society
 year: 1989

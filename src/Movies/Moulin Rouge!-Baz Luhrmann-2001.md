@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Moulin Rouge!
 year: 2001

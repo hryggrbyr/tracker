@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Shutter
 year: 2008

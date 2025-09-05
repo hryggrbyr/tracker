@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Blade Runner
 year: 1982

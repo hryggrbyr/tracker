@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Nine Inch Nails & David Bowie: Dissonance"
 year: 1995

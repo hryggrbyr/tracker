@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: FR
 title: Delicatessen
 year: 1991

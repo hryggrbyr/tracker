@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Die Hard
 year: 1988

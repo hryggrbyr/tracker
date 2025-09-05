@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Leaving Las Vegas
 year: 1995

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Westworld
 year: 1973

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: DE
 title: Metropolis
 year: 1927

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: A Very Murray Christmas
 year: 2015

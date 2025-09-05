@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Inside Out
 year: 2015

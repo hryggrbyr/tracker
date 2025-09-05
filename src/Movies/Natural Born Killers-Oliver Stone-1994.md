@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Natural Born Killers
 year: 1994

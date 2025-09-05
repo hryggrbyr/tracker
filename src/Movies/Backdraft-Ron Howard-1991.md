@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Backdraft
 year: 1991

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: DK, SE
 title: The Girl Who Played with Fire
 year: 2009

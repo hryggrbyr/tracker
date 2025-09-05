@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: "Dancing for the Devil: The 7M TikTok Cult"
 year: 2024

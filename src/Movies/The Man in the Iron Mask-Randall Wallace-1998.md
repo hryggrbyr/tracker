@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Man in the Iron Mask
 year: 1998

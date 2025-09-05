@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Child's Play
 year: 1988

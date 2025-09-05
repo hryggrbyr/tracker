@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Modern Family
 year: 2009

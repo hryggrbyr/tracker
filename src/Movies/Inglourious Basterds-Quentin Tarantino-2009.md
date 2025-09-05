@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Inglourious Basterds
 year: 2009

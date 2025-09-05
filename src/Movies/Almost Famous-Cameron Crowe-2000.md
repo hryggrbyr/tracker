@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Almost Famous
 year: 2000

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Shrek
 year: 2001

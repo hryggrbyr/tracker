@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Dark Water
 year: 2005

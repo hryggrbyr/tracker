@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: IT, US
 title: Dawn of the Dead
 year: 1978

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Blue Velvet
 year: 1986

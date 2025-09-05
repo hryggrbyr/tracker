@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Charlie and the Chocolate Factory
 year: 2005

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Apollo 13
 year: 1995

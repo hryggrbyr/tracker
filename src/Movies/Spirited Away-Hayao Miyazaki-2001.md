@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Spirited Away
 year: 2001

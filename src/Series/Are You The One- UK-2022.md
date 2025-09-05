@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Are You The One? UK
 year: 2022

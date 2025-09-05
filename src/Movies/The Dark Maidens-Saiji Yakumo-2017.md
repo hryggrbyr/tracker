@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: The Dark Maidens
 year: 2017

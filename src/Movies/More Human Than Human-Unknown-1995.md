@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: Unknown
 title: More Human Than Human
 year: 1995

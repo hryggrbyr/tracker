@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Arsenic and Old Lace
 year: 1944

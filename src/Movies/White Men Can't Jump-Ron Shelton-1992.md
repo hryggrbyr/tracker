@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: White Men Can't Jump
 year: 1992

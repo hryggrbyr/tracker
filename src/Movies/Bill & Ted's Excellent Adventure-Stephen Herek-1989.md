@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Bill & Ted's Excellent Adventure
 year: 1989

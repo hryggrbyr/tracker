@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Kids
 year: 1995

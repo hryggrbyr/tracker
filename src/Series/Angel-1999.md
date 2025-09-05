@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Angel
 year: 1999

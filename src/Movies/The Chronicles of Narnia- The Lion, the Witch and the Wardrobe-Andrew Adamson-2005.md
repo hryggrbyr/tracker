@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, GB
 title: "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
 year: 2005

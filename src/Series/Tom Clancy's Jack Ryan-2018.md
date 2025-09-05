@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Tom Clancy's Jack Ryan
 year: 2018

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Beauty and the Beast
 year: 1991

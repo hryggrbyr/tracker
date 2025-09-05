@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Shallow Grave
 year: 1994

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: IE, GB
 title: Father Ted
 year: 1995

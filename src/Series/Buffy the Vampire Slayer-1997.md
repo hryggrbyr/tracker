@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Buffy the Vampire Slayer
 year: 1997

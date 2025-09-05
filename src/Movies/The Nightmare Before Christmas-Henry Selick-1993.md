@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Nightmare Before Christmas
 year: 1993

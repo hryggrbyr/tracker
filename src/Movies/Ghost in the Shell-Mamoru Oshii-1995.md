@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Ghost in the Shell
 year: 1995

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: AU, US
 title: The Adventures of Priscilla, Queen of the Desert
 year: 1994

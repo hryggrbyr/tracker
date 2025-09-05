@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Speed
 year: 1994

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Hollow Man
 year: 2000

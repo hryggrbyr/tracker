@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Monty Python and the Holy Grail
 year: 1975

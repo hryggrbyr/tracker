@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Shrek 2
 year: 2004

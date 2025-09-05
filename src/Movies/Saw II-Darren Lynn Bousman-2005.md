@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Saw II
 year: 2005

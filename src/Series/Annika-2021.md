@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Annika
 year: 2021

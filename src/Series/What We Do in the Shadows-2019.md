@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: What We Do in the Shadows
 year: 2019

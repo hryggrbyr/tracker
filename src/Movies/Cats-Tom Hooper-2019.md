@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Cats
 year: 2019

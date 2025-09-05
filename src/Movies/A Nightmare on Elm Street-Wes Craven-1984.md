@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: A Nightmare on Elm Street
 year: 1984

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "The Naked Gun: From the Files of Police Squad!"
 year: 1988

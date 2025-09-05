@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Mission: Impossible III"
 year: 2006

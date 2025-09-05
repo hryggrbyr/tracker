@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: A Close Shave
 year: 1996

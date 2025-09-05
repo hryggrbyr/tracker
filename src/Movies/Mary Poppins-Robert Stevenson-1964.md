@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Mary Poppins
 year: 1964

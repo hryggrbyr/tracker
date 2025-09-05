@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Now You See Me 2
 year: 2016

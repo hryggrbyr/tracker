@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Saw VI
 year: 2009

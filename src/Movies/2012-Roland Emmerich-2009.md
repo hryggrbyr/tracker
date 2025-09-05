@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "2012"
 year: 2009

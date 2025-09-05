@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Reacher
 year: 2022

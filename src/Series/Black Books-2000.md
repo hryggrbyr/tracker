@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Black Books
 year: 2000

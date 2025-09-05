@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: KR
 title: Lady Vengeance
 year: 2005

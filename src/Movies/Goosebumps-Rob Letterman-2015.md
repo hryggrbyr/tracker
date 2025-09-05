@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Goosebumps
 year: 2015

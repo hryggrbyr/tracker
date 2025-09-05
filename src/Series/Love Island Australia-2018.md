@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: AU
 title: Love Island Australia
 year: 2018

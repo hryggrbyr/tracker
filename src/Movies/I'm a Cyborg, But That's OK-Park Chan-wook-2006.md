@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: KR
 title: I'm a Cyborg, But That's OK
 year: 2006

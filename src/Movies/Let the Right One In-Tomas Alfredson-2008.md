@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: SE
 title: Let the Right One In
 year: 2008

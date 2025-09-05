@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Scott Pilgrim vs. the World
 year: 2010

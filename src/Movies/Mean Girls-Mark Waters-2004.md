@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Mean Girls
 year: 2004

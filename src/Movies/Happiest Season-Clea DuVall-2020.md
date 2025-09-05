@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Happiest Season
 year: 2020

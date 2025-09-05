@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: JP
 title: Neon Genesis Evangelion
 year: 1995

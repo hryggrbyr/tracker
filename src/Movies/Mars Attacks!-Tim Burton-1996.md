@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Mars Attacks!
 year: 1996

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Paradise Lost: The Child Murders at Robin Hood Hills"
 year: 1996

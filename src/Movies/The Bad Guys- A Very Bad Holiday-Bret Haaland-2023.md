@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "The Bad Guys: A Very Bad Holiday"
 year: 2023

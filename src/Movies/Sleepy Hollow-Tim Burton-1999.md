@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Sleepy Hollow
 year: 1999

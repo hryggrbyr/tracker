@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Uncut Gems
 year: 2019

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Hansel & Gretel: Witch Hunters"
 year: 2013

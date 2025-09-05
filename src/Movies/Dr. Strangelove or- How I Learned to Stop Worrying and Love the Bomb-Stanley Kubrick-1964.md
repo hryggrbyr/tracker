@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
 year: 1964

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: High Fidelity
 year: 2020

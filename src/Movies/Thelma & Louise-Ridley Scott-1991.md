@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Thelma & Louise
 year: 1991

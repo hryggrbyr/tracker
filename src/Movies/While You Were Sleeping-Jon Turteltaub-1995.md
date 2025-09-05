@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: While You Were Sleeping
 year: 1995

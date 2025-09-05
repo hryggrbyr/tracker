@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: FR
 title: The Fifth Element
 year: 1997

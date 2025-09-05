@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Scooby-Doo 2: Monsters Unleashed"
 year: 2004

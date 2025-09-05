@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: The Office
 year: 2005

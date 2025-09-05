@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Audition
 year: 2000

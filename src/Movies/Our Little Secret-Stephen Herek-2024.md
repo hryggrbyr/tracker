@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Our Little Secret
 year: 2024

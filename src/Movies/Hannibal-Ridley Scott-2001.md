@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Hannibal
 year: 2001

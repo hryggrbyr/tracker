@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Benny & Joon
 year: 1993

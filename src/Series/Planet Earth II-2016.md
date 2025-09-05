@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Planet Earth II
 year: 2016

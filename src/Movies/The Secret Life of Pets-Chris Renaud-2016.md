@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Secret Life of Pets
 year: 2016

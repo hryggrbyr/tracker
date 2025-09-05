@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Zog and the Flying Doctors
 year: 2021

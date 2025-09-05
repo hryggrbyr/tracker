@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Garth Marenghi's Darkplace
 year: 2004

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Snake Eyes
 year: 1998

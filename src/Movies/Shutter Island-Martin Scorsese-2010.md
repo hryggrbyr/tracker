@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Shutter Island
 year: 2010

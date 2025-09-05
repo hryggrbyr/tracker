@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Home Alone 2: Lost in New York"
 year: 1992

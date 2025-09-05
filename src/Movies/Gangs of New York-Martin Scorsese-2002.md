@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Gangs of New York
 year: 2002

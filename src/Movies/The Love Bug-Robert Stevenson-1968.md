@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Love Bug
 year: 1968

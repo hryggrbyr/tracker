@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: Attenborough and the Sea Dragon
 year: 2018

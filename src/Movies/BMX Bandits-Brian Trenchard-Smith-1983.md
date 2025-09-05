@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: AU
 title: BMX Bandits
 year: 1983

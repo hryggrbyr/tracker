@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Good Will Hunting
 year: 1997

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Frozen Planet
 year: 2011

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Red Dwarf
 year: 1988

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Manhunter
 year: 1986

@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Pride and Prejudice
 year: 1995

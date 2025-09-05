@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: RuPaul's Drag Race UK
 year: 2019

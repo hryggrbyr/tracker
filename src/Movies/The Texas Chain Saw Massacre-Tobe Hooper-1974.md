@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Texas Chain Saw Massacre
 year: 1974

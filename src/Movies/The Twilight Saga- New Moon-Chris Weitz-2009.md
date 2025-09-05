@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "The Twilight Saga: New Moon"
 year: 2009

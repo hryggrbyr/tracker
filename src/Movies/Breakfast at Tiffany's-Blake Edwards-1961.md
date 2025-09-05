@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Breakfast at Tiffany's
 year: 1961

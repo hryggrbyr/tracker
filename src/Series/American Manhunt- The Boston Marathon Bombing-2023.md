@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: "American Manhunt: The Boston Marathon Bombing"
 year: 2023

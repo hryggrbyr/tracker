@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Fly
 year: 1986

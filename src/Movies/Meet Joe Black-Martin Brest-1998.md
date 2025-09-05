@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Meet Joe Black
 year: 1998

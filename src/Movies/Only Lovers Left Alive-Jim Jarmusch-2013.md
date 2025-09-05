@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: FR, DE, GR, GB
 title: Only Lovers Left Alive
 year: 2013

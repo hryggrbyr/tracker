@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Homeland
 year: 2011

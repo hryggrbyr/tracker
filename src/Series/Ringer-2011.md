@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Ringer
 year: 2011

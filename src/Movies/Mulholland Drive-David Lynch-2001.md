@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Mulholland Drive
 year: 2001

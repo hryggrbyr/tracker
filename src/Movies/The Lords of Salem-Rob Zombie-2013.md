@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Lords of Salem
 year: 2013

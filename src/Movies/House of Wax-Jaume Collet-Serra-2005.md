@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: House of Wax
 year: 2005

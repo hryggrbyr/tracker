@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Pirates of the Caribbean: Dead Man's Chest"
 year: 2006

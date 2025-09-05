@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Blackadder
 year: 1983

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Batman Forever
 year: 1995

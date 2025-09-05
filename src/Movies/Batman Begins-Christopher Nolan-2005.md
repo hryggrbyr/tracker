@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Batman Begins
 year: 2005

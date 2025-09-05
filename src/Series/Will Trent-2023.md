@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Will Trent
 year: 2023

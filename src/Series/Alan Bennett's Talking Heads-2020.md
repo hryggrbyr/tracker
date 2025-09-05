@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Alan Bennett's Talking Heads
 year: 2020

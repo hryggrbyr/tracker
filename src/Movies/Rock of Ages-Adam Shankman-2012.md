@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Rock of Ages
 year: 2012

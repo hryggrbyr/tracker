@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Donnie Brasco
 year: 1997
