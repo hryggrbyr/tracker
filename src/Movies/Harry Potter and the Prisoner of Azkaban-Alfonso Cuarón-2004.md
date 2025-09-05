@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Harry Potter and the Prisoner of Azkaban
 year: 2004
