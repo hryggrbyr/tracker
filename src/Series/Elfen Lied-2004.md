@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: JP
 title: Elfen Lied
 year: 2004
