@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: The Cat Returns
 year: 2002
