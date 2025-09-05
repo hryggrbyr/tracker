@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: A Clockwork Orange
 year: 1971
