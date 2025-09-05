@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Below Deck Down Under
 year: 2022
