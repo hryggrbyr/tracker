@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Fugitive
 year: 1993
