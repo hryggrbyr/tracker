@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Little Nicky
 year: 2000
