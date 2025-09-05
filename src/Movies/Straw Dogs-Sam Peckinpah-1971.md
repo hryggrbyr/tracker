@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: Straw Dogs
 year: 1971
