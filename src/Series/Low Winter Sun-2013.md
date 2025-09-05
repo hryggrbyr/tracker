@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Low Winter Sun
 year: 2013
