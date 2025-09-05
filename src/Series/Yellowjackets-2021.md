@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Yellowjackets
 year: 2021
