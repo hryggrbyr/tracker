@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Crow
 year: 1994
