@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: GoodFellas
 year: 1990
