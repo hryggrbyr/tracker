@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Kentucky Fried Movie
 year: 1977
