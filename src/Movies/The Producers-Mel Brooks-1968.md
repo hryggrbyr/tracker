@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Producers
 year: 1968
