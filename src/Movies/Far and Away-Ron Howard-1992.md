@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Far and Away
 year: 1992
