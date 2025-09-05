@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: The Haunting of Hill House
 year: 2018
