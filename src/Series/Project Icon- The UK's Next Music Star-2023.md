@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: "Project Icon: The UK's Next Music Star"
 year: 2023
