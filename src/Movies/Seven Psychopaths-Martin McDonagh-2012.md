@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Seven Psychopaths
 year: 2012
