@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Roald Dahl's The Witches
 year: 2020
