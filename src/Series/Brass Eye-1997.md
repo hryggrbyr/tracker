@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Brass Eye
 year: 1997
