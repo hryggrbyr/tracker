@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Soul Survivors
 year: 2001
