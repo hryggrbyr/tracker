@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Dawson's Creek
 year: 1998
