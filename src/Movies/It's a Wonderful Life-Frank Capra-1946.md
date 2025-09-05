@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: It's a Wonderful Life
 year: 1946
