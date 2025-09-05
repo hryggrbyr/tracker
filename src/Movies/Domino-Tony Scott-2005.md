@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: FR, GB, US
 title: Domino
 year: 2005
