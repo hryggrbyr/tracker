@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: American Psycho
 year: 2000
