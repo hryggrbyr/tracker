@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Face/Off
 year: 1997
