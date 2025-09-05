@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Terminator 2: Judgment Day"
 year: 1991
