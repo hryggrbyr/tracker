@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Untouchables
 year: 1987
