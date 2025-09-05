@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: L.A. Confidential
 year: 1997
