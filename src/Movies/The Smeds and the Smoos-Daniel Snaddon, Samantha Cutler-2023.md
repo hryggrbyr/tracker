@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, DE
 title: The Smeds and the Smoos
 year: 2023
