@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: RU
 title: Day Watch
 year: 2006
