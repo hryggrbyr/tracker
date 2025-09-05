@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Demolition Man
 year: 1993
