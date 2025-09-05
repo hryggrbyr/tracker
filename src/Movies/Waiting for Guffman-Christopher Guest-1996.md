@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Waiting for Guffman
 year: 1996
