@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Talented Mr. Ripley
 year: 1999
