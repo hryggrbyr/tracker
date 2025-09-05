@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Princess Switch
 year: 2018
