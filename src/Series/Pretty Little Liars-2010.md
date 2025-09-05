@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Pretty Little Liars
 year: 2010
