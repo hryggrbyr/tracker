@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Three Girls
 year: 2017
