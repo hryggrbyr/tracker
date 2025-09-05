@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Pelican Brief
 year: 1993
