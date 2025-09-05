@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA
 title: Crash
 year: 1996
