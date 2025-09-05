@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Sabrina, the Teenage Witch
 year: 1996
