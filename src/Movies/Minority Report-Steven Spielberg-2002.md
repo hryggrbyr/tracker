@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Minority Report
 year: 2002
