@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Corpse Bride
 year: 2005
