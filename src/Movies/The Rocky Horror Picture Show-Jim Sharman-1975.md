@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: The Rocky Horror Picture Show
 year: 1975
