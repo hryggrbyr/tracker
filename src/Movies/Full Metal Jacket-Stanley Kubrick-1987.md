@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Full Metal Jacket
 year: 1987
