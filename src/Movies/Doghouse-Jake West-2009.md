@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Doghouse
 year: 2009
