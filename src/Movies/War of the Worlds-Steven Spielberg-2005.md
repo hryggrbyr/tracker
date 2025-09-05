@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: War of the Worlds
 year: 2005
