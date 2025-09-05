@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Sin City
 year: 2005
