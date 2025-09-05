@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Species
 year: 1995
