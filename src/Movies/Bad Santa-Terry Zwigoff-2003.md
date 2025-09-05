@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Bad Santa
 year: 2003
