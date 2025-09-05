@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Harry Potter and the Chamber of Secrets
 year: 2002
