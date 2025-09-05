@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: KR
 title: "Physical: 100"
 year: 2023
