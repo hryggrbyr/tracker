@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Pirates of the Caribbean: The Curse of the Black Pearl"
 year: 2003
