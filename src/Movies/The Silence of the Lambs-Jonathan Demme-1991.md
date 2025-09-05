@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Silence of the Lambs
 year: 1991
