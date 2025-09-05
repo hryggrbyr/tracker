@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA, FR, ES
 title: Enemy
 year: 2014
