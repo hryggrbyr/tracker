@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Friday the 13th
 year: 1980
