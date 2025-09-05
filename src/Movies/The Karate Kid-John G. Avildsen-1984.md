@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Karate Kid
 year: 1984
