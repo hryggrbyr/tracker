@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Stranger Things
 year: 2016
