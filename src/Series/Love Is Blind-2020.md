@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Love Is Blind
 year: 2020
