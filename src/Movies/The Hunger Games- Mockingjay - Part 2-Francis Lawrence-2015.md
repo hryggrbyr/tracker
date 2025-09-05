@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "The Hunger Games: Mockingjay - Part 2"
 year: 2015
