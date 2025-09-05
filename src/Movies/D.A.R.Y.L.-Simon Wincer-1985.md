@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: D.A.R.Y.L.
 year: 1985
