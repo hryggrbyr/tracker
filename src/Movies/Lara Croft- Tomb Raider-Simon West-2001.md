@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Lara Croft: Tomb Raider"
 year: 2001
