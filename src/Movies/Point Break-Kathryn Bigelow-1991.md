@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Point Break
 year: 1991
