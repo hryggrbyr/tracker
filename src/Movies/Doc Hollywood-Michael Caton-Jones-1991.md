@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Doc Hollywood
 year: 1991
