@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: DuckTales
 year: 1987
