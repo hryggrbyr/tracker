@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Gia
 year: 1998
