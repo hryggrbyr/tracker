@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Primal Fear
 year: 1996
