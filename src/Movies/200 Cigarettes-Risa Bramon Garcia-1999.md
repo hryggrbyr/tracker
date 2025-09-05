@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: 200 Cigarettes
 year: 1999
