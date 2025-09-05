@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Interview with the Vampire
 year: 1994
