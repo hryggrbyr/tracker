@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: G.I. Jane
 year: 1997
