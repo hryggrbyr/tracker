@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Lost in Translation
 year: 2003
