@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Shaun of the Dead
 year: 2004
