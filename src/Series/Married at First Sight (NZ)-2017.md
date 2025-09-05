@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: NZ
 title: Married at First Sight (NZ)
 year: 2017
