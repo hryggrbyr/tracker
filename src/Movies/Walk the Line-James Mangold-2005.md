@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Walk the Line
 year: 2005
