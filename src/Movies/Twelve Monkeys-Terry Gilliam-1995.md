@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Twelve Monkeys
 year: 1995
