@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Love Island
 year: 2019
