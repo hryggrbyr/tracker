@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Mystery Men
 year: 1999
