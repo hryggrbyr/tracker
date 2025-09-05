@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Wizard of Oz
 year: 1939
