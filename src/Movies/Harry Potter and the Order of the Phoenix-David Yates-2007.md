@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Harry Potter and the Order of the Phoenix
 year: 2007
