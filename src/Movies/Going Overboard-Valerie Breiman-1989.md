@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Going Overboard
 year: 1989
