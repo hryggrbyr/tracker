@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA, FR, GB
 title: eXistenZ
 year: 1999
