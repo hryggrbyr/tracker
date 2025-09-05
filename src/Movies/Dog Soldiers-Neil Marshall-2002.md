@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, LU
 title: Dog Soldiers
 year: 2002
