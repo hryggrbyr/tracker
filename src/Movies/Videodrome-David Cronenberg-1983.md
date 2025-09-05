@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA
 title: Videodrome
 year: 1983
