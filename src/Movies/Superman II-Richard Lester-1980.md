@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Superman II
 year: 1980
