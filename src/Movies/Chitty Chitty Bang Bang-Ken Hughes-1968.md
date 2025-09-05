@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, GB
 title: Chitty Chitty Bang Bang
 year: 1968
