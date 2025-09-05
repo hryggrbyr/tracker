@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: NZ
 title: FBOY Island NZ
 year: 2022
