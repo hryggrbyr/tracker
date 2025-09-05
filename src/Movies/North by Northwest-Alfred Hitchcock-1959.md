@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: North by Northwest
 year: 1959
