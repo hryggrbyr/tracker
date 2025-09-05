@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Pretty Woman
 year: 1990
