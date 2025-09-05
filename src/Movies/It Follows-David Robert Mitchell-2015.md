@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: It Follows
 year: 2015
