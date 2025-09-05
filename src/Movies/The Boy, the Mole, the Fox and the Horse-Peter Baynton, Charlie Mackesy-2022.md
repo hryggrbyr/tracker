@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: The Boy, the Mole, the Fox and the Horse
 year: 2022
