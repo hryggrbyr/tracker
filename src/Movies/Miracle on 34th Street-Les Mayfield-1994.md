@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Miracle on 34th Street
 year: 1994
