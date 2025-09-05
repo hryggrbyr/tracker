@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA, US
 title: Angel Falls Christmas
 year: 2021
