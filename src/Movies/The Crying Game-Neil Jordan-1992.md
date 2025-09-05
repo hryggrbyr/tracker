@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: The Crying Game
 year: 1992
