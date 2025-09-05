@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Big Fish
 year: 2003
