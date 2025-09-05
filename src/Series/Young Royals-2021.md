@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: SE
 title: Young Royals
 year: 2021
