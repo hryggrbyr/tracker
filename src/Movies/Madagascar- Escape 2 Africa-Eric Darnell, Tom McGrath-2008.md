@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Madagascar: Escape 2 Africa"
 year: 2008
