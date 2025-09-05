@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Gattaca
 year: 1997
