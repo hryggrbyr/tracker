@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: WWE Royal Rumble 2024
 year: 2024
