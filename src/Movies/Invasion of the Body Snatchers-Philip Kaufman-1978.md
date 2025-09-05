@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Invasion of the Body Snatchers
 year: 1978
