@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Fear and Loathing in Las Vegas
 year: 1998
