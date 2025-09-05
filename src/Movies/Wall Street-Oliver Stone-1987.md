@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Wall Street
 year: 1987
