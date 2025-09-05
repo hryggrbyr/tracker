@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: The Blue Planet
 year: 2001
