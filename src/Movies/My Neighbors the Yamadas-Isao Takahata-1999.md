@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: My Neighbors the Yamadas
 year: 1999
