@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Thing
 year: 1982
