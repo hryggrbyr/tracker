@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: American Beauty
 year: 1999
