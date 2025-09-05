@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "The Hobbit: An Unexpected Journey"
 year: 2012
