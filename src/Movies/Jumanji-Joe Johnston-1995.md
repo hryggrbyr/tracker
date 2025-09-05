@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Jumanji
 year: 1995
