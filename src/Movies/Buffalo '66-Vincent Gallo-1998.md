@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Buffalo '66
 year: 1998
