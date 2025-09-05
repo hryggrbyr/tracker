@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: 25th Hour
 year: 2002
