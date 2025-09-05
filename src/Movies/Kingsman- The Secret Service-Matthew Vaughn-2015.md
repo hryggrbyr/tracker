@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: "Kingsman: The Secret Service"
 year: 2015
