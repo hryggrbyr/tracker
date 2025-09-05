@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: "Star Trek: The Next Generation"
 year: 1987
