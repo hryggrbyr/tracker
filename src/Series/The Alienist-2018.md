@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: The Alienist
 year: 2018
