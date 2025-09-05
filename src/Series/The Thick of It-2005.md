@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: The Thick of It
 year: 2005
