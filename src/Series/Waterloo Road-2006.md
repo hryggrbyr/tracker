@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Waterloo Road
 year: 2006
