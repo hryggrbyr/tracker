@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Small Soldiers
 year: 1998
