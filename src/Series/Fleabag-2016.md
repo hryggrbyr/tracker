@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Fleabag
 year: 2016
