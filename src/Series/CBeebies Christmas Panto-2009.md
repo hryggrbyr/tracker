@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: Unknown
 title: CBeebies Christmas Panto
 year: 2009
