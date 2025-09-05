@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Willy Wonka & the Chocolate Factory
 year: 1971
