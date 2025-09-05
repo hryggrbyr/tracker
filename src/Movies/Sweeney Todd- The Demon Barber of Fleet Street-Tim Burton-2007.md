@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, GB
 title: "Sweeney Todd: The Demon Barber of Fleet Street"
 year: 2007
