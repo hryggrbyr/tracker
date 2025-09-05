@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: "Pirates of the Caribbean: On Stranger Tides"
 year: 2011
