@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Girl with the Dragon Tattoo
 year: 2011
