@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Runaway Jury
 year: 2003
