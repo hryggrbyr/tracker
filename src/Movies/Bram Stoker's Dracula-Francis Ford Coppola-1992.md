@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Bram Stoker's Dracula
 year: 1992
