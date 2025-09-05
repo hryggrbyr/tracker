@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: "Zom 100: Bucket List of the Dead"
 year: 2023
