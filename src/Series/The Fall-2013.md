@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: IE
 title: The Fall
 year: 2013
