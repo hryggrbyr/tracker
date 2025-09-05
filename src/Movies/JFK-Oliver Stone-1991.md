@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: JFK
 year: 1991
