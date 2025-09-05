@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Bridget Jones's Diary
 year: 2001
