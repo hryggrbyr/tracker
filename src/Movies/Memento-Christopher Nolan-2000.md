@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Memento
 year: 2000
