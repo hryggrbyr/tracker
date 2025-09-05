@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Notting Hill
 year: 1999
