@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Dallas Buyers Club
 year: 2013
