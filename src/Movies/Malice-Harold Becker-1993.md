@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Malice
 year: 1993
