@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: The X-Files
 year: 1993
