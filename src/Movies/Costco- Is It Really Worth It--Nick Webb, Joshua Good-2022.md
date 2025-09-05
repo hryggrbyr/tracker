@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: "Costco: Is It Really Worth It?"
 year: 2022
