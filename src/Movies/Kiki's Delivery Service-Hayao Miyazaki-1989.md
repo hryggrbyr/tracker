@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Kiki's Delivery Service
 year: 1989
