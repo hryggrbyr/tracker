@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Get Out
 year: 2017
