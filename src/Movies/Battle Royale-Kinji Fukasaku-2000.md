@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Battle Royale
 year: 2000
