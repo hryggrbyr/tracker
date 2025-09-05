@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Girl on the Third Floor
 year: 2019
