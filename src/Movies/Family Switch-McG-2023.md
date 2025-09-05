@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Family Switch
 year: 2023
