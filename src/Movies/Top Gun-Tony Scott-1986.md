@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Top Gun
 year: 1986
