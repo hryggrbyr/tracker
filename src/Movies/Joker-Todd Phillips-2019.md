@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Joker
 year: 2019
