@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: World War Z
 year: 2013
