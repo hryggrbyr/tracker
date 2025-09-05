@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Pecker
 year: 1998
