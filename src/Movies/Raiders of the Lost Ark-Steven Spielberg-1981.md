@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Raiders of the Lost Ark
 year: 1981
