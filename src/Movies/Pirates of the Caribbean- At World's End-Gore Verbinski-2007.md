@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Pirates of the Caribbean: At World's End"
 year: 2007
