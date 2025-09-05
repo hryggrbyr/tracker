@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: AU
 title: Love Triangle
 year: 2022
