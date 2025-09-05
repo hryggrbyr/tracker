@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Series 7: The Contenders"
 year: 2001
