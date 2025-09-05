@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Final Destination
 year: 2000
