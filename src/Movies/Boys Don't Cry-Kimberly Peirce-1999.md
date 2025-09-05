@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Boys Don't Cry
 year: 1999
