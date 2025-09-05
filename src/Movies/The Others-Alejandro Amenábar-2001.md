@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Others
 year: 2001
