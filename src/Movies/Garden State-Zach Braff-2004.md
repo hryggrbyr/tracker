@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Garden State
 year: 2004
