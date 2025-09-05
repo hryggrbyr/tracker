@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Little Shop of Horrors
 year: 1986
