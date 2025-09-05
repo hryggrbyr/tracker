@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: When Harry Met Sally...
 year: 1989
