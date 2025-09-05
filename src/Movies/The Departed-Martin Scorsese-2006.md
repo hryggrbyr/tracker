@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Departed
 year: 2006
