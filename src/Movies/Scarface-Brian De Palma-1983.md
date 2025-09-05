@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Scarface
 year: 1983
