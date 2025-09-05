@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Cunk on...
 year: 2018
