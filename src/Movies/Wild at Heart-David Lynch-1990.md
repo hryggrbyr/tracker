@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Wild at Heart
 year: 1990
