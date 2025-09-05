@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Maxine
 year: 2022
