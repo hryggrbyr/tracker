@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: The Man Who Fell to Earth
 year: 1976
