@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Girl, Interrupted
 year: 1999
