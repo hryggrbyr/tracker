@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: JP
 title: High School D×D
 year: 2012
