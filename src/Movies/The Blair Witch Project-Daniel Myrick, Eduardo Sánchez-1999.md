@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Blair Witch Project
 year: 1999
