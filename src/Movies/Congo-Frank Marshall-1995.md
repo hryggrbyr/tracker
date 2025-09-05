@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Congo
 year: 1995
