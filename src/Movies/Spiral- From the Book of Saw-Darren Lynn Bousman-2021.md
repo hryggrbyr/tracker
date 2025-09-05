@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Spiral: From the Book of Saw"
 year: 2021
