@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Summer of Sam
 year: 1999
