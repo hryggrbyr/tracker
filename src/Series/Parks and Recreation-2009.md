@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Parks and Recreation
 year: 2009
