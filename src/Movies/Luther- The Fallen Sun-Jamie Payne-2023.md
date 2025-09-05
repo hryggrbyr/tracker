@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, GB
 title: "Luther: The Fallen Sun"
 year: 2023
