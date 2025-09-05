@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, CA
 title: Prozac Nation
 year: 2001
