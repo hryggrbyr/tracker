@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: KR
 title: Snowpiercer
 year: 2013
