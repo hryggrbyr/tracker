@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Blow
 year: 2001
