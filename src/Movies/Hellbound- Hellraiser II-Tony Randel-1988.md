@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: "Hellbound: Hellraiser II"
 year: 1988
