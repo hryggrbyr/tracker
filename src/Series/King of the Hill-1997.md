@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: King of the Hill
 year: 1997
