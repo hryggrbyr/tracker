@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: The Most Hated Man on the Internet
 year: 2022
