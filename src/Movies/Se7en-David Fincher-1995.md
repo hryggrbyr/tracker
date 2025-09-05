@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Se7en
 year: 1995
