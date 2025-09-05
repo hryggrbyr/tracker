@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Who Framed Roger Rabbit
 year: 1988
