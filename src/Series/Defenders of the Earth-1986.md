@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Defenders of the Earth
 year: 1986
