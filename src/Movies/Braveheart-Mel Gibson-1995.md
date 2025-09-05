@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Braveheart
 year: 1995
