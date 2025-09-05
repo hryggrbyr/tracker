@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: My Best Friend's Wedding
 year: 1997
