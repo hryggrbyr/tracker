@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Con Air
 year: 1997
