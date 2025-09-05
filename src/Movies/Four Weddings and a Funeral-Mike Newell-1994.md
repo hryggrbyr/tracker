@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Four Weddings and a Funeral
 year: 1994
