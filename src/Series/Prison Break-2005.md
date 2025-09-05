@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Prison Break
 year: 2005
