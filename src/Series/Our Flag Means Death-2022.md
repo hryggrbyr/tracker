@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Our Flag Means Death
 year: 2022
