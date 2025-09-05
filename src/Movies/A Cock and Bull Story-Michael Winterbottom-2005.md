@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: A Cock and Bull Story
 year: 2005
