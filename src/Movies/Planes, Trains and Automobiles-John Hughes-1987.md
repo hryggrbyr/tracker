@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Planes, Trains and Automobiles
 year: 1987
