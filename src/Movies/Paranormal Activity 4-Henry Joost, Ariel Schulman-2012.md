@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Paranormal Activity 4
 year: 2012
