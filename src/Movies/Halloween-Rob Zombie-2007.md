@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Halloween
 year: 2007
