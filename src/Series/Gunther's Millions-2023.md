@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Gunther's Millions
 year: 2023
