@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: TH
 title: Shutter
 year: 2004
