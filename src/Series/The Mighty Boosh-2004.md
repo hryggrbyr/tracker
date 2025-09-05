@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: The Mighty Boosh
 year: 2004
