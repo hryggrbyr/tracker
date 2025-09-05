@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Hudson Hawk
 year: 1991
