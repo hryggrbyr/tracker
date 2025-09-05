@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Mindcage
 year: 2022
