@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Interior Design Masters with Alan Carr
 year: 2019
