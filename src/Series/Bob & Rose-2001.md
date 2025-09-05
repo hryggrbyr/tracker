@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Bob & Rose
 year: 2001
