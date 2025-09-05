@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Red One
 year: 2024
