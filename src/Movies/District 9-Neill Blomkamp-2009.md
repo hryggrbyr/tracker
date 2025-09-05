@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: District 9
 year: 2009
