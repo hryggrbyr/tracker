@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB, US
 title: The Crown
 year: 2016
