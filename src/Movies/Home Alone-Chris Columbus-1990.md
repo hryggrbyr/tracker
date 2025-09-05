@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Home Alone
 year: 1990
