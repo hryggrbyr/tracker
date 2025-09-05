@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Princess Mononoke
 year: 1997
