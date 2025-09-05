@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Futurama
 year: 1999
