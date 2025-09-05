@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: American Satan
 year: 2017
