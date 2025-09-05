@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The SpongeBob SquarePants Movie
 year: 2004
