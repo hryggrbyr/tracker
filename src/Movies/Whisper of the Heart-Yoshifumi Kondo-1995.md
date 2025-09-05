@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Whisper of the Heart
 year: 1995
