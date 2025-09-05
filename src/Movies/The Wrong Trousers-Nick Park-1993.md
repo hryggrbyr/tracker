@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: The Wrong Trousers
 year: 1993
