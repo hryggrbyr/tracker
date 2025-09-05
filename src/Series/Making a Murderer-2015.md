@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Making a Murderer
 year: 2015
