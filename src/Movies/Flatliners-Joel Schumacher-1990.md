@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Flatliners
 year: 1990
