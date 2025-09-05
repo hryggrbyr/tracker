@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Burlesque
 year: 2010
