@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Woman
 year: 2011
