@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "The Twilight Saga: Breaking Dawn - Part 1"
 year: 2011
