@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, GB
 title: "Wallace & Gromit: The Curse of the Were-Rabbit"
 year: 2005
