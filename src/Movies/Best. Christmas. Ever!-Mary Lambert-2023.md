@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Best. Christmas. Ever!
 year: 2023
