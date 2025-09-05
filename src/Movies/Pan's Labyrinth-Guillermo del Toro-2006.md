@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: MX, ES
 title: Pan's Labyrinth
 year: 2006
