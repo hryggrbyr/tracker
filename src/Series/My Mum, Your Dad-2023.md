@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: My Mum, Your Dad
 year: 2023
