@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Great Escape
 year: 1963
