@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Silent Witness
 year: 1996
