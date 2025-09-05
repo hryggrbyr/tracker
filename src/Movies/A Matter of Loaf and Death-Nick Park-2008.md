@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: A Matter of Loaf and Death
 year: 2008
