@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Mission: Impossible - Dead Reckoning Part One"
 year: 2023
