@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Poughkeepsie Tapes
 year: 2007
