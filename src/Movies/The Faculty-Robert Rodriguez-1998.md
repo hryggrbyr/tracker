@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, MX
 title: The Faculty
 year: 1998
