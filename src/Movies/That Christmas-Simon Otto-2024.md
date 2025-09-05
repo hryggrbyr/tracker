@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: That Christmas
 year: 2024
