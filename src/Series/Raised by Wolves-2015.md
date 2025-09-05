@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Raised by Wolves
 year: 2015
