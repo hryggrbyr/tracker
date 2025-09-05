@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Cheat
 year: 2019
