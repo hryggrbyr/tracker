@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Enemy of the State
 year: 1998
