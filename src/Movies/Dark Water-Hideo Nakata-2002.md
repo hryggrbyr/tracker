@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Dark Water
 year: 2002
