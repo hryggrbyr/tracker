@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Derry Girls
 year: 2018
