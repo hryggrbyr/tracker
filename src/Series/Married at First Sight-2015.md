@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: AU
 title: Married at First Sight
 year: 2015
