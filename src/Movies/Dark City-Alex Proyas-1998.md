@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: AU
 title: Dark City
 year: 1998
