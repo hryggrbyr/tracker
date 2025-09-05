@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Mom and Dad
 year: 2018
