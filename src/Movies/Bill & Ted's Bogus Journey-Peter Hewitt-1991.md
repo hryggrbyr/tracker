@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Bill & Ted's Bogus Journey
 year: 1991
