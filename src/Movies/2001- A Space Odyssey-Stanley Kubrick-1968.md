@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: "2001: A Space Odyssey"
 year: 1968
