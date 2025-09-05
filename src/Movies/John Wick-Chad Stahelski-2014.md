@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: John Wick
 year: 2014
