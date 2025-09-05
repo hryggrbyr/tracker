@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Respectable
 year: 2006
