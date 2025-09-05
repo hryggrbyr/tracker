@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA, FR
 title: Antiviral
 year: 2012
