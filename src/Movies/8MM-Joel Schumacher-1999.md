@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: 8MM
 year: 1999
