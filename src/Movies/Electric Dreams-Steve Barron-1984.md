@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, GB
 title: Electric Dreams
 year: 1984
