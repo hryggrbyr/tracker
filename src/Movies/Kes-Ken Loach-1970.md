@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Kes
 year: 1970
