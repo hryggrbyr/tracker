@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Bullitt
 year: 1968
