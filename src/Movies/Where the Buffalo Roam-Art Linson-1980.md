@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Where the Buffalo Roam
 year: 1980
