@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Paranormal Activity 3
 year: 2011
