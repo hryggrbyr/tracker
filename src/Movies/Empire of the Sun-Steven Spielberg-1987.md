@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Empire of the Sun
 year: 1987
