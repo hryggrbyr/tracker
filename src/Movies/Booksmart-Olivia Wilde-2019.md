@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Booksmart
 year: 2019
