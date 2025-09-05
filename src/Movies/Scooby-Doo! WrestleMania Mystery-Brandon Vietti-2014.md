@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Scooby-Doo! WrestleMania Mystery
 year: 2014
