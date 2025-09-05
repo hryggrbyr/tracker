@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: American Crime Story
 year: 2016
