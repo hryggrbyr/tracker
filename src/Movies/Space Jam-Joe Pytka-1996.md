@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Space Jam
 year: 1996
