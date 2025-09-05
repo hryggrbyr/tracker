@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: "Body in the Bin: The Murder of Louise Kam"
 year: 2024
