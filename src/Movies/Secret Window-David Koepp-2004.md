@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Secret Window
 year: 2004
