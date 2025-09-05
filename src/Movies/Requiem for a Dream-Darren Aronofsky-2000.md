@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Requiem for a Dream
 year: 2000
