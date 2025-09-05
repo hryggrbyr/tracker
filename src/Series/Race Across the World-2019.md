@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Race Across the World
 year: 2019
