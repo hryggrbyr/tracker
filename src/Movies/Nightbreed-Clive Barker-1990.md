@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Nightbreed
 year: 1990
