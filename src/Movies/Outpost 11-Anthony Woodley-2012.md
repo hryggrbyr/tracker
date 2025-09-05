@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: Outpost 11
 year: 2012
