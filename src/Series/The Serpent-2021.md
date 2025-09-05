@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: The Serpent
 year: 2021
