@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Next in Fashion
 year: 2020
