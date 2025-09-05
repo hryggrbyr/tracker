@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Don't Trust the B---- in Apartment 23
 year: 2012
