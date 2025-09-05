@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: KR
 title: Squid Game
 year: 2021
