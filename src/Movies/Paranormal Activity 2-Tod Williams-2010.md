@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Paranormal Activity 2
 year: 2010
