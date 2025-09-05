@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: A Time to Kill
 year: 1996
