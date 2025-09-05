@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: JP
 title: Naruto Shippūden
 year: 2007
