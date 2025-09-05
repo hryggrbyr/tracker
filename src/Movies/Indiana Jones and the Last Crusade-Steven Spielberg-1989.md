@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Indiana Jones and the Last Crusade
 year: 1989
