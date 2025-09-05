@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: I Know Who Killed Me
 year: 2007
