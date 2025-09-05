@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Gossip Girl
 year: 2007
