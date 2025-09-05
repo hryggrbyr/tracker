@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Hook
 year: 1991
