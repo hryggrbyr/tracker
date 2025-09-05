@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: High Fidelity
 year: 2000
