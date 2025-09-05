@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Six Feet Under
 year: 2001
