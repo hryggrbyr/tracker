@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Veronica Mars
 year: 2004
