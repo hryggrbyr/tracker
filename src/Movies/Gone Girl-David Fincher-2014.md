@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Gone Girl
 year: 2014
