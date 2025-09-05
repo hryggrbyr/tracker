@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Jumanji: The Next Level"
 year: 2019
