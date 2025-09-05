@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: RuPaul's Drag Race
 year: 2009
