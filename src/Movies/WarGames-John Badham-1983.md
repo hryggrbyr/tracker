@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: WarGames
 year: 1983
