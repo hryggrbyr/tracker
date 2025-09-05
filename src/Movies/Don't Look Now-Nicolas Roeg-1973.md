@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, IT
 title: Don't Look Now
 year: 1973
