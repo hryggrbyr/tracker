@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: This Is the End
 year: 2013
