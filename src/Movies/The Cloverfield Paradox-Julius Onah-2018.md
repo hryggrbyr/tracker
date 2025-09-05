@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Cloverfield Paradox
 year: 2018
