@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Last Action Hero
 year: 1993
