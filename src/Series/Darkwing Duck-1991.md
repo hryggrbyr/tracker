@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Darkwing Duck
 year: 1991
