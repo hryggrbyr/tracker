@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Terms and Conditions May Apply
 year: 2013
