@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Jay and Silent Bob Strike Back
 year: 2001
