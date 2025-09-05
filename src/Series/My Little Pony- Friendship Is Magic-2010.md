@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: CA, US
 title: "My Little Pony: Friendship Is Magic"
 year: 2010
