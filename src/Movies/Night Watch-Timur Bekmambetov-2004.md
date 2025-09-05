@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: RU
 title: Night Watch
 year: 2004
