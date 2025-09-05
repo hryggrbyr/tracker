@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: The Shield
 year: 2002
