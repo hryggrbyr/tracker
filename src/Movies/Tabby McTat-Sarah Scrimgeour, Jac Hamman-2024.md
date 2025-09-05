@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Tabby McTat
 year: 2024
