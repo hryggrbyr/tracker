@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Game of Thrones
 year: 2011
