@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Point Pleasant
 year: 2005
