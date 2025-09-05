@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: AU, US
 title: "Mad Max: Fury Road"
 year: 2015
