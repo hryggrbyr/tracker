@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: NO
 title: 22 July
 year: 2018
