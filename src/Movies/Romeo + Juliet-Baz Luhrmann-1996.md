@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Romeo + Juliet
 year: 1996
