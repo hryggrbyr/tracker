@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: FR
 title: Amélie
 year: 2001
