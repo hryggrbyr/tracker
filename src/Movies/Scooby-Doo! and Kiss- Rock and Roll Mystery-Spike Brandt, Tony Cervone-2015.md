@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, DK
 title: "Scooby-Doo! and Kiss: Rock and Roll Mystery"
 year: 2015
