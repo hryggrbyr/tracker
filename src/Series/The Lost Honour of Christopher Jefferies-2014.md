@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: The Lost Honour of Christopher Jefferies
 year: 2014
