@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Catch Me If You Can
 year: 2002
