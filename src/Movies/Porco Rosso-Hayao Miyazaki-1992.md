@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: Porco Rosso
 year: 1992
