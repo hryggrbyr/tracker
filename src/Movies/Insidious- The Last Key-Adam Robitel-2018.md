@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Insidious: The Last Key"
 year: 2018
