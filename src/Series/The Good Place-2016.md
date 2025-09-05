@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: The Good Place
 year: 2016
