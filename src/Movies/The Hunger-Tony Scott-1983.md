@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: The Hunger
 year: 1983
