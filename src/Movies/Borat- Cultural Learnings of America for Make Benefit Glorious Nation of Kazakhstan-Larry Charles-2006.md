@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
 year: 2006
