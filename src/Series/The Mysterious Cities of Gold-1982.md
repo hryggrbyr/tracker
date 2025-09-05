@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: FR, JP, LU
 title: The Mysterious Cities of Gold
 year: 1982
