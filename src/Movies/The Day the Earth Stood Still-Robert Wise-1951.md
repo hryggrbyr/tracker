@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Day the Earth Stood Still
 year: 1951
