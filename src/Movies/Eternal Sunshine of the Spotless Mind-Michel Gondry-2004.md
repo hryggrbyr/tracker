@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Eternal Sunshine of the Spotless Mind
 year: 2004
