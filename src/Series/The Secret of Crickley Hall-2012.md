@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: The Secret of Crickley Hall
 year: 2012
