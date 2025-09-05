@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Pride & Prejudice
 year: 2005
