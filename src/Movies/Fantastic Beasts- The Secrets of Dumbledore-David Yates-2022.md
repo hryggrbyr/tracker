@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, GB
 title: "Fantastic Beasts: The Secrets of Dumbledore"
 year: 2022
