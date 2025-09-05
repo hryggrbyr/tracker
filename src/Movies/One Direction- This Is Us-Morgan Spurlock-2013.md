@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB, US
 title: "One Direction: This Is Us"
 year: 2013
