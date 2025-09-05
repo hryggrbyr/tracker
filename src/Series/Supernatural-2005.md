@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Supernatural
 year: 2005
