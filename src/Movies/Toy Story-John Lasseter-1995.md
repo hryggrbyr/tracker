@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Toy Story
 year: 1995
