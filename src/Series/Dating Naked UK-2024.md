@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Dating Naked UK
 year: 2024
