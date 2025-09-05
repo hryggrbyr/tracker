@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA, US
 title: Carrie
 year: 2002
