@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Best in Show
 year: 2000
