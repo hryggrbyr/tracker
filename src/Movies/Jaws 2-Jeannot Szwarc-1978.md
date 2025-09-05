@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Jaws 2
 year: 1978
