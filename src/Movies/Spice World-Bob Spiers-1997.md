@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Spice World
 year: 1997
