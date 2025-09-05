@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: US
 title: Ragdoll
 year: 2021
