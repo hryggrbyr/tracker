@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Erin Brockovich
 year: 2000

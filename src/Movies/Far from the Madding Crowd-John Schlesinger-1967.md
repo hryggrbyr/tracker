@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Far from the Madding Crowd
 year: 1967

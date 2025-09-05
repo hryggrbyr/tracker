@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: AU, US
 title: "FernGully: The Last Rainforest"
 year: 1992

@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Ferris Bueller's Day Off
 year: 1986

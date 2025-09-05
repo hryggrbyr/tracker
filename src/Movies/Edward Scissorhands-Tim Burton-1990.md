@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Edward Scissorhands
 year: 1990

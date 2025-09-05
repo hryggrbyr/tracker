@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Equilibrium
 year: 2002

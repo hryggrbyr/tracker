@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: E.T. the Extra-Terrestrial
 year: 1982

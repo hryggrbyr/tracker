@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Ed Wood
 year: 1994

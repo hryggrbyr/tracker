@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Fast Times at Ridgemont High
 year: 1982

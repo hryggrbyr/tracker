@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Fight Club
 year: 1999

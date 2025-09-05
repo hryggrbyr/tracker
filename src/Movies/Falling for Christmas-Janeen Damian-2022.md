@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Falling for Christmas
 year: 2022
