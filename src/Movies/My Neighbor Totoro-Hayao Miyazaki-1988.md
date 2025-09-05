@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: JP
 title: My Neighbor Totoro
 year: 1988
