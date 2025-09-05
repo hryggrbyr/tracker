@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Christmas on Mistletoe Farm
 year: 2022
