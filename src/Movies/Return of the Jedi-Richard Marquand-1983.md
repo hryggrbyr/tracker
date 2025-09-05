@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Return of the Jedi
 year: 1983
