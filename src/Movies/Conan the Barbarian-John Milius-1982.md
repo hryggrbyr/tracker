@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Conan the Barbarian
 year: 1982
