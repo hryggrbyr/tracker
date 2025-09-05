@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: GB
 title: Line of Duty
 year: 2012
