@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Taxi Driver
 year: 1976
