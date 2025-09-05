@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: AU
 title: The Secrets She Keeps
 year: 2020
