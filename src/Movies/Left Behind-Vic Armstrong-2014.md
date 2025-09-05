@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA, US
 title: Left Behind
 year: 2014
