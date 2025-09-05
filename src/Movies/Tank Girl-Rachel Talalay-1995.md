@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Tank Girl
 year: 1995
