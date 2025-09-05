@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Indecent Proposal
 year: 1993
