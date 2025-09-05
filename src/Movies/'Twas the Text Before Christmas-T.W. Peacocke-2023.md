@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: CA, US
 title: "'Twas the Text Before Christmas"
 year: 2023
