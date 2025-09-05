@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Four Lions
 year: 2010
