@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Harry Potter and the Philosopher's Stone
 year: 2001
