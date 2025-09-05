@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Matilda
 year: 1996
