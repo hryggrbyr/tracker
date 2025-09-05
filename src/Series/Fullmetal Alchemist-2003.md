@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: JP
 title: Fullmetal Alchemist
 year: 2003
