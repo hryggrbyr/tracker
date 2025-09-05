@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: The Parent Trap
 year: 1998
