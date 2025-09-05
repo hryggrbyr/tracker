@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US, GB
 title: Muppet Treasure Island
 year: 1996
