@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Coffee and Cigarettes
 year: 2004
