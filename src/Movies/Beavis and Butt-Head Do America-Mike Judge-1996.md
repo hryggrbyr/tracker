@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: Beavis and Butt-Head Do America
 year: 1996
