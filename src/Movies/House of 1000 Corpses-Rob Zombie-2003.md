@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: House of 1000 Corpses
 year: 2003
