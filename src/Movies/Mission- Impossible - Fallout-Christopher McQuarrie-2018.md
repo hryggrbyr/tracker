@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: US
 title: "Mission: Impossible - Fallout"
 year: 2018
