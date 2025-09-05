@@ -1,5 +1,5 @@
 ---
-type: Movie
+type: movie
 country: GB
 title: Under the Skin
 year: 2014
