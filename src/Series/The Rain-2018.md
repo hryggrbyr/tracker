@@ -1,5 +1,5 @@
 ---
-type: Series
+type: series
 country: DK
 title: The Rain
 year: 2018
