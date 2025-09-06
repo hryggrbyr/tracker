@@ -14,11 +14,10 @@ genre:
   - Crime
   - Mystery
 length: 1 season (6 episodes)
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/tnqCuFq0RNBCdI8Tl3nFD0WLlis.jpg
 ---
 
