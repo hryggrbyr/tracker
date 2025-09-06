@@ -14,11 +14,10 @@ genre:
   - Adventure
   - Fantasy
 length: 1h 53m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/mIHV28g4Zhbc8yhnhOixa8m4p5O.jpg
 ---
 
