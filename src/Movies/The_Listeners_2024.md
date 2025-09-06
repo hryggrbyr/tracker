@@ -13,11 +13,10 @@ actors:
 genre:
   - Drama
 length: 1 season (4 episodes)
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/5rpHENE6dIigVWy0TDpXTgLtIEp.jpg
 ---
 
