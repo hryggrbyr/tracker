@@ -14,7 +14,7 @@ genre:
   - Romance
 length: 127
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2007-12-31
 poster: https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_SX300.jpg
