@@ -17,7 +17,7 @@ genre:
   - Horror
 length: 1h 45m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2023-01-29
 poster: https://image.tmdb.org/t/p/w500/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg
