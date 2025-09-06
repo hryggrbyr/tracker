@@ -15,11 +15,10 @@ genre:
   - Family
   - Comedy
 length: 1 season (10 episodes)
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg
 ---
 

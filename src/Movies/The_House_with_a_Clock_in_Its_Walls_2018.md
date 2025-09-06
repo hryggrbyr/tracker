@@ -16,11 +16,10 @@ genre:
   - Family
   - Horror
 length: 1h 45m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/qM66Hv4ByAxnilr0jaqCA9uOD4Y.jpg
 ---
 

@@ -14,11 +14,10 @@ genre:
   - Drama
   - War & Politics
 length: 1 season (8 episodes)
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/8urYFWrEd8ue94Fm4JpHccQg3M7.jpg
 ---
 

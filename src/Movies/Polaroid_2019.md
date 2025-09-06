@@ -15,11 +15,10 @@ genre:
   - Mystery
   - Thriller
 length: 1h 28m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/6a1iqhfM0Y31kNPOSNPIuPrsYQ6.jpg
 ---
 

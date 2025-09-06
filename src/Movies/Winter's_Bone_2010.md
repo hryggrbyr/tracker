@@ -14,11 +14,10 @@ genre:
   - Drama
   - Mystery
 length: 1h 41m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/a0qhPkNlxLfsf5B2jFyI1Pp04XV.jpg
 ---
 

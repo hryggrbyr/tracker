@@ -16,11 +16,10 @@ genre:
   - Adventure
   - Action
 length: 2h 37m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg
 ---
 

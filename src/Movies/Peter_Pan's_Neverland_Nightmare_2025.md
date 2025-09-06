@@ -15,11 +15,10 @@ genre:
   - Thriller
   - Fantasy
 length: 1h 29m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/rhTG3gMlJa0nFlOS7WNKUJ2EDro.jpg
 ---
 

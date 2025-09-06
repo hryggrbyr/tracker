@@ -10,11 +10,10 @@ genre:
   - Sci-Fi & Fantasy
   - Drama
 length: 1 season (10 episodes)
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/tyaNrGepu4HbkjLFkK6vgua1vgn.jpg
 ---
 

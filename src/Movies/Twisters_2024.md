@@ -14,11 +14,10 @@ genre:
   - Action
   - Thriller
 length: 2h 3m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg
 ---
 

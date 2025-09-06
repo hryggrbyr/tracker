@@ -15,11 +15,10 @@ genre:
   - Comedy
   - Crime
 length: 1h 47m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg
 ---
 

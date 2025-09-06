@@ -15,11 +15,10 @@ genre:
   - Horror
   - Thriller
 length: 1h 41m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/1EwNyiiNFd863H4e8nWEzutnZD7.jpg
 ---
 
