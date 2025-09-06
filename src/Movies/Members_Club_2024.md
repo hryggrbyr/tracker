@@ -14,11 +14,10 @@ genre:
   - Horror
   - Comedy
 length: 1h 30m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/fBf46CXw9teXcJx340eTPQL33Fd.jpg
 ---
 
