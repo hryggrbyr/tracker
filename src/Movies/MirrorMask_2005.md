@@ -13,11 +13,10 @@ actors:
 genre:
   - Fantasy
 length: 1h 41m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/itIJU3NKbdgScA1WPIxXzOlm0Uj.jpg
 ---
 
