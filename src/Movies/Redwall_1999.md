@@ -15,11 +15,10 @@ genre:
   - Animation
   - Sci-Fi & Fantasy
 length: 3 seasons (39 episodes)
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/vLXvgV2bpqPuva4k0jCSJ4kidRZ.jpg
 ---
 
