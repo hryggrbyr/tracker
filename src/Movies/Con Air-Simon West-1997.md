@@ -16,7 +16,7 @@ genre:
   - Crime
 length: 1h 56m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1997-06-06
 poster: https://image.tmdb.org/t/p/w500/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg

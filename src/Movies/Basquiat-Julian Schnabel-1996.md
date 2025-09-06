@@ -15,7 +15,7 @@ genre:
   - History
 length: 1h 47m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1996-08-09
 poster: https://image.tmdb.org/t/p/w500/hNjjGGnHrLILwFiEwGESWD6QRCy.jpg

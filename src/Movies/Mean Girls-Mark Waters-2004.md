@@ -15,7 +15,7 @@ genre:
   - Comedy
 length: 1h 36m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2023-08-23
 poster: https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg

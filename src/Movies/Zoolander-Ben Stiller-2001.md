@@ -14,7 +14,7 @@ genre:
   - Comedy
 length: 1h 29m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2001-09-28
 poster: https://image.tmdb.org/t/p/w500/1IOLMlNKSoo3FToVGYV1PjE3ehn.jpg

@@ -10,13 +10,15 @@ actors:
   - Stephen Rea
   - Stephen Fry
   - John Hurt
+  - Rupert Graves
 genre:
   - Action
   - Thriller
+  - Drama
   - Science Fiction
 length: 2h 12m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2023-01-29
 poster: https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg
