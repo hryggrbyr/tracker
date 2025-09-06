@@ -15,7 +15,7 @@ genre:
   - Drama
 length: 2h 0m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1998-01-31
 poster: https://image.tmdb.org/t/p/w500/8KxvKGl8lQembejIadDP03qjEYT.jpg
