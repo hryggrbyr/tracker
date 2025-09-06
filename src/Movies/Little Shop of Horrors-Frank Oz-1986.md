@@ -15,7 +15,7 @@ genre:
   - Comedy
 length: 1h 34m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1986-12-19
 poster: https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg
