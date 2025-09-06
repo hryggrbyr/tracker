@@ -15,7 +15,7 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
-shelf: reading
+shelf: read
 owned: true
 start_date: 2009-12-01
 end_date: 2009-12-14
@@ -30,7 +30,7 @@ created: 2009-12-01
 
 _The Twilight Saga 1_
 
-| Shelf | reading |
+| Shelf | read |
 | --- | --- |
 | Genre | UrbanFantasy,fantasy,vampires,werewolf,romance |
 | Started | 2009-12-01T00:00:00.000+00:00 |
