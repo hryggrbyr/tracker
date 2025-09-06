@@ -15,7 +15,7 @@ genre:
   - Thriller
 length: 1h 36m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1998-01-30
 poster: https://image.tmdb.org/t/p/w500/1YINof6kN5yRdePEbcU5360ejoq.jpg
