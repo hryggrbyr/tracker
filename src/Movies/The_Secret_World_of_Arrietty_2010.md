@@ -15,11 +15,10 @@ genre:
   - Animation
   - Family
 length: 1h 34m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg
 ---
 
