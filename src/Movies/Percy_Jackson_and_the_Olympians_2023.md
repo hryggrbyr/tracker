@@ -14,11 +14,10 @@ genre:
   - Drama
   - Family
 length: 2 seasons (9 episodes)
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg
 ---
 
