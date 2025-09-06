@@ -11,11 +11,10 @@ genre:
   - Crime
   - Drama
 length: 1 season (4 episodes)
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/uyKHq8uSDSxbxn2xVaHMxtzp0Ti.jpg
 ---
 
