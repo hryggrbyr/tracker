@@ -15,11 +15,10 @@ genre:
   - Mystery
   - Romance
 length: 2h 6m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/n1el846gLDXfhOvrRCsyvaAOQWv.jpg
 ---
 
