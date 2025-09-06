@@ -1,7 +1,7 @@
 ---
 type: series
 country: US
-title: Love Island
+title: Love Island USA
 year: 2019
 director: Unknown
 actors:
