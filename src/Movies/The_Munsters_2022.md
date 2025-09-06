@@ -14,11 +14,10 @@ genre:
   - Comedy
   - Fantasy
 length: 1h 50m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
 watched:
-  "{ LastWatched }":
 poster: https://image.tmdb.org/t/p/w500/kJaEVFhDouD72GKANMkYqzQky9n.jpg
 ---
 
