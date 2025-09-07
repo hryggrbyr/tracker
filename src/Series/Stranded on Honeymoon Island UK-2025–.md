@@ -12,8 +12,8 @@ length: N/A
 shelf: watching
 owned: false
 rating:
-watched:
-poster: N/A
+watched: 2025-09-05
+poster: https://i2-prod.manchestereveningnews.co.uk/article32334542.ece/ALTERNATES/s1200e/0_ECR_220825_strandedonhoneymoonisland.jpg
 ---
 
 # Stranded on Honeymoon Island UK (2025–)
