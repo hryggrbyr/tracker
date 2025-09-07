@@ -8,6 +8,7 @@ actors:
   - Morgan Freeman
   - Brad Pitt
   - Gwyneth Paltrow
+  - Kevin Spacey
   - John Cassini
   - Peter Crombie
 genre:
@@ -17,7 +18,7 @@ genre:
 length: 2h 7m
 shelf: watched
 owned: false
-rating:
+rating: 4
 watched: 2023-01-29
 poster: https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
 ---

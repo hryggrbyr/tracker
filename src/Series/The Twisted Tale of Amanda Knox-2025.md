@@ -13,7 +13,7 @@ genre:
   - Crime
   - Drama
 length: N/A
-shelf: watched
+shelf: watching
 owned: false
 rating: 3
 watched: 2025-08-29
