@@ -11,7 +11,7 @@ isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL7960923M-M.jpg
 shelf: read
-owned: false
+owned: true
 start_date:
 end_date: 1990-08-02
 rating:
