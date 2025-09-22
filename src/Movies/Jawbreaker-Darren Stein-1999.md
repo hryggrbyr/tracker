@@ -10,6 +10,7 @@ actors:
   - Julie Benz
   - Judy Greer
   - Pam Grier
+  - Marilyn Manson
 genre:
   - Comedy
   - Crime

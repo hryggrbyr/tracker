@@ -14,7 +14,7 @@ genre:
   - Animation
   - Adventure
 length: 85
-shelf: watching
+shelf: watched
 owned: false
 rating:
 watched: 2025-09-22
