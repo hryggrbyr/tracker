@@ -9,7 +9,7 @@ actors:
 genre:
   - Documentary
 length: N/A
-shelf: watching
+shelf: watched
 owned: false
 rating:
 watched: 2025-08-31
