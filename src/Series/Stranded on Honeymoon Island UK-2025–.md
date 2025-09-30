@@ -9,9 +9,9 @@ actors:
 genre:
   - Reality-TV
 length: N/A
-shelf: watching
+shelf: watched
 owned: false
-rating:
+rating: 2
 watched: 2025-09-05
 poster: https://i2-prod.manchestereveningnews.co.uk/article32334542.ece/ALTERNATES/s1200e/0_ECR_220825_strandedonhoneymoonisland.jpg
 ---
