@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL9247471M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2020-12-31
 rating:
 recommended_by:
 created: 2020-04-22
@@ -29,6 +29,6 @@ _ _
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
+| Finished | 2020-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
 
