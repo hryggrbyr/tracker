@@ -12,7 +12,7 @@ genre:
   - Drama
   - Family
 length: N/A
-shelf: watching
+shelf: watched
 owned: false
 rating: 3
 watched: 2025-09-22
