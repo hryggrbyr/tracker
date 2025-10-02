@@ -12,10 +12,10 @@ genre:
   - Drama
   - Thriller
 length: N/A
-shelf: watching
+shelf: watched
 owned: false
 rating:
-watched: 2025-09-29
+watched: 2025-10-01
 poster: https://m.media-amazon.com/images/M/MV5BMjQ5MjcxMmMtOGQwMy00ZTU3LTgwNmItMzI1M2Q1MzdlYjgyXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
