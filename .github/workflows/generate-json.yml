@@ -164,7 +164,10 @@ jobs:
         ls -la public/
         echo "Does index.html exist?"
         ls -la public/index.html || echo "No index.html found!"
-    
+
+    - name: File Contents
+      run: cat public/index.html
+      
     - name: Setup Pages
       uses: actions/configure-pages@v4
       
