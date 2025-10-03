@@ -13,6 +13,7 @@ actors:
 genre:
   - Romance
   - Comedy
+  - Christmas
 length: 1h 28m
 shelf: watched
 owned: false

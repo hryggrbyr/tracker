@@ -1,6 +1,6 @@
 # Media consumed in 2025
 
-## Books
+## 📚 Books
 | Read      | Book                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ |
 | January   | _"[[../Books/Hokey Pokey - Kate Mascarenhas\|Hokey Pokey]]"_ by Kate Mascarenhas                                         |
@@ -29,7 +29,7 @@
 | September | _"[[../Books/Let the Right One In - John Ajvide Lindqvist\|Let the Right One In]]"_ by John Ajvide Lindqvist             |
 
 
-## Films
+## 🍿 Films
 | Watched   | Film                                                                                                                                      |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | January   | _"[[../Movies/WWE Royal Rumble 2024-Kevin Dunn-2024\|WWE Royal Rumble 2024]]"_ (Kevin Dunn, 2024)                                         |
@@ -43,7 +43,12 @@
 | September | _"[[../Movies/Hop-Tim Hill-2011\|Hop]]"_ (Tim Hill, 2011)                                                                                 |
 
 
-## TV
+## 🎄 Christmas Films
+| Watched | Film |
+| ------- | ---- |
+
+
+## 📺 TV
 | Watched   | Show                                                                                                    | Genre                                                                          |
 | --------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | January   | _"[[../Series/Married at First Sight UK-2015\|Married at First Sight UK]]"_ (Unknown, 2015)             | <ul><li>Reality</li></ul>                                                      |
@@ -57,8 +62,8 @@
 | June      | _"[[../Series/Code of Silence-2025\|Code of Silence]]"_ (Unknown, 2025)                                 | <ul><li>Crime</li><li>Drama</li><li>Mystery</li></ul>                          |
 | July      | _"[[../Series/Ragdoll-2021\|Ragdoll]]"_ (Unknown, 2021)                                                 | <ul><li>Mystery</li><li>Crime</li><li>Drama</li></ul>                          |
 | August    | _"[[../Series/Inside the Cult of the Jesus Army-2025\|Inside the Cult of the Jesus Army]]"_ (N/A, 2025) | <ul><li>Documentary</li></ul>                                                  |
-| August    | _"[[../Series/Piggy Builders-2025\|Piggy Builders]]"_ (Romain Villemaine, 2025)                         | <ul><li>Animation</li><li>Kids</li></ul>                                       |
 | August    | _"[[../Series/Love Island-2015\|Love Island]]"_ (Unknown, 2015)                                         | <ul><li>Game-Show</li><li>Reality-TV</li><li>Romance</li><li>Reality</li></ul> |
+| August    | _"[[../Series/Piggy Builders-2025\|Piggy Builders]]"_ (Romain Villemaine, 2025)                         | <ul><li>Animation</li><li>Kids</li></ul>                                       |
 | August    | _"[[../Series/Amy Bradley Is Missing-2025\|Amy Bradley Is Missing]]"_ (Phil Lott, Ari Mark, 2025)       | <ul><li>Documentary</li><li>Crime</li><li>Mystery</li></ul>                    |
 | August    | _"[[../Series/Pokémon Concierge-2023\|Pokémon Concierge]]"_ (N/A, 2023)                                 | <ul><li>Animation</li><li>Short</li><li>Adventure</li></ul>                    |
 | August    | _"[[../Series/Bing-2014–2021\|Bing]]"_ (N/A, 2014–2021)                                                 | <ul><li>Animation</li><li>Family</li></ul>                                     |
@@ -68,4 +73,5 @@
 | September | _"[[../Series/The Twisted Tale of Amanda Knox-2025\|The Twisted Tale of Amanda Knox]]"_ (N/A, 2025)     | <ul><li>Biography</li><li>Crime</li><li>Drama</li></ul>                        |
 | September | _"[[../Series/Under the Bridge-2024\|Under the Bridge]]"_ (Quinn Shephard, 2024)                        | <ul><li>Biography</li><li>Crime</li><li>Drama</li></ul>                        |
 | September | _"[[../Series/A Kind of Spark-2023–\|A Kind of Spark]]"_ (N/A, 2023–)                                   | <ul><li>Drama</li><li>Family</li></ul>                                         |
-| September | _"[[../Series/Wayward-2025–\|Wayward]]"_ (N/A, 2025–)                                                   | <ul><li>Drama</li><li>Thriller</li></ul>                                       |
+| September | _"[[../Series/Avatar The Last Airbender-2005–2008\|Avatar: The Last Airbender]]"_ (N/A, 2005–2008)      | <ul><li>Animation</li><li>Action</li><li>Adventure</li></ul>                   |
+| October   | _"[[../Series/Wayward-2025–\|Wayward]]"_ (N/A, 2025–)                                                   | <ul><li>Drama</li><li>Thriller</li></ul>                                       |
