@@ -4,12 +4,13 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title>
+	<link rel="stylesheet" href="https://thomasrigby.com/css/style.css">
 	<style>
 :root {
   color-scheme: light dark;
   font-family: system-ui, sans-serif;
 }
-	    header {
+	    header .wrapper {
 					display: flex;
 					flex-direction: row;
 					flex-wrap: wrap;
@@ -18,19 +19,26 @@
 		header nav {
 		margin-inline-start: auto;
 		}
+		header span {
+		font-weight: bold;
+		font-style: italic;
+		}
 	</style>
 </head>
 <body>
     <header>
+        <div class="wrapper spacing gutters">
+
         <span>Tracker</span>
         <nav>
             <a href="/tracker/api/Books.json">Books API</a>
             <a href="/tracker/api/Movies.json">Films API</a>
             <a href="/tracker/api/Series.json">TV API</a>
         </nav>
+        </div>
     </header>
-    <main>
-        <section>
+    <main class="wrapper gutters spacing">
+        <section class="flow">
             <h2>Latest</h2>
             <h3>Books</h3>
             <ul>
@@ -61,7 +69,11 @@
         </section>
     </main>
     <footer>
-        &copy; 2025 <a href="https://thomasrigby.com">Thomas Rigby</a>
+        <div class="wrapper spacing gutters">
+            <p>
+                &copy; 2025 <a href="https://thomasrigby.com">Thomas Rigby</a>
+            </p>
+        </div>
     </footer>
 </body>
 </html>
