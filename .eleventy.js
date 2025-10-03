@@ -8,32 +8,33 @@
  * @example humanReadableDate('2013-08-24') // Saturday, 24 August 2013
  * @example humanReadableDate('2013-08-24', 'en-US') // Saturday, August 24, 2013
  * @example humanReadableDate('2013-08-24', 'de-DE') // Samstag, 24. August 2013
-*/
+ */
 
-const humanReadableDate = (value = null, lang = 'en-GB') => {
+const humanReadableDate = (value = null, lang = "en-GB") => {
   const event = value ? new Date(value) : new Date();
 
   const options = {
-    weekday: 'long',
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
   };
 
   return event.toLocaleDateString(lang, options);
 };
 
 module.exports = function (eleventyConfig) {
-
-  eleventyConfig.addNunjucksFilter('humanReadableDate', humanReadableDate);
-  eleventyConfig.addPassthroughCopy("./_data/frontmatter.json");
+  eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
+  eleventyConfig.addPassthroughCopy({
+    "./_data/*.json": "api",
+  });
   eleventyConfig.addPassthroughCopy("./src/css");
   eleventyConfig.addWatchTarget("./src/css/");
 
   return {
-    markdownTemplateEngine: 'njk',
-    dataTemplateEngine: 'njk',
-    htmlTemplateEngine: 'njk',
+    markdownTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
     dir: {
       input: "src",
       output: "public",

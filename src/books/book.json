@@ -1,5 +1,0 @@
-{
-  "layout": "book",
-  "permalink": "/{{ title | slugify }}-{{ author | slugify }}/",
-   "tags": "books"
-}
