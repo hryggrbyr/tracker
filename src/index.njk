@@ -4,10 +4,60 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title>
+	<style>
+	    header {
+					display: flex;
+					flex-direction: row;
+					flex-wrap: wrap;
+					gap: 1rem;
+				}
+		header nav {
+		margin-inline-start: auto;
+		}
+	</style>
 </head>
 <body>
-    <a href="/api/Books.json">Books API</a>
-    <a href="/api/Movies.json">Films API</a>
-    <a href="/api/Series.json">TV API</a>
+    <header>
+        <span>Tracker</span>
+        <nav>
+            <a href="/api/Books.json">Books API</a>
+            <a href="/api/Movies.json">Films API</a>
+            <a href="/api/Series.json">TV API</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Latest</h2>
+            <h3>Books</h3>
+            <ul>
+            {% for book in Books | reverse %}
+                {% if book.frontmatter.shelf == "reading" %}
+                <li><em>&ldquo;{{ book.frontmatter.title }}&rdquo;</em> by <strong>{{ book.frontmatter.author }}</strong></li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+            <h3>Films</h3>
+            <ul>
+
+            {% for film in Movies | watched %}
+                {% if film.frontmatter.shelf == "watched" %}
+                <li><em>&ldquo;{{ film.frontmatter.title }}&rdquo;</em> (Dir. <strong>{{ film.frontmatter.director }}</strong>, {{ film.frontmatter.year }})</li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+            <h3>Television</h3>
+            <ul>
+
+            {% for show in Series | watched %}
+                {% if show.frontmatter.shelf == "watched" %}
+                <li><em>&ldquo;{{ show.frontmatter.title }}&rdquo;</em> (Dir. <strong>{{ show.frontmatter.director }}</strong>, {{ show.frontmatter.year }})</li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+        </section>
+    </main>
+    <footer>
+        &copy; 2025 <a href="https://thomasrigby.com">Thomas Rigby</a>
+    </footer>
 </body>
 </html>
