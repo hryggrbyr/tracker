@@ -31,6 +31,7 @@ module.exports = function (eleventyConfig) {
         (a, b) =>
           new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched),
       )
+      .filter(x => x.frontmatter.shelf === "watched")
       .slice(0, 5),
   );
 
