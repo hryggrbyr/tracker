@@ -25,14 +25,20 @@ const humanReadableDate = (value = null, lang = "en-GB") => {
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
-  eleventyConfig.addNunjucksFilter("watched", (x) =>
-    x.filter(x => (x.frontmatter.shelf === "watched"))
-      .sort(
+  eleventyConfig.addNunjucksFilter("watched", (x) => {
+    const onlyWatched = x.filter(x => (x.frontmatter.shelf === "watched"));
+    const sortedWatched = onlyWatched.sort(
         (a, b) =>
           new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched),
-      )
-    .slice(0, 5),
-  );
+      );
+    const mostRecentFive = sortedWatched.slice(0, 5);
+    console.log({
+   onlyWatched,
+   sortedWatched,
+   mostRecentFive
+  });
+  return mostRecentFive;
+  });
 
   eleventyConfig.addPassthroughCopy({
     "./_data/*.json": "api",
