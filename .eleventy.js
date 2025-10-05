@@ -27,20 +27,25 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
   eleventyConfig.addNunjucksFilter("watched", (x) => {
     const onlyWatched = x.filter(item => item.frontmatter.shelf === "watched");
-    console.log(onlyWatched.map(g=>g.frontmatter.watched);
-const sortedWatched = onlyWatched.sort((a, b) => 
-    new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched)
-);
-const mostRecentFive = sortedWatched.slice(0, 5);
-    console.log({
-      hopOriginal: x.filter(z=>(z.frontmatter.title.includes("Hop"))),
-      hopOnly: onlyWatched.filter(z=>(z.frontmatter.title.includes("Hop"))),
-      hopSorted: sortedWatched.filter(z=>(z.frontmatter.title.includes("Hop"))),
-      onlyWatched: onlyWatched.map(y=>y.frontmatter.title),
-      sortedWatched: sortedWatched.map(y=>y.frontmatter.title)
-  });
-  return mostRecentFive;
-  });
+    
+    // Diagnostic: check what the date conversion produces
+    console.log("First two items date comparison:");
+    console.log("Item 1:", onlyWatched[0].frontmatter.title, onlyWatched[0].frontmatter.watched);
+    console.log("Item 2:", onlyWatched[1].frontmatter.title, onlyWatched[1].frontmatter.watched);
+    console.log("Date 1:", new Date(onlyWatched[0].frontmatter.watched));
+    console.log("Date 2:", new Date(onlyWatched[1].frontmatter.watched));
+    console.log("Comparison result:", new Date(onlyWatched[1].frontmatter.watched) - new Date(onlyWatched[0].frontmatter.watched));
+    
+    const sortedWatched = onlyWatched.sort((a, b) => {
+        const dateA = new Date(a.frontmatter.watched);
+        const dateB = new Date(b.frontmatter.watched);
+        const result = dateB - dateA;
+        return result;
+    });
+    
+    const mostRecentFive = sortedWatched.slice(0, 5);
+    return mostRecentFive;
+});
 
   eleventyConfig.addPassthroughCopy({
     "./_data/*.json": "api",
