@@ -1,34 +1,43 @@
 ---
-tags: []
+tags:
+  - Juvenile Fiction
+  - fantasy
+  - mythology
+  - UrbanFantasy
+  - folklore
 title: The Dark is Rising
 subtitle: The Dark is Rising Sequence 2
 author:
   - Susan Cooper
-publisher: Margaret K. McElderry Books
-published: 0101-01-01T01:00:00+01:00
-page_count:
-isbn:
+publisher: Simon and Schuster
+published: 1973-04
+page_count: 348
+isbn: 0689303173 9780689303173
 description: ""
-coverUrl: https://covers.openlibrary.org/b/olid/OL8458980M-M.jpg
-shelf: read
+coverUrl: http://books.google.com/books/content?id=EiqUckhKnE4C&printsec=frontcover&img=1&zoom=1&source=gbs_api
+shelf: reading
 owned: true
-start_date: 2021-12-20
-end_date: 2022-01-19
+start_date: 2025-10-05
+end_date:
 rating:
+history:
+  - start_date: 2021-12-20
+    end_date: 2022-01-19
+    rating: 4
 recommended_by:
 created: 2022-12-18
 ---
 
 # The Dark is Rising by Susan Cooper
 
-![Book Cover Art](https://covers.openlibrary.org/b/olid/OL8458980M-M.jpg)
+![Book Cover Art](http://books.google.com/books/content?id=EiqUckhKnE4C&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 _The Dark is Rising Sequence 2_
 
-| Shelf | read |
+| &nbsp; | reading | 
 | --- | --- |
-| Genre |  |
-| Started | 2021-12-20T00:00:00.000+00:00 |
-| Finished | 2022-01-19T00:00:00.000+00:00 |
+| Genre | Juvenile Fiction,fantasy,mythology,UrbanFantasy,folklore |
+| Started | 2025-10-05T00:00:00.000+01:00 |
+| Finished |  |
 | Rating | /5 |
 
