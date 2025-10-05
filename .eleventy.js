@@ -27,17 +27,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
   eleventyConfig.addNunjucksFilter("watched", (x) => {
     const onlyWatched = x.filter(x => !!(x.frontmatter.shelf === "watched"));
-    const sortedWatched = onlyWatched.sort(
-        (a, b) =>
-          new Date(b.frontmatter.watched) < new Date(a.frontmatter.watched),
-      );
+    const sortedWatched = onlyWatched.sort((a, b) => new Date(a.frontmatter.watched) > new Date(b.frontmatter.watched));
     const mostRecentFive = sortedWatched.slice(0, 5);
     console.log({
       hopOriginal: x.filter(z=>(z.frontmatter.title.includes("Hop"))),
       hopOnly: onlyWatched.filter(z=>(z.frontmatter.title.includes("Hop"))),
       hopSorted: sortedWatched.filter(z=>(z.frontmatter.title.includes("Hop"))),
-     onlyWatched: onlyWatched.map(y=>y.frontmatter.title),
-     sortedWatched: sortedWatched.map(y=>y.frontmatter.title)
+      onlyWatched: onlyWatched.map(y=>y.frontmatter.title),
+      sortedWatched: sortedWatched.map(y=>y.frontmatter.title)
   });
   return mostRecentFive;
   });
