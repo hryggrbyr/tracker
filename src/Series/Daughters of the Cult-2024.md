@@ -13,10 +13,10 @@ genre:
   - Biography
   - Crime
 length: N/A
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
-watched: 2024-12-31
+watched:
 poster: https://m.media-amazon.com/images/M/MV5BNjg2YTJmMTEtZTUzYy00OGFiLWEwNmYtYmNkMTIyMDI2YzZhXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
