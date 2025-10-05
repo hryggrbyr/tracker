@@ -14,6 +14,7 @@ genre:
   - Comedy
   - Family
   - Adventure
+  - Christmas
 length: 2h 0m
 shelf: watched
 owned: false
