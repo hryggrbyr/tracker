@@ -27,25 +27,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
   eleventyConfig.addNunjucksFilter("watched", (x) => {
     const onlyWatched = x.filter(item => item.frontmatter.shelf === "watched");
-    
-    // Diagnostic: check what the date conversion produces
-    console.log("First two items date comparison:");
-    console.log("Item 1:", onlyWatched[0].frontmatter.title, onlyWatched[0].frontmatter.watched);
-    console.log("Item 2:", onlyWatched[1].frontmatter.title, onlyWatched[1].frontmatter.watched);
-    console.log("Date 1:", new Date(onlyWatched[0].frontmatter.watched));
-    console.log("Date 2:", new Date(onlyWatched[1].frontmatter.watched));
-    console.log("Comparison result:", new Date(onlyWatched[1].frontmatter.watched) - new Date(onlyWatched[0].frontmatter.watched));
-    
     const sortedWatched = onlyWatched.sort((a, b) => {
         const dateA = new Date(a.frontmatter.watched);
         const dateB = new Date(b.frontmatter.watched);
         const result = dateB - dateA;
+        console.log(result)
         return result;
     });
     
     const mostRecentFive = sortedWatched.slice(0, 5);
     return mostRecentFive;
-});
+   });
 
   eleventyConfig.addPassthroughCopy({
     "./_data/*.json": "api",
