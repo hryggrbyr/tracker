@@ -13,6 +13,8 @@ actors:
 genre:
   - Romance
   - Comedy
+  - Christmas
+  - lgbt
 length: 1h 42m
 shelf: watched
 owned: false
