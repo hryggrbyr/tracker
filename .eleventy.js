@@ -27,17 +27,43 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
   eleventyConfig.addNunjucksFilter("watched", (x) => {
     const onlyWatched = x.filter(item => item.frontmatter.shelf === "watched");
+    
+    // Diagnostic: check what the date conversion produces
+    console.log("=== DIAGNOSTIC INFO ===");
+    console.log("Total watched items:", onlyWatched.length);
+    console.log("\nFirst two items date comparison:");
+    console.log("Item 1:", onlyWatched[0].frontmatter.title, "watched:", onlyWatched[0].frontmatter.watched);
+    console.log("Item 2:", onlyWatched[1].frontmatter.title, "watched:", onlyWatched[1].frontmatter.watched);
+    console.log("Date 1:", new Date(onlyWatched[0].frontmatter.watched));
+    console.log("Date 2:", new Date(onlyWatched[1].frontmatter.watched));
+    console.log("Comparison (date2 - date1):", new Date(onlyWatched[1].frontmatter.watched) - new Date(onlyWatched[0].frontmatter.watched));
+    
+    // Check for Hop specifically
+    const hop = onlyWatched.find(item => item.frontmatter.title === "Hop");
+    if (hop) {
+        console.log("\nHop found!");
+        console.log("Hop watched:", hop.frontmatter.watched);
+        console.log("Hop as Date:", new Date(hop.frontmatter.watched));
+    } else {
+        console.log("\nHop NOT found in watched items!");
+    }
+    
     const sortedWatched = onlyWatched.sort((a, b) => {
         const dateA = new Date(a.frontmatter.watched);
         const dateB = new Date(b.frontmatter.watched);
         const result = dateB - dateA;
-        console.log(result)
         return result;
     });
     
+    console.log("\nFirst 5 after sort:");
+    sortedWatched.slice(0, 5).forEach((item, i) => {
+        console.log(`${i+1}. ${item.frontmatter.title} - ${item.frontmatter.watched}`);
+    });
+    console.log("=== END DIAGNOSTIC ===\n");
+    
     const mostRecentFive = sortedWatched.slice(0, 5);
     return mostRecentFive;
-   });
+});
 
   eleventyConfig.addPassthroughCopy({
     "./_data/*.json": "api",
