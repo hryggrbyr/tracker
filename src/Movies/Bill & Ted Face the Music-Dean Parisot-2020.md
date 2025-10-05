@@ -13,10 +13,10 @@ genre:
   - Comedy
   - Music
 length: 91
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
-watched: 2020-12-31
+watched:
 poster: https://m.media-amazon.com/images/M/MV5BZTU5NWRkNmEtZmY4Yi00ZTIzLWIxNjUtMzM3ODM2ZTdiOWNhXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
