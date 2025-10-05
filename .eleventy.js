@@ -27,6 +27,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
   eleventyConfig.addNunjucksFilter("watched", (x) => {
     const onlyWatched = x.filter(item => item.frontmatter.shelf === "watched");
+    console.log(onlyWatched.map(g=>g.frontmatter.watched);
 const sortedWatched = onlyWatched.sort((a, b) => 
     new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched)
 );
