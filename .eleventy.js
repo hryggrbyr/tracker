@@ -33,9 +33,8 @@ module.exports = function (eleventyConfig) {
       );
     const mostRecentFive = sortedWatched.slice(0, 5);
     console.log({
-      x: x[8],
-     onlyWatched: onlyWatched[8],
-     sortedWatched: sortedWatched[8]
+     onlyWatched: onlyWatched.slice(0,10).map(y=>y.frontmatter.title),
+     sortedWatched: sortedWatched.slice(0,10).map(y=>y.frontmatter.title)
   });
   return mostRecentFive;
   });
