@@ -25,69 +25,11 @@ const humanReadableDate = (value = null, lang = "en-GB") => {
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
-  eleventyConfig.addNunjucksFilter("watched", (x) => {
-    const onlyWatched = x.filter(item => item.frontmatter.shelf === "watched");
-    
-    // Diagnostic: check what the date conversion produces
-    console.log("=== DIAGNOSTIC INFO ===");
-    console.log("Total watched items:", onlyWatched.length);
-    console.log("\nFirst two items date comparison:");
-    console.log("Item 1:", onlyWatched[0].frontmatter.title, "watched:", onlyWatched[0].frontmatter.watched);
-    console.log("Item 2:", onlyWatched[1].frontmatter.title, "watched:", onlyWatched[1].frontmatter.watched);
-    console.log("Date 1:", new Date(onlyWatched[0].frontmatter.watched));
-    console.log("Date 2:", new Date(onlyWatched[1].frontmatter.watched));
-    console.log("Comparison (date2 - date1):", new Date(onlyWatched[1].frontmatter.watched) - new Date(onlyWatched[0].frontmatter.watched));
-    
-    // Check for Hop specifically
-    const hop = onlyWatched.find(item => item.frontmatter.title === "Hop");
-    if (hop) {
-        console.log("\nHop found!");
-        console.log("Hop watched:", hop.frontmatter.watched);
-        console.log("Hop as Date:", new Date(hop.frontmatter.watched));
-          // Add this right after finding Hop
-
-    } else {
-        console.log("\nHop NOT found in watched items!");
-    }
-
-    const sortedWatched = onlyWatched.sort((a, b) => {
-        const dateA = new Date(a.frontmatter.watched);
-        const dateB = new Date(b.frontmatter.watched);
-        const result = dateB - dateA;
-        return result;
-    });
-
-    const hopIndex = sortedWatched.findIndex(item => item.frontmatter.title === "Hop");
-console.log("Hop position in sorted array:", hopIndex);
-console.log("Item at position 1:", sortedWatched[1].frontmatter.title, sortedWatched[1].frontmatter.watched);
-console.log("Item at position 2:", sortedWatched[2].frontmatter.title, sortedWatched[2].frontmatter.watched);
-    // Add this diagnostic
-console.log("\nItems around Hop (position 116):");
-for (let i = 114; i < 119; i++) {
-    if (sortedWatched[i]) {
-        console.log(`${i}: ${sortedWatched[i].frontmatter.title} - ${sortedWatched[i].frontmatter.watched}`);
-    }
-}
-
-// Also check if there are any null/undefined dates
-const itemsWithBadDates = sortedWatched.filter(item => !item.frontmatter.watched || isNaN(new Date(item.frontmatter.watched)));
-console.log("\nItems with invalid dates:", itemsWithBadDates.length);
-if (itemsWithBadDates.length > 0) {
-    console.log("First 5 items with bad dates:");
-    itemsWithBadDates.slice(0, 5).forEach(item => {
-        console.log(`- ${item.frontmatter.title}: watched = ${item.frontmatter.watched}`);
-    });
-}
-    
-    console.log("\nFirst 5 after sort:");
-    sortedWatched.slice(0, 5).forEach((item, i) => {
-        console.log(`${i+1}. ${item.frontmatter.title} - ${item.frontmatter.watched}`);
-    });
-    console.log("=== END DIAGNOSTIC ===\n");
-    
-    const mostRecentFive = sortedWatched.slice(0, 5);
-    return mostRecentFive;
-});
+  eleventyConfig.addNunjucksFilter("watched", (x) => (
+  x.filter(x => (x.frontmatter.shelf === "watched"))
+   .sort((a, b) => new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched))
+   .slice(0, 5);
+))
 
   eleventyConfig.addPassthroughCopy({
     "./_data/*.json": "api",
