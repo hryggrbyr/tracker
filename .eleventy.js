@@ -47,6 +47,11 @@ module.exports = function (eleventyConfig) {
     } else {
         console.log("\nHop NOT found in watched items!");
     }
+    // Add this right after finding Hop
+const hopIndex = sortedWatched.findIndex(item => item.frontmatter.title === "Hop");
+console.log("Hop position in sorted array:", hopIndex);
+console.log("Item at position 1:", sortedWatched[1].frontmatter.title, sortedWatched[1].frontmatter.watched);
+console.log("Item at position 2:", sortedWatched[2].frontmatter.title, sortedWatched[2].frontmatter.watched);
     
     const sortedWatched = onlyWatched.sort((a, b) => {
         const dateA = new Date(a.frontmatter.watched);
