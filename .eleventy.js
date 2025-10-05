@@ -61,7 +61,23 @@ module.exports = function (eleventyConfig) {
 console.log("Hop position in sorted array:", hopIndex);
 console.log("Item at position 1:", sortedWatched[1].frontmatter.title, sortedWatched[1].frontmatter.watched);
 console.log("Item at position 2:", sortedWatched[2].frontmatter.title, sortedWatched[2].frontmatter.watched);
-    
+    // Add this diagnostic
+console.log("\nItems around Hop (position 116):");
+for (let i = 114; i < 119; i++) {
+    if (sortedWatched[i]) {
+        console.log(`${i}: ${sortedWatched[i].frontmatter.title} - ${sortedWatched[i].frontmatter.watched}`);
+    }
+}
+
+// Also check if there are any null/undefined dates
+const itemsWithBadDates = sortedWatched.filter(item => !item.frontmatter.watched || isNaN(new Date(item.frontmatter.watched)));
+console.log("\nItems with invalid dates:", itemsWithBadDates.length);
+if (itemsWithBadDates.length > 0) {
+    console.log("First 5 items with bad dates:");
+    itemsWithBadDates.slice(0, 5).forEach(item => {
+        console.log(`- ${item.frontmatter.title}: watched = ${item.frontmatter.watched}`);
+    });
+}
     
     console.log("\nFirst 5 after sort:");
     sortedWatched.slice(0, 5).forEach((item, i) => {
