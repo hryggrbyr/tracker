@@ -15,6 +15,7 @@ genre:
   - Comedy
   - Family
   - Action
+  - Christmas
 length: 26m
 shelf: watched
 owned: false
