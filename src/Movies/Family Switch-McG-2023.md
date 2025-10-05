@@ -14,6 +14,7 @@ genre:
   - Comedy
   - Fantasy
   - Family
+  - Christmas
 length: 1h 46m
 shelf: watched
 owned: false
