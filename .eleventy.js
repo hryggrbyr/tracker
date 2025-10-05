@@ -1,4 +1,4 @@
-/**
+)/**
  * Human-readable Date
  * Returns a date as a string value appropriate to the host environment's current locale.
  * @param {number} value The date to convert. If not provided, the function will use current datetime
