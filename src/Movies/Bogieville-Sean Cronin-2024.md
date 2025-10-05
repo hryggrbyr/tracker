@@ -11,10 +11,10 @@ actors:
 genre:
   - Horror
 length: 108
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
-watched: 2024-12-31
+watched:
 poster: https://m.media-amazon.com/images/M/MV5BYjRkNTM4NjktYjY4MS00MDdmLTk0YTItMzU0OTViMTUyYTE3XkEyXkFqcGc@._V1_SX300.jpg
 ---
 
