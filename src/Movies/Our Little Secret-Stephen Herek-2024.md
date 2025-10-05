@@ -14,6 +14,7 @@ genre:
   - Romance
   - Comedy
   - Drama
+  - Christmas
 length: 1h 41m
 shelf: watched
 owned: false
