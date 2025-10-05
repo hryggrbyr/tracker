@@ -29,7 +29,7 @@ module.exports = function (eleventyConfig) {
     const onlyWatched = x.filter(x => !!(x.frontmatter.shelf === "watched"));
     const sortedWatched = onlyWatched.sort(
         (a, b) =>
-          new Date(b.frontmatter.watched) > new Date(a.frontmatter.watched),
+          new Date(b.frontmatter.watched) < new Date(a.frontmatter.watched),
       );
     const mostRecentFive = sortedWatched.slice(0, 5);
     console.log({
