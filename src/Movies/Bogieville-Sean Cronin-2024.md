@@ -1,0 +1,25 @@
+---
+type: movie
+country: United States, United Kingdom
+title: Bogieville
+year: 2024
+director: Sean Cronin
+actors:
+  - Arifin Putra
+  - Eloise Lovell Anderson
+  - Sean Cronin
+genre:
+  - Horror
+length: 108
+shelf: watched
+owned: false
+rating:
+watched: 2024-12-31
+poster: https://m.media-amazon.com/images/M/MV5BYjRkNTM4NjktYjY4MS00MDdmLTk0YTItMzU0OTViMTUyYTE3XkEyXkFqcGc@._V1_SX300.jpg
+---
+
+# Bogieville (2024)
+
+![](https://m.media-amazon.com/images/M/MV5BYjRkNTM4NjktYjY4MS00MDdmLTk0YTItMzU0OTViMTUyYTE3XkEyXkFqcGc@._V1_SX300.jpg)
+
+A young couple on the run come across a derelict trailer park 'Bogieville'.
