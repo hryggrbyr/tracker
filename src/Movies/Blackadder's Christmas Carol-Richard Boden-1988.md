@@ -13,6 +13,7 @@ actors:
 genre:
   - Comedy
   - TV Movie
+  - Christmas
 length: 43m
 shelf: watched
 owned: false
