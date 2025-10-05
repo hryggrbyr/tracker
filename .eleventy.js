@@ -33,6 +33,8 @@ module.exports = function (eleventyConfig) {
       );
     const mostRecentFive = sortedWatched.slice(0, 5);
     console.log({
+      hopOriginal: x.filter(z=>(z.frontmatter.title.includes("Hop-"))),
+     
       hopOnly: onlyWatched.filter(z=>(z.frontmatter.title.includes("Hop-"))),
      
       hopSorted: sortedWatched.filter(z=>(z.frontmatter.title.includes("Hop-"))),
