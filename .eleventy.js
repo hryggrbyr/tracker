@@ -28,7 +28,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("watched", (x) => (
   x.filter(x => (x.frontmatter.shelf === "watched"))
    .sort((a, b) => new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched))
-   .slice(0, 5);
+   .slice(0, 5)
 ))
 
   eleventyConfig.addPassthroughCopy({
