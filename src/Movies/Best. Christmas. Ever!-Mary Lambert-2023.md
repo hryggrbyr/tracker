@@ -12,6 +12,7 @@ actors:
   - Wyatt Hunt
 genre:
   - Comedy
+  - Christmas
 length: 1h 22m
 shelf: watched
 owned: false

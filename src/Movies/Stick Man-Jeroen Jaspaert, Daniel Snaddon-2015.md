@@ -13,6 +13,7 @@ actors:
 genre:
   - Animation
   - Family
+  - Christmas
 length: 27m
 shelf: watched
 owned: false

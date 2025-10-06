@@ -13,6 +13,7 @@ actors:
 genre:
   - Action
   - Thriller
+  - Christmas
 length: 2h 12m
 shelf: watched
 owned: false

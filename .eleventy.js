@@ -25,14 +25,11 @@ const humanReadableDate = (value = null, lang = "en-GB") => {
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
-  eleventyConfig.addNunjucksFilter("watched", (x) =>
-    x
-      .sort(
-        (a, b) =>
-          new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched),
-      )
-      .slice(0, 5),
-  );
+  eleventyConfig.addNunjucksFilter("watched", (x) => (
+  x.filter(x => (x.frontmatter.shelf === "watched"))
+   .sort((a, b) => new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched))
+   .slice(0, 5)
+))
 
   eleventyConfig.addPassthroughCopy({
     "./_data/*.json": "api",
