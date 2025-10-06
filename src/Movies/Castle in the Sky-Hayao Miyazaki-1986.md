@@ -13,9 +13,10 @@ genre:
   - Adventure
   - Family
 length: 124
-shelf: watchlist
+shelf: watched
 owned: false
-rating:
+rating: 7
+watched: 2025-10-06
 poster: https://m.media-amazon.com/images/M/MV5BZjcyMjg2MzktNjg4YS00MjQzLTg0YWQtMjUyZDk2Y2Y0YzZjXkEyXkFqcGc@._V1_SX300.jpg
 url: N/A
 ---
