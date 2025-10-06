@@ -3,12 +3,12 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
-	<link rel="stylesheet" href="https://thomasrigby.com/css/style.css">
+	<title>Tracker by Thomas Rigby</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/victormono@1.5.6/dist/index.min.css">
 	<style>
 :root {
   color-scheme: light dark;
-  font-family: system-ui, sans-serif;
+  font-family: "Victor Mono", system-ui, sans-serif;
 }
 	    header .wrapper {
 					display: flex;
@@ -22,6 +22,23 @@
 		header span {
 		font-weight: bold;
 		font-style: italic;
+		}
+		.wrapper {
+		width:100%;
+		max-width: 67ch;
+		margin-inline: auto;
+		}
+		.gutters {
+		padding-inline: 1rem;
+		}
+		.spacing {
+		padding-block: 1lh;
+		}
+		.flow >*+* {
+		margin-block-start: 1lh;
+		}
+		a {
+		color: light-dark(teal, goldenrod);
 		}
 	</style>
 </head>
