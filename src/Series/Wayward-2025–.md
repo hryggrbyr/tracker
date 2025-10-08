@@ -3,7 +3,7 @@ type: series
 country: United States, United Kingdom, Canada
 title: Wayward
 year: 2025–
-director: N/A
+director: Euros Lyn, John Fawcett, Renuka Jeyapalan, Mae Martin
 actors:
   - Mae Martin
   - Toni Collette
