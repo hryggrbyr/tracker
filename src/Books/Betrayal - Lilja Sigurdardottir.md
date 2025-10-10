@@ -20,6 +20,8 @@ start_date: 2022-01-05
 end_date: 2022-08-07
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2022-01-05
 ---
 
@@ -35,4 +37,3 @@ __
 | Started | 2022-01-05T00:00:00.000+00:00 |
 | Finished | 2022-08-07T00:00:00.000+01:00 |
 | Rating | 4/5 |
-
