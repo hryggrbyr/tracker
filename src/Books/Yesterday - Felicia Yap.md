@@ -16,7 +16,9 @@ owned: false
 start_date:
 end_date:
 rating: 0
-recommended_by: Kobo blog
+recommended_by:
+  name: Kobo blog
+  url:
 created: 2025-09-28 19:05:17
 ---
 
@@ -26,7 +28,7 @@ created: 2025-09-28 19:05:17
 
 _The phenomenal debut thriller of secrets, lies and betrayal_
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | Fiction |
 | Started |  |
