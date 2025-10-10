@@ -18,6 +18,8 @@ start_date: 1994-07-01
 end_date: 1994-07-01
 rating: 4
 recommended_by:
+  name:
+  url:
 created:
 ---
 
