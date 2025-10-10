@@ -18,6 +18,8 @@ start_date: 2016-05-06
 end_date: 2016-05-22
 rating: 2
 recommended_by:
+  name:
+  url:
 created: 2016-05-06
 ---
 
