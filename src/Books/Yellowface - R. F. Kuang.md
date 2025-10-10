@@ -19,6 +19,8 @@ start_date: 2025-01-11
 end_date: 2025-01-21
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2025-01-21
 ---
 
@@ -34,4 +36,3 @@ _ _
 | Started | 2025-01-11T00:00:00.000+00:00 |
 | Finished | 2025-01-21T00:00:00.000+00:00 |
 | Rating | 4/5 |
-

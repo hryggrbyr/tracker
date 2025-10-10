@@ -15,7 +15,9 @@ owned: true
 start_date: 1988-09-04
 end_date: 1990-08-10
 rating: 3
-recommended_by: Mr Preston
+recommended_by:
+  name: Mr Preston
+  url:
 created: 2015-10-06
 ---
 
@@ -31,4 +33,3 @@ _or There and Back Again_
 | Started | 1988-09-04T00:00:00.000+01:00 |
 | Finished | 1990-08-10T00:00:00.000+01:00 |
 | Rating | 3/5 |
-

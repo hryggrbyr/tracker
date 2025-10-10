@@ -16,7 +16,9 @@ owned: true
 start_date: 2024-12-23
 end_date: 2025-01-01
 rating: 5
-recommended_by: Terence Eden
+recommended_by:
+  name: Terence Eden
+  url:
 created: 2025-01-01
 ---
 
@@ -26,22 +28,22 @@ created: 2025-01-01
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | Fiction |
 | Started | 2024-12-23T00:00:00.000+00:00 |
 | Finished | 2025-01-01T00:00:00.000+00:00 |
 | Rating | 5/5 |
 
-> 'Begins as a compelling psychological mystery [and] turns to the supernatural... A well-plotted, original, nightmare blend of madness and monsters.' 
-> ~ Guardian 
+> 'Begins as a compelling psychological mystery [and] turns to the supernatural... A well-plotted, original, nightmare blend of madness and monsters.'
+> ~ Guardian
 
-The Regent Hotel in Birmingham is a place of lush glamour, where guests sip absinthe cocktails on velvet banquettes and obliging waiters are always on hand. Yet behind its glittering façade, you might find monsters lurking in the shadows... On a cold February evening, Nora Dickinson checks in. A psychoanalyst with a dubious past, Nora has battled not to let her own demons overcome her. But when a terrible snowstorm cuts The Regent off from the outside world, the entire hotel's grip on reality slips – and the nightmares Nora's worked so hard to control begin to bare their teeth. Kate Mascarenhas's latest novel offers her readers a horrifying ride through murder, madness and the darkest recesses of the mind. 
+The Regent Hotel in Birmingham is a place of lush glamour, where guests sip absinthe cocktails on velvet banquettes and obliging waiters are always on hand. Yet behind its glittering façade, you might find monsters lurking in the shadows... On a cold February evening, Nora Dickinson checks in. A psychoanalyst with a dubious past, Nora has battled not to let her own demons overcome her. But when a terrible snowstorm cuts The Regent off from the outside world, the entire hotel's grip on reality slips – and the nightmares Nora's worked so hard to control begin to bare their teeth. Kate Mascarenhas's latest novel offers her readers a horrifying ride through murder, madness and the darkest recesses of the mind.
 
-'A delicious piece of art deco Gothic' Natalie Marlow 
+'A delicious piece of art deco Gothic' Natalie Marlow
 
-'Dark, complex and beautifully plotted' Rebecca Netley 
+'Dark, complex and beautifully plotted' Rebecca Netley
 
-'Immersive, unique... with a dark supernatural core' Essie Fox 
+'Immersive, unique... with a dark supernatural core' Essie Fox
 
 'An atmospheric, claustrophobic novel... mesmerising' Elizabeth Lee

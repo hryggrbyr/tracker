@@ -19,6 +19,8 @@ start_date: 2017-03-12
 end_date: 2017-03-12
 rating: 5
 recommended_by:
+  name:
+  url:
 created: 2017-03-12
 ---
 

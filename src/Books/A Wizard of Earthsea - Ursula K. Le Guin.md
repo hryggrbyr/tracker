@@ -20,6 +20,8 @@ start_date: 2001-02-02
 end_date: 2001-02-02
 rating: 5
 recommended_by:
+  name:
+  url:
 created: 2020-04-22
 ---
 
@@ -35,4 +37,3 @@ _Earthsea 1_
 | Started | 2001-02-02T00:00:00.000+00:00 |
 | Finished | 2001-02-02T00:00:00.000+00:00 |
 | Rating | 5/5 |
-

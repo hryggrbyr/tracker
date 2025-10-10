@@ -17,6 +17,8 @@ start_date: 2014-08-10
 end_date: 2014-08-17
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2015-10-06
 ---
 
@@ -26,7 +28,7 @@ created: 2015-10-06
 
 _A Novel of Redemption_
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | Fiction |
 | Started | 2014-08-10T00:00:00.000+01:00 |

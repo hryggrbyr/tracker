@@ -19,6 +19,8 @@ start_date: 2020-04-22
 end_date: 2020-04-30
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2020-04-22
 ---
 
@@ -37,4 +39,3 @@ _The Word for World Is Forest | Five Ways to Forgiveness | The Telling | Stories
 | Started | 2020-04-22T00:00:00.000+01:00 |
 | Finished | 2020-04-30T00:00:00.000+01:00 |
 | Rating | 4/5 |
-

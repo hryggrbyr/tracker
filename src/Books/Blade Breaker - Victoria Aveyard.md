@@ -16,6 +16,8 @@ start_date: 2022-08-07
 end_date: 2022-09-04
 rating: 5
 recommended_by:
+  name:
+  url:
 created: 2022-08-07
 ---
 
@@ -31,4 +33,3 @@ _Realm Breaker 2_
 | Started | 2022-08-07T00:00:00.000+01:00 |
 | Finished | 2022-09-04T00:00:00.000+01:00 |
 | Rating | 5/5 |
-

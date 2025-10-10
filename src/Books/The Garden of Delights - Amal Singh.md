@@ -19,7 +19,9 @@ owned: true
 start_date: 2025-07-27
 end_date: 2025-08-20
 rating: 5
-recommended_by: Bookbub
+recommended_by:
+  name: Bookbub
+  url:
 created: 2025-07-27 20:40:08
 ---
 

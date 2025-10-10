@@ -17,6 +17,8 @@ start_date:
 end_date: 1991-08-17
 rating:
 recommended_by:
+  name:
+  url:
 created: 2024-08-18
 ---
 
@@ -32,4 +34,3 @@ _ 1_
 | Started |  |
 | Finished | 1991-08-17T00:00:00.000+01:00 |
 | Rating | /5 |
-

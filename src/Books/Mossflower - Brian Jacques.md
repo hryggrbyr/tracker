@@ -16,6 +16,8 @@ start_date:
 end_date:
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2015-10-06
 ---
 
@@ -31,4 +33,3 @@ _Redwall 2_
 | Started |  |
 | Finished |  |
 | Rating | 4/5 |
-

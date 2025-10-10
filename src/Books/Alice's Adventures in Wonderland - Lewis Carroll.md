@@ -19,6 +19,8 @@ start_date: 1989-02-02
 end_date: 1989-02-02
 rating: 3
 recommended_by:
+  name:
+  url:
 created: 2015-11-02
 ---
 
@@ -34,4 +36,3 @@ _ _
 | Started | 1989-02-02T00:00:00.000+00:00 |
 | Finished | 1989-02-02T00:00:00.000+00:00 |
 | Rating | 3/5 |
-

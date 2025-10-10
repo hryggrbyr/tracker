@@ -16,6 +16,8 @@ start_date: 2023-10-08
 end_date: 2023-11-22
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2023-11-24
 ---
 
@@ -31,4 +33,3 @@ _ _
 | Started | 2023-10-08T00:00:00.000+01:00 |
 | Finished | 2023-11-22T00:00:00.000+00:00 |
 | Rating | 4/5 |
-

@@ -16,7 +16,9 @@ owned: false
 start_date:
 end_date:
 rating: 0
-recommended_by: seen in the lobby of a Spanish hotel
+recommended_by:
+  name: me (seen in the lobby of a Spanish hotel)
+  url:
 created: 2025-09-20 22:36:31
 ---
 
@@ -26,7 +28,7 @@ created: 2025-09-20 22:36:31
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | Fiction |
 | Started |  |

@@ -18,6 +18,8 @@ start_date: 1993-07-26
 end_date: 1993-08-01
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2024-08-02
 ---
 

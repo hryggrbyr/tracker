@@ -16,6 +16,8 @@ start_date: 1997-06-15
 end_date: 1997-06-15
 rating:
 recommended_by:
+  name:
+  url:
 created: 2025-06-16
 ---
 
@@ -31,4 +33,3 @@ _ _
 | Started | 1997-06-15T00:00:00.000+01:00 |
 | Finished | 1997-06-15T00:00:00.000+01:00 |
 | Rating | /5 |
-

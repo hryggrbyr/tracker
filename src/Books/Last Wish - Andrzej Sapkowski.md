@@ -18,7 +18,9 @@ owned: false
 start_date: 2019-12-20
 end_date: 2020-01-01
 rating: 4
-recommended_by: Netflix
+recommended_by:
+  name: Netflix
+  url:
 created: 2020-04-22
 ---
 
@@ -34,4 +36,3 @@ _ _
 | Started | 2019-12-20T00:00:00.000+00:00 |
 | Finished | 2020-01-01T00:00:00.000+00:00 |
 | Rating | 4/5 |
-

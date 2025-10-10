@@ -16,6 +16,8 @@ start_date: 2021-07-19
 end_date: 2021-09-11
 rating:
 recommended_by:
+  name:
+  url:
 created: 2021-07-19
 ---
 
@@ -31,4 +33,3 @@ _A Kurt Wallender Mystery_
 | Started | 2021-07-19T00:00:00.000+01:00 |
 | Finished | 2021-09-11T00:00:00.000+01:00 |
 | Rating | /5 |
-

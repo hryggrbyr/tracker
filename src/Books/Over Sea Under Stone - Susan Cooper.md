@@ -20,6 +20,8 @@ start_date: 2025-09-25
 end_date: 2025-10-05
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2025-09-25 17:29:21
 ---
 
@@ -29,7 +31,7 @@ created: 2025-09-25 17:29:21
 
 _The Dark is Rising sequence_
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | Juvenile Fiction,fantasy,UrbanFantasy,mythology |
 | Started | 2025-09-25T00:00:00.000+01:00 |

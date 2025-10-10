@@ -17,6 +17,8 @@ start_date:
 end_date:
 rating: 3
 recommended_by:
+  name:
+  url:
 created:
 ---
 
@@ -32,4 +34,3 @@ _Harry Palmer 3_
 | Started |  |
 | Finished |  |
 | Rating | 3/5 |
-

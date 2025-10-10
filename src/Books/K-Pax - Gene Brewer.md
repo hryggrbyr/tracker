@@ -17,6 +17,8 @@ start_date: 1995-12-31
 end_date: 1993-12-31
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2025-09-06 19:45:06
 ---
 
@@ -26,7 +28,7 @@ created: 2025-09-06 19:45:06
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | Life on other planets |
 | Started | 1995-12-31T00:00:00.000+00:00 |

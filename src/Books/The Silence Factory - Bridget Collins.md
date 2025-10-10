@@ -16,6 +16,8 @@ start_date: 2025-06-19
 end_date: 2025-06-28
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2025-06-29
 ---
 

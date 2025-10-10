@@ -16,7 +16,9 @@ owned: false
 start_date:
 end_date:
 rating: 0
-recommended_by: Robin Rendle, https://robinrendle.com/notes/book-notes/
+recommended_by:
+  name: Robin Rendle
+  url: https://robinrendle.com/notes/book-notes/
 created: 2025-07-18 05:08:39
 ---
 

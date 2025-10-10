@@ -16,6 +16,8 @@ start_date:
 end_date:
 rating: 2
 recommended_by:
+  name:
+  url:
 created: 2015-10-06
 ---
 

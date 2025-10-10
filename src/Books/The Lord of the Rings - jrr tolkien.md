@@ -19,7 +19,9 @@ owned: true
 start_date: 1990-09-03
 end_date: 1990-12-24
 rating: 4
-recommended_by: Mr Preston
+recommended_by:
+  name: Mr Preston
+  url:
 created: 2023-09-29
 ---
 
@@ -35,4 +37,3 @@ _The Fellowship of the Ring | The Two Towers | The Return of the King_
 | Started | 1990-09-03T00:00:00.000+01:00 |
 | Finished | 1990-12-24T00:00:00.000+00:00 |
 | Rating | 4/5 |
-

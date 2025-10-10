@@ -16,6 +16,8 @@ start_date: 2024-11-07
 end_date: 2024-11-15
 rating: 3
 recommended_by:
+  name:
+  url:
 created: 2024-11-15
 ---
 
@@ -31,4 +33,3 @@ _ _
 | Started | 2024-11-07T00:00:00.000+00:00 |
 | Finished | 2024-11-15T00:00:00.000+00:00 |
 | Rating | 3/5 |
-

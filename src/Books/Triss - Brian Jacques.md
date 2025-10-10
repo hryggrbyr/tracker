@@ -17,6 +17,8 @@ start_date:
 end_date:
 rating:
 recommended_by:
+  name:
+  url:
 created: 2023-10-31
 ---
 
@@ -32,4 +34,3 @@ _Redwall 15_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

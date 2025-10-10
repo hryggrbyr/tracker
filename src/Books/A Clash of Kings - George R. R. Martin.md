@@ -19,6 +19,8 @@ start_date: 2008-02-02
 end_date: 2008-02-02
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2015-10-06
 ---
 
@@ -34,4 +36,3 @@ _A Song of Ice and Fire 2_
 | Started | 2008-02-02T00:00:00.000+00:00 |
 | Finished | 2008-02-02T00:00:00.000+00:00 |
 | Rating | 4/5 |
-

@@ -16,6 +16,8 @@ start_date: 2015-11-02
 end_date: 2017-08-15
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2015-11-02
 ---
 
@@ -31,4 +33,3 @@ _ _
 | Started | 2015-11-02T00:00:00.000+00:00 |
 | Finished | 2017-08-15T00:00:00.000+01:00 |
 | Rating | 4/5 |
-

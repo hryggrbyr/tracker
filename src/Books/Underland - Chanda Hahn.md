@@ -16,6 +16,8 @@ start_date: 2022-09-29
 end_date: 2022-10-10
 rating:
 recommended_by:
+  name:
+  url:
 created: 2022-12-18
 ---
 
@@ -31,4 +33,3 @@ _ _
 | Started | 2022-09-29T00:00:00.000+01:00 |
 | Finished | 2022-10-10T00:00:00.000+01:00 |
 | Rating | /5 |
-

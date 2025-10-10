@@ -17,6 +17,8 @@ start_date:
 end_date:
 rating:
 recommended_by:
+  name:
+  url:
 created: 2025-02-19
 ---
 
@@ -32,4 +34,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

@@ -19,6 +19,8 @@ start_date: 2018-02-08
 end_date: 2020-04-22
 rating: 3
 recommended_by:
+  name:
+  url:
 created: 2018-02-08
 ---
 
@@ -34,4 +36,3 @@ _Jack Reacher_
 | Started | 2018-02-08T00:00:00.000+00:00 |
 | Finished | 2020-04-22T00:00:00.000+01:00 |
 | Rating | 3/5 |
-

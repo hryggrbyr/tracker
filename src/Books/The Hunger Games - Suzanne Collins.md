@@ -20,6 +20,8 @@ start_date: 2011-09-06
 end_date: 2011-09-27
 rating: 3
 recommended_by:
+  name:
+  url:
 created: 2015-10-06
 ---
 

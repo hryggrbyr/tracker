@@ -19,6 +19,8 @@ start_date:
 end_date:
 rating: 3
 recommended_by:
+  name:
+  url:
 created:
 ---
 
