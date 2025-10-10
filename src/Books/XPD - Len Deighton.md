@@ -16,6 +16,8 @@ start_date:
 end_date: 1992-09-12
 rating: 3
 recommended_by:
+  name:
+  url:
 created: 2024-09-13
 ---
 
