@@ -16,6 +16,8 @@ start_date:
 end_date:
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2021-04-22
 ---
 
@@ -31,4 +33,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | 4/5 |
-
