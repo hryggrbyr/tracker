@@ -17,6 +17,8 @@ start_date: 2005-01-20
 end_date: 2005-02-10
 rating: 2
 recommended_by:
+  name:
+  url:
 created: 2025-08-06 08:31:44
 ---
 
