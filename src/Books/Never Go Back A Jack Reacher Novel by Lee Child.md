@@ -17,7 +17,9 @@ owned: true
 start_date: 2016-08-01
 end_date: 2016-08-20
 rating: 3
-recommended_by: Tom Cruise
+recommended_by:
+  name: Tom Cruise
+  url:
 created: 2024-08-21
 ---
 
@@ -33,4 +35,3 @@ _A Jack Reacher Novel_
 | Started | 2016-08-01T00:00:00.000+01:00 |
 | Finished | 2016-08-20T00:00:00.000+01:00 |
 | Rating | 3/5 |
-
