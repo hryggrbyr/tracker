@@ -21,6 +21,8 @@ start_date: 2009-12-15
 end_date: 2009-12-31
 rating: 3
 recommended_by:
+  name:
+  url:
 created: 2015-10-06
 ---
 
