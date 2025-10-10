@@ -16,7 +16,9 @@ owned: false
 start_date:
 end_date:
 rating: 0
-recommended_by: alice at wallflower digest| https://thewallflowerdigest.co.uk/books/reading-roundup/reading-roundup-july-2025/
+recommended_by:
+  name: Alice at Wallflower Digest
+  url: https://thewallflowerdigest.co.uk/books/reading-roundup/reading-roundup-july-2025/
 created: 2025-08-03 08:04:02
 ---
 
