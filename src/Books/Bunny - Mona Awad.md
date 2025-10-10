@@ -16,7 +16,9 @@ owned: false
 start_date:
 end_date:
 rating: 0
-recommended_by: Alive at Wallflower Digest
+recommended_by:
+  name: Alice at Wallflower Digest
+  url:
 created: 2024-08-27 21:09:18
 ---
 
@@ -26,7 +28,7 @@ created: 2024-08-27 21:09:18
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | FICTION |
 | Started |  |
