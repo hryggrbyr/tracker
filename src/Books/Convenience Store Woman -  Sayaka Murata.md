@@ -16,7 +16,9 @@ owned: false
 start_date:
 end_date:
 rating:
-recommended_by: Alice at Wallflower Digest
+recommended_by:
+  name: Alice at Wallflower Digest
+  url:
 created: 2024-08-27
 ---
 
@@ -32,4 +34,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
