@@ -16,6 +16,8 @@ start_date:
 end_date:
 rating: 3
 recommended_by:
+  name:
+  url:
 created:
 ---
 
@@ -31,4 +33,3 @@ _Red Queen 3_
 | Started |  |
 | Finished |  |
 | Rating | 3/5 |
-
