@@ -16,6 +16,8 @@ start_date:
 end_date:
 rating:
 recommended_by:
+  name:
+  url:
 created: 2019-08-02
 ---
 
@@ -31,4 +33,3 @@ _Red Queen 0_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
