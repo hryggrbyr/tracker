@@ -15,7 +15,9 @@ owned: false
 start_date:
 end_date:
 rating: 0
-recommended_by: Alice at Wallflower Digest
+recommended_by:
+  name: Alice at Wallflower Digest
+  url:
 created: 2025-08-15 20:50:24
 ---
 
@@ -25,7 +27,7 @@ created: 2025-08-15 20:50:24
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |
