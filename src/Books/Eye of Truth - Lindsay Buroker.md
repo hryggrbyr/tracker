@@ -16,6 +16,8 @@ start_date:
 end_date:
 rating:
 recommended_by:
+  name:
+  url:
 created: 2024-11-07
 ---
 
@@ -31,4 +33,3 @@ _Agents of the Crown_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
