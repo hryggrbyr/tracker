@@ -16,6 +16,8 @@ start_date:
 end_date:
 rating:
 recommended_by:
+  name:
+  url:
 created:
 ---
 
@@ -31,4 +33,3 @@ _Redwall 20_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
