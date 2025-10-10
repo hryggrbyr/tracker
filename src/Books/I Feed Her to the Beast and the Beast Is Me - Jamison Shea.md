@@ -16,7 +16,9 @@ owned: false
 start_date:
 end_date:
 rating: 0
-recommended_by: Jamison Shea
+recommended_by:
+  name: Jamison Shea
+  url:
 created: 2025-08-26 21:07:50
 ---
 
@@ -26,7 +28,7 @@ created: 2025-08-26 21:07:50
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | Fiction |
 | Started |  |
