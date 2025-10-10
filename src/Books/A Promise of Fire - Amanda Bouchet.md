@@ -20,6 +20,8 @@ start_date: 2022-05-13
 end_date: 2022-05-23
 rating: 3
 recommended_by:
+  name:
+  url:
 created:
 ---
 
@@ -35,4 +37,3 @@ _ _
 | Started | 2022-05-13T00:00:00.000+01:00 |
 | Finished | 2022-05-23T00:00:00.000+01:00 |
 | Rating | 3/5 |
-
