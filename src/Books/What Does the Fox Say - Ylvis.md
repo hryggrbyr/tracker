@@ -16,7 +16,9 @@ owned: true
 start_date: 2022-08-04
 end_date: 2022-08-04
 rating: 5
-recommended_by: Ylvis
+recommended_by:
+  name: Ylvis
+  url:
 created: 2025-08-04 16:33:30
 ---
 
