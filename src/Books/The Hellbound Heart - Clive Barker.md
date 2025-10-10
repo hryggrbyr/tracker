@@ -19,6 +19,8 @@ start_date: 1995-06-02
 end_date: 1995-06-05
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2015-10-06
 ---
 
