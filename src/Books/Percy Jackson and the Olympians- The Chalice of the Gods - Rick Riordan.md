@@ -17,6 +17,8 @@ start_date:
 end_date: 2011-02-02
 rating: 5
 recommended_by:
+  name:
+  url:
 created:
 ---
 
