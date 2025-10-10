@@ -16,7 +16,9 @@ owned: false
 start_date:
 end_date:
 rating: 0
-recommended_by: https://anniemueller.com/posts/reading-notes-august-september
+recommended_by:
+  name: Annie Mueller
+  url: https://anniemueller.com/posts/reading-notes-august-september
 created: 2025-10-10 07:02:51
 ---
 
@@ -26,7 +28,7 @@ created: 2025-10-10 07:02:51
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | Fiction |
 | Started |  |
