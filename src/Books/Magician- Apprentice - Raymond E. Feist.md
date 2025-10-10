@@ -16,6 +16,8 @@ start_date: 2021-01-16
 end_date: 2021-02-19
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2021-01-15
 ---
 
@@ -31,4 +33,3 @@ _The Riftwar Saga 1_
 | Started | 2021-01-16T00:00:00.000+00:00 |
 | Finished | 2021-02-19T00:00:00.000+00:00 |
 | Rating | 4/5 |
-
