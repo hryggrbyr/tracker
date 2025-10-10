@@ -21,6 +21,8 @@ start_date: 2009-12-01
 end_date: 2025-09-08
 rating: 5
 recommended_by:
+  name:
+  url:
 created: 2009-12-01
 ---
 
@@ -36,4 +38,3 @@ _The Twilight Saga 1_
 | Started | 2009-12-01T00:00:00.000+00:00 |
 | Finished | 2025-09-08T00:00:00.000+01:00 |
 | Rating | 5/5 |
-
