@@ -16,6 +16,8 @@ start_date: 2024-06-12
 end_date: 2024-07-02
 rating: 3
 recommended_by:
+  name:
+  url:
 created: 2024-07-03
 ---
 
@@ -31,4 +33,3 @@ _ _
 | Started | 2024-06-12T00:00:00.000+01:00 |
 | Finished | 2024-07-02T00:00:00.000+01:00 |
 | Rating | 3/5 |
-
