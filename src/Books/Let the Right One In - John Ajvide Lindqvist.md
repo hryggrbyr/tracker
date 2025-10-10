@@ -17,6 +17,8 @@ start_date: 2025-09-08
 end_date: 2025-09-25
 rating: 5
 recommended_by:
+  name:
+  url:
 created: 2025-09-08 14:19:53
 ---
 
@@ -26,7 +28,7 @@ created: 2025-09-08 14:19:53
 
 _A Novel_
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | Fiction |
 | Started | 2025-09-08T00:00:00.000+01:00 |
