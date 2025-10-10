@@ -21,7 +21,9 @@ owned: true
 start_date: 2020-04-01
 end_date: 2020-04-22
 rating: 5
-recommended_by: Studio Ghibli
+recommended_by:
+  name: Studio Ghibli
+  url:
 created: 2022-04-01 17:42:29
 ---
 
