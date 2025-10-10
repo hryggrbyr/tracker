@@ -21,6 +21,8 @@ start_date: 2010-07-15
 end_date: 2010-07-31
 rating: 3
 recommended_by:
+  name:
+  url:
 created: 2015-10-06
 ---
 
@@ -36,4 +38,3 @@ _The Twilight Saga 3_
 | Started | 2010-07-15T00:00:00.000+01:00 |
 | Finished | 2010-07-31T00:00:00.000+01:00 |
 | Rating | 3/5 |
-
