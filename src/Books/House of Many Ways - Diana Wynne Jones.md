@@ -16,6 +16,8 @@ start_date:
 end_date: 2020-12-31
 rating:
 recommended_by:
+  name:
+  url:
 created: 2020-04-22
 ---
 
@@ -31,4 +33,3 @@ _ _
 | Started |  |
 | Finished | 2020-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
-
