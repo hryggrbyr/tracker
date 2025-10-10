@@ -17,6 +17,8 @@ start_date: 2012-12-25
 end_date: 2012-12-31
 rating: 4
 recommended_by:
+  name:
+  url:
 created: 2025-08-06 19:30:40
 ---
 
