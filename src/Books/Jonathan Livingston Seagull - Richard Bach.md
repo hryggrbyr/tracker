@@ -16,7 +16,9 @@ owned: false
 start_date: 1989-02-02
 end_date: 1989-02-02
 rating: 2
-recommended_by: My mum
+recommended_by:
+  name: My mum
+  url:
 created: 2025-08-17 06:37:45
 ---
 
@@ -26,7 +28,7 @@ created: 2025-08-17 06:37:45
 
 _The Complete Edition_
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | Fiction |
 | Started | 1989-02-02T00:00:00.000+00:00 |
