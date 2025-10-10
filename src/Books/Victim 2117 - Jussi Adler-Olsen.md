@@ -17,6 +17,8 @@ start_date:
 end_date:
 rating: 4
 recommended_by:
+  name:
+  url:
 created:
 ---
 
@@ -32,4 +34,3 @@ _Department Q 8_
 | Started |  |
 | Finished |  |
 | Rating | 4/5 |
-
