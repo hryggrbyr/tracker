@@ -16,6 +16,8 @@ start_date: 1995-01-01
 end_date: 1995-01-01
 rating:
 recommended_by:
+  name:
+  url:
 created: 2025-04-25
 ---
 
@@ -31,4 +33,3 @@ _ _
 | Started | 1995-01-01T00:00:00.000+00:00 |
 | Finished | 1995-01-01T00:00:00.000+00:00 |
 | Rating | /5 |
-
