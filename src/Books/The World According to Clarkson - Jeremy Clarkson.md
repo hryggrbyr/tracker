@@ -16,7 +16,9 @@ owned: false
 start_date: 2005-12-25
 end_date: 2006-01-10
 rating: 1
-recommended_by: Oliver Playforth
+recommended_by:
+  name: Oliver Playforth
+  url:
 created: 2025-08-06 08:33:24
 ---
 
