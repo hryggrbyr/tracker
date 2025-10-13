@@ -62,7 +62,7 @@ module.exports = function (eleventyConfig) {
       
       // Use display text if provided, otherwise use the target
       const linkText = displayText || target.split('/').pop().replace(/\.[^.]+$/, '');
-      
+      console.log(">>>>>", `[${linkText}](${slug})`);
       // Return as standard markdown link
       return `[${linkText}](${slug})`;
     });
