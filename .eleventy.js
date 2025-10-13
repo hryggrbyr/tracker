@@ -58,7 +58,7 @@ module.exports = function (eleventyConfig) {
       const linkText = displayText || target.split('/').pop().replace(/\.[^.]+$/, '');
       
       // Return as HTML link
-      return `<a href="${slug}"><em>&ldquo;${linkText}&rdquo;</em></a>`;
+      return `${linkText}`;
     });
   }
   return content;
