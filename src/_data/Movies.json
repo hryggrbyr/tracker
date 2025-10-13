@@ -413,64 +413,6 @@
     }
   },
   {
-    "filename": "Withnail & I-Bruce Robinson-1987.md",
-    "path": "src/Movies/Withnail & I-Bruce Robinson-1987.md",
-    "slug": "Withnail & I-Bruce Robinson-1987",
-    "frontmatter": {
-      "type": "movie",
-      "country": "GB",
-      "title": "Withnail & I",
-      "year": 1987,
-      "director": "Bruce Robinson",
-      "actors": [
-        "Richard E. Grant",
-        "Paul McGann",
-        "Richard Griffiths",
-        "Ralph Brown",
-        "Michael Elphick"
-      ],
-      "genre": [
-        "Comedy",
-        "Drama"
-      ],
-      "length": "1h 48m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "1987-06-19T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/i18cIp8A10A2JgByrfA9oIC9299.jpg"
-    }
-  },
-  {
-    "filename": "Winter's_Bone_2010.md",
-    "path": "src/Movies/Winter's_Bone_2010.md",
-    "slug": "Winter's_Bone_2010",
-    "frontmatter": {
-      "type": "movie",
-      "country": "US",
-      "title": "Winter's Bone",
-      "year": 2010,
-      "director": "Debra Granik",
-      "actors": [
-        "Jennifer Lawrence",
-        "John Hawkes",
-        "Kevin Breznahan",
-        "Dale Dickey",
-        "Garret Dillahunt"
-      ],
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "length": "1h 41m",
-      "shelf": "watchlist",
-      "owned": false,
-      "rating": null,
-      "watched": null,
-      "poster": "https://image.tmdb.org/t/p/w500/a0qhPkNlxLfsf5B2jFyI1Pp04XV.jpg"
-    }
-  },
-  {
     "filename": "Winter's Bone-Debra Granik-2010.md",
     "path": "src/Movies/Winter's Bone-Debra Granik-2010.md",
     "slug": "Winter's Bone-Debra Granik-2010",
@@ -963,7 +905,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2012-12-25T00:00:00.000Z",
+      "watched": "2013-12-25T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/468k7zjR95COOXcMLxE5GbXjerQ.jpg"
     }
   },
@@ -3886,6 +3828,34 @@
     }
   },
   {
+    "filename": "The Ritual-David Bruckner-2017.md",
+    "path": "src/Movies/The Ritual-David Bruckner-2017.md",
+    "slug": "The Ritual-David Bruckner-2017",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United Kingdom, Canada",
+      "title": "The Ritual",
+      "year": 2017,
+      "director": "David Bruckner",
+      "actors": [
+        "Rafe Spall",
+        "Arsher Ali",
+        "Robert James-Collier"
+      ],
+      "genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "length": 94,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2017-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzAyMDI4Ml5BMl5BanBnXkFtZTgwODMwOTY2NDM@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "The Ring-Gore Verbinski-2002.md",
     "path": "src/Movies/The Ring-Gore Verbinski-2002.md",
     "slug": "The Ring-Gore Verbinski-2002",
@@ -4431,7 +4401,8 @@
       "genre": [
         "Fantasy",
         "Animation",
-        "Family"
+        "Family",
+        "Christmas"
       ],
       "length": "1h 16m",
       "shelf": "watched",
@@ -4499,35 +4470,6 @@
       "rating": null,
       "watched": "1995-07-28T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/dtupntUFMD5iXBo8HLfALt2ET4R.jpg"
-    }
-  },
-  {
-    "filename": "The Naked Gun- From the Files of Police Squad!-David Zucker-1988.md",
-    "path": "src/Movies/The Naked Gun- From the Files of Police Squad!-David Zucker-1988.md",
-    "slug": "The Naked Gun- From the Files of Police Squad!-David Zucker-1988",
-    "frontmatter": {
-      "type": "movie",
-      "country": "US",
-      "title": "The Naked Gun: From the Files of Police Squad!",
-      "year": 1988,
-      "director": "David Zucker",
-      "actors": [
-        "Leslie Nielsen",
-        "Priscilla Presley",
-        "Ricardo Montalban",
-        "George Kennedy",
-        "O. J. Simpson"
-      ],
-      "genre": [
-        "Comedy",
-        "Crime"
-      ],
-      "length": "1h 26m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "1988-12-02T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg"
     }
   },
   {
@@ -5175,6 +5117,34 @@
       "rating": null,
       "watched": "2017-09-01T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/u9NnEq4Be7hhwSvkNf6dOAD8ppi.jpg"
+    }
+  },
+  {
+    "filename": "The Life of Chuck-Mike Flanagan-2024.md",
+    "path": "src/Movies/The Life of Chuck-Mike Flanagan-2024.md",
+    "slug": "The Life of Chuck-Mike Flanagan-2024",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "The Life of Chuck",
+      "year": 2024,
+      "director": "Mike Flanagan",
+      "actors": [
+        "Tom Hiddleston",
+        "Jacob Tremblay",
+        "Benjamin Pajak"
+      ],
+      "genre": [
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "length": 111,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -5864,36 +5834,6 @@
     }
   },
   {
-    "filename": "The Hobbit- An Unexpected Journey-Peter Jackson-2012.md",
-    "path": "src/Movies/The Hobbit- An Unexpected Journey-Peter Jackson-2012.md",
-    "slug": "The Hobbit- An Unexpected Journey-Peter Jackson-2012",
-    "frontmatter": {
-      "type": "movie",
-      "country": "US",
-      "title": "The Hobbit: An Unexpected Journey",
-      "year": 2012,
-      "director": "Peter Jackson",
-      "actors": [
-        "Martin Freeman",
-        "Ian McKellen",
-        "Richard Armitage",
-        "James Nesbitt",
-        "Ken Stott"
-      ],
-      "genre": [
-        "Adventure",
-        "Fantasy",
-        "Action"
-      ],
-      "length": "2h 49m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg"
-    }
-  },
-  {
     "filename": "The Hobbit The Desolation of Smaug-Peter Jackson-2013.md",
     "path": "src/Movies/The Hobbit The Desolation of Smaug-Peter Jackson-2013.md",
     "slug": "The Hobbit The Desolation of Smaug-Peter Jackson-2013",
@@ -6085,7 +6025,8 @@
       "genre": [
         "Family",
         "Comedy",
-        "Animation"
+        "Animation",
+        "Christmas"
       ],
       "length": "1h 25m",
       "shelf": "watched",
@@ -7365,7 +7306,8 @@
         "Comedy",
         "Adventure",
         "Family",
-        "Fantasy"
+        "Fantasy",
+        "Christmas"
       ],
       "length": "1h 44m",
       "shelf": "watched",
@@ -7780,7 +7722,8 @@
         "Animation",
         "Comedy",
         "Family",
-        "Action"
+        "Action",
+        "Christmas"
       ],
       "length": "26m",
       "shelf": "watched",
@@ -7900,7 +7843,8 @@
         "Comedy",
         "Family",
         "Fantasy",
-        "Adventure"
+        "Adventure",
+        "Christmas"
       ],
       "length": "1h 31m",
       "shelf": "watched",
@@ -8200,36 +8144,6 @@
       "rating": null,
       "watched": "2024-07-27T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/o8Ob85i772akIhwUlkBWpu5yRUu.jpg"
-    }
-  },
-  {
-    "filename": "TRON- Legacy-Joseph Kosinski-2010.md",
-    "path": "src/Movies/TRON- Legacy-Joseph Kosinski-2010.md",
-    "slug": "TRON- Legacy-Joseph Kosinski-2010",
-    "frontmatter": {
-      "type": "movie",
-      "country": "US",
-      "title": "TRON: Legacy",
-      "year": 2010,
-      "director": "Joseph Kosinski",
-      "actors": [
-        "Garrett Hedlund",
-        "Olivia Wilde",
-        "Jeff Bridges",
-        "Bruce Boxleitner",
-        "James Frain"
-      ],
-      "genre": [
-        "Adventure",
-        "Action",
-        "Science Fiction"
-      ],
-      "length": "2h 6m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2010-12-17T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg"
     }
   },
   {
@@ -8632,7 +8546,8 @@
       ],
       "genre": [
         "Animation",
-        "Family"
+        "Family",
+        "Christmas"
       ],
       "length": "27m",
       "shelf": "watched",
@@ -10240,6 +10155,34 @@
     }
   },
   {
+    "filename": "Seal Team-Greig Cameron, Kane Croudace-2021.md",
+    "path": "src/Movies/Seal Team-Greig Cameron, Kane Croudace-2021.md",
+    "slug": "Seal Team-Greig Cameron, Kane Croudace-2021",
+    "frontmatter": {
+      "type": "movie",
+      "country": "South Africa, United States",
+      "title": "Seal Team",
+      "year": 2021,
+      "director": "Greig Cameron, Kane Croudace",
+      "actors": [
+        "J.K. Simmons",
+        "Dolph Lundgren",
+        "Sharlto Copley"
+      ],
+      "genre": [
+        "Animation",
+        "Action",
+        "Comedy"
+      ],
+      "length": 101,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2025-10-04T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzFmMTAwNjQtMTcwMC00Nzg4LTg2MzMtNGU3ZGEzYWRlMGU1XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Se7en-David Fincher-1995.md",
     "path": "src/Movies/Se7en-David Fincher-1995.md",
     "slug": "Se7en-David Fincher-1995",
@@ -10290,13 +10233,14 @@
       "genre": [
         "Fantasy",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Christmas"
       ],
       "length": "1h 41m",
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2024-12-25T00:00:00.000Z",
+      "watched": "2024-12-24T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
     }
   },
@@ -11087,7 +11031,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2012-06-15T00:00:00.000Z",
+      "watched": "2015-06-15T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/oVeE2QTUb14jPU2lYEGPE3s8T9j.jpg"
     }
   },
@@ -11434,7 +11378,8 @@
       "genre": [
         "Action",
         "Comedy",
-        "Fantasy"
+        "Fantasy",
+        "Christmas"
       ],
       "length": "2h 4m",
       "shelf": "watched",
@@ -12236,126 +12181,6 @@
       "rating": null,
       "watched": "2000-12-31T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BNGJlYjllOTUtZGRiNS00YmI4LTkxYmItYjBmYTdmZWZlMTMxXkEyXkFqcGc@._V1_SX300.jpg"
-    }
-  },
-  {
-    "filename": "Pirates of the Caribbean- The Curse of the Black Pearl-Gore Verbinski-2003.md",
-    "path": "src/Movies/Pirates of the Caribbean- The Curse of the Black Pearl-Gore Verbinski-2003.md",
-    "slug": "Pirates of the Caribbean- The Curse of the Black Pearl-Gore Verbinski-2003",
-    "frontmatter": {
-      "type": "movie",
-      "country": "US",
-      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-      "year": 2003,
-      "director": "Gore Verbinski",
-      "actors": [
-        "Johnny Depp",
-        "Geoffrey Rush",
-        "Orlando Bloom",
-        "Keira Knightley",
-        "Jack Davenport"
-      ],
-      "genre": [
-        "Adventure",
-        "Fantasy",
-        "Action"
-      ],
-      "length": "2h 23m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2003-07-09T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg"
-    }
-  },
-  {
-    "filename": "Pirates of the Caribbean- On Stranger Tides-Rob Marshall-2011.md",
-    "path": "src/Movies/Pirates of the Caribbean- On Stranger Tides-Rob Marshall-2011.md",
-    "slug": "Pirates of the Caribbean- On Stranger Tides-Rob Marshall-2011",
-    "frontmatter": {
-      "type": "movie",
-      "country": "GB, US",
-      "title": "Pirates of the Caribbean: On Stranger Tides",
-      "year": 2011,
-      "director": "Rob Marshall",
-      "actors": [
-        "Johnny Depp",
-        "Penélope Cruz",
-        "Geoffrey Rush",
-        "Ian McShane",
-        "Kevin McNally"
-      ],
-      "genre": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "length": "2h 16m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2011-05-20T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg"
-    }
-  },
-  {
-    "filename": "Pirates of the Caribbean- Dead Man's Chest-Gore Verbinski-2006.md",
-    "path": "src/Movies/Pirates of the Caribbean- Dead Man's Chest-Gore Verbinski-2006.md",
-    "slug": "Pirates of the Caribbean- Dead Man's Chest-Gore Verbinski-2006",
-    "frontmatter": {
-      "type": "movie",
-      "country": "US",
-      "title": "Pirates of the Caribbean: Dead Man's Chest",
-      "year": 2006,
-      "director": "Gore Verbinski",
-      "actors": [
-        "Johnny Depp",
-        "Orlando Bloom",
-        "Keira Knightley",
-        "Stellan Skarsgård",
-        "Bill Nighy"
-      ],
-      "genre": [
-        "Adventure",
-        "Fantasy",
-        "Action"
-      ],
-      "length": "2h 31m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2006-07-07T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg"
-    }
-  },
-  {
-    "filename": "Pirates of the Caribbean- At World's End-Gore Verbinski-2007.md",
-    "path": "src/Movies/Pirates of the Caribbean- At World's End-Gore Verbinski-2007.md",
-    "slug": "Pirates of the Caribbean- At World's End-Gore Verbinski-2007",
-    "frontmatter": {
-      "type": "movie",
-      "country": "US",
-      "title": "Pirates of the Caribbean: At World's End",
-      "year": 2007,
-      "director": "Gore Verbinski",
-      "actors": [
-        "Johnny Depp",
-        "Geoffrey Rush",
-        "Orlando Bloom",
-        "Keira Knightley",
-        "Jack Davenport"
-      ],
-      "genre": [
-        "Adventure",
-        "Fantasy",
-        "Action"
-      ],
-      "length": "2h 49m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2007-05-19T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg"
     }
   },
   {
@@ -13219,7 +13044,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2012-09-01T00:00:00.000Z",
+      "watched": "2014-09-01T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/osIHphCMC05HaCu9Z1gFg3JJz6x.jpg"
     }
   },
@@ -13274,7 +13099,8 @@
       "genre": [
         "Romance",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Christmas"
       ],
       "length": "1h 41m",
       "shelf": "watched",
@@ -14661,9 +14487,9 @@
     }
   },
   {
-    "filename": "MirrorMask_2005.md",
-    "path": "src/Movies/MirrorMask_2005.md",
-    "slug": "MirrorMask_2005",
+    "filename": "MirrorMask-Dave McKean-2005.md",
+    "path": "src/Movies/MirrorMask-Dave McKean-2005.md",
+    "slug": "MirrorMask-Dave McKean-2005",
     "frontmatter": {
       "type": "movie",
       "country": "GB, US",
@@ -14708,7 +14534,8 @@
       "genre": [
         "Fantasy",
         "Drama",
-        "Family"
+        "Family",
+        "Christmas"
       ],
       "length": "1h 54m",
       "shelf": "watched",
@@ -15126,7 +14953,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2012-12-31T00:00:00.000Z",
+      "watched": "2014-12-31T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BNWQyMTAyMzktMmMxMy00OWNlLWE5ODEtZWUzYTBhNjEzYjY1XkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
@@ -15454,36 +15281,6 @@
     }
   },
   {
-    "filename": "Léon- The Professional-Luc Besson-1994.md",
-    "path": "src/Movies/Léon- The Professional-Luc Besson-1994.md",
-    "slug": "Léon- The Professional-Luc Besson-1994",
-    "frontmatter": {
-      "type": "movie",
-      "country": "FR",
-      "title": "Léon: The Professional",
-      "year": 1994,
-      "director": "Luc Besson",
-      "actors": [
-        "Jean Reno",
-        "Natalie Portman",
-        "Gary Oldman",
-        "Danny Aiello",
-        "Peter Appel"
-      ],
-      "genre": [
-        "Crime",
-        "Drama",
-        "Action"
-      ],
-      "length": "1h 51m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "1994-11-18T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg"
-    }
-  },
-  {
     "filename": "Léon The Professional-Luc Besson-1994.md",
     "path": "src/Movies/Léon The Professional-Luc Besson-1994.md",
     "slug": "Léon The Professional-Luc Besson-1994",
@@ -15561,7 +15358,8 @@
       "genre": [
         "Comedy",
         "Romance",
-        "Drama"
+        "Drama",
+        "Christmas"
       ],
       "length": "2h 15m",
       "shelf": "watched",
@@ -15713,6 +15511,34 @@
       "rating": null,
       "watched": "1962-06-13T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/8Puqbeh0D95DpXFWep1rmH78btu.jpg"
+    }
+  },
+  {
+    "filename": "Logan's Run-Michael Anderson-1976.md",
+    "path": "src/Movies/Logan's Run-Michael Anderson-1976.md",
+    "slug": "Logan's Run-Michael Anderson-1976",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Logan's Run",
+      "year": 1976,
+      "director": "Michael Anderson",
+      "actors": [
+        "Michael York",
+        "Jenny Agutter",
+        "Richard Jordan"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "length": 119,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "1976-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWFmOGQ3NmItY2QzZC00ODdlLWE2NjMtM2I5YTdjYjk4YjUwXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -16688,34 +16514,31 @@
     }
   },
   {
-    "filename": "Jolt_2021.md",
-    "path": "src/Movies/Jolt_2021.md",
-    "slug": "Jolt_2021",
+    "filename": "Jolt-Tanya Wexler-2021.md",
+    "path": "src/Movies/Jolt-Tanya Wexler-2021.md",
+    "slug": "Jolt-Tanya Wexler-2021",
     "frontmatter": {
       "type": "movie",
-      "country": "US",
+      "country": "United States",
       "title": "Jolt",
       "year": 2021,
       "director": "Tanya Wexler",
       "actors": [
         "Kate Beckinsale",
-        "Stanley Tucci",
-        "Bobby Cannavale",
         "Jai Courtney",
-        "Laverne Cox"
+        "Stanley Tucci"
       ],
       "genre": [
         "Action",
-        "Thriller"
+        "Comedy",
+        "Crime"
       ],
-      "length": "1h 31m",
-      "shelf": "watched",
+      "length": 91,
+      "shelf": "watchlist",
       "owned": false,
       "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/b0fBzqCmHr0a0XkeAdhc02XhKXG.jpg"
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDJmMjBiYTItOGUwMC00M2U2LWI3NTMtMDkzYTgzZGUzODAyXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -16838,35 +16661,31 @@
     }
   },
   {
-    "filename": "Jiu_Jitsu_2020.md",
-    "path": "src/Movies/Jiu_Jitsu_2020.md",
-    "slug": "Jiu_Jitsu_2020",
+    "filename": "Jiu Jitsu-Dimitri Logothetis-2020.md",
+    "path": "src/Movies/Jiu Jitsu-Dimitri Logothetis-2020.md",
+    "slug": "Jiu Jitsu-Dimitri Logothetis-2020",
     "frontmatter": {
       "type": "movie",
-      "country": "US",
+      "country": "United States",
       "title": "Jiu Jitsu",
       "year": 2020,
       "director": "Dimitri Logothetis",
       "actors": [
         "Alain Moussi",
         "Nicolas Cage",
-        "Tony Jaa",
-        "JuJu Chan",
-        "Eddie Steeples"
+        "Raymond Pinharry"
       ],
       "genre": [
         "Action",
-        "Science Fiction",
-        "Fantasy"
+        "Sci-Fi",
+        "Thriller"
       ],
-      "length": "1h 42m",
-      "shelf": "watched",
+      "length": 102,
+      "shelf": "watchlist",
       "owned": false,
       "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg"
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDY5MDk2YmEtMWYxYy00Nzc2LTgzZmItMGYxMjk0NTI1MTczXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -17099,7 +16918,8 @@
       "genre": [
         "Drama",
         "Family",
-        "Fantasy"
+        "Fantasy",
+        "Christmas"
       ],
       "length": "2h 10m",
       "shelf": "watched",
@@ -17731,36 +17551,31 @@
     }
   },
   {
-    "filename": "Humanist_Vampire_Seeking_Consenting_Suicidal_Person_2023.md",
-    "path": "src/Movies/Humanist_Vampire_Seeking_Consenting_Suicidal_Person_2023.md",
-    "slug": "Humanist_Vampire_Seeking_Consenting_Suicidal_Person_2023",
+    "filename": "Humanist Vampire Seeking Consenting Suicidal Person-Ariane Louis-Seize-2023.md",
+    "path": "src/Movies/Humanist Vampire Seeking Consenting Suicidal Person-Ariane Louis-Seize-2023.md",
+    "slug": "Humanist Vampire Seeking Consenting Suicidal Person-Ariane Louis-Seize-2023",
     "frontmatter": {
       "type": "movie",
-      "country": "CA",
+      "country": "Canada",
       "title": "Humanist Vampire Seeking Consenting Suicidal Person",
       "year": 2023,
       "director": "Ariane Louis-Seize",
       "actors": [
         "Sara Montpetit",
         "Félix-Antoine Bénard",
-        "Steve Laplante",
-        "Sophie Cadieux",
-        "Noémie O'Farrell"
+        "Steve Laplante"
       ],
       "genre": [
-        "Romance",
         "Comedy",
-        "Fantasy",
-        "Horror"
+        "Drama",
+        "Fantasy"
       ],
-      "length": "1h 31m",
-      "shelf": "watched",
+      "length": 90,
+      "shelf": "watchlist",
       "owned": false,
       "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/m5OItLBY5T38ew1YI4VSIXjl5G2.jpg"
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODBhNTFiYzAtYWUzMy00YjZjLWEzMDItNzQyNDUyZjdiMjZhXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -18073,7 +17888,8 @@
       ],
       "genre": [
         "Comedy",
-        "Family"
+        "Family",
+        "Christmas"
       ],
       "length": "1h 43m",
       "shelf": "watched",
@@ -18103,7 +17919,8 @@
       "genre": [
         "Comedy",
         "Family",
-        "Adventure"
+        "Adventure",
+        "Christmas"
       ],
       "length": "2h 0m",
       "shelf": "watched",
@@ -18776,7 +18593,9 @@
       ],
       "genre": [
         "Romance",
-        "Comedy"
+        "Comedy",
+        "Christmas",
+        "lgbt"
       ],
       "length": "1h 42m",
       "shelf": "watched",
@@ -19077,7 +18896,8 @@
       "genre": [
         "Fantasy",
         "Horror",
-        "Comedy"
+        "Comedy",
+        "Christmas"
       ],
       "length": "1h 46m",
       "shelf": "watched",
@@ -20696,7 +20516,8 @@
       "genre": [
         "Comedy",
         "Fantasy",
-        "Family"
+        "Family",
+        "Christmas"
       ],
       "length": "1h 46m",
       "shelf": "watched",
@@ -20726,7 +20547,8 @@
       "genre": [
         "Romance",
         "Comedy",
-        "Family"
+        "Family",
+        "Christmas"
       ],
       "length": "1h 35m",
       "shelf": "watched",
@@ -20822,36 +20644,6 @@
       "rating": null,
       "watched": "1999-12-31T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BZjE1NTI3NGYtMjAwZC00N2EwLTliY2MtNDliOTg2OWVjNjY0XkEyXkFqcGc@._V1_SX300.jpg"
-    }
-  },
-  {
-    "filename": "Extremely_Loud_&_Incredibly_Close_2011.md",
-    "path": "src/Movies/Extremely_Loud_&_Incredibly_Close_2011.md",
-    "slug": "Extremely_Loud_&_Incredibly_Close_2011",
-    "frontmatter": {
-      "type": "movie",
-      "country": "US",
-      "title": "Extremely Loud & Incredibly Close",
-      "year": 2011,
-      "director": "Stephen Daldry",
-      "actors": [
-        "Tom Hanks",
-        "Sandra Bullock",
-        "Thomas Horn",
-        "Viola Davis",
-        "John Goodman"
-      ],
-      "genre": [
-        "Drama"
-      ],
-      "length": "2h 9m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/6pszViNvKr1r31pP7gJNYDHEx5P.jpg"
     }
   },
   {
@@ -21111,7 +20903,8 @@
       "genre": [
         "Comedy",
         "Family",
-        "Fantasy"
+        "Fantasy",
+        "Christmas"
       ],
       "length": "1h 37m",
       "shelf": "watched",
@@ -21753,7 +21546,8 @@
       ],
       "genre": [
         "Action",
-        "Thriller"
+        "Thriller",
+        "Christmas"
       ],
       "length": "2h 12m",
       "shelf": "watched",
@@ -21926,7 +21720,8 @@
       ],
       "genre": [
         "Comedy",
-        "Family"
+        "Family",
+        "Christmas"
       ],
       "length": "1h 33m",
       "shelf": "watched",
@@ -21934,37 +21729,6 @@
       "rating": null,
       "watched": "2024-12-25T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
-    }
-  },
-  {
-    "filename": "Death_Comes_to_Pemberley_2013.md",
-    "path": "src/Movies/Death_Comes_to_Pemberley_2013.md",
-    "slug": "Death_Comes_to_Pemberley_2013",
-    "frontmatter": {
-      "type": "series",
-      "country": "GB",
-      "title": "Death Comes to Pemberley",
-      "year": 2013,
-      "director": "Daniel Percival",
-      "actors": [
-        "Matthew Rhys",
-        "Anna Maxwell Martin",
-        "Matthew Goode",
-        "Trevor Eve",
-        "Jenna Coleman"
-      ],
-      "genre": [
-        "Drama",
-        "Mystery"
-      ],
-      "length": "1 season (3 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/2oNFYBQ4kkW5XNalWWxOvmDmnTY.jpg"
     }
   },
   {
@@ -22169,64 +21933,6 @@
       "rating": null,
       "watched": "1979-04-20T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg"
-    }
-  },
-  {
-    "filename": "Daughters_of_the_Cult_2024.md",
-    "path": "src/Movies/Daughters_of_the_Cult_2024.md",
-    "slug": "Daughters_of_the_Cult_2024",
-    "frontmatter": {
-      "type": "series",
-      "country": "US",
-      "title": "Daughters of the Cult",
-      "year": 2024,
-      "director": "Sara Mast",
-      "actors": [
-        "Unknown"
-      ],
-      "genre": [
-        "Documentary"
-      ],
-      "length": "1 season (5 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/6YmL2mPz3xcLJ0uAvfPlXBB51aB.jpg"
-    }
-  },
-  {
-    "filename": "Dark_Season_1991.md",
-    "path": "src/Movies/Dark_Season_1991.md",
-    "slug": "Dark_Season_1991",
-    "frontmatter": {
-      "type": "series",
-      "country": "GB",
-      "title": "Dark Season",
-      "year": 1991,
-      "director": "Colin Cant",
-      "actors": [
-        "Kate Winslet",
-        "Ben Chandler",
-        "Victoria Lambert",
-        "Brigit Forsyth",
-        "Grant Parsons"
-      ],
-      "genre": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "length": "1 season (6 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/fDoCUCRUy1UIPN0mFvmfcqZm24b.jpg"
     }
   },
   {
@@ -23119,7 +22825,8 @@
       ],
       "genre": [
         "Family",
-        "Comedy"
+        "Comedy",
+        "Christmas"
       ],
       "length": "1h 44m",
       "shelf": "watched",
@@ -23534,7 +23241,8 @@
       "genre": [
         "TV Movie",
         "Comedy",
-        "Romance"
+        "Romance",
+        "Christmas"
       ],
       "length": "1h 25m",
       "shelf": "watched",
@@ -23574,40 +23282,6 @@
     }
   },
   {
-    "filename": "Castle_in_the_Sky_1986.md",
-    "path": "src/Movies/Castle_in_the_Sky_1986.md",
-    "slug": "Castle_in_the_Sky_1986",
-    "frontmatter": {
-      "type": "movie",
-      "country": "JP",
-      "title": "Castle in the Sky",
-      "year": 1986,
-      "director": "Hayao Miyazaki",
-      "actors": [
-        "Keiko Yokozawa",
-        "Mayumi Tanaka",
-        "Minori Terada",
-        "Kotoe Hatsui",
-        "Fujio Tokita"
-      ],
-      "genre": [
-        "Adventure",
-        "Fantasy",
-        "Animation",
-        "Action",
-        "Family"
-      ],
-      "length": "2h 5m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg"
-    }
-  },
-  {
     "filename": "Castle in the Sky-Hayao Miyazaki-1986.md",
     "path": "src/Movies/Castle in the Sky-Hayao Miyazaki-1986.md",
     "slug": "Castle in the Sky-Hayao Miyazaki-1986",
@@ -23628,9 +23302,10 @@
         "Family"
       ],
       "length": 124,
-      "shelf": "watchlist",
+      "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 7,
+      "watched": "2025-10-06T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BZjcyMjg2MzktNjg4YS00MjQzLTg0YWQtMjUyZDk2Y2Y0YzZjXkEyXkFqcGc@._V1_SX300.jpg",
       "url": "N/A"
     }
@@ -24658,33 +24333,29 @@
     }
   },
   {
-    "filename": "Bogieville_2024.md",
-    "path": "src/Movies/Bogieville_2024.md",
-    "slug": "Bogieville_2024",
+    "filename": "Bogieville-Sean Cronin-2024.md",
+    "path": "src/Movies/Bogieville-Sean Cronin-2024.md",
+    "slug": "Bogieville-Sean Cronin-2024",
     "frontmatter": {
       "type": "movie",
-      "country": "US",
+      "country": "United States, United Kingdom",
       "title": "Bogieville",
       "year": 2024,
       "director": "Sean Cronin",
       "actors": [
         "Arifin Putra",
         "Eloise Lovell Anderson",
-        "Sean Cronin",
-        "Sarina Taylor",
-        "Poppie Jae Hughes"
+        "Sean Cronin"
       ],
       "genre": [
         "Horror"
       ],
-      "length": "1h 48m",
-      "shelf": "watched",
+      "length": 108,
+      "shelf": "watchlist",
       "owned": false,
       "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/chav4r3mbF8ETV9589obVym6SVs.jpg"
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjRkNTM4NjktYjY4MS00MDdmLTk0YTItMzU0OTViMTUyYTE3XkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -24941,7 +24612,8 @@
       ],
       "genre": [
         "Comedy",
-        "TV Movie"
+        "TV Movie",
+        "Christmas"
       ],
       "length": "43m",
       "shelf": "watched",
@@ -25069,38 +24741,6 @@
     }
   },
   {
-    "filename": "Bill_&_Ted_Face_the_Music_2020.md",
-    "path": "src/Movies/Bill_&_Ted_Face_the_Music_2020.md",
-    "slug": "Bill_&_Ted_Face_the_Music_2020",
-    "frontmatter": {
-      "type": "movie",
-      "country": "US",
-      "title": "Bill & Ted Face the Music",
-      "year": 2020,
-      "director": "Dean Parisot",
-      "actors": [
-        "Keanu Reeves",
-        "Alex Winter",
-        "Kristen Schaal",
-        "Samara Weaving",
-        "Jack Haven"
-      ],
-      "genre": [
-        "Comedy",
-        "Science Fiction",
-        "Adventure"
-      ],
-      "length": "1h 32m",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": {
-        "{ LastWatched }": null
-      },
-      "poster": "https://image.tmdb.org/t/p/w500/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg"
-    }
-  },
-  {
     "filename": "Bill & Ted's Excellent Adventure-Stephen Herek-1989.md",
     "path": "src/Movies/Bill & Ted's Excellent Adventure-Stephen Herek-1989.md",
     "slug": "Bill & Ted's Excellent Adventure-Stephen Herek-1989",
@@ -25158,6 +24798,34 @@
       "rating": null,
       "watched": "1991-07-19T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg"
+    }
+  },
+  {
+    "filename": "Bill & Ted Face the Music-Dean Parisot-2020.md",
+    "path": "src/Movies/Bill & Ted Face the Music-Dean Parisot-2020.md",
+    "slug": "Bill & Ted Face the Music-Dean Parisot-2020",
+    "frontmatter": {
+      "type": "movie",
+      "country": "Bahamas, United States",
+      "title": "Bill & Ted Face the Music",
+      "year": 2020,
+      "director": "Dean Parisot",
+      "actors": [
+        "Keanu Reeves",
+        "Alex Winter",
+        "Kristen Schaal"
+      ],
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Music"
+      ],
+      "length": 91,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTU5NWRkNmEtZmY4Yi00ZTIzLWIxNjUtMzM3ODM2ZTdiOWNhXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -25301,7 +24969,8 @@
         "Wyatt Hunt"
       ],
       "genre": [
-        "Comedy"
+        "Comedy",
+        "Christmas"
       ],
       "length": "1h 22m",
       "shelf": "watched",
@@ -25745,7 +25414,8 @@
       "genre": [
         "Drama",
         "Comedy",
-        "Crime"
+        "Crime",
+        "Christmas"
       ],
       "length": "1h 32m",
       "shelf": "watched",
@@ -25958,7 +25628,8 @@
         "Romance",
         "Comedy",
         "Drama",
-        "TV Movie"
+        "TV Movie",
+        "Christmas"
       ],
       "length": "1h 25m",
       "shelf": "watched",
@@ -26485,7 +26156,8 @@
       "genre": [
         "TV Movie",
         "Comedy",
-        "Romance"
+        "Romance",
+        "Christmas"
       ],
       "length": "1h 25m",
       "shelf": "watched",
@@ -27786,7 +27458,8 @@
       "genre": [
         "Romance",
         "Comedy",
-        "TV Movie"
+        "TV Movie",
+        "Christmas"
       ],
       "length": "1h 25m",
       "shelf": "watched",

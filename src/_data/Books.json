@@ -23,7 +23,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -49,7 +52,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-22T00:00:00.000Z"
     }
   },
@@ -75,7 +81,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -103,7 +112,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": "Kobo blog",
+      "recommended_by": {
+        "name": "Kobo blog",
+        "url": null
+      },
       "created": "2025-09-28T19:05:17.000Z"
     }
   },
@@ -133,7 +145,10 @@
       "start_date": "2025-01-11T00:00:00.000Z",
       "end_date": "2025-01-21T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-01-21T00:00:00.000Z"
     }
   },
@@ -159,7 +174,10 @@
       "start_date": null,
       "end_date": "1992-09-12T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-13T00:00:00.000Z"
     }
   },
@@ -187,7 +205,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": "Robin Rendle, https://robinrendle.com/notes/book-notes/",
+      "recommended_by": {
+        "name": "Robin Rendle",
+        "url": "https://robinrendle.com/notes/book-notes/"
+      },
       "created": "2025-07-18T05:08:39.000Z"
     }
   },
@@ -213,7 +234,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-03-14T00:00:00.000Z"
     }
   },
@@ -239,7 +263,10 @@
       "start_date": "2024-06-12T00:00:00.000Z",
       "end_date": "2024-07-02T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-07-03T00:00:00.000Z"
     }
   },
@@ -265,7 +292,10 @@
       "start_date": "2024-05-23T00:00:00.000Z",
       "end_date": "2024-06-12T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-06-13T00:00:00.000Z"
     }
   },
@@ -291,7 +321,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-02-22T00:00:00.000Z"
     }
   },
@@ -317,7 +350,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -343,7 +379,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-01-11T00:00:00.000Z"
     }
   },
@@ -372,7 +411,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -401,7 +443,10 @@
       "start_date": "2016-05-06T00:00:00.000Z",
       "end_date": "2016-05-22T00:00:00.000Z",
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2016-05-06T00:00:00.000Z"
     }
   },
@@ -427,7 +472,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-09-29T00:00:00.000Z"
     }
   },
@@ -453,7 +501,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-21T00:00:00.000Z"
     }
   },
@@ -479,7 +530,10 @@
       "start_date": "2024-01-22T00:00:00.000Z",
       "end_date": "2024-02-08T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-02-08T00:00:00.000Z"
     }
   },
@@ -505,7 +559,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-04-22T00:00:00.000Z"
     }
   },
@@ -533,7 +590,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-25T10:34:24.000Z"
     }
   },
@@ -561,7 +621,10 @@
       "start_date": "2022-08-04T00:00:00.000Z",
       "end_date": "2022-08-04T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": "Ylvis",
+      "recommended_by": {
+        "name": "Ylvis",
+        "url": null
+      },
       "created": "2025-08-04T16:33:30.000Z"
     }
   },
@@ -587,7 +650,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-01-16T00:00:00.000Z"
     }
   },
@@ -615,7 +681,10 @@
       "start_date": "1990-10-31T00:00:00.000Z",
       "end_date": "1990-11-30T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -641,7 +710,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-04-28T00:00:00.000Z"
     }
   },
@@ -667,7 +739,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-03-03T00:00:00.000Z"
     }
   },
@@ -695,7 +770,10 @@
       "start_date": "2012-12-25T00:00:00.000Z",
       "end_date": "2012-12-31T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-06T19:30:40.000Z"
     }
   },
@@ -721,7 +799,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -747,7 +828,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-27T00:00:00.000Z"
     }
   },
@@ -773,7 +857,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-06-04T00:00:00.000Z"
     }
   },
@@ -801,7 +888,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-26T00:00:00.000Z"
     }
   },
@@ -827,7 +917,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -857,7 +950,10 @@
       "start_date": "2024-10-18T00:00:00.000Z",
       "end_date": "2024-10-30T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-10-30T00:00:00.000Z"
     }
   },
@@ -885,7 +981,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -913,7 +1012,10 @@
       "start_date": "2014-08-10T00:00:00.000Z",
       "end_date": "2014-08-17T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -942,7 +1044,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-28T00:00:00.000Z"
     }
   },
@@ -968,7 +1073,10 @@
       "start_date": "2024-11-29T00:00:00.000Z",
       "end_date": "2024-12-05T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-12-05T00:00:00.000Z"
     }
   },
@@ -994,7 +1102,10 @@
       "start_date": "2022-09-29T00:00:00.000Z",
       "end_date": "2022-10-10T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-18T00:00:00.000Z"
     }
   },
@@ -1020,7 +1131,10 @@
       "start_date": "2015-11-02T00:00:00.000Z",
       "end_date": "2017-08-15T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -1046,7 +1160,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-02-19T00:00:00.000Z"
     }
   },
@@ -1075,7 +1192,10 @@
       "start_date": null,
       "end_date": "1992-09-12T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-13T00:00:00.000Z"
     }
   },
@@ -1107,7 +1227,10 @@
       "start_date": "2009-12-01T00:00:00.000Z",
       "end_date": "2025-09-08T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2009-12-01T00:00:00.000Z"
     }
   },
@@ -1133,7 +1256,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-07T00:00:00.000Z"
     }
   },
@@ -1159,7 +1285,10 @@
       "start_date": "2024-02-08T00:00:00.000Z",
       "end_date": "2024-03-01T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-03-01T00:00:00.000Z"
     }
   },
@@ -1187,7 +1316,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -1213,7 +1345,10 @@
       "start_date": "2015-12-18T00:00:00.000Z",
       "end_date": "2016-01-09T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-12-18T00:00:00.000Z"
     }
   },
@@ -1239,7 +1374,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -1272,7 +1410,10 @@
       "start_date": "2025-07-14T00:00:00.000Z",
       "end_date": "2025-07-20T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-14T00:00:00.000Z"
     }
   },
@@ -1300,7 +1441,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -1330,7 +1474,10 @@
       "start_date": "2024-08-05T00:00:00.000Z",
       "end_date": "2024-08-22T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-23T00:00:00.000Z"
     }
   },
@@ -1356,7 +1503,10 @@
       "start_date": null,
       "end_date": "2006-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -1382,7 +1532,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -1408,7 +1561,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-06-11T00:00:00.000Z"
     }
   },
@@ -1434,7 +1590,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-07-20T00:00:00.000Z"
     }
   },
@@ -1463,7 +1622,10 @@
       "start_date": "1994-07-01T00:00:00.000Z",
       "end_date": "1994-07-01T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -1489,7 +1651,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -1518,7 +1683,10 @@
       "start_date": "1994-07-01T00:00:00.000Z",
       "end_date": "1994-07-01T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "1994-07-01T00:00:00.000Z"
     }
   },
@@ -1544,7 +1712,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -1573,7 +1744,10 @@
       "start_date": "1994-07-01T00:00:00.000Z",
       "end_date": "1994-07-01T00:00:00.000Z",
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "1994-07-01T00:00:00.000Z"
     }
   },
@@ -1599,7 +1773,10 @@
       "start_date": "2021-09-24T00:00:00.000Z",
       "end_date": "2021-12-18T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-09-24T00:00:00.000Z"
     }
   },
@@ -1628,7 +1805,10 @@
       "start_date": "1994-07-01T00:00:00.000Z",
       "end_date": "1994-07-01T00:00:00.000Z",
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -1656,7 +1836,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -1684,7 +1867,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -1710,7 +1896,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -1738,7 +1927,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -1764,7 +1956,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -1792,7 +1987,10 @@
       "start_date": "2005-12-25T00:00:00.000Z",
       "end_date": "2006-01-10T00:00:00.000Z",
       "rating": 1,
-      "recommended_by": "Oliver Playforth",
+      "recommended_by": {
+        "name": "Oliver Playforth",
+        "url": null
+      },
       "created": "2025-08-06T08:33:24.000Z"
     }
   },
@@ -1818,7 +2016,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-28T00:00:00.000Z"
     }
   },
@@ -1844,7 +2045,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -1870,7 +2074,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-07-19T00:00:00.000Z"
     }
   },
@@ -1898,7 +2105,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -1926,7 +2136,10 @@
       "start_date": "1992-12-01T00:00:00.000Z",
       "end_date": "1992-12-24T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-09-29T00:00:00.000Z"
     }
   },
@@ -1952,7 +2165,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-01-09T00:00:00.000Z"
     }
   },
@@ -1983,7 +2199,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-17T06:42:41.000Z"
     }
   },
@@ -2009,7 +2228,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -2035,7 +2257,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -2061,7 +2286,10 @@
       "start_date": "2025-01-01T00:00:00.000Z",
       "end_date": "2025-01-09T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-01-09T00:00:00.000Z"
     }
   },
@@ -2092,7 +2320,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -2120,7 +2351,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -2146,8 +2380,42 @@
       "start_date": "2022-10-18T00:00:00.000Z",
       "end_date": "2022-11-06T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-10-18T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "The Ten Thousand Doors of January - Alix E Harrow.md",
+    "path": "src/Books/The Ten Thousand Doors of January - Alix E Harrow.md",
+    "slug": "The Ten Thousand Doors of January - Alix E Harrow",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Ten Thousand Doors of January",
+      "subtitle": "",
+      "author": [
+        "Alix E. Harrow"
+      ],
+      "publisher": "Hachette UK",
+      "published": "2019-09-10T00:00:00.000Z",
+      "page_count": 270,
+      "isbn": "0356512436 9780356512433",
+      "description": "***Shortlisted for the Hugo, Nebula and Locus awards for Best Novel*** 'A gorgeous, aching love letter to stories, storytellers and the doors they lead us through . . . absolutely enchanting' Christina Henry, bestselling author of Alice ACCORDING TO JANUARY SCALLER, THERE'S ONLY ONE WAY TO RUN AWAY FROM YOUR OWN STORY, AND THAT'S TO SNEAK INTO SOMEONE ELSE'S . . . In a sprawling mansion filled with peculiar treasures, January Scaller is a curiosity herself. As the ward of the wealthy Mr Locke, she feels little different from the artefacts that decorate the halls: carefully maintained, largely ignored and utterly out of place. But her quiet existence is shattered when she stumbles across a strange book. A book that carries the scent of other worlds and tells a tale of secret doors, of love, adventure and danger. Each page reveals more impossible truths about the world, and January discovers a story increasingly entwined with her own. 'One of the most unique works of fiction I've ever read' Tamora Pierce, New York Times bestselling author 'A gorgeously written story of love and longing, of what it means to lose your place in the world and then have the courage to find it again' Kat Howard, author of An Unkindness of Magicians 'Devastatingly good, a sharp, delicate nested tale of worlds within worlds, stories within stories and the realm-cracking power of words' Melissa Albert, author of The Hazel Wood 'The Ten Thousand Doors of January healed hurts I didn't even know I had. An unbearably beautiful story about growing up, and everything we fight to keep along the way' Amal El-Mohtar, Hugo Award-winning author 'Beautiful, achingly gorgeous ode to storytelling, magic and family' S. A. Chakraborty, author of The City of Brass",
+      "coverUrl": "http://books.google.com/books/content?id=WQaHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": "Annie Mueller",
+        "url": "https://anniemueller.com/posts/reading-notes-august-september"
+      },
+      "created": "2025-10-10T07:02:51.000Z"
     }
   },
   {
@@ -2172,7 +2440,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-06-16T00:00:00.000Z"
     }
   },
@@ -2201,7 +2472,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-11-06T00:00:00.000Z"
     }
   },
@@ -2227,7 +2501,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -2253,7 +2530,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-26T00:00:00.000Z"
     }
   },
@@ -2279,7 +2559,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-06-07T00:00:00.000Z"
     }
   },
@@ -2307,7 +2590,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -2333,7 +2619,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-02-23T00:00:00.000Z"
     }
   },
@@ -2359,7 +2648,10 @@
       "start_date": "2010-02-02T00:00:00.000Z",
       "end_date": "2010-02-02T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-22T00:00:00.000Z"
     }
   },
@@ -2385,7 +2677,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -2411,7 +2706,10 @@
       "start_date": "2025-01-21T00:00:00.000Z",
       "end_date": "2025-01-26T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-01-26T00:00:00.000Z"
     }
   },
@@ -2437,7 +2735,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-12-20T00:00:00.000Z"
     }
   },
@@ -2463,7 +2764,10 @@
       "start_date": "2022-11-25T00:00:00.000Z",
       "end_date": "2022-12-08T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-17T00:00:00.000Z"
     }
   },
@@ -2489,7 +2793,10 @@
       "start_date": "2025-06-19T00:00:00.000Z",
       "end_date": "2025-06-28T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-06-29T00:00:00.000Z"
     }
   },
@@ -2519,7 +2826,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -2545,7 +2855,10 @@
       "start_date": null,
       "end_date": "1994-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -2571,7 +2884,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -2597,7 +2913,10 @@
       "start_date": "2023-02-23T00:00:00.000Z",
       "end_date": "2023-03-12T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-03-12T00:00:00.000Z"
     }
   },
@@ -2625,7 +2944,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -2651,7 +2973,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -2677,7 +3002,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-10-06T00:00:00.000Z"
     }
   },
@@ -2705,7 +3033,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -2731,7 +3062,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -2757,7 +3091,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-12T00:00:00.000Z"
     }
   },
@@ -2785,7 +3122,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -2811,7 +3151,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -2837,7 +3180,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-07-20T00:00:00.000Z"
     }
   },
@@ -2865,7 +3211,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -2891,7 +3240,10 @@
       "start_date": "2017-11-02T00:00:00.000Z",
       "end_date": "2018-02-08T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2017-11-02T00:00:00.000Z"
     }
   },
@@ -2917,7 +3269,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -2943,7 +3298,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -2969,7 +3327,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -2995,7 +3356,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -3021,7 +3385,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3047,7 +3414,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -3075,7 +3445,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3101,7 +3474,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -3127,7 +3503,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3153,7 +3532,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-12T00:00:00.000Z"
     }
   },
@@ -3179,7 +3561,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-07-27T00:00:00.000Z"
     }
   },
@@ -3205,7 +3590,10 @@
       "start_date": "2023-09-04T00:00:00.000Z",
       "end_date": "2023-09-27T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-09-29T00:00:00.000Z"
     }
   },
@@ -3231,7 +3619,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -3257,7 +3648,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-08-05T00:00:00.000Z"
     }
   },
@@ -3285,7 +3679,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3313,7 +3710,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-06T19:32:37.000Z"
     }
   },
@@ -3339,7 +3739,10 @@
       "start_date": "2023-01-07T00:00:00.000Z",
       "end_date": "2023-01-18T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-18T00:00:00.000Z"
     }
   },
@@ -3370,7 +3773,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3396,7 +3802,10 @@
       "start_date": "2024-07-02T00:00:00.000Z",
       "end_date": "2024-07-02T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-07-03T00:00:00.000Z"
     }
   },
@@ -3422,7 +3831,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -3448,7 +3860,10 @@
       "start_date": "2022-11-03T00:00:00.000Z",
       "end_date": "2022-11-24T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-04-22T00:00:00.000Z"
     }
   },
@@ -3474,7 +3889,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-02-27T00:00:00.000Z"
     }
   },
@@ -3500,7 +3918,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -3528,7 +3949,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3554,7 +3978,10 @@
       "start_date": "2017-07-16T00:00:00.000Z",
       "end_date": "2017-08-02T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -3582,7 +4009,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-17T06:55:42.000Z"
     }
   },
@@ -3608,7 +4038,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-11T00:00:00.000Z"
     }
   },
@@ -3634,7 +4067,10 @@
       "start_date": null,
       "end_date": "1999-08-17T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-18T00:00:00.000Z"
     }
   },
@@ -3660,7 +4096,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-11T00:00:00.000Z"
     }
   },
@@ -3686,7 +4125,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3712,7 +4154,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2016-05-06T00:00:00.000Z"
     }
   },
@@ -3738,7 +4183,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3764,7 +4212,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-26T00:00:00.000Z"
     }
   },
@@ -3790,7 +4241,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3816,7 +4270,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -3842,7 +4299,10 @@
       "start_date": "2023-04-02T00:00:00.000Z",
       "end_date": "2023-04-23T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-04-24T00:00:00.000Z"
     }
   },
@@ -3868,7 +4328,10 @@
       "start_date": "2025-04-18T00:00:00.000Z",
       "end_date": "2025-04-30T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-05-01T00:00:00.000Z"
     }
   },
@@ -3894,7 +4357,10 @@
       "start_date": "2025-05-10T00:00:00.000Z",
       "end_date": "2025-05-22T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-05-23T00:00:00.000Z"
     }
   },
@@ -3920,7 +4386,10 @@
       "start_date": "2025-04-30T00:00:00.000Z",
       "end_date": "2025-05-10T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-05-11T00:00:00.000Z"
     }
   },
@@ -3946,7 +4415,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -3977,7 +4449,10 @@
       "start_date": "1990-09-03T00:00:00.000Z",
       "end_date": "1990-12-24T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": "Mr Preston",
+      "recommended_by": {
+        "name": "Mr Preston",
+        "url": null
+      },
       "created": "2023-09-29T00:00:00.000Z"
     }
   },
@@ -4005,7 +4480,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4034,7 +4512,10 @@
       "start_date": "1994-07-01T00:00:00.000Z",
       "end_date": "1994-07-01T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4063,7 +4544,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4091,7 +4575,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4117,7 +4604,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-11T00:00:00.000Z"
     }
   },
@@ -4143,7 +4633,10 @@
       "start_date": "2025-03-18T00:00:00.000Z",
       "end_date": "2025-04-18T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-19T00:00:00.000Z"
     }
   },
@@ -4171,7 +4664,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4199,7 +4695,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4225,7 +4724,10 @@
       "start_date": null,
       "end_date": "2004-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -4257,7 +4759,10 @@
       "start_date": null,
       "end_date": "2011-02-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4287,7 +4792,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4313,7 +4821,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4339,7 +4850,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-05-28T00:00:00.000Z"
     }
   },
@@ -4365,7 +4879,10 @@
       "start_date": null,
       "end_date": "2015-10-20T00:00:00.000Z",
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -4391,7 +4908,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-12T00:00:00.000Z"
     }
   },
@@ -4417,7 +4937,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4443,7 +4966,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -4469,7 +4995,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4498,7 +5027,10 @@
       "start_date": "1993-07-26T00:00:00.000Z",
       "end_date": "1993-08-01T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-02T00:00:00.000Z"
     }
   },
@@ -4524,7 +5056,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-12-21T00:00:00.000Z"
     }
   },
@@ -4554,7 +5089,10 @@
       "start_date": "2024-10-31T00:00:00.000Z",
       "end_date": "2024-11-07T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-07T00:00:00.000Z"
     }
   },
@@ -4585,7 +5123,10 @@
       "start_date": "2011-09-06T00:00:00.000Z",
       "end_date": "2011-09-27T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -4611,7 +5152,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-05-18T00:00:00.000Z"
     }
   },
@@ -4641,7 +5185,10 @@
       "start_date": "2024-08-23T00:00:00.000Z",
       "end_date": "2024-09-20T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-21T00:00:00.000Z"
     }
   },
@@ -4669,7 +5216,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4695,7 +5245,10 @@
       "start_date": "1988-09-04T00:00:00.000Z",
       "end_date": "1990-08-10T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": "Mr Preston",
+      "recommended_by": {
+        "name": "Mr Preston",
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -4725,7 +5278,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4751,7 +5307,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-01-15T00:00:00.000Z"
     }
   },
@@ -4781,7 +5340,10 @@
       "start_date": "1995-06-02T00:00:00.000Z",
       "end_date": "1995-06-05T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -4811,7 +5373,10 @@
       "start_date": "2017-03-12T00:00:00.000Z",
       "end_date": "2017-03-12T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2017-03-12T00:00:00.000Z"
     }
   },
@@ -4837,7 +5402,10 @@
       "start_date": "2021-04-22T00:00:00.000Z",
       "end_date": "2021-05-07T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-04-22T00:00:00.000Z"
     }
   },
@@ -4863,7 +5431,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-12T00:00:00.000Z"
     }
   },
@@ -4889,7 +5460,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -4915,7 +5489,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-26T00:00:00.000Z"
     }
   },
@@ -4941,7 +5518,10 @@
       "start_date": "2023-12-19T00:00:00.000Z",
       "end_date": "2023-12-31T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-12-31T00:00:00.000Z"
     }
   },
@@ -4967,7 +5547,10 @@
       "start_date": "2024-01-01T00:00:00.000Z",
       "end_date": "2024-01-21T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-01-22T00:00:00.000Z"
     }
   },
@@ -4995,7 +5578,10 @@
       "start_date": "2005-01-20T00:00:00.000Z",
       "end_date": "2005-02-10T00:00:00.000Z",
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-06T08:31:44.000Z"
     }
   },
@@ -5021,7 +5607,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -5047,7 +5636,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -5073,7 +5665,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-28T00:00:00.000Z"
     }
   },
@@ -5099,7 +5694,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -5125,7 +5723,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -5151,7 +5752,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -5182,7 +5786,10 @@
       "start_date": "2025-07-27T00:00:00.000Z",
       "end_date": "2025-08-20T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": "Bookbub",
+      "recommended_by": {
+        "name": "Bookbub",
+        "url": null
+      },
       "created": "2025-07-27T20:40:08.000Z"
     }
   },
@@ -5208,7 +5815,10 @@
       "start_date": "2022-12-09T00:00:00.000Z",
       "end_date": "2023-01-07T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-07T00:00:00.000Z"
     }
   },
@@ -5234,7 +5844,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -5262,7 +5875,10 @@
       "start_date": "2021-06-01T00:00:00.000Z",
       "end_date": "2021-07-19T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-06-01T00:00:00.000Z"
     }
   },
@@ -5290,7 +5906,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-24T00:00:00.000Z"
     }
   },
@@ -5316,7 +5935,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -5347,7 +5969,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -5373,7 +5998,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -5401,7 +6029,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -5427,7 +6058,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-04-16T00:00:00.000Z"
     }
   },
@@ -5455,7 +6089,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-26T00:00:00.000Z"
     }
   },
@@ -5483,7 +6120,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -5509,7 +6149,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -5535,7 +6178,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-18T00:00:00.000Z"
     }
   },
@@ -5561,7 +6207,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -5587,7 +6236,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-27T00:00:00.000Z"
     }
   },
@@ -5596,24 +6248,40 @@
     "path": "src/Books/The Dark is Rising - Susan Cooper.md",
     "slug": "The Dark is Rising - Susan Cooper",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "Juvenile Fiction",
+        "fantasy",
+        "mythology",
+        "UrbanFantasy",
+        "folklore"
+      ],
       "title": "The Dark is Rising",
       "subtitle": "The Dark is Rising Sequence 2",
       "author": [
         "Susan Cooper"
       ],
-      "publisher": "Margaret K. McElderry Books",
-      "published": "0101-01-01T00:00:00.000Z",
-      "page_count": null,
-      "isbn": null,
+      "publisher": "Simon and Schuster",
+      "published": "1973-04",
+      "page_count": 348,
+      "isbn": "0689303173 9780689303173",
       "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL8458980M-M.jpg",
-      "shelf": "read",
+      "coverUrl": "http://books.google.com/books/content?id=EiqUckhKnE4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "reading",
       "owned": true,
-      "start_date": "2021-12-20T00:00:00.000Z",
-      "end_date": "2022-01-19T00:00:00.000Z",
+      "start_date": "2025-10-05T00:00:00.000Z",
+      "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "history": [
+        {
+          "start_date": "2021-12-20T00:00:00.000Z",
+          "end_date": "2022-01-19T00:00:00.000Z",
+          "rating": 4
+        }
+      ],
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-18T00:00:00.000Z"
     }
   },
@@ -5641,7 +6309,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -5669,7 +6340,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -5695,7 +6369,10 @@
       "start_date": "2023-01-23T00:00:00.000Z",
       "end_date": "2023-02-23T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-02-23T00:00:00.000Z"
     }
   },
@@ -5723,7 +6400,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -5749,7 +6429,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -5775,7 +6458,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -5801,7 +6487,10 @@
       "start_date": "2025-02-13T00:00:00.000Z",
       "end_date": "2025-03-11T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-03-11T00:00:00.000Z"
     }
   },
@@ -5827,7 +6516,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-26T00:00:00.000Z"
     }
   },
@@ -5855,8 +6547,42 @@
       "start_date": "2005-01-01T00:00:00.000Z",
       "end_date": "2005-01-20T00:00:00.000Z",
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-06T08:30:38.000Z"
+    }
+  },
+  {
+    "filename": "The Bright Sword - Lev Grossman.md",
+    "path": "src/Books/The Bright Sword - Lev Grossman.md",
+    "slug": "The Bright Sword - Lev Grossman",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Bright Sword",
+      "subtitle": "An epic Arthurian retelling from the internationally bestselling author of The Magicians",
+      "author": [
+        "Lev Grossman"
+      ],
+      "publisher": "Random House",
+      "published": "2024-07-16T00:00:00.000Z",
+      "page_count": 551,
+      "isbn": "1804951633 9781804951637",
+      "description": "A book of the year for the New York Times, Wall Street Journal, Time, Vulture, Esquire, Goodreads, Elle, NPR, Vox, New York Post, Lit Hub, Cosmo, People, Paste, Vanity Fair, Polygon, BookBub, BookRiot and more! ‘This Year’s Must-Read Novel . . . Grossman’s lyrical prose has never been better’ FORBES 'If you love King Arthur as much as I do, you’ll love The Bright Sword . . . the creator of The Magicians has woven another spell.' GEORGE R. R. MARTIN, author of A Game of Thrones ‘Made me love fantasy again . . . For pretty much everyone, The Bright Sword is a must-read’ PASTE MAGAZINE, Book of the Year ‘The best fantasy of the year.’ THE WALL STREET JOURNAL, Book of the Year ‘Resoundingly earns its place among the best of Arthurian tales . . . Grossman is at the top of his game.’ NEW YORK TIMES, Book of the Year 'For anyone who’s ever craved a seat at the Round Table. Utterly enchanting.’ REBECCA YARROS, author of Fourth Wing ‘Fans of classic fantasy and ancient magic will devour this one.’ ELLE, Best books of the year ‘A rollicking, magical ride through Arthurian legend . . . A joyful new addition to the Arthurian canon — a delight.’ Alice Winn, author of In Memoriam ‘Not only one of the best books of the year, but one of the best Arthurian novels ever – it’s that good.’ LIT HUB, Book of the Year 'A beautifully written, suitably weird, very human take on King Arthur that feels both modern and ancient.' JOE ABERCROMBIE, author of The Devils 'A breathtaking tale that honours past iterations while producing something entirely unexpected' PUBLISHER'S WEEKLY 'This is why we read fantasy.' AVA REID, author of Lady Macbeth ‘Compulsively readable and expertly told . . . You won’t want to leave until the tale is done.' VICTOR LAVALLE, author of Lone Women ‘This is storytelling at its purest: glorious, propulsive, and dramatic’ LOCUS –––––––––––––––––––––––––––––––––––––––––––––––––––––––– When gifted young knight Collum arrives at Camelot to compete for a place on the Round Table, he quickly discovers that he’s too late: the king died two weeks ago at the Battle of Camlann, and only a handful of the knights of the Round Table are left. The survivors aren’t the heroes of legend either, like Lancelot or Gawain. They’re the oddballs of the Round Table, like Sir Palomides, the Saracen Knight, and Sir Dagonet, Arthur’s fool, who was knighted as a joke. They’re joined by Nimue, who was Merlin’s apprentice until she turned on him and buried him under a hill. It’s up to them to rebuild Camelot in a world that has lost its balance, even as God abandons Britain and the fairies and old gods are returning, led by Morgan le Fay. They must reclaim Excalibur and make this ruined world whole again. But first they’ll have to solve the mystery of why the lonely, brilliant King Arthur fell. The first major Arthurian epic of the new millennium, The Bright Sword is a story about imperfect men and women who are looking for a way to fight darkness and reforge a broken land",
+      "coverUrl": "http://books.google.com/books/content?id=gb72EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": "Jill Hammer",
+        "url": "https://electricliterature.com/7-queer-fantasy-novels-enchanted-with-water-magic/"
+      },
+      "created": "2025-10-12T06:17:34.000Z"
     }
   },
   {
@@ -5881,7 +6607,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-23T00:00:00.000Z"
     }
   },
@@ -5910,7 +6639,10 @@
       "start_date": "2025-09-05T00:00:00.000Z",
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-04T14:55:57.000Z"
     }
   },
@@ -5938,7 +6670,10 @@
       "start_date": "2025-06-02T00:00:00.000Z",
       "end_date": "2025-06-19T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-06-20T00:00:00.000Z"
     }
   },
@@ -5964,7 +6699,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-12-11T00:00:00.000Z"
     }
   },
@@ -5992,7 +6730,10 @@
       "start_date": "2015-10-06T00:00:00.000Z",
       "end_date": "2015-10-16T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -6018,7 +6759,10 @@
       "start_date": null,
       "end_date": "2002-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -6046,7 +6790,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-11T21:31:52.000Z"
     }
   },
@@ -6072,7 +6819,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6098,7 +6848,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-10-16T00:00:00.000Z"
     }
   },
@@ -6127,7 +6880,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6153,7 +6909,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -6181,7 +6940,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -6207,7 +6969,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-22T00:00:00.000Z"
     }
   },
@@ -6235,7 +7000,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-17T06:35:36.000Z"
     }
   },
@@ -6261,7 +7029,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -6287,7 +7058,10 @@
       "start_date": "2023-04-23T00:00:00.000Z",
       "end_date": "2023-07-23T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-07-24T00:00:00.000Z"
     }
   },
@@ -6313,7 +7087,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-12T00:00:00.000Z"
     }
   },
@@ -6344,7 +7121,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -6370,7 +7150,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-18T00:00:00.000Z"
     }
   },
@@ -6396,7 +7179,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-06-21T00:00:00.000Z"
     }
   },
@@ -6427,7 +7213,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -6455,7 +7244,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6481,7 +7273,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6507,7 +7302,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6535,7 +7333,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6561,7 +7362,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-10-16T00:00:00.000Z"
     }
   },
@@ -6587,7 +7391,10 @@
       "start_date": null,
       "end_date": "2016-08-17T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-18T00:00:00.000Z"
     }
   },
@@ -6613,7 +7420,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-06-10T00:00:00.000Z"
     }
   },
@@ -6639,7 +7449,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-12-14T00:00:00.000Z"
     }
   },
@@ -6665,7 +7478,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-27T00:00:00.000Z"
     }
   },
@@ -6693,7 +7509,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6721,7 +7540,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": "seen in the lobby of a Spanish hotel",
+      "recommended_by": {
+        "name": "me (seen in the lobby of a Spanish hotel)",
+        "url": null
+      },
       "created": "2025-09-20T22:36:31.000Z"
     }
   },
@@ -6747,7 +7569,10 @@
       "start_date": null,
       "end_date": "1987-08-27T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-28T00:00:00.000Z"
     }
   },
@@ -6773,7 +7598,10 @@
       "start_date": null,
       "end_date": "1990-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -6799,7 +7627,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -6829,7 +7660,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6857,7 +7691,10 @@
       "start_date": null,
       "end_date": "1992-08-01T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-02T00:00:00.000Z"
     }
   },
@@ -6885,7 +7722,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6911,7 +7751,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-21T00:00:00.000Z"
     }
   },
@@ -6937,7 +7780,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-02-27T00:00:00.000Z"
     }
   },
@@ -6966,7 +7812,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -6992,7 +7841,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -7018,7 +7870,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -7051,7 +7906,10 @@
       "start_date": "2025-07-04T00:00:00.000Z",
       "end_date": "2025-07-14T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-05T00:00:00.000Z"
     }
   },
@@ -7079,7 +7937,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -7105,7 +7966,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -7131,7 +7995,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -7157,7 +8024,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -7183,7 +8053,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -7209,7 +8082,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -7235,7 +8111,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-09-24T00:00:00.000Z"
     }
   },
@@ -7261,7 +8140,10 @@
       "start_date": "2025-05-22T00:00:00.000Z",
       "end_date": "2025-06-02T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-06-03T00:00:00.000Z"
     }
   },
@@ -7287,7 +8169,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-03-17T00:00:00.000Z"
     }
   },
@@ -7313,7 +8198,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -7341,7 +8229,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-26T00:00:00.000Z"
     }
   },
@@ -7369,7 +8260,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -7395,7 +8289,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-03-14T00:00:00.000Z"
     }
   },
@@ -7421,7 +8318,10 @@
       "start_date": "2023-08-17T00:00:00.000Z",
       "end_date": "2023-09-04T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-09-05T00:00:00.000Z"
     }
   },
@@ -7449,7 +8349,10 @@
       "start_date": "2025-03-31T00:00:00.000Z",
       "end_date": "2025-04-11T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-16T16:17:11.000Z",
       "updated": "2025-07-16T16:17:11.000Z"
     }
@@ -7476,7 +8379,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-06-04T00:00:00.000Z"
     }
   },
@@ -7506,7 +8412,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -7532,7 +8441,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-04-17T00:00:00.000Z"
     }
   },
@@ -7558,7 +8470,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-03-10T00:00:00.000Z"
     }
   },
@@ -7584,7 +8499,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-09T00:00:00.000Z"
     }
   },
@@ -7610,7 +8528,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-18T00:00:00.000Z"
     }
   },
@@ -7638,7 +8559,10 @@
       "start_date": null,
       "end_date": "2011-02-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -7664,7 +8588,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -7692,7 +8619,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-13T15:40:58.000Z"
     }
   },
@@ -7718,7 +8648,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-11T00:00:00.000Z"
     }
   },
@@ -7744,7 +8677,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -7770,7 +8706,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-18T00:00:00.000Z"
     }
   },
@@ -7796,7 +8735,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -7826,7 +8768,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -7852,7 +8797,10 @@
       "start_date": null,
       "end_date": "2022-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -7878,7 +8826,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -7904,7 +8855,10 @@
       "start_date": null,
       "end_date": "2003-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -7930,7 +8884,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -7956,7 +8913,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-06-02T00:00:00.000Z"
     }
   },
@@ -7982,7 +8942,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -8008,7 +8971,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -8036,7 +9002,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": "Jamison Shea",
+      "recommended_by": {
+        "name": "Jamison Shea",
+        "url": null
+      },
       "created": "2025-08-26T21:08:39.000Z"
     }
   },
@@ -8062,7 +9031,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-01-01T00:00:00.000Z"
     }
   },
@@ -8088,7 +9060,10 @@
       "start_date": null,
       "end_date": "2021-03-13T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-03-17T00:00:00.000Z"
     }
   },
@@ -8114,7 +9089,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -8140,7 +9118,10 @@
       "start_date": "2024-11-15T00:00:00.000Z",
       "end_date": "2024-11-21T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-21T00:00:00.000Z"
     }
   },
@@ -8166,7 +9147,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -8192,7 +9176,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -8218,7 +9205,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-28T00:00:00.000Z"
     }
   },
@@ -8244,7 +9234,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -8270,7 +9263,10 @@
       "start_date": "2015-11-16T00:00:00.000Z",
       "end_date": "2016-04-15T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-16T00:00:00.000Z"
     }
   },
@@ -8296,7 +9292,10 @@
       "start_date": null,
       "end_date": "1992-08-17T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-18T00:00:00.000Z"
     }
   },
@@ -8327,7 +9326,10 @@
       "start_date": "2023-07-24T00:00:00.000Z",
       "end_date": "2023-08-16T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-08-17T00:00:00.000Z"
     }
   },
@@ -8355,7 +9357,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -8383,7 +9388,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-25T10:34:04.000Z"
     }
   },
@@ -8409,7 +9417,10 @@
       "start_date": "2022-01-20T00:00:00.000Z",
       "end_date": "2022-02-27T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-08-07T00:00:00.000Z"
     }
   },
@@ -8437,7 +9448,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -8463,7 +9477,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -8489,7 +9506,10 @@
       "start_date": "2024-07-02T00:00:00.000Z",
       "end_date": "2024-07-16T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-07-17T00:00:00.000Z"
     }
   },
@@ -8515,7 +9535,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-03-19T00:00:00.000Z"
     }
   },
@@ -8541,7 +9564,10 @@
       "start_date": "2024-04-17T00:00:00.000Z",
       "end_date": "2024-05-22T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-05-23T00:00:00.000Z"
     }
   },
@@ -8569,7 +9595,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -8598,7 +9627,10 @@
       "start_date": "1994-07-01T00:00:00.000Z",
       "end_date": "1994-07-01T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -8624,7 +9656,10 @@
       "start_date": null,
       "end_date": "1990-08-17T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-18T00:00:00.000Z"
     }
   },
@@ -8650,7 +9685,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-03-05T00:00:00.000Z"
     }
   },
@@ -8676,7 +9714,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-06-21T00:00:00.000Z"
     }
   },
@@ -8702,7 +9743,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-01-10T00:00:00.000Z"
     }
   },
@@ -8728,7 +9772,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-07-19T00:00:00.000Z"
     }
   },
@@ -8754,7 +9801,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-11T00:00:00.000Z"
     }
   },
@@ -8780,7 +9830,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -8808,7 +9861,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -8834,7 +9890,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-26T00:00:00.000Z"
     }
   },
@@ -8860,7 +9919,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-01-18T00:00:00.000Z"
     }
   },
@@ -8886,7 +9948,10 @@
       "start_date": null,
       "end_date": "1995-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -8917,7 +9982,10 @@
       "start_date": "2011-02-02T00:00:00.000Z",
       "end_date": "2011-02-02T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -8945,7 +10013,10 @@
       "start_date": null,
       "end_date": "2011-02-02T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -8971,7 +10042,10 @@
       "start_date": "2011-02-02T00:00:00.000Z",
       "end_date": "2011-02-02T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -8997,7 +10071,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -9023,7 +10100,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -9049,7 +10129,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-06-21T00:00:00.000Z"
     }
   },
@@ -9075,7 +10158,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-02-10T00:00:00.000Z"
     }
   },
@@ -9101,7 +10187,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2016-05-06T00:00:00.000Z"
     }
   },
@@ -9127,7 +10216,10 @@
       "start_date": "2023-10-08T00:00:00.000Z",
       "end_date": "2023-11-22T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-11-24T00:00:00.000Z"
     }
   },
@@ -9153,12 +10245,15 @@
       "isbn": "0241724015 9780241724019",
       "description": "“A perfect coming-of-age story” – The Guardian, praise for The Dark is Rising Three siblings embark on an epic quest for a mythic grail in this first installment of Susan Cooper's award-winning The Dark Is Rising Sequence, now with a brand-new look! All through time, Light and Dark have battled for control of the world. Now, after centuries of balance, the Dark is summoning its terrifying forces to rise once more...and three children find themselves caught in the conflict. The Drew siblings – Simon, Jane, and Barney – are on a family holiday in Cornwall when they discover an ancient map. But, they have no idea how special the map is. Together, the three siblings have to take on a quest. They need to band together and discover the secret weapon that can end the war between Dark and Light. But, will they be able to do it in time? And, will they be able to make it out alive?",
       "coverUrl": "http://books.google.com/books/content?id=6wEIEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "shelf": "reading",
+      "shelf": "read",
       "owned": true,
       "start_date": "2025-09-25T00:00:00.000Z",
-      "end_date": null,
-      "rating": 0,
-      "recommended_by": null,
+      "end_date": "2025-10-05T00:00:00.000Z",
+      "rating": 4,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-09-25T17:29:21.000Z"
     }
   },
@@ -9186,7 +10281,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -9214,7 +10312,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -9240,7 +10341,10 @@
       "start_date": "2024-11-21T00:00:00.000Z",
       "end_date": "2024-11-29T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-29T00:00:00.000Z"
     }
   },
@@ -9268,7 +10372,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -9294,7 +10401,10 @@
       "start_date": "2021-07-19T00:00:00.000Z",
       "end_date": "2021-09-11T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-07-19T00:00:00.000Z"
     }
   },
@@ -9322,7 +10432,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -9348,7 +10461,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-22T00:00:00.000Z"
     }
   },
@@ -9377,7 +10493,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -9403,7 +10522,10 @@
       "start_date": "2016-05-06T00:00:00.000Z",
       "end_date": "2017-04-15T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2016-05-06T00:00:00.000Z"
     }
   },
@@ -9434,7 +10556,10 @@
       "start_date": "2025-03-18T00:00:00.000Z",
       "end_date": "2025-03-31T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-19T00:00:00.000Z"
     }
   },
@@ -9460,7 +10585,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -9490,7 +10618,10 @@
       "start_date": "2018-02-08T00:00:00.000Z",
       "end_date": "2020-04-22T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2018-02-08T00:00:00.000Z"
     }
   },
@@ -9516,7 +10647,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-06-01T00:00:00.000Z"
     }
   },
@@ -9542,7 +10676,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-06-28T00:00:00.000Z"
     }
   },
@@ -9568,7 +10705,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-09T00:00:00.000Z"
     }
   },
@@ -9594,7 +10734,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -9626,7 +10769,10 @@
       "start_date": "2009-12-15T00:00:00.000Z",
       "end_date": "2009-12-31T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -9655,7 +10801,10 @@
       "start_date": "2016-08-01T00:00:00.000Z",
       "end_date": "2016-08-20T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": "Tom Cruise",
+      "recommended_by": {
+        "name": "Tom Cruise",
+        "url": null
+      },
       "created": "2024-08-21T00:00:00.000Z"
     }
   },
@@ -9681,7 +10830,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-08-07T00:00:00.000Z"
     }
   },
@@ -9709,7 +10861,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": "alice at wallflower digest| https://thewallflowerdigest.co.uk/books/reading-roundup/reading-roundup-july-2025/",
+      "recommended_by": {
+        "name": "Alice at Wallflower Digest",
+        "url": "https://thewallflowerdigest.co.uk/books/reading-roundup/reading-roundup-july-2025/"
+      },
       "created": "2025-08-03T08:04:02.000Z"
     }
   },
@@ -9735,7 +10890,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-12-20T00:00:00.000Z"
     }
   },
@@ -9761,7 +10919,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-07-06T00:00:00.000Z"
     }
   },
@@ -9787,7 +10948,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -9813,7 +10977,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -9839,7 +11006,10 @@
       "start_date": "2021-03-17T00:00:00.000Z",
       "end_date": "2021-04-22T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-03-17T00:00:00.000Z"
     }
   },
@@ -9867,7 +11037,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-25T10:35:45.000Z"
     }
   },
@@ -9898,7 +11071,10 @@
       "start_date": "2011-10-20T00:00:00.000Z",
       "end_date": "2011-11-04T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -9924,7 +11100,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-19T00:00:00.000Z"
     }
   },
@@ -9952,7 +11131,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -9978,7 +11160,10 @@
       "start_date": "2020-12-17T00:00:00.000Z",
       "end_date": "2021-01-15T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-12-17T00:00:00.000Z"
     }
   },
@@ -10006,7 +11191,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -10034,7 +11222,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -10060,7 +11251,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -10086,7 +11280,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -10112,7 +11309,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -10138,7 +11338,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-10-14T00:00:00.000Z"
     }
   },
@@ -10164,7 +11367,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-05-15T00:00:00.000Z"
     }
   },
@@ -10190,7 +11396,10 @@
       "start_date": "2021-01-16T00:00:00.000Z",
       "end_date": "2021-02-19T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-01-15T00:00:00.000Z"
     }
   },
@@ -10216,7 +11425,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -10242,7 +11454,10 @@
       "start_date": null,
       "end_date": "2015-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -10268,7 +11483,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-23T00:00:00.000Z"
     }
   },
@@ -10294,7 +11512,10 @@
       "start_date": "2024-04-04T00:00:00.000Z",
       "end_date": "2024-04-12T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-04-13T00:00:00.000Z"
     }
   },
@@ -10320,7 +11541,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -10346,7 +11570,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -10372,7 +11599,10 @@
       "start_date": "2016-05-06T00:00:00.000Z",
       "end_date": "2016-05-21T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2016-05-06T00:00:00.000Z"
     }
   },
@@ -10400,7 +11630,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-09-11T07:02:35.000Z"
     }
   },
@@ -10426,7 +11659,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -10454,7 +11690,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -10480,7 +11719,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -10506,7 +11748,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-26T00:00:00.000Z"
     }
   },
@@ -10532,7 +11777,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -10558,7 +11806,10 @@
       "start_date": "2021-05-07T00:00:00.000Z",
       "end_date": "2021-06-01T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-05-07T00:00:00.000Z"
     }
   },
@@ -10586,7 +11837,10 @@
       "start_date": "2025-09-08T00:00:00.000Z",
       "end_date": "2025-09-25T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-09-08T14:19:53.000Z"
     }
   },
@@ -10616,7 +11870,10 @@
       "start_date": "2019-12-20T00:00:00.000Z",
       "end_date": "2020-01-01T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": "Netflix",
+      "recommended_by": {
+        "name": "Netflix",
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -10642,7 +11899,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-22T00:00:00.000Z"
     }
   },
@@ -10668,7 +11928,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-08-07T00:00:00.000Z"
     }
   },
@@ -10697,7 +11960,10 @@
       "start_date": "1994-07-01T00:00:00.000Z",
       "end_date": "1994-07-01T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -10723,7 +11989,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-07-19T00:00:00.000Z"
     }
   },
@@ -10749,7 +12018,10 @@
       "start_date": "2024-09-21T00:00:00.000Z",
       "end_date": "2024-10-13T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-10-14T00:00:00.000Z"
     }
   },
@@ -10775,7 +12047,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-11T00:00:00.000Z"
     }
   },
@@ -10801,7 +12076,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -10827,7 +12105,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -10855,7 +12136,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -10883,7 +12167,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-25T19:05:40.000Z"
     }
   },
@@ -10909,7 +12196,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-10-18T00:00:00.000Z"
     }
   },
@@ -10935,7 +12225,10 @@
       "start_date": "2025-06-28T00:00:00.000Z",
       "end_date": "2025-07-04T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-05T00:00:00.000Z"
     }
   },
@@ -10963,7 +12256,10 @@
       "start_date": "1995-12-31T00:00:00.000Z",
       "end_date": "1993-12-31T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-09-06T19:45:06.000Z"
     }
   },
@@ -10989,7 +12285,10 @@
       "start_date": "1995-01-01T00:00:00.000Z",
       "end_date": "1995-01-01T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-25T00:00:00.000Z"
     }
   },
@@ -11015,7 +12314,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-01-25T00:00:00.000Z"
     }
   },
@@ -11041,7 +12343,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-18T00:00:00.000Z"
     }
   },
@@ -11069,7 +12374,10 @@
       "start_date": "1989-02-02T00:00:00.000Z",
       "end_date": "1989-02-02T00:00:00.000Z",
       "rating": 2,
-      "recommended_by": "My mum",
+      "recommended_by": {
+        "name": "My mum",
+        "url": null
+      },
       "created": "2025-08-17T06:37:45.000Z"
     }
   },
@@ -11095,7 +12403,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -11121,7 +12432,10 @@
       "start_date": null,
       "end_date": "2015-08-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-03T00:00:00.000Z"
     }
   },
@@ -11147,7 +12461,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-22T00:00:00.000Z"
     }
   },
@@ -11173,8 +12490,42 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-11-16T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Jagannath - Karin Tidbeck.md",
+    "path": "src/Books/Jagannath - Karin Tidbeck.md",
+    "slug": "Jagannath - Karin Tidbeck",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Jagannath",
+      "subtitle": "",
+      "author": [
+        "Karin Tidbeck"
+      ],
+      "publisher": "Vintage",
+      "published": "2018-02-06T00:00:00.000Z",
+      "page_count": 178,
+      "isbn": "1101973986 9781101973981",
+      "description": "An award-winning debut story collection by Karin Tidbeck, author of Amatka and heir to Borges, Le Guin, and Lovecraft. A child is born in a tin can. A switchboard operator finds himself in hell. Three corpulent women float somewhere beyond time. Welcome to the weird world of Karin Tidbeck, the visionary Swedish author of literary sci-fi, speculative fiction, and mind-bending fantasy who has captivated readers around the world. Originally published by the tiny press Cheeky Frawg--the passion project of Ann and Jeff VanderMeer--Jagannath has been celebrated by readers and critics alike, with rave reviews from major outlets and support from lauded peers like China Miéville and even Ursula K. Le Guin herself. These are stories in which fairies haunt quiet towns, and an immortal being discovers the nature of time--stories in which anything is possible.",
+      "coverUrl": "http://books.google.com/books/content?id=DssuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": "Terence Eden",
+        "url": "https://shkspr.mobi/blog/2025/01/book-review-jagannath-by-karin-tidbeck/"
+      },
+      "created": "2025-10-11T19:13:36.000Z"
     }
   },
   {
@@ -11199,7 +12550,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -11227,7 +12581,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-08-17T06:36:20.000Z"
     }
   },
@@ -11253,7 +12610,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-03T00:00:00.000Z"
     }
   },
@@ -11279,7 +12639,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-27T00:00:00.000Z"
     }
   },
@@ -11307,7 +12670,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-02-19T00:00:00.000Z"
     }
   },
@@ -11335,7 +12701,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -11361,7 +12730,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-02-19T00:00:00.000Z"
     }
   },
@@ -11387,7 +12759,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-28T00:00:00.000Z"
     }
   },
@@ -11413,7 +12788,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-03-19T00:00:00.000Z"
     }
   },
@@ -11441,7 +12819,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": "Jamison Shea",
+      "recommended_by": {
+        "name": "Jamison Shea",
+        "url": null
+      },
       "created": "2025-08-26T21:07:50.000Z"
     }
   },
@@ -11467,7 +12848,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-14T00:00:00.000Z"
     }
   },
@@ -11493,7 +12877,10 @@
       "start_date": null,
       "end_date": "2014-08-01T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-02T00:00:00.000Z"
     }
   },
@@ -11519,7 +12906,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-04-22T00:00:00.000Z"
     }
   },
@@ -11552,7 +12942,10 @@
       "start_date": "2020-04-01T00:00:00.000Z",
       "end_date": "2020-04-22T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": "Studio Ghibli",
+      "recommended_by": {
+        "name": "Studio Ghibli",
+        "url": null
+      },
       "created": "2022-04-01T17:42:29.000Z"
     }
   },
@@ -11578,7 +12971,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-12-07T00:00:00.000Z"
     }
   },
@@ -11604,7 +13000,10 @@
       "start_date": null,
       "end_date": "2020-12-31T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -11630,7 +13029,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-21T00:00:00.000Z"
     }
   },
@@ -11656,7 +13058,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-26T00:00:00.000Z"
     }
   },
@@ -11682,7 +13087,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-07T00:00:00.000Z"
     }
   },
@@ -11708,7 +13116,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-01-08T00:00:00.000Z"
     }
   },
@@ -11736,7 +13147,10 @@
       "start_date": "2024-12-23T00:00:00.000Z",
       "end_date": "2025-01-01T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": "Terence Eden",
+      "recommended_by": {
+        "name": "Terence Eden",
+        "url": null
+      },
       "created": "2025-01-01T00:00:00.000Z"
     }
   },
@@ -11764,7 +13178,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -11790,7 +13207,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-02-12T00:00:00.000Z"
     }
   },
@@ -11816,7 +13236,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-14T00:00:00.000Z"
     }
   },
@@ -11842,7 +13265,10 @@
       "start_date": null,
       "end_date": "2006-08-20T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-21T00:00:00.000Z"
     }
   },
@@ -11868,7 +13294,10 @@
       "start_date": null,
       "end_date": "1992-08-20T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-21T00:00:00.000Z"
     }
   },
@@ -11894,7 +13323,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -11920,7 +13352,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-19T00:00:00.000Z"
     }
   },
@@ -11946,7 +13381,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -11976,7 +13414,10 @@
       "start_date": "2020-04-22T00:00:00.000Z",
       "end_date": "2020-04-30T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -12002,7 +13443,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-29T00:00:00.000Z"
     }
   },
@@ -12028,7 +13472,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -12059,7 +13506,10 @@
       "start_date": "2020-01-01T00:00:00.000Z",
       "end_date": "2020-01-20T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-12-18T00:00:00.000Z"
     }
   },
@@ -12085,7 +13535,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-28T00:00:00.000Z"
     }
   },
@@ -12111,7 +13564,10 @@
       "start_date": "2024-12-05T00:00:00.000Z",
       "end_date": "2024-12-15T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-12-15T00:00:00.000Z"
     }
   },
@@ -12137,7 +13593,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2016-05-06T00:00:00.000Z"
     }
   },
@@ -12163,7 +13622,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-19T00:00:00.000Z"
     }
   },
@@ -12189,7 +13651,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-09T00:00:00.000Z"
     }
   },
@@ -12217,7 +13682,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -12243,7 +13711,10 @@
       "start_date": null,
       "end_date": "2001-08-01T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-02T00:00:00.000Z"
     }
   },
@@ -12269,7 +13740,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-06-21T00:00:00.000Z"
     }
   },
@@ -12297,7 +13771,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -12323,7 +13800,10 @@
       "start_date": "2022-09-10T00:00:00.000Z",
       "end_date": "2022-10-18T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-09-10T00:00:00.000Z"
     }
   },
@@ -12349,7 +13829,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-04-22T00:00:00.000Z"
     }
   },
@@ -12377,7 +13860,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -12403,7 +13889,10 @@
       "start_date": "1997-06-15T00:00:00.000Z",
       "end_date": "1997-06-15T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-06-16T00:00:00.000Z"
     }
   },
@@ -12429,7 +13918,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-27T00:00:00.000Z"
     }
   },
@@ -12455,7 +13947,10 @@
       "start_date": null,
       "end_date": "1998-11-24T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-02T00:00:00.000Z"
     }
   },
@@ -12481,7 +13976,10 @@
       "start_date": "2024-03-01T00:00:00.000Z",
       "end_date": "2024-04-04T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-04-04T00:00:00.000Z"
     }
   },
@@ -12507,7 +14005,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -12533,7 +14034,10 @@
       "start_date": null,
       "end_date": "1995-09-12T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-13T00:00:00.000Z"
     }
   },
@@ -12559,7 +14063,10 @@
       "start_date": "2016-05-06T00:00:00.000Z",
       "end_date": "2020-04-22T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2016-05-06T00:00:00.000Z"
     }
   },
@@ -12585,7 +14092,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-07T00:00:00.000Z"
     }
   },
@@ -12613,7 +14123,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -12641,7 +14154,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-25T10:35:24.000Z"
     }
   },
@@ -12667,7 +14183,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-09-11T00:00:00.000Z"
     }
   },
@@ -12693,7 +14212,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-07T00:00:00.000Z"
     }
   },
@@ -12725,7 +14247,10 @@
       "start_date": "2010-07-15T00:00:00.000Z",
       "end_date": "2010-07-31T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -12751,7 +14276,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": "Alice at Wallflower Digest",
+      "recommended_by": {
+        "name": "Alice at Wallflower Digest",
+        "url": null
+      },
       "created": "2025-08-15T20:50:24.000Z"
     }
   },
@@ -12777,7 +14305,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -12803,7 +14334,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-07T00:00:00.000Z"
     }
   },
@@ -12829,7 +14363,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-03-14T00:00:00.000Z"
     }
   },
@@ -12855,7 +14392,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-01-15T00:00:00.000Z"
     }
   },
@@ -12881,7 +14421,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-07T00:00:00.000Z"
     }
   },
@@ -12907,7 +14450,10 @@
       "start_date": "2024-11-07T00:00:00.000Z",
       "end_date": "2024-11-15T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-15T00:00:00.000Z"
     }
   },
@@ -12933,7 +14479,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -12959,7 +14508,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -12985,7 +14537,10 @@
       "start_date": null,
       "end_date": "2000-08-01T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-02T00:00:00.000Z"
     }
   },
@@ -13011,7 +14566,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-12T00:00:00.000Z"
     }
   },
@@ -13037,7 +14595,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 2,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -13063,7 +14624,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-22T00:00:00.000Z"
     }
   },
@@ -13091,7 +14655,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -13117,7 +14684,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -13143,7 +14713,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-26T00:00:00.000Z"
     }
   },
@@ -13169,7 +14742,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-22T00:00:00.000Z"
     }
   },
@@ -13195,7 +14771,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-26T00:00:00.000Z"
     }
   },
@@ -13221,7 +14800,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-26T00:00:00.000Z"
     }
   },
@@ -13247,7 +14829,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-22T00:00:00.000Z"
     }
   },
@@ -13273,7 +14858,10 @@
       "start_date": "2025-03-11T00:00:00.000Z",
       "end_date": "2025-03-18T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-03-18T00:00:00.000Z"
     }
   },
@@ -13299,7 +14887,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -13325,7 +14916,10 @@
       "start_date": null,
       "end_date": "2012-08-01T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-02T00:00:00.000Z"
     }
   },
@@ -13351,7 +14945,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-28T00:00:00.000Z"
     }
   },
@@ -13377,7 +14974,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-10-21T00:00:00.000Z"
     }
   },
@@ -13405,7 +15005,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -13431,8 +15034,42 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Crazy Hawk - R J Stewart.md",
+    "path": "src/Books/Crazy Hawk - R J Stewart.md",
+    "slug": "Crazy Hawk - R J Stewart",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Crazy Hawk",
+      "subtitle": "A Post-Apocalyptic Thriller",
+      "author": [
+        "R. J. Stewart"
+      ],
+      "publisher": null,
+      "published": "2024-04-20T00:00:00.000Z",
+      "page_count": 0,
+      "isbn": 9798989504824,
+      "description": "Deirdre lives for one purpose: to get her sister back. If she needs to kill the kidnappers, that's okay. She's good at that.",
+      "coverUrl": "http://books.google.com/books/content?id=3S7Z0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": "Annie Mueller",
+        "url": "https://anniemueller.com/posts/reading-notes-august-september"
+      },
+      "created": "2025-10-10T07:03:24.000Z"
     }
   },
   {
@@ -13457,7 +15094,10 @@
       "start_date": "2001-05-12T00:00:00.000Z",
       "end_date": "2001-05-18T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -13483,7 +15123,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -13510,7 +15153,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": "Alice at Wallflower Digest",
+      "recommended_by": {
+        "name": "Alice at Wallflower Digest",
+        "url": null
+      },
       "created": "2024-08-27T00:00:00.000Z"
     }
   },
@@ -13536,7 +15182,10 @@
       "start_date": "1995-01-01T00:00:00.000Z",
       "end_date": "1995-01-01T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-25T00:00:00.000Z"
     }
   },
@@ -13562,7 +15211,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-11-06T00:00:00.000Z"
     }
   },
@@ -13588,7 +15240,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2016-10-11T00:00:00.000Z"
     }
   },
@@ -13616,7 +15271,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -13642,7 +15300,10 @@
       "start_date": "2022-09-04T00:00:00.000Z",
       "end_date": "2022-09-10T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-09-04T00:00:00.000Z"
     }
   },
@@ -13668,7 +15329,10 @@
       "start_date": null,
       "end_date": "1993-09-12T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-13T00:00:00.000Z"
     }
   },
@@ -13694,7 +15358,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-14T00:00:00.000Z"
     }
   },
@@ -13722,7 +15389,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -13748,7 +15418,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -13774,7 +15447,10 @@
       "start_date": "2024-07-28T00:00:00.000Z",
       "end_date": "2024-08-05T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-05T00:00:00.000Z"
     }
   },
@@ -13800,7 +15476,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-02-19T00:00:00.000Z"
     }
   },
@@ -13826,7 +15505,10 @@
       "start_date": "2022-09-04T00:00:00.000Z",
       "end_date": "2022-09-28T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-18T00:00:00.000Z"
     }
   },
@@ -13854,7 +15536,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -13880,7 +15565,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-05-22T00:00:00.000Z"
     }
   },
@@ -13911,7 +15599,10 @@
       "start_date": "2011-09-27T00:00:00.000Z",
       "end_date": "2011-10-19T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -13920,24 +15611,29 @@
     "path": "src/Books/Castle in the Air - Diana Wynne Jones.md",
     "slug": "Castle in the Air - Diana Wynne Jones",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "Juvenile Fiction"
+      ],
       "title": "Castle in the Air",
-      "subtitle": " ",
+      "subtitle": "",
       "author": [
         "Diana Wynne Jones"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL9247471M-M.jpg",
+      "publisher": "Harper Collins",
+      "published": "2012-09-25T00:00:00.000Z",
+      "page_count": 407,
+      "isbn": "0062244558 9780062244550",
+      "description": "In this stunning sequel to Howl's Moving Castle, Diana Wynne Jones has again created a large-scale, fast-paced fantasy in which people and things are never quite what they seem. There are good and bad djinns, a genie in a bottle, wizards, witches, cats and dogs (but are they cats and dogs?), and a mysterious floating castle filled with kidnapped princesses, as well as two puzzling prophecies. The story speeds along with tantalizing twists and turns until the prophecies are fulfilled, true identities are revealed, and all is resolved in a totally satisfying, breathtaking, surprise-filled ending. Abdullah was a young and not very prosperous carpet dealer. His father, who had been disappointed in him, had left him only enough money to open a modest booth in the Bazaar. When he was not selling carpets, Abdullah spent his time daydreaming. In his dreams he was not the son of his father but the long-lost son of a prince. There was also a princess who had been betrothed to him at birth. He was content with his life and his daydreams until, one day, a stranger sold him a magic carpet. All fans of classic fantasy books deserve the pleasure of reading those by Diana Wynne Jones, whose acclaim included the World Fantasy Award for Life Achievement. The three books in the World of Howl are: Howl's Moving Castle Castle in the Air House of Many Ways Other beloved series from Dianna Wynne Jones include the Chronicles of Chrestomanci and the Dalemark Quartet.",
+      "coverUrl": "http://books.google.com/books/content?id=V-d0GcHyBAsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": true,
       "start_date": null,
       "end_date": "2020-12-31T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -13970,7 +15666,10 @@
       "start_date": "2025-07-20T00:00:00.000Z",
       "end_date": "2025-07-27T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-01-05T00:00:00.000Z"
     }
   },
@@ -13998,7 +15697,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -14024,7 +15726,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-07-12T00:00:00.000Z"
     }
   },
@@ -14052,7 +15757,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": "Alive at Wallflower Digest",
+      "recommended_by": {
+        "name": "Alice at Wallflower Digest",
+        "url": null
+      },
       "created": "2024-08-27T21:09:18.000Z"
     }
   },
@@ -14078,7 +15786,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2019-08-02T00:00:00.000Z"
     }
   },
@@ -14104,7 +15815,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-04-22T00:00:00.000Z"
     }
   },
@@ -14130,7 +15844,10 @@
       "start_date": "2023-03-13T00:00:00.000Z",
       "end_date": "2023-04-02T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-04-03T00:00:00.000Z"
     }
   },
@@ -14161,7 +15878,10 @@
       "start_date": "2009-02-02T00:00:00.000Z",
       "end_date": "2009-02-02T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -14189,7 +15909,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -14217,7 +15940,10 @@
       "start_date": null,
       "end_date": "1991-08-17T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-08-18T00:00:00.000Z"
     }
   },
@@ -14243,7 +15969,10 @@
       "start_date": "2024-12-17T00:00:00.000Z",
       "end_date": "2024-12-22T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-12-22T00:00:00.000Z"
     }
   },
@@ -14271,7 +16000,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-06-25T00:00:00.000Z"
     }
   },
@@ -14297,7 +16029,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-06-04T00:00:00.000Z"
     }
   },
@@ -14323,7 +16058,10 @@
       "start_date": "2025-02-04T00:00:00.000Z",
       "end_date": "2025-02-13T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-02-13T00:00:00.000Z"
     }
   },
@@ -14349,7 +16087,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-09-04T00:00:00.000Z"
     }
   },
@@ -14375,7 +16116,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-07T00:00:00.000Z"
     }
   },
@@ -14401,7 +16145,10 @@
       "start_date": "2022-08-07T00:00:00.000Z",
       "end_date": "2022-09-04T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-08-07T00:00:00.000Z"
     }
   },
@@ -14432,8 +16179,42 @@
       "start_date": "2022-01-05T00:00:00.000Z",
       "end_date": "2022-08-07T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-01-05T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Bel Canto - Ann Patchett.md",
+    "path": "src/Books/Bel Canto - Ann Patchett.md",
+    "slug": "Bel Canto - Ann Patchett",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Bel Canto",
+      "subtitle": "",
+      "author": [
+        "Ann Patchett"
+      ],
+      "publisher": "HarperCollins UK",
+      "published": "2020-02-27T00:00:00.000Z",
+      "page_count": 350,
+      "isbn": "0007381794 9780007381791",
+      "description": "Winner of The Women’s Prize for Fiction and the PEN/Faulkner Award for Fiction. The poignant – and at times very funny – novel from the author of The Dutch House and Commonwealth.",
+      "coverUrl": "http://books.google.com/books/content?id=NOPODwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": "Annie Mueller",
+        "url": "https://anniemueller.com/posts/reading-notes-august-september"
+      },
+      "created": "2025-10-10T07:04:41.000Z"
     }
   },
   {
@@ -14458,7 +16239,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -14484,7 +16268,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -14510,7 +16297,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-01-23T00:00:00.000Z"
     }
   },
@@ -14536,7 +16326,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-12-14T00:00:00.000Z"
     }
   },
@@ -14562,7 +16355,10 @@
       "start_date": "2024-07-16T00:00:00.000Z",
       "end_date": "2024-07-28T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-07-29T00:00:00.000Z"
     }
   },
@@ -14588,7 +16384,10 @@
       "start_date": "2025-01-27T00:00:00.000Z",
       "end_date": "2025-02-04T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-02-04T00:00:00.000Z"
     }
   },
@@ -14614,7 +16413,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-26T00:00:00.000Z"
     }
   },
@@ -14640,7 +16442,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -14668,7 +16473,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -14694,7 +16502,10 @@
       "start_date": null,
       "end_date": "2016-05-03T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2016-05-05T00:00:00.000Z"
     }
   },
@@ -14720,7 +16531,10 @@
       "start_date": null,
       "end_date": "2000-09-12T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-09-13T00:00:00.000Z"
     }
   },
@@ -14746,7 +16560,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2022-12-22T00:00:00.000Z"
     }
   },
@@ -14772,7 +16589,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-06-11T00:00:00.000Z"
     }
   },
@@ -14798,8 +16618,43 @@
       "start_date": "2023-09-28T00:00:00.000Z",
       "end_date": "2023-10-07T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-09T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "All Dead Men - Tom Watts.md",
+    "path": "src/Books/All Dead Men - Tom Watts.md",
+    "slug": "All Dead Men - Tom Watts",
+    "frontmatter": {
+      "tags": [
+        "horror",
+        "zombies"
+      ],
+      "title": "All Dead Men",
+      "subtitle": "",
+      "author": [
+        "Tom Watts"
+      ],
+      "publisher": "Independently published",
+      "published": "2025-03-06T00:00:00.000Z",
+      "page_count": 125,
+      "isbn": 9798312816433,
+      "description": "{{description}}",
+      "coverUrl": "https://m.media-amazon.com/images/I/91Hskss7XLL._UF894,1000_QL80_.jpg",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": "Mary Ormerod, North West Bylines",
+        "url": "https://northwestbylines.co.uk/lifestyle/books/horror-story-novel-set-in-the-lake-district-inspired-by-the-authors-childhood/?utm_source=rss&utm_medium=rss&utm_campaign=horror-story-novel-set-in-the-lake-district-inspired-by-the-authors-childhood"
+      },
+      "created": "2025-10-11T19:00:47.000Z"
     }
   },
   {
@@ -14828,7 +16683,10 @@
       "start_date": "1989-02-02T00:00:00.000Z",
       "end_date": "1989-02-02T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-11-02T00:00:00.000Z"
     }
   },
@@ -14854,7 +16712,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-07-01T00:00:00.000Z"
     }
   },
@@ -14880,7 +16741,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-28T00:00:00.000Z"
     }
   },
@@ -14906,7 +16770,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -14932,7 +16799,10 @@
       "start_date": "2010-03-02T00:00:00.000Z",
       "end_date": "2010-03-02T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -14958,7 +16828,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -14988,7 +16861,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -15014,7 +16890,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-04-26T00:00:00.000Z"
     }
   },
@@ -15045,7 +16924,10 @@
       "start_date": "2001-02-02T00:00:00.000Z",
       "end_date": "2001-02-02T00:00:00.000Z",
       "rating": 5,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2020-04-22T00:00:00.000Z"
     }
   },
@@ -15075,7 +16957,10 @@
       "start_date": "2008-02-02T00:00:00.000Z",
       "end_date": "2008-02-02T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -15101,7 +16986,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-11-07T00:00:00.000Z"
     }
   },
@@ -15129,7 +17017,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 3,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -15155,7 +17046,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-06-14T00:00:00.000Z"
     }
   },
@@ -15183,7 +17077,10 @@
       "start_date": "2023-11-22T00:00:00.000Z",
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-12-20T00:00:00.000Z"
     }
   },
@@ -15209,7 +17106,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2023-10-31T00:00:00.000Z"
     }
   },
@@ -15240,8 +17140,42 @@
       "start_date": "2022-05-13T00:00:00.000Z",
       "end_date": "2022-05-23T00:00:00.000Z",
       "rating": 3,
-      "recommended_by": null,
-      "created": null
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2022-05-13T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "A Letter to the Luminous Deep - Sylvie Cathrall.md",
+    "path": "src/Books/A Letter to the Luminous Deep - Sylvie Cathrall.md",
+    "slug": "A Letter to the Luminous Deep - Sylvie Cathrall",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "A Letter to the Luminous Deep",
+      "subtitle": "the perfect cosy magical academia read!",
+      "author": [
+        "Sylvie Cathrall"
+      ],
+      "publisher": "Hachette UK",
+      "published": "2024-04-25T00:00:00.000Z",
+      "page_count": 380,
+      "isbn": "0356521095 9780356521091",
+      "description": "'An underwater treasure-chest to be slowly unpacked, full of things I adore: nosy and loving families, epistolary romance, gorgeous worldbuilding, and anxious scholars doing their best to meet the world with kindness and curiosity' Freya Marske, author of A Marvellous Light A charming fantasy set in an underwater world with magical academia and a heartwarming penpal romance, perfect for fans of A Marvellous Light and Emily Wilde's Encyclopaedia of Faeries. A beautiful discovery outside the window of her underwater home prompts the reclusive E. to begin a correspondence with renowned scholar Henerey Clel. The letters they share are filled with passion, at first for their mutual interests, and then, inevitably, for each other. Together, they uncover a mystery from the unknown depths, destined to transform the underwater world they both equally fear and love. But by no mere coincidence, a seaquake destroys E.'s home, and she and Henerey vanish. A year later, E.'s sister Sophy, and Henerey's brother Vyerin, are left to solve the mystery of their siblings' disappearances with the letters, sketches and field notes left behind. As they uncover the wondrous love their siblings shared, Sophy and Vyerin learn the key to their disappearance - and what it could mean for life as they know it. Praise for Sylvie Cathrall: 'With its gorgeous underwater setting and whimsical academic sensibility, A Letter to the Luminous Deep is a strange, epistolary wonder.' Mary McMyne, author of The Book of Gothel 'A shimmering, delicately crafted delight. . . Readers looking for heart warming romance and scholarly mystery against the backdrop of a wildly imaginative world will be charmed' H.G. Parry, author of The Magician's Daughter 'Cathrall's debut caught me up on a wave of whimsy and swept me away with its charm. A story to be cherished' Lyra Selene, author of A Feather So Black 'A Letter to the Luminous Deep is a fascinating and charming story told in a uniquely elegant voice. A watery wonder of a novel! I loved it.' Louisa Morgan, author of A Secret History of Witches 'A Letter to the Luminous Deep is like nothing I've read before. The heartfelt intimacy of the epistolary narrative, juxtaposed with the magnificent oceanic world-building, results in a novel that is at once deeply human and mind-bogglingly imaginative. Both the setting and the story are exquisite, but it was the lovingly crafted voices of the characters that kept me hooked from beginning to end' Megan Bannen, author of The Undertaking of Hart and Mercy",
+      "coverUrl": "http://books.google.com/books/content?id=nsW_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": "Jill Hammer",
+        "url": "https://electricliterature.com/7-queer-fantasy-novels-enchanted-with-water-magic/"
+      },
+      "created": "2025-10-12T06:20:17.000Z"
     }
   },
   {
@@ -15268,7 +17202,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 0,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2025-09-22T13:35:33.000Z"
     }
   },
@@ -15296,7 +17233,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -15326,7 +17266,10 @@
       "start_date": "2008-02-02T00:00:00.000Z",
       "end_date": "2008-02-02T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -15357,7 +17300,10 @@
       "start_date": "2024-10-13T00:00:00.000Z",
       "end_date": "2024-10-17T00:00:00.000Z",
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-10-18T00:00:00.000Z"
     }
   },
@@ -15387,7 +17333,10 @@
       "start_date": "2008-02-02T00:00:00.000Z",
       "end_date": "2008-02-02T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -15417,7 +17366,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2021-03-17T00:00:00.000Z"
     }
   },
@@ -15447,7 +17399,10 @@
       "start_date": "2008-02-02T00:00:00.000Z",
       "end_date": "2008-02-02T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -15475,7 +17430,10 @@
       "start_date": null,
       "end_date": null,
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -15505,7 +17463,10 @@
       "start_date": "2008-02-02T00:00:00.000Z",
       "end_date": "2008-02-02T00:00:00.000Z",
       "rating": 4,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2015-10-06T00:00:00.000Z"
     }
   },
@@ -15535,7 +17496,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -15563,7 +17527,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": null
     }
   },
@@ -15592,7 +17559,10 @@
       "start_date": null,
       "end_date": null,
       "rating": null,
-      "recommended_by": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
       "created": "2024-10-19T00:00:00.000Z"
     }
   }

@@ -4,16 +4,36 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/victormono@1.5.6/dist/index.min.css">
   {% include "style.njk" %}
 </head>
 <body>
-  <header>
-    <div class="wrapper">
-      <p><strong>Thom's Book Tracker</strong></p>
-    </div>
-  </header>
-  <main class="wrapper flow">
-    {{ content | safe }}
-  </main>
+    <header>
+        <div class="wrapper spacing gutters">
+
+        <span>Tracker</span>
+
+        </div>
+    </header>
+    <nav class="wrapper spacing gutters flow" style="background-color: rgba(0,0,0,0.3)">
+        <div>
+            <a href="/tracker/api/Books.json">Books API</a>
+            <a href="/tracker/api/Movies.json">Films API</a>
+            <a href="/tracker/api/Series.json">TV API</a>
+        </div>
+        <div>
+            <a href="/this-year/2025">This Year: 2025</a>
+        </div>
+    </nav>
+    <main class="wrapper gutters spacing">
+         {{ content | safe }}
+    </main>
+    <footer>
+        <div class="wrapper spacing gutters">
+            <p>
+                &copy; 2025 <a href="https://thomasrigby.com">Thomas Rigby</a>
+            </p>
+        </div>
+    </footer>
 </body>
 </html>

@@ -1,101 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Tracker by Thomas Rigby</title>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/victormono@1.5.6/dist/index.min.css">
-	<style>
-:root {
-  color-scheme: light dark;
-  font-family: "Victor Mono", system-ui, sans-serif;
-}
-* {
-  box-sizing: border-box;
-}
-body {
-max-width: 100%;
-overflow-x: hidden;
-}
-	    header .wrapper {
-					display: flex;
-					flex-direction: row;
-					flex-wrap: wrap;
-					gap: 1rem;
-				}
-		header nav {
-		margin-inline-start: auto;
-		}
-		header span {
-		font-weight: bold;
-		font-style: italic;
-		}
-		.wrapper {
-		width:100%;
-		max-width: 67ch;
-		margin-inline: auto;
-		}
-		.gutters {
-		padding-inline: 1rem;
-		}
-		.spacing {
-		padding-block: 1lh;
-		}
-		.flow >*+* {
-		margin-block-start: 1lh;
-		}
-		a {
-		color: light-dark(teal, goldenrod);
-		}
-	</style>
-</head>
-<body>
-    <header>
-        <div class="wrapper spacing gutters">
+---
+title: Tracker by Thomas Rigby
+layout: "base.njk"
+---
 
-        <span>Tracker</span>
-        <nav>
-            <a href="/tracker/api/Books.json">Books API</a>
-            <a href="/tracker/api/Movies.json">Films API</a>
-            <a href="/tracker/api/Series.json">TV API</a>
-        </nav>
-        </div>
-    </header>
-    <main class="wrapper gutters spacing">
-        <section class="flow">
-            <h2>Latest</h2>
-            <h3>Books</h3>
-            <ul>
-            {% for book in Books | reverse %}
-                {% if book.frontmatter.shelf == "reading" %}
-                <li><em>&ldquo;{{ book.frontmatter.title }}&rdquo;</em> by <strong>{{ book.frontmatter.author }}</strong></li>
-                {% endif %}
-            {% endfor %}
-            </ul>
-            <h3>Films</h3>
-            <ul>
+<section class="flow">
+    <h2>Latest</h2>
+    <h3>Books</h3>
+    <ul>
+    {% for book in Books | reverse %}
+        {% if book.frontmatter.shelf == "reading" %}
+        <li><em>&ldquo;{{ book.frontmatter.title }}&rdquo;</em> by <strong>{{ book.frontmatter.author }}</strong></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+    <h3>Films</h3>
+    <ul>
 
-            {% for film in Movies | watched %}
-                <li><em>&ldquo;{{ film.frontmatter.title }}&rdquo;</em> (Dir. <strong>{{ film.frontmatter.director }}</strong>, {{ film.frontmatter.year }})</li>
-            {% endfor %}
-            </ul>
-            <h3>Television</h3>
-            <ul>
+    {% for film in Movies | watched %}
+        <li><em>&ldquo;{{ film.frontmatter.title }}&rdquo;</em> (Dir. <strong>{{ film.frontmatter.director }}</strong>, {{ film.frontmatter.year }})</li>
+    {% endfor %}
+    </ul>
+    <h3>Television</h3>
+    <ul>
 
-            {% for show in Series | watched %}
-                {% if show.frontmatter.shelf == "watched" %}
-                <li><em>&ldquo;{{ show.frontmatter.title }}&rdquo;</em> (Dir. <strong>{{ show.frontmatter.director }}</strong>, {{ show.frontmatter.year }})</li>
-                {% endif %}
-            {% endfor %}
-            </ul>
-        </section>
-    </main>
-    <footer>
-        <div class="wrapper spacing gutters">
-            <p>
-                &copy; 2025 <a href="https://thomasrigby.com">Thomas Rigby</a>
-            </p>
-        </div>
-    </footer>
-</body>
-</html>
+    {% for show in Series | watched %}
+        {% if show.frontmatter.shelf == "watched" %}
+        <li><em>&ldquo;{{ show.frontmatter.title }}&rdquo;</em> (Dir. <strong>{{ show.frontmatter.director }}</strong>, {{ show.frontmatter.year }})</li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+</section>

@@ -211,7 +211,7 @@
       "country": "United States, United Kingdom, Canada",
       "title": "Wayward",
       "year": "2025–",
-      "director": "N/A",
+      "director": "Euros Lyn, John Fawcett, Renuka Jeyapalan, Mae Martin",
       "actors": [
         "Mae Martin",
         "Toni Collette",
@@ -1028,6 +1028,38 @@
     }
   },
   {
+    "filename": "The Sixth Commandment-2023.md",
+    "path": "src/Series/The Sixth Commandment-2023.md",
+    "slug": "The Sixth Commandment-2023",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "The Sixth Commandment",
+      "year": 2023,
+      "director": "N/A",
+      "actors": [
+        "Conor MacNeill",
+        "Éanna Hardwicke",
+        "Adrian Rawlins",
+        "Anne Reid",
+        "Timothy Spall",
+        "Ben Bailey Smoth",
+        "Sheila Hancock"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "History"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2023-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmEwMjRiMDMtYWJlNy00YTQwLWE5MTktYjA3MTUxMDZhNDE2XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "The Shield-2002.md",
     "path": "src/Series/The Shield-2002.md",
     "slug": "The Shield-2002",
@@ -1396,34 +1428,6 @@
     }
   },
   {
-    "filename": "The Mighty Boosh-2004.md",
-    "path": "src/Series/The Mighty Boosh-2004.md",
-    "slug": "The Mighty Boosh-2004",
-    "frontmatter": {
-      "type": "series",
-      "country": "GB",
-      "title": "The Mighty Boosh",
-      "year": 2004,
-      "director": "Unknown",
-      "actors": [
-        "Julian Barratt",
-        "Noel Fielding",
-        "Michael Fielding",
-        "Dave Brown"
-      ],
-      "genre": [
-        "Comedy",
-        "Sci-Fi & Fantasy"
-      ],
-      "length": "3 seasons (20 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2007-12-20T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg"
-    }
-  },
-  {
     "filename": "The Mighty Boosh-2003–2007.md",
     "path": "src/Series/The Mighty Boosh-2003–2007.md",
     "slug": "The Mighty Boosh-2003–2007",
@@ -1563,36 +1567,6 @@
       "rating": null,
       "watched": "2012-12-31T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BMmJjZjU1MGYtODY0Yy00NjM2LTk0YzYtZTc4YzgyOWU4NWNiXkEyXkFqcGc@._V1_SX300.jpg"
-    }
-  },
-  {
-    "filename": "The Killing-2007.md",
-    "path": "src/Series/The Killing-2007.md",
-    "slug": "The Killing-2007",
-    "frontmatter": {
-      "type": "series",
-      "country": "DK",
-      "title": "The Killing",
-      "year": 2007,
-      "director": "Unknown",
-      "actors": [
-        "Sofie Gråbøl",
-        "Morten Suurballe",
-        "Nikolaj Lie Kaas",
-        "Sigurd Holmen le Dous",
-        "Anders W. Berthelsen"
-      ],
-      "genre": [
-        "Crime",
-        "Mystery",
-        "Drama"
-      ],
-      "length": "3 seasons (40 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2012-11-25T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/9nAOU5zz01AWkzBg1ffpxLkmXwx.jpg"
     }
   },
   {
@@ -1871,6 +1845,34 @@
       "rating": null,
       "watched": "2023-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg"
+    }
+  },
+  {
+    "filename": "The Control Room-2022.md",
+    "path": "src/Series/The Control Room-2022.md",
+    "slug": "The Control Room-2022",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "The Control Room",
+      "year": 2022,
+      "director": "N/A",
+      "actors": [
+        "Iain De Caestecker",
+        "Daniel Portman",
+        "Jatinder Singh Randhawa"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2022-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWE4ZmRhYzEtNzcxYS00OWI5LTlmYTYtNWY5MTg0YmU5MjBkXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -3476,6 +3478,34 @@
     }
   },
   {
+    "filename": "Monster-2022–.md",
+    "path": "src/Series/Monster-2022–.md",
+    "slug": "Monster-2022–",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "Monster",
+      "year": "2022–",
+      "director": "N/A",
+      "actors": [
+        "Evan Peters",
+        "Richard Jenkins",
+        "Cooper Koch"
+      ],
+      "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "length": "N/A",
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGY2OTcxYWItZDgxNi00Y2E1LTk0YTgtZDcwZjZkNzU4OTJjXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Modern Family-2009.md",
     "path": "src/Series/Modern Family-2009.md",
     "slug": "Modern Family-2009",
@@ -3756,7 +3786,7 @@
       "country": "United Kingdom",
       "title": "Luther",
       "year": "2010–2019",
-      "director": "N/A",
+      "director": "Brian Kirk, Sam Miller, Stefan Schwartz",
       "actors": [
         "Idris Elba",
         "Dermot Crowley",
@@ -3771,41 +3801,11 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2019-12-31T00:00:00.000Z",
+      "watched": "2019-01-04T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BNmViZjE1MjEtZjRlZC00MWMzLTg0ODItYjI1ODZiNzk5YzBiXkEyXkFqcGc@._V1_SX300.jpg",
       "url": {
         "{ Website }": null
       }
-    }
-  },
-  {
-    "filename": "Luther-2010.md",
-    "path": "src/Series/Luther-2010.md",
-    "slug": "Luther-2010",
-    "frontmatter": {
-      "type": "series",
-      "country": "GB",
-      "title": "Luther",
-      "year": 2010,
-      "director": "Unknown",
-      "actors": [
-        "Idris Elba",
-        "Dermot Crowley",
-        "Hermione Norris",
-        "Michael Smiley",
-        "Ruth Wilson"
-      ],
-      "genre": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "length": "5 seasons (20 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2019-01-04T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg"
     }
   },
   {
@@ -4039,34 +4039,6 @@
     }
   },
   {
-    "filename": "Logan's Run-1977.md",
-    "path": "src/Series/Logan's Run-1977.md",
-    "slug": "Logan's Run-1977",
-    "frontmatter": {
-      "type": "series",
-      "country": "US",
-      "title": "Logan's Run",
-      "year": 1977,
-      "director": "Unknown",
-      "actors": [
-        "Gregory Harrison",
-        "Heather Menzies",
-        "Donald Moffat",
-        "Randolph Powell"
-      ],
-      "genre": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "length": "1 season (14 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "1993-05-08T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/sEwi68z1sP6iUxHYtIGWGfj21cc.jpg"
-    }
-  },
-  {
     "filename": "Litvinenko-2022.md",
     "path": "src/Series/Litvinenko-2022.md",
     "slug": "Litvinenko-2022",
@@ -4215,11 +4187,11 @@
     "path": "src/Series/It-1990.md",
     "slug": "It-1990",
     "frontmatter": {
-      "type": "series",
+      "type": "Series",
       "country": "US",
       "title": "It",
       "year": 1990,
-      "director": "Unknown",
+      "director": "Tommy Lee Wallace",
       "actors": [
         "Tim Curry",
         "Harry Anderson",
@@ -5389,36 +5361,6 @@
     }
   },
   {
-    "filename": "Dexter-2006.md",
-    "path": "src/Series/Dexter-2006.md",
-    "slug": "Dexter-2006",
-    "frontmatter": {
-      "type": "series",
-      "country": "US",
-      "title": "Dexter",
-      "year": 2006,
-      "director": "Unknown",
-      "actors": [
-        "Michael C. Hall",
-        "Jennifer Carpenter",
-        "Geoff Pierson",
-        "David Zayas",
-        "James Remar"
-      ],
-      "genre": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "length": "8 seasons (96 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg"
-    }
-  },
-  {
     "filename": "Detectorists-2014.md",
     "path": "src/Series/Detectorists-2014.md",
     "slug": "Detectorists-2014",
@@ -5594,6 +5536,34 @@
     }
   },
   {
+    "filename": "Daughters of the Cult-2024.md",
+    "path": "src/Series/Daughters of the Cult-2024.md",
+    "slug": "Daughters of the Cult-2024",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "Daughters of the Cult",
+      "year": 2024,
+      "director": "N/A",
+      "actors": [
+        "Bix Krieger",
+        "Olivia Fox",
+        "Chiyeko Jones"
+      ],
+      "genre": [
+        "Documentary",
+        "Biography",
+        "Crime"
+      ],
+      "length": "N/A",
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjg2YTJmMTEtZTUzYy00OGFiLWEwNmYtYmNkMTIyMDI2YzZhXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Dating Naked UK-2024.md",
     "path": "src/Series/Dating Naked UK-2024.md",
     "slug": "Dating Naked UK-2024",
@@ -5645,6 +5615,34 @@
       "rating": null,
       "watched": "1992-12-12T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg"
+    }
+  },
+  {
+    "filename": "Dark Season-1991.md",
+    "path": "src/Series/Dark Season-1991.md",
+    "slug": "Dark Season-1991",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "Dark Season",
+      "year": 1991,
+      "director": "N/A",
+      "actors": [
+        "Ben Chandler",
+        "Brigit Forsyth",
+        "Victoria Lambert"
+      ],
+      "genre": [
+        "Adventure",
+        "Family",
+        "Sci-Fi"
+      ],
+      "length": 25,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkwODMzNDc5OV5BMl5BanBnXkFtZTcwNjc4NDQzMQ@@._V1_SX300.jpg"
     }
   },
   {
@@ -5726,6 +5724,34 @@
     }
   },
   {
+    "filename": "Crime Traveller-1997.md",
+    "path": "src/Series/Crime Traveller-1997.md",
+    "slug": "Crime Traveller-1997",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "Crime Traveller",
+      "year": 1997,
+      "director": "N/A",
+      "actors": [
+        "Michael French",
+        "Chloë Annett",
+        "Sue Johnston"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "length": 50,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2010-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTI0NDYzYjctNTNhNy00OGJkLTgyYmMtZTVhOTQ1NWMyNDZjXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Code of Silence-2025.md",
     "path": "src/Series/Code of Silence-2025.md",
     "slug": "Code of Silence-2025",
@@ -5753,6 +5779,34 @@
       "rating": null,
       "watched": "2025-06-04T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/qQ9giFtSAOHg7sVGTPxOQ9FEL4X.jpg"
+    }
+  },
+  {
+    "filename": "Chrono Crusade-2003–2004.md",
+    "path": "src/Series/Chrono Crusade-2003–2004.md",
+    "slug": "Chrono Crusade-2003–2004",
+    "frontmatter": {
+      "type": "series",
+      "country": "Japan",
+      "title": "Chrono Crusade",
+      "year": "2003–2004",
+      "director": "N/A",
+      "actors": [
+        "Tomoko Kawakami",
+        "Akira Ishida",
+        "Greg Ayres"
+      ],
+      "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2010-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmUzNmRmNDAtNTBjMi00ZWU4LWI2OGQtNTgyMjJmNWRlNzhiXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -5892,37 +5946,6 @@
     }
   },
   {
-    "filename": "Buffy the Vampire Slayer-1997.md",
-    "path": "src/Series/Buffy the Vampire Slayer-1997.md",
-    "slug": "Buffy the Vampire Slayer-1997",
-    "frontmatter": {
-      "type": "series",
-      "country": "US",
-      "title": "Buffy the Vampire Slayer",
-      "year": 1997,
-      "director": "Unknown",
-      "actors": [
-        "Sarah Michelle Gellar",
-        "Nicholas Brendon",
-        "Alyson Hannigan",
-        "Emma Caulfield",
-        "Michelle Trachtenberg"
-      ],
-      "genre": [
-        "Sci-Fi & Fantasy",
-        "Comedy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "length": "7 seasons (144 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2023-02-01T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg"
-    }
-  },
-  {
     "filename": "Broadchurch-2013.md",
     "path": "src/Series/Broadchurch-2013.md",
     "slug": "Broadchurch-2013",
@@ -5976,31 +5999,6 @@
       "rating": null,
       "watched": "2001-12-31T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BOTFhMGE2OWEtY2JiYS00MmUwLWIwMzMtYWZmZjdlZWI3MDI2XkEyXkFqcGc@._V1_SX300.jpg"
-    }
-  },
-  {
-    "filename": "Brass Eye-1997.md",
-    "path": "src/Series/Brass Eye-1997.md",
-    "slug": "Brass Eye-1997",
-    "frontmatter": {
-      "type": "series",
-      "country": "GB",
-      "title": "Brass Eye",
-      "year": 1997,
-      "director": "Unknown",
-      "actors": [
-        "Chris Morris",
-        "Mark Heap"
-      ],
-      "genre": [
-        "Comedy"
-      ],
-      "length": "1 season (6 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "1997-03-05T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/nCWMA285aPbdQ8x9ZcqSolOzUoo.jpg"
     }
   },
   {
@@ -6110,6 +6108,34 @@
       "rating": null,
       "watched": "1989-11-02T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/y3rXOeklqhZ7BTBveW5WLJqyjgU.jpg"
+    }
+  },
+  {
+    "filename": "Black Doves-2024–.md",
+    "path": "src/Series/Black Doves-2024–.md",
+    "slug": "Black Doves-2024–",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "Black Doves",
+      "year": "2024–",
+      "director": "Alex Gabassi, Lisa Gunning, Julian Farino",
+      "actors": [
+        "Keira Knightley",
+        "Ben Whishaw",
+        "Sarah Lancashire"
+      ],
+      "genre": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2025-10-11T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDQyNzE2NmYtMzExMy00NTBjLWE4ODItNjI1OTNkZWVjNDUyXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -6227,6 +6253,34 @@
     }
   },
   {
+    "filename": "Better-2023.md",
+    "path": "src/Series/Better-2023.md",
+    "slug": "Better-2023",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "Better",
+      "year": 2023,
+      "director": "N/A",
+      "actors": [
+        "Leila Farzad",
+        "Andrew Buchan",
+        "Samuel Edward-Cook"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "length": "N/A",
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWMzZDUzZmQtM2VjMy00YTMzLWE5YTktZmIzMTljNDc3MWQ1XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Below Deck Down Under-2022.md",
     "path": "src/Series/Below Deck Down Under-2022.md",
     "slug": "Below Deck Down Under-2022",
@@ -6252,33 +6306,31 @@
     }
   },
   {
-    "filename": "Avatar- The Last Airbender-2005.md",
-    "path": "src/Series/Avatar- The Last Airbender-2005.md",
-    "slug": "Avatar- The Last Airbender-2005",
+    "filename": "Battle Doll Angelic Layer-2001.md",
+    "path": "src/Series/Battle Doll Angelic Layer-2001.md",
+    "slug": "Battle Doll Angelic Layer-2001",
     "frontmatter": {
       "type": "series",
-      "country": "US",
-      "title": "Avatar: The Last Airbender",
-      "year": 2005,
-      "director": "Unknown",
+      "country": "Japan",
+      "title": "Battle Doll Angelic Layer",
+      "year": 2001,
+      "director": "N/A",
       "actors": [
-        "Zach Tyler Eisen",
-        "Mae Whitman",
-        "Jack De Sena",
-        "Dante Basco",
-        "Jessie Flower"
+        "Atsuko Enomoto",
+        "Masaya Onosaka",
+        "Jun Fukuyama"
       ],
       "genre": [
         "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Action",
+        "Comedy"
       ],
-      "length": "3 seasons (61 episodes)",
+      "length": 25,
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg"
+      "watched": "2009-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzMwYTJhZTUtMTViYS00ODI5LTlkZjktYjY2NjNlNjQwMWJkXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -6384,34 +6436,6 @@
       "rating": null,
       "watched": "2017-02-06T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/7eNIjuiLyAGZx6ILVGWWouon4YU.jpg"
-    }
-  },
-  {
-    "filename": "Annika-2021–.md",
-    "path": "src/Series/Annika-2021–.md",
-    "slug": "Annika-2021–",
-    "frontmatter": {
-      "type": "series",
-      "country": "United Kingdom",
-      "title": "Annika",
-      "year": "2021–",
-      "director": "N/A",
-      "actors": [
-        "Nicola Walker",
-        "Jamie Sives",
-        "Katie Leung"
-      ],
-      "genre": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "length": "N/A",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2024-02-02T00:00:00.000Z",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjQxNzAzNzUtZjAyMi00ZjgxLWE3NTItZmY5MzM3ZmZlOTkxXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -6669,33 +6693,6 @@
       "url": {
         "{ Website }": null
       }
-    }
-  },
-  {
-    "filename": "Alice in Borderland-2020.md",
-    "path": "src/Series/Alice in Borderland-2020.md",
-    "slug": "Alice in Borderland-2020",
-    "frontmatter": {
-      "type": "series",
-      "country": "JP",
-      "title": "Alice in Borderland",
-      "year": 2020,
-      "director": "Unknown",
-      "actors": [
-        "Kento Yamazaki",
-        "Tao Tsuchiya"
-      ],
-      "genre": [
-        "Mystery",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "length": "3 seasons (17 episodes)",
-      "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
-      "poster": "https://image.tmdb.org/t/p/w500/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg"
     }
   },
   {

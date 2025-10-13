@@ -1,188 +1,43 @@
 <style>
 :root {
-  color-scheme: light dark;
-    font-family: "Inclusive Sans", system-ui;
-    background: canvas;
-    color: canvasText;
-    --color-primary: goldenrod;
-    --width-card: 100%;
+    color-scheme: light dark;
+    font-family: "Victor Mono", system-ui, sans-serif;
 }
-
+* {
+    box-sizing: border-box;
+}
 body {
-    padding: 0;
-    margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
 }
-
-body > header {
-    background: var(--color-primary);
-    color: white;
-    padding-block: 1lh;
+header .wrapper {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 1rem;
 }
-
-p {
-  margin: 0;
+header nav {
+    margin-inline-start: auto;
 }
-
+header span {
+    font-weight: bold;
+    font-style: italic;
+}
 .wrapper {
-    max-width: 80rem;
+    width:100%;
+    max-width: 67ch;
     margin-inline: auto;
+}
+.gutters {
     padding-inline: 1rem;
 }
-
-@media screen and (min-width: 80rem) {
-  :root {
-    --width-card: 40%;
-  }
-  .wrapper {
-    padding-inline: 0;
-  }
+.spacing {
+    padding-block: 1lh;
 }
-
-.card {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  grid-template-rows: auto auto auto;
-  gap: 0.5rem;
-  padding: 1rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 0.25rem;
-}
-
-.card-image {
-  grid-row: 1 / -1; /* Spans all rows */
-  grid-column: 1;
-}
-
-.card-image img {
-  width: 10vw;
-  height: 100%;
-  object-fit: contain;
-  object-position: top center;
-}
-
-.card-title {
-  grid-row: 1;
-  grid-column: 2;
-}
-
-.card-subtitle {
-  grid-row: 2;
-  grid-column: 2;
-}
-
-.card-author {
-  grid-row: 3;
-  grid-column: 2;
-}
-
-.card > * {
-    margin: 0;
-}
-.card > *:empty { display: none;  }
-
-.flow > *+* {
+.flow >*+* {
     margin-block-start: 1lh;
 }
-
-img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-}
-
-.title {
-    font-size: 2em;
-}
-
-.grid {
-  width: 100%;
-  display: grid !important;
-  grid-template-columns: repeat(auto-fill,minmax(var(--width-card,10rem),1fr));
-  grid-gap: var(--grid-gap,1rem);
-}
-
-ul.grid {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-.tabs {
-
-}
-
-/* Hide radio inputs */
-.tabs input[type="radio"] {
-  display: none;
-}
-
-/* Tab buttons container */
-.tab-buttons {
-  display: flex;
-  border-bottom: 2px solid #e0e0e0;
-}
-
-/* Individual tab button styling */
-.tab-button {
-  flex: 1;
-  padding: 1rem 1.5rem;
-  text-align: center;
-  cursor: pointer;
-  border: none;
-  border-bottom: 3px solid transparent;
-  transition: all 0.3s ease;
-  font-weight: 500;
-}
-
-.tab-button:hover {
-  background: canvasText;
-  color: canvas;
-}
-
-/* Active tab button */
-#tab1:checked ~ .tab-buttons label[for="tab1"],
-#tab2:checked ~ .tab-buttons label[for="tab2"],
-#tab3:checked ~ .tab-buttons label[for="tab3"] {
-  color: canvasText;
-  background: var(--color-primary);
-  border-bottom-color: var(--color-primary);
-}
-
-/* Tab content wrapper */
-.tab-content-wrapper {
-  position: relative;
-  border-top: none;
-  min-height: 200px;
-}
-
-/* Hide all content by default */
-.tab-content {
-  display: none;
-  padding: 1.5rem;
-  animation: fadeIn 0.3s ease-in-out;
-}
-
-/* Show active content */
-#tab1:checked ~ .tab-content-wrapper #content1,
-#tab2:checked ~ .tab-content-wrapper #content2,
-#tab3:checked ~ .tab-content-wrapper #content3 {
-  display: block;
-}
-
-/* Fade-in animation */
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-/* Responsive design */
-@media (max-width: 600px) {
-  .tab-button {
-    padding: 1rem 0.5rem;
-  }
-  
-  .tab-content {
-    padding: 1rem;
-  }
+a {
+    color: light-dark(teal, goldenrod);
 }
 </style>

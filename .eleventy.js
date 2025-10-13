@@ -1,3 +1,5 @@
+const slugify = require("slugify");
+
 /**
  * Human-readable Date
  * Returns a date as a string value appropriate to the host environment's current locale.
@@ -25,11 +27,15 @@ const humanReadableDate = (value = null, lang = "en-GB") => {
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
-  eleventyConfig.addNunjucksFilter("watched", (x) => (
-  x.filter(x => (x.frontmatter.shelf === "watched"))
-   .sort((a, b) => new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched))
-   .slice(0, 5)
-))
+  eleventyConfig.addNunjucksFilter("watched", (x) =>
+    x
+      .filter((x) => x.frontmatter.shelf === "watched")
+      .sort(
+        (a, b) =>
+          new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched),
+      )
+      .slice(0, 5),
+  );
 
   eleventyConfig.addPassthroughCopy({
     "./_data/*.json": "api",
@@ -44,6 +50,15 @@ module.exports = function (eleventyConfig) {
     dir: {
       input: "src",
       output: "public",
+    },
+    eleventyComputed: {
+      permalink: (data) => {
+        const pathParts = data.page.filePathStem.split("/");
+        const slugifiedParts = pathParts.map((part) =>
+          slugify(part, { lower: true, strict: true }),
+        );
+        return `${slugifiedParts.join("/")}/index.html`;
+      },
     },
   };
 };
