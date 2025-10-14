@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - dystopia
+  - YoungAdult
 title: King's Cage
 subtitle: Red Queen 3
 author:
@@ -12,13 +15,13 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
-start_date:
-end_date:
+start_date: 2015-05-07
+end_date: 2016-05-31
 rating: 3
 recommended_by:
   name:
   url:
-created:
+created: 2015-05-07
 ---
 
 # King's Cage by Victoria Aveyard
@@ -29,7 +32,7 @@ _Red Queen 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
-| Started |  |
-| Finished |  |
+| Genre | fantasy,dystopia,YoungAdult |
+| Started | 2015-05-07T00:00:00.000+01:00 |
+| Finished | 2016-05-31T00:00:00.000+01:00 |
 | Rating | 3/5 |
