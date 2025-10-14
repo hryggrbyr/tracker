@@ -1,6 +1,6 @@
 ---
 tags:
-  - fastasy
+  - fantasy
   - magic
   - war
 title: Shield of Winter
@@ -33,7 +33,7 @@ _An Epic Fantasy Novel With Gods, Dragons and Magic_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fastasy,magic,war |
+| Genre | fantasy,magic,war |
 | Started | 2025-03-31T00:00:00.000+01:00 |
 | Finished | 2025-04-11T00:00:00.000+01:00 |
 | Rating | 3/5 |
