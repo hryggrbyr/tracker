@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL24080825M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2011-01-30
 rating: 4
 recommended_by:
   name:
@@ -31,6 +31,6 @@ _Millennium 3_
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
+| Finished | 2011-01-30T00:00:00.000+00:00 |
 | Rating | 4/5 |
 
