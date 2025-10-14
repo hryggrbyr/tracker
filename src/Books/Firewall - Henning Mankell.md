@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mystery
+  - scandinoir
   - crime
   - police
   - thriller
@@ -34,7 +34,7 @@ _Kurt Wallander 8_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Mystery,crime,police,thriller,sweden |
+| Genre | scandinoir,crime,police,thriller,sweden |
 | Started |  |
 | Finished | 2020-12-17T00:00:00.000+00:00 |
 | Rating | 4/5 |
