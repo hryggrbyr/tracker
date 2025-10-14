@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL7524261M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2020-04-22
 rating: 5
 recommended_by:
   name:
@@ -32,5 +32,5 @@ _ 1_
 | --- | --- |
 | Genre | Sci-Fi Short |
 | Started |  |
-| Finished |  |
+| Finished | 2020-04-22T00:00:00.000+01:00 |
 | Rating | 5/5 |
