@@ -13,10 +13,10 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL28254123M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 2015-11-02
 rating: 4
 recommended_by:
-  name:
+  name: my wife
   url:
 created: 2015-11-02
 ---
@@ -31,6 +31,6 @@ _ _
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
+| Finished | 2015-11-02T00:00:00.000+00:00 |
 | Rating | 4/5 |
 
