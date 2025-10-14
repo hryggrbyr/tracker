@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - horror
+  - demons
 title: All The Pretty Dead Girls
 subtitle: " "
 author:
@@ -29,7 +31,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | horror,demons |
 | Started | 2023-09-28T00:00:00.000+01:00 |
 | Finished | 2023-10-07T00:00:00.000+01:00 |
 | Rating | /5 |
