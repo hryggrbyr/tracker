@@ -12,8 +12,8 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL26814320M-M.jpg
 shelf: read
 owned: true
-start_date:
-end_date:
+start_date: 2021-05-07
+end_date: 2021-06-01
 rating: 4
 recommended_by:
   name:
@@ -30,6 +30,6 @@ _ _
 | Shelf | read |
 | --- | --- |
 | Genre |  |
-| Started |  |
-| Finished |  |
+| Started | 2021-05-07T00:00:00.000+01:00 |
+| Finished | 2021-06-01T00:00:00.000+01:00 |
 | Rating | 4/5 |
