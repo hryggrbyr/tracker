@@ -1,5 +1,10 @@
 ---
-tags: []
+tags:
+  - scandinoir
+  - crime
+  - police
+  - theiller
+  - sweden
 title: Before the Frost
 subtitle: " 1"
 author:
@@ -29,7 +34,7 @@ _ 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre |  |
+| Genre | scandinoir,crime,police,theiller,sweden |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
