@@ -1,6 +1,10 @@
 ---
 tags:
-  - Mystery
+  - scandinoir
+  - crime
+  - police
+  - thriller
+  - sweden
 title: Sidetracked
 subtitle: Kurt Wallander 5
 author:
@@ -30,7 +34,7 @@ _Kurt Wallander 5_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Mystery |
+| Genre | scandinoir,crime,police,thriller,sweden |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
