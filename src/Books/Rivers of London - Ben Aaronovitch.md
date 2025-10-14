@@ -1,5 +1,9 @@
 ---
-tags: []
+tags:
+  - UrbanFantasy
+  - crime
+  - police
+  - Religon
 title: Rivers of London
 subtitle: " "
 author:
@@ -29,7 +33,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | UrbanFantasy,crime,police,Religon |
 | Started |  |
 | Finished | 2021-03-13T00:00:00.000+00:00 |
 | Rating | 4/5 |
