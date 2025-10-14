@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - thriller
+  - sci-fi
+  - crime
 title: Bound in Blood
 subtitle: " "
 author:
@@ -29,7 +32,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | thriller,sci-fi,crime |
 | Started | 2024-12-17T00:00:00.000+00:00 |
 | Finished | 2024-12-22T00:00:00.000+00:00 |
 | Rating | 4/5 |
