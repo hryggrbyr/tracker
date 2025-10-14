@@ -1,6 +1,8 @@
 ---
 tags:
-  - Fiction
+  - fantasy
+  - UrbanFantasy
+  - vampires
 title: "The Host: A Novel"
 subtitle: " 6"
 author:
@@ -30,7 +32,7 @@ _ 6_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | fantasy,UrbanFantasy,vampires |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
