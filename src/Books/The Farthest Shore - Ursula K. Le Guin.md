@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL8456761M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2020-02-24
 rating:
 recommended_by:
   name:
@@ -35,6 +35,6 @@ _Earthsea 3_
 | --- | --- |
 | Genre | fantasy,magic,wizards,dragons |
 | Started |  |
-| Finished |  |
+| Finished | 2020-02-24T00:00:00.000+00:00 |
 | Rating | /5 |
 
