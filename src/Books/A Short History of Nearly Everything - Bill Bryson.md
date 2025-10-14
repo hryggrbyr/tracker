@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL23115638M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 2003-12-31
 rating: 3
 recommended_by:
   name:
@@ -32,5 +32,5 @@ _ _
 | --- | --- |
 | Genre | nonfiction |
 | Started |  |
-| Finished |  |
+| Finished | 2003-12-31T00:00:00.000+00:00 |
 | Rating | 3/5 |
