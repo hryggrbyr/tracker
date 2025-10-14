@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - thriller
+  - horror
+  - SerialKiller
 title: American Psycho
 subtitle: " "
 author:
@@ -29,7 +32,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | thriller,horror,SerialKiller |
 | Started |  |
 | Finished | 2000-09-12T00:00:00.000+01:00 |
 | Rating | /5 |
