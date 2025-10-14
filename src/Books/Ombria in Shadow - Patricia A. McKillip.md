@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - dystopia
 title: Ombria in Shadow
 subtitle: " "
 author:
@@ -13,7 +15,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL27078561M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 2022-12-22
 rating: 4
 recommended_by:
   name:
@@ -29,7 +31,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,dystopia |
 | Started |  |
-| Finished |  |
+| Finished | 2022-12-22T00:00:00.000+00:00 |
 | Rating | 4/5 |
