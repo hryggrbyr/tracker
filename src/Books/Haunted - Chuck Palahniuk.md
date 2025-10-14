@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL22760463M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2013-09-09
 rating: 3
 recommended_by:
   name:
@@ -31,5 +31,5 @@ _ _
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
+| Finished | 2013-09-09T00:00:00.000+01:00 |
 | Rating | 3/5 |
