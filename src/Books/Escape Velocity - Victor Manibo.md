@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction
+  - sci-fi
 title: Escape Velocity
 subtitle: ""
 author:
@@ -32,7 +32,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | sci-fi |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
