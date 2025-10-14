@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL7542727M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2015-01-01
 rating: 4
 recommended_by:
   name:
@@ -31,5 +31,5 @@ _His Dark Materials 1_
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
+| Finished | 2015-01-01T00:00:00.000+00:00 |
 | Rating | 4/5 |
