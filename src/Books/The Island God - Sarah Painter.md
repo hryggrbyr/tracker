@@ -5,7 +5,7 @@ subtitle: " 1"
 author:
   - Sarah Painter
 publisher: Siskin Press Ltd
-published: 0101-01-01T01:00:00+01:00
+published:
 page_count:
 isbn:
 description: ""
@@ -33,4 +33,3 @@ _ 1_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

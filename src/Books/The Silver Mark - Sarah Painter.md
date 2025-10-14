@@ -5,7 +5,7 @@ subtitle: Crow Investigations 2
 author:
   - Sarah Painter
 publisher: Siskin Press Ltd
-published: 0101-01-01T01:00:00+01:00
+published:
 page_count:
 isbn:
 description: ""
@@ -33,4 +33,3 @@ _Crow Investigations 2_
 | Started | 2022-11-25T00:00:00.000+00:00 |
 | Finished | 2022-12-08T00:00:00.000+00:00 |
 | Rating | 4/5 |
-

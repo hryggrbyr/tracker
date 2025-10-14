@@ -5,7 +5,7 @@ subtitle: The Book of Hours 2
 author:
   - Clive Barker
 publisher: HarperCollins
-published: 0101-01-01T01:00:00+01:00
+published:
 page_count:
 isbn:
 description: ""

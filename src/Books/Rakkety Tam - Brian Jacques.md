@@ -6,7 +6,7 @@ subtitle: Redwall 17
 author:
   - Brian Jacques
 publisher: Penguin
-published: 0101-01-01T01:00:00+01:00
+published:
 page_count:
 isbn:
 description: ""
@@ -34,4 +34,3 @@ _Redwall 17_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

@@ -5,7 +5,7 @@ subtitle: Crow Investigations 5
 author:
   - Sarah Painter
 publisher: Siskin Press Ltd
-published: 0101-01-01T01:00:00+01:00
+published:
 page_count:
 isbn:
 description: ""
@@ -33,4 +33,3 @@ _Crow Investigations 5_
 | Started | 2023-01-23T00:00:00.000+00:00 |
 | Finished | 2023-02-23T00:00:00.000+00:00 |
 | Rating | 3/5 |
-

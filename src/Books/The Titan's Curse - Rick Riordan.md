@@ -6,7 +6,7 @@ subtitle: " 1"
 author:
   - Rick Riordan
 publisher: Disney Publishing Worldwide
-published: 0101-01-01T01:00:00+01:00
+published:
 page_count:
 isbn:
 description: ""
@@ -34,4 +34,3 @@ _ 1_
 | Started |  |
 | Finished |  |
 | Rating | 4/5 |
-

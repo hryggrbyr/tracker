@@ -9,7 +9,7 @@ subtitle: Earthsea 2
 author:
   - Ursula K. Le Guin
 publisher:
-published: 0101-01-01T01:00:00+01:00
+published:
 page_count:
 isbn:
 description: ""
@@ -37,4 +37,3 @@ _Earthsea 2_
 | Started |  |
 | Finished | 2019-01-20T00:00:00.000+00:00 |
 | Rating | /5 |
-

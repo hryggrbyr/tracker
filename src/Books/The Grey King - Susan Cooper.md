@@ -5,7 +5,7 @@ subtitle: The Dark is Rising Sequence 4
 author:
   - Susan Cooper
 publisher: Simon & Schuster Children's Publishing
-published: 0101-01-01T01:00:00+01:00
+published:
 page_count:
 isbn:
 description: ""
@@ -33,4 +33,3 @@ _The Dark is Rising Sequence 4_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

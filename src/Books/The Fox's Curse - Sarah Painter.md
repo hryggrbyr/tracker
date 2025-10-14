@@ -5,7 +5,7 @@ subtitle: Crow Investigations 3
 author:
   - Sarah Painter
 publisher: Siskin Press
-published: 0101-01-01T01:00:00+01:00
+published:
 page_count:
 isbn:
 description: ""
@@ -33,4 +33,3 @@ _Crow Investigations 3_
 | Started | 2022-12-09T00:00:00.000+00:00 |
 | Finished | 2023-01-07T00:00:00.000+00:00 |
 | Rating | 4/5 |
-
