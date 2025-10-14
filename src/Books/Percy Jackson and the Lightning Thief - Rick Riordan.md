@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - UrbanFantasy
+  - mythology
 title: Percy Jackson and the Lightning Thief
 subtitle: Percy Jackson and The Olympians 1
 author:
@@ -29,7 +32,7 @@ _Percy Jackson and The Olympians 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,UrbanFantasy,mythology |
 | Started | 2011-02-02T00:00:00.000+00:00 |
 | Finished | 2011-02-02T00:00:00.000+00:00 |
 | Rating | 4/5 |

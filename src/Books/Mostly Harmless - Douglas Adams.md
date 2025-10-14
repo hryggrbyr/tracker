@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - sci-fi
+  - comedy
 title: Mostly Harmless
 subtitle: " "
 author:
@@ -13,7 +15,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL39877196M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 1992-11-03
 rating: 3
 recommended_by:
   name:
@@ -29,7 +31,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | sci-fi,comedy |
 | Started |  |
-| Finished |  |
+| Finished | 1992-11-03T00:00:00.000+00:00 |
 | Rating | 3/5 |

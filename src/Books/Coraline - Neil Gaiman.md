@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL7288609M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 2016-10-13
 rating: 4
 recommended_by:
   name:
@@ -31,5 +31,5 @@ _ _
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
+| Finished | 2016-10-13T00:00:00.000+01:00 |
 | Rating | 4/5 |

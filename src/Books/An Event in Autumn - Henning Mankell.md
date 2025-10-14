@@ -3,6 +3,7 @@ tags:
   - crime
   - police
   - sweden
+  - scandinoir
 title: An Event in Autumn
 subtitle: Kurt Wallander 11
 author:
@@ -32,7 +33,7 @@ _Kurt Wallander 11_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | crime,police,sweden |
+| Genre | crime,police,sweden,scandinoir |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

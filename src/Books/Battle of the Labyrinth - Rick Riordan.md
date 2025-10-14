@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - UrbanFantasy
+  - mythology
 title: Battle of the Labyrinth
 subtitle: Percy Jackson and the Olympians 4
 author:
@@ -13,7 +16,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL38804098M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 2015-10-06
 rating: 3
 recommended_by:
   name:
@@ -29,7 +32,7 @@ _Percy Jackson and the Olympians 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,UrbanFantasy,mythology |
 | Started |  |
-| Finished |  |
+| Finished | 2015-10-06T00:00:00.000+01:00 |
 | Rating | 3/5 |

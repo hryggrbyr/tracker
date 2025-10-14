@@ -1,6 +1,8 @@
 ---
 tags:
-  - Fantasy
+  - fantasy
+  - UrbanFantasy
+  - mythology
 title: "Percy Jackson and the Olympians: The Chalice of the Gods"
 subtitle: Percy Jackson and the Olympians 6
 author:
@@ -30,7 +32,7 @@ _Percy Jackson and the Olympians 6_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fantasy |
+| Genre | fantasy,UrbanFantasy,mythology |
 | Started |  |
 | Finished | 2011-02-02T00:00:00.000+00:00 |
 | Rating | 5/5 |

@@ -1,5 +1,10 @@
 ---
-tags: []
+tags:
+  - scandinoir
+  - crime
+  - police
+  - thriller
+  - sweden
 title: One Step Behind
 subtitle: A Kurt Wallender Mystery
 author:
@@ -29,7 +34,7 @@ _A Kurt Wallender Mystery_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | scandinoir,crime,police,thriller,sweden |
 | Started | 2021-07-19T00:00:00.000+01:00 |
 | Finished | 2021-09-11T00:00:00.000+01:00 |
 | Rating | /5 |
