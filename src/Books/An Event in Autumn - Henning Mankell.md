@@ -1,6 +1,8 @@
 ---
 tags:
-  - Fiction
+  - crime
+  - police
+  - sweden
 title: An Event in Autumn
 subtitle: Kurt Wallander 11
 author:
@@ -30,7 +32,7 @@ _Kurt Wallander 11_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | crime,police,sweden |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

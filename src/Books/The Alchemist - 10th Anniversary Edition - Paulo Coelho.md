@@ -1,7 +1,7 @@
 ---
 tags:
   - Fiction
-title: The Alchemist - 10th Anniversary Edition
+title: The Alchemist
 subtitle: ""
 author:
   - Paulo Coelho

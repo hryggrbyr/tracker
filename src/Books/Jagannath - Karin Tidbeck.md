@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction
+  - ShortStories
 title: Jagannath
 subtitle: ""
 author:
@@ -30,7 +30,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre | ShortStories |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

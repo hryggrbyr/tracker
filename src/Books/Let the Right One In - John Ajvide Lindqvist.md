@@ -1,6 +1,9 @@
 ---
 tags:
-  - Fiction
+  - fantasy
+  - horror
+  - UrbanFantasy
+  - vampires
 title: Let the Right One In
 subtitle: A Novel
 author:
@@ -30,7 +33,7 @@ _A Novel_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | fantasy,horror,UrbanFantasy,vampires |
 | Started | 2025-09-08T00:00:00.000+01:00 |
 | Finished | 2025-09-25T00:00:00.000+01:00 |
 | Rating | 5/5 |
