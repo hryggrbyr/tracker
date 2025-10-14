@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - comedy
+  - romance
 title: The Princess Bride
 subtitle: " "
 author:
@@ -13,7 +16,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 1990-07-10
 rating: 4
 recommended_by:
   name:
@@ -29,8 +32,8 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,comedy,romance |
 | Started |  |
-| Finished |  |
+| Finished | 1990-07-10T00:00:00.000+01:00 |
 | Rating | 4/5 |
 
