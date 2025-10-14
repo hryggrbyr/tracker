@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - dystopia
+  - YoungAdult
 title: Glass Sword
 subtitle: Red Queen 2
 author:
@@ -12,8 +15,8 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL25934733M-M.jpg
 shelf: read
 owned: true
-start_date:
-end_date:
+start_date: 2015-04-16
+end_date: 2016-05-06
 rating:
 recommended_by:
   name:
@@ -30,7 +33,7 @@ _Red Queen 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
-| Started |  |
-| Finished |  |
+| Genre | fantasy,dystopia,YoungAdult |
+| Started | 2015-04-16T00:00:00.000+01:00 |
+| Finished | 2016-05-06T00:00:00.000+01:00 |
 | Rating | /5 |
