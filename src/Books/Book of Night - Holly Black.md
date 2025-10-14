@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - UrbanFantasy
+  - horror
+  - magic
 title: Book of Night
 subtitle: " "
 author:
@@ -29,7 +32,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | UrbanFantasy,horror,magic |
 | Started | 2025-02-04T00:00:00.000+00:00 |
 | Finished | 2025-02-13T00:00:00.000+00:00 |
 | Rating | 4/5 |
