@@ -15,12 +15,12 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2010-02-04
 rating: 3
 recommended_by:
   name:
   url:
-created:
+created: 2010-02-04
 ---
 
 # Funeral in Berlin by Len Deighton
@@ -33,5 +33,5 @@ _Harry Palmer 3_
 | --- | --- |
 | Genre | thriller,espionage |
 | Started |  |
-| Finished |  |
+| Finished | 2010-02-04T00:00:00.000+00:00 |
 | Rating | 3/5 |
