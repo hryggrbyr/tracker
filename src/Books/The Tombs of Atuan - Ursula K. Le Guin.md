@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL23026851M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2019-01-20
 rating:
 recommended_by:
   name:
@@ -35,6 +35,6 @@ _Earthsea 2_
 | --- | --- |
 | Genre | fantasy,magic,wizards,dragons |
 | Started |  |
-| Finished |  |
+| Finished | 2019-01-20T00:00:00.000+00:00 |
 | Rating | /5 |
 
