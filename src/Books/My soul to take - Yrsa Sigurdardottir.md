@@ -13,8 +13,8 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL22691613M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
-rating:
+end_date: 2017-06-16
+rating: 3
 recommended_by:
   name:
   url:
@@ -31,5 +31,5 @@ _ _
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2017-06-16T00:00:00.000+01:00 |
+| Rating | 3/5 |
