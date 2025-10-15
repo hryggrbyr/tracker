@@ -28,7 +28,7 @@ actors:
   - Tom Daley
 genre:
   - Game-Show
-  - Reality-TV
+  - Reality
 length: N/A
 shelf: watched
 owned: false
