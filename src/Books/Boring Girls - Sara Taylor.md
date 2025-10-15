@@ -2,7 +2,7 @@
 tags:
   - Fiction
 title: Boring Girls
-subtitle: " 1"
+subtitle: ""
 author:
   - Sara Taylor
 publisher: ECW Press
@@ -26,7 +26,7 @@ created: 2025-06-25
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28423696M-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
