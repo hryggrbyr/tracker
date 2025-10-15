@@ -2,7 +2,7 @@
 tags:
   - horror
 title: "'48"
-subtitle: " 1"
+subtitle: ""
 author:
   - James Herbert
 publisher: HarperCollins
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
