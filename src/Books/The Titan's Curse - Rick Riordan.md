@@ -2,7 +2,7 @@
 tags:
   - YoungAdult
 title: The Titan's Curse
-subtitle: " 1"
+subtitle: ""
 author:
   - Rick Riordan
 publisher: Disney Publishing Worldwide
@@ -26,7 +26,7 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL31516750M-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |
@@ -34,3 +34,4 @@ _ 1_
 | Started |  |
 | Finished |  |
 | Rating | 4/5 |
+
