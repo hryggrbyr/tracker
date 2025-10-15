@@ -1,8 +1,8 @@
 ---
 tags:
-  - Fiction:Thriller
+  - thriller
 title: Depths
-subtitle: " 1"
+subtitle: ""
 author:
   - Henning Mankell
 publisher: Random House
@@ -26,11 +26,11 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction:Thriller |
+| Genre | thriller |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
