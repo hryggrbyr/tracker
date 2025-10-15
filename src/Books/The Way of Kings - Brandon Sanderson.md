@@ -2,7 +2,7 @@
 tags:
   - Fantasy
 title: The Way of Kings
-subtitle: " 1"
+subtitle: ""
 author:
   - Brandon Sanderson
 publisher: Victor Gollancz Limited
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
