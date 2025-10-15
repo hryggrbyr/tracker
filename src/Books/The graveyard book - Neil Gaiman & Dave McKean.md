@@ -2,7 +2,7 @@
 tags:
   - child
 title: The Graveyard Book
-subtitle: " 1"
+subtitle: ""
 author:
   - Neil Gaiman & Dave McKean
 publisher: HarperCollins Pub.
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
