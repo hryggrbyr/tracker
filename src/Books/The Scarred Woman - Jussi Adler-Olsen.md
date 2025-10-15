@@ -1,7 +1,7 @@
 ---
 tags: []
 title: The Scarred Woman
-subtitle: " 1"
+subtitle: ""
 author:
   - Jussi Adler-Olsen
 publisher: Penguin Publishing Group
@@ -25,7 +25,7 @@ created: 2025-07-12
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL26925983M-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
