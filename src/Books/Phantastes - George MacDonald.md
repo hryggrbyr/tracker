@@ -2,7 +2,7 @@
 tags:
   - fantasy
 title: Phantastes
-subtitle: " 1"
+subtitle: ""
 author:
   - George MacDonald
 publisher:
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
