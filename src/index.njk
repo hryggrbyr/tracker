@@ -24,9 +24,7 @@ layout: "base.njk"
     <ul>
 
     {% for show in Series | watched %}
-        {% if show.frontmatter.shelf == "watched" %}
         <li><em>&ldquo;{{ show.frontmatter.title }}&rdquo;</em> (Dir. <strong>{{ show.frontmatter.director }}</strong>, {{ show.frontmatter.year }})</li>
-        {% endif %}
     {% endfor %}
     </ul>
 </section>
