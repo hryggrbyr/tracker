@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - sci-fi
 title: Last Gasp
 subtitle: " "
 author:
@@ -16,7 +17,7 @@ start_date:
 end_date:
 rating:
 recommended_by:
-  name:
+  name: John Rigby
   url:
 created: 2022-08-07
 ---
@@ -29,7 +30,7 @@ _ _
 
 | Shelf | to-read |
 | --- | --- |
-| Genre |  |
+| Genre | sci-fi |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

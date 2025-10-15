@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - sci-fi
+  - dystopia
 title: The Minority Report
 subtitle: " "
 author:
@@ -13,7 +15,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL3569779M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 2018-05-02
 rating: 3
 recommended_by:
   name:
@@ -29,8 +31,8 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | sci-fi,dystopia |
 | Started |  |
-| Finished |  |
+| Finished | 2018-05-02T00:00:00.000+01:00 |
 | Rating | 3/5 |
 

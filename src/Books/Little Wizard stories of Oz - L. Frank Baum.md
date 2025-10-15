@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - ParallelWorlds
 title: Little Wizard stories of Oz
 subtitle: " "
 author:
@@ -13,7 +15,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL1442543M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2015-11-02
 rating: 3
 recommended_by:
   name:
@@ -29,7 +31,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,ParallelWorlds |
 | Started |  |
-| Finished |  |
+| Finished | 2015-11-02T00:00:00.000+00:00 |
 | Rating | 3/5 |

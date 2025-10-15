@@ -13,7 +13,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL10491293M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 1998-02-03
 rating: 3
 recommended_by:
   name:
@@ -31,6 +31,6 @@ _ _
 | --- | --- |
 | Genre |  |
 | Started |  |
-| Finished |  |
+| Finished | 1998-02-03T00:00:00.000+00:00 |
 | Rating | 3/5 |
 
