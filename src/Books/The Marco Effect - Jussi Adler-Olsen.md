@@ -1,7 +1,7 @@
 ---
 tags: []
 title: The Marco Effect
-subtitle: " 1"
+subtitle: ""
 author:
   - Jussi Adler-Olsen
 publisher: Penguin Publishing Group
@@ -25,7 +25,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
