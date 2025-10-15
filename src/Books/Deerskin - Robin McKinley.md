@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Deerskin
-subtitle: " 1"
+subtitle: ""
 author:
   - Robin McKinley
 publisher: Open Road Media
@@ -25,7 +25,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
