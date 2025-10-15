@@ -1,7 +1,7 @@
 ---
 tags: []
 title: XPD
-subtitle: " 1"
+subtitle: ""
 author:
   - Len Deighton
 publisher: Harper
@@ -25,7 +25,7 @@ created: 2024-09-13
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |
