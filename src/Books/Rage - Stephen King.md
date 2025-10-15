@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Rage
-subtitle: " 1"
+subtitle: ""
 author:
   - Stephen King
 publisher: New English Library Ltd
@@ -25,7 +25,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
