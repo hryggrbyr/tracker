@@ -4,6 +4,7 @@ tags:
   - horror
   - UrbanFantasy
   - vampires
+  - sweden
 title: Let the Right One In
 subtitle: A Novel
 author:
@@ -33,7 +34,7 @@ _A Novel_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | fantasy,horror,UrbanFantasy,vampires |
+| Genre | fantasy,horror,UrbanFantasy,vampires,sweden |
 | Started | 2025-09-08T00:00:00.000+01:00 |
 | Finished | 2025-09-25T00:00:00.000+01:00 |
 | Rating | 5/5 |
