@@ -2,7 +2,7 @@
 tags:
   - sci-fi
 title: The Midwich Cuckoos
-subtitle: " 1"
+subtitle: ""
 author:
   - John Wyndham
 publisher: Penguin Publishing
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

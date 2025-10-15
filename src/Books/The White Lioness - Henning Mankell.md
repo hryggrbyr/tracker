@@ -1,7 +1,7 @@
 ---
 tags: []
 title: The White Lioness
-subtitle: " 1"
+subtitle: ""
 author:
   - Henning Mankell
 publisher: New Press
@@ -25,7 +25,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

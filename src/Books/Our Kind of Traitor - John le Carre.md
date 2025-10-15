@@ -3,7 +3,7 @@ tags:
   - thriller
   - espionage
 title: Our Kind of Traitor
-subtitle: " 1"
+subtitle: ""
 author:
   - John le Carré
 publisher: Penguin Books Ltd (UK)
@@ -27,7 +27,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

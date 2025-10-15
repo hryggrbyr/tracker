@@ -2,7 +2,7 @@
 tags:
   - Fiction:Thriller
 title: Operation Napoleon
-subtitle: " 1"
+subtitle: ""
 author:
   - Arnaldur Indriðason
 publisher: Random House
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

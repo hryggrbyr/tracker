@@ -2,7 +2,7 @@
 tags:
   - Fiction
 title: The Secrets of Ghosts
-subtitle: " 1"
+subtitle: ""
 author:
   - Sarah Painter
 publisher: Carina
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |

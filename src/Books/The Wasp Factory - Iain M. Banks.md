@@ -2,7 +2,7 @@
 tags:
   - Fiction
 title: The Wasp Factory
-subtitle: " 1"
+subtitle: ""
 author:
   - Iain M. Banks
 publisher: Abacus
@@ -26,7 +26,7 @@ created: 2023-09-29
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL9720768M-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |

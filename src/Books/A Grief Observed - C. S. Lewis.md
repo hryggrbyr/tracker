@@ -2,7 +2,7 @@
 tags:
   - Religon
 title: A Grief Observed
-subtitle: " 1"
+subtitle: ""
 author:
   - C. S. Lewis
 publisher: Bantam Books
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

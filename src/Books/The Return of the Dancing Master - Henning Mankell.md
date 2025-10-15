@@ -1,7 +1,7 @@
 ---
 tags: []
 title: The Return of the Dancing Master
-subtitle: " 1"
+subtitle: ""
 author:
   - Henning Mankell
 publisher: Random House
@@ -25,7 +25,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
@@ -33,3 +33,4 @@ _ 1_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
+

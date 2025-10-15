@@ -2,7 +2,7 @@
 tags:
   - Fantasy
 title: "Imajica: Complete Edition"
-subtitle: " 1"
+subtitle: ""
 author:
   - Clive Barker
 publisher:
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |

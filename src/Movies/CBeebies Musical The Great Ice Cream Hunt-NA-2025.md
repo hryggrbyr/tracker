@@ -11,7 +11,7 @@ genre:
 length: N/A
 shelf: watched
 owned: false
-rating:
+rating: 5
 watched: 2025-08-29
 poster: N/A
 ---

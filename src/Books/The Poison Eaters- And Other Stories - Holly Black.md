@@ -2,7 +2,7 @@
 tags:
   - YoungAdult
 title: "The Poison Eaters: And Other Stories"
-subtitle: " 1"
+subtitle: ""
 author:
   - Holly Black
 publisher: Small Beer Press
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL24033592M-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 tags: []
 title: The Dispossessed
-subtitle: " 1"
+subtitle: ""
 author:
   - Ursula K. Le Guin
 publisher: HarperCollins
@@ -25,7 +25,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
@@ -33,3 +33,4 @@ _ 1_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
+

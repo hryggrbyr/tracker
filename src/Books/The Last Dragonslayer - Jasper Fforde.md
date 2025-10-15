@@ -4,7 +4,7 @@ tags:
   - dragons
   - YoungAdult
 title: The Last Dragonslayer
-subtitle: " 1"
+subtitle: ""
 author:
   - Jasper Fforde
 publisher: Hodder
@@ -28,7 +28,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

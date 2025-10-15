@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Witchcraft for Wayward Girls
-subtitle: " 1"
+subtitle: ""
 author:
   - Grady Hendrix
 publisher: Penguin Publishing Group
@@ -25,7 +25,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

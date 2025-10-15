@@ -16,7 +16,7 @@ genre:
 length: 85
 shelf: watched
 owned: false
-rating:
+rating: 7
 watched: 2025-09-22
 poster: https://m.media-amazon.com/images/M/MV5BMjIzNjQ4NDYtM2I3NC00YWJmLTkwODYtYTk5NGIyMjJlYzQ2XkEyXkFqcGc@._V1_SX300.jpg
 ---

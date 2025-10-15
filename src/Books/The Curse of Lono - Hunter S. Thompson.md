@@ -2,7 +2,7 @@
 tags:
   - Fiction
 title: The Curse of Lono
-subtitle: " 1"
+subtitle: ""
 author:
   - Hunter S. Thompson
 publisher: Taschen
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

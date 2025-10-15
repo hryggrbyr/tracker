@@ -2,7 +2,7 @@
 tags:
   - Science Fiction
 title: Project Hail Mary
-subtitle: " 1"
+subtitle: ""
 author:
   - Andy Weir
 publisher: Ballantine Books
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |

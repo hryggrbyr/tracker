@@ -2,7 +2,7 @@
 tags:
   - Fiction:Thriller
 title: You Can't Stop Me
-subtitle: " 1"
+subtitle: ""
 author:
   - Max Allan Collins & Matthew Clemens
 publisher: PINNACLE BOOKS
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
