@@ -2,7 +2,7 @@
 tags:
   - dystopia
 title: The Complete Novels Of George Orwell
-subtitle: " 1"
+subtitle: ""
 author:
   - George Orwell
 publisher: Penguin Group
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
