@@ -2,7 +2,7 @@
 tags:
   - dystopia
 title: Brave New World
-subtitle: " 1"
+subtitle: ""
 author:
   - Aldous Huxley
 publisher: HarperCollins Publishers
@@ -26,7 +26,7 @@ created: 2024-08-18
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7318402M-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |
