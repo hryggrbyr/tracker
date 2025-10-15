@@ -4,7 +4,7 @@ tags:
   - child
   - ParallelWorlds
 title: "Abarat: The First Book of Hours"
-subtitle: " 1"
+subtitle: Abarat Book 1
 author:
   - Clive Barker
 publisher: HarperCollins Childrens Books
@@ -28,7 +28,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+_Abarat Book 1_
 
 | Shelf | to-read |
 | --- | --- |
