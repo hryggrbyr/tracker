@@ -11,9 +11,8 @@ actors:
   - Caroline Flack
 genre:
   - Game-Show
-  - Reality-TV
-  - Romance
   - Reality
+  - Romance
 length: 12 seasons (620 episodes)
 shelf: watched
 owned: false
