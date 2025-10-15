@@ -2,7 +2,7 @@
 tags:
   - Sci-Fi Short
 title: Changing Planes
-subtitle: " 1"
+subtitle: ""
 author:
   - Ursula K. Le Guin
 publisher:
@@ -26,7 +26,7 @@ created: 2020-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL7524261M-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |
