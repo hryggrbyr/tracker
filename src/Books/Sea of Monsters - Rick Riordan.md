@@ -2,7 +2,7 @@
 tags:
   - YoungAdult
 title: Sea of Monsters
-subtitle: " 1"
+subtitle: ""
 author:
   - Rick Riordan
 publisher: Disney Book Group
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |
