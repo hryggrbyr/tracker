@@ -2,7 +2,7 @@
 tags:
   - crime
 title: Crime and Punishment
-subtitle: " 1"
+subtitle: ""
 author:
   - Fyodor Dostoyevsky
 publisher: Oxford University Press
@@ -26,7 +26,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
