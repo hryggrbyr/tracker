@@ -3,7 +3,7 @@ tags:
   - horror
   - thriller
 title: The Bachman Books
-subtitle: " 1"
+subtitle: ""
 author:
   - Richard Bachman
 publisher: Hodder
@@ -27,7 +27,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |
