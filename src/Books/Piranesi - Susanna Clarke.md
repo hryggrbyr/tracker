@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Piranesi
-subtitle: " 1"
+subtitle: ""
 author:
   - Susanna Clarke
 publisher: Bloomsbury Publishing
@@ -25,7 +25,7 @@ created: 2023-01-11
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL29486417M-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
