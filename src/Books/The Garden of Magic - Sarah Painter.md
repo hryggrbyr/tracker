@@ -1,7 +1,7 @@
 ---
 tags: []
 title: The Garden of Magic
-subtitle: " 1"
+subtitle: ""
 author:
   - Sarah Painter
 publisher: HarperCollins Publishers
@@ -25,7 +25,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | read |
 | --- | --- |
