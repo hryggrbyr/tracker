@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Penric's Demon
-subtitle: " 1"
+subtitle: ""
 author:
   - Lois McMaster Bujold
 publisher: Subterranean
@@ -25,7 +25,7 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ 1_
+__
 
 | Shelf | to-read |
 | --- | --- |
