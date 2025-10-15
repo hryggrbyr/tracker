@@ -16,7 +16,7 @@ genre:
 length: 45m
 shelf: watched
 owned: false
-rating:
+rating: 5
 watched: 2025-08-25
 poster: https://image.tmdb.org/t/p/w500/gFlZhcJejtNFsiwKvX4t9Evds1B.jpg
 ---
