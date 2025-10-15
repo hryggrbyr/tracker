@@ -7,7 +7,8 @@ director: N/A
 actors:
   - Davina McCall
 genre:
-  - Reality-TV
+  - Reality
+  - Romance
 length: N/A
 shelf: watched
 owned: false
