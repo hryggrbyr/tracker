@@ -944,6 +944,78 @@
     }
   },
   {
+    "filename": "The Traitors UK-2022–.md",
+    "path": "src/Series/The Traitors UK-2022–.md",
+    "slug": "The Traitors UK-2022–",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "The Traitors UK",
+      "year": "2022–",
+      "director": "N/A",
+      "actors": [
+        "Claudia Winkleman",
+        "Aaron Evans",
+        "Wilfred Webster"
+      ],
+      "genre": [
+        "Game-Show",
+        "Reality"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2024-10-14T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODFlZTE3YzgtZDBkZC00NDA2LWI2OGQtZWQ5MGY4MmFjZTYxXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "The Traitors UK Celebrity Edition-2025–.md",
+    "path": "src/Series/The Traitors UK Celebrity Edition-2025–.md",
+    "slug": "The Traitors UK Celebrity Edition-2025–",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "The Traitors UK Celebrity Edition",
+      "year": "2025–",
+      "director": "Ben Archard",
+      "actors": [
+        "Claudia Winkleman",
+        "Alan Carr",
+        "Cat Burns",
+        "Celia Imrie",
+        "Charlotte Church",
+        "Chris McCausland",
+        "Clare Balding",
+        "David Olusoga",
+        "Dylan Jones",
+        "Joe Marler",
+        "Joe Wilkinson",
+        "Jonathan Ross",
+        "Kate Garraway",
+        "Mark Bonnar",
+        "Nick Mohammed",
+        "Niko Omilana",
+        "Paloma Faith",
+        "Ruth Codd",
+        "Stephen Fry",
+        "Tameka Empson",
+        "Tom Daley"
+      ],
+      "genre": [
+        "Game-Show",
+        "Reality"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2025-10-14T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODFlZTE3YzgtZDBkZC00NDA2LWI2OGQtZWQ5MGY4MmFjZTYxXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "The Thick of It-2005.md",
     "path": "src/Series/The Thick of It-2005.md",
     "slug": "The Thick of It-2005",
@@ -2108,7 +2180,8 @@
         "Davina McCall"
       ],
       "genre": [
-        "Reality-TV"
+        "Reality",
+        "Romance"
       ],
       "length": "N/A",
       "shelf": "watched",
@@ -3903,9 +3976,8 @@
       ],
       "genre": [
         "Game-Show",
-        "Reality-TV",
-        "Romance",
-        "Reality"
+        "Reality",
+        "Romance"
       ],
       "length": "12 seasons (620 episodes)",
       "shelf": "watched",
@@ -6133,7 +6205,7 @@
       "length": "N/A",
       "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 8,
       "watched": "2025-10-11T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BMDQyNzE2NmYtMzExMy00NTBjLWE4ODItNjI1OTNkZWVjNDUyXkEyXkFqcGc@._V1_SX300.jpg"
     }

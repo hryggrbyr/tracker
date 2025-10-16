@@ -42,28 +42,33 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addPassthroughCopy("./src/css");
   eleventyConfig.addWatchTarget("./src/css/");
-  
-  eleventyConfig.addTransform("fixWikilinks", function(content, outputPath) {
-  if (outputPath && outputPath.endsWith(".html")) {
-    const wikiLinkRegex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
-    
-    return content.replace(wikiLinkRegex, (match, target, displayText) => {
-      // Replace ../ with /tracker/
-      const normalizedPath = target.replace(/^\.\.\//, '/tracker/');
-      
-      // Slugify the entire filepath using 11ty's slugify
-      const slug = eleventyConfig.getFilter("slugify")(normalizedPath);
-      
-      // Use display text if provided, otherwise use the target filename
-      const linkText = displayText || target.split('/').pop().replace(/\.[^.]+$/, '');
-      
-      // Return as HTML link
-      return `${linkText}`;
-    });
-  }
-  return content;
-});
-  
+
+  eleventyConfig.addTransform("fixWikilinks", function (content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+      const wikiLinkRegex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+
+      return content.replace(wikiLinkRegex, (match, target, displayText) => {
+        // Replace ../ with /tracker/
+        const normalizedPath = target.replace(/^\.\.\//, "/tracker/");
+
+        // Slugify the entire filepath using 11ty's slugify
+        const slug = eleventyConfig.getFilter("slugify")(normalizedPath);
+
+        // Use display text if provided, otherwise use the target filename
+        const linkText =
+          displayText ||
+          target
+            .split("/")
+            .pop()
+            .replace(/\.[^.]+$/, "");
+
+        // Return as HTML link
+        return `${linkText}`;
+      });
+    }
+    return content;
+  });
+
   return {
     markdownTemplateEngine: "njk",
     dataTemplateEngine: "njk",

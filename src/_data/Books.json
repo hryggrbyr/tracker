@@ -8,7 +8,7 @@
         "Fiction:Thriller"
       ],
       "title": "You Can't Stop Me",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Max Allan Collins & Matthew Clemens"
       ],
@@ -159,7 +159,7 @@
     "frontmatter": {
       "tags": [],
       "title": "XPD",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Len Deighton"
       ],
@@ -335,7 +335,7 @@
     "frontmatter": {
       "tags": [],
       "title": "Witchcraft for Wayward Girls",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Grady Hendrix"
       ],
@@ -542,7 +542,12 @@
     "path": "src/Books/Whispers Under Ground - Ben Aaronovitch.md",
     "slug": "Whispers Under Ground - Ben Aaronovitch",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "UrbanFantasy",
+        "crime",
+        "police",
+        "Religon"
+      ],
       "title": "Whispers Under Ground",
       "subtitle": " ",
       "author": [
@@ -556,8 +561,8 @@
       "coverUrl": "https://covers.openlibrary.org/b/olid/OL26053512M-M.jpg",
       "shelf": "read",
       "owned": true,
-      "start_date": null,
-      "end_date": null,
+      "start_date": "2021-05-07T00:00:00.000Z",
+      "end_date": "2021-06-01T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -902,7 +907,7 @@
     "frontmatter": {
       "tags": [],
       "title": "Violent Ward",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Len Deighton"
       ],
@@ -1306,7 +1311,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -1359,7 +1364,7 @@
     "frontmatter": {
       "tags": [],
       "title": "Treacherous Paradise",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -1426,7 +1431,7 @@
         "sci-fi"
       ],
       "title": "Transition",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Iain M. Banks"
       ],
@@ -1630,35 +1635,6 @@
     }
   },
   {
-    "filename": "The strain - Guillermo del Toro.md",
-    "path": "src/Books/The strain - Guillermo del Toro.md",
-    "slug": "The strain - Guillermo del Toro",
-    "frontmatter": {
-      "tags": [],
-      "title": "The strain",
-      "subtitle": " ",
-      "author": [
-        "Guillermo del Toro"
-      ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL22658063M-M.jpg",
-      "shelf": "read",
-      "owned": false,
-      "start_date": null,
-      "end_date": null,
-      "rating": 4,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "created": "2015-10-06T00:00:00.000Z"
-    }
-  },
-  {
     "filename": "The silver chair - C. S. Lewis.md",
     "path": "src/Books/The silver chair - C. S. Lewis.md",
     "slug": "The silver chair - C. S. Lewis",
@@ -1834,7 +1810,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1992-11-04T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -1852,7 +1828,7 @@
         "child"
       ],
       "title": "The Graveyard Book",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Neil Gaiman & Dave McKean"
       ],
@@ -1875,35 +1851,6 @@
     }
   },
   {
-    "filename": "The fall - Guillermo del Toro.md",
-    "path": "src/Books/The fall - Guillermo del Toro.md",
-    "slug": "The fall - Guillermo del Toro",
-    "frontmatter": {
-      "tags": [],
-      "title": "The fall",
-      "subtitle": " ",
-      "author": [
-        "Guillermo del Toro"
-      ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL24110209M-M.jpg",
-      "shelf": "read",
-      "owned": false,
-      "start_date": null,
-      "end_date": null,
-      "rating": 4,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "created": "2015-10-06T00:00:00.000Z"
-    }
-  },
-  {
     "filename": "The eternal moment - E. M. Forster.md",
     "path": "src/Books/The eternal moment - E. M. Forster.md",
     "slug": "The eternal moment - E. M. Forster",
@@ -1912,7 +1859,7 @@
         "Science Fiction"
       ],
       "title": "The eternal moment",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "E. M. Forster"
       ],
@@ -2030,7 +1977,7 @@
     "frontmatter": {
       "tags": [],
       "title": "The White Lioness",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -2090,7 +2037,7 @@
         "Fantasy"
       ],
       "title": "The Way of Kings",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Brandon Sanderson"
       ],
@@ -2121,7 +2068,7 @@
         "Fiction"
       ],
       "title": "The Wasp Factory",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Iain M. Banks"
       ],
@@ -2242,7 +2189,7 @@
     "frontmatter": {
       "tags": [],
       "title": "The Troubled Man",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -2310,7 +2257,7 @@
         "Ursula K. Le Guin"
       ],
       "publisher": null,
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -2318,7 +2265,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2019-01-20T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -2336,12 +2283,12 @@
         "YoungAdult"
       ],
       "title": "The Titan's Curse",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Rick Riordan"
       ],
       "publisher": "Disney Publishing Worldwide",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -2588,7 +2535,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2015-01-10T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -2675,7 +2622,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1998-02-03T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
@@ -2743,6 +2690,37 @@
     }
   },
   {
+    "filename": "The Sin Eater - Megan Campisi.md",
+    "path": "src/Books/The Sin Eater - Megan Campisi.md",
+    "slug": "The Sin Eater - Megan Campisi",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Sin Eater",
+      "subtitle": "",
+      "author": [
+        "Megan Campisi"
+      ],
+      "publisher": "Pan Macmillan",
+      "published": "2020-04-02T00:00:00.000Z",
+      "page_count": 258,
+      "isbn": "1529019087 9781529019087",
+      "description": "Set in a thinly disguised sixteenth-century England, Megan Campisi's The Sin Eater is a wonderfully rich story of treason and treachery; of women, of power, and the strange freedom that comes from being an outcast – because, sometimes, being a nobody sometimes counts for everything . . . 'A dark and thrilling page-turner that turns a dystopian eye on the past in an unnervingly contemporary way' - Emma Donoghue, author of Room. A Sin Eater’s duty is a necessary evil: she hears the confessions of the dying, eats their sins as a funeral rite. Stained by these sins, she is shunned and silenced, doomed to live in exile at the edge of town. Recently orphaned May Owens is just fourteen, only concerned with where her next meal is coming from. When she’s arrested for stealing a loaf of bread, however, and subsequently sentenced to become a Sin Eater, finding food is suddenly the last of her worries. It’s a devastating sentence, but May’s new invisibility opens new doors. And when first one then two of the Queen’s courtiers suddenly grow ill, May hears their deathbed confessions – and begins to investigate a terrible rumour that is only whispered of amid palace corridors . . . Can you uncover the truth when you’re forbidden from speaking it?",
+      "coverUrl": "http://books.google.com/books/content?id=XWa8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "2020-04-02T00:00:00.000Z",
+      "end_date": "2020-04-11T00:00:00.000Z",
+      "rating": 4,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2025-10-15T15:21:58.000Z"
+    }
+  },
+  {
     "filename": "The Silver Mark - Sarah Painter.md",
     "path": "src/Books/The Silver Mark - Sarah Painter.md",
     "slug": "The Silver Mark - Sarah Painter",
@@ -2754,7 +2732,7 @@
         "Sarah Painter"
       ],
       "publisher": "Siskin Press Ltd",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -2958,7 +2936,7 @@
     "frontmatter": {
       "tags": [],
       "title": "The Shadow Girls",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -3018,7 +2996,7 @@
         "Fiction"
       ],
       "title": "The Secrets of Ghosts",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Sarah Painter"
       ],
@@ -3076,7 +3054,7 @@
     "frontmatter": {
       "tags": [],
       "title": "The Scarred Woman",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Jussi Adler-Olsen"
       ],
@@ -3112,7 +3090,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -3149,7 +3127,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2003-12-31T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
@@ -3201,7 +3179,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -3370,12 +3348,12 @@
     "frontmatter": {
       "tags": [],
       "title": "The Return of the Dancing Master",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
       "publisher": "Random House",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -3397,9 +3375,12 @@
     "path": "src/Books/The Restaurant at the End of the Universe - Douglas Adams.md",
     "slug": "The Restaurant at the End of the Universe - Douglas Adams",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "sci-fi",
+        "comedy"
+      ],
       "title": "The Restaurant at the End of the Universe",
-      "subtitle": " ",
+      "subtitle": "Hitch-hiker's Guide to the Galaxy 2",
       "author": [
         "Douglas Adams"
       ],
@@ -3412,7 +3393,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1991-01-01T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -3457,7 +3438,9 @@
     "path": "src/Books/The Rats - James Herbert.md",
     "slug": "The Rats - James Herbert",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "horror"
+      ],
       "title": "The Rats",
       "subtitle": " ",
       "author": [
@@ -3472,7 +3455,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1990-11-13T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -3488,12 +3471,12 @@
     "frontmatter": {
       "tags": [],
       "title": "The Pyramid",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
       "publisher": "Random House Publishing Group",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -3602,7 +3585,11 @@
     "path": "src/Books/The Princess Bride - William Goldman.md",
     "slug": "The Princess Bride - William Goldman",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "comedy",
+        "romance"
+      ],
       "title": "The Princess Bride",
       "subtitle": " ",
       "author": [
@@ -3617,7 +3604,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1990-07-10T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -3664,7 +3651,7 @@
         "YoungAdult"
       ],
       "title": "The Poison Eaters: And Other Stories",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Holly Black"
       ],
@@ -3729,7 +3716,7 @@
         "Sarah Painter"
       ],
       "publisher": "Siskin Press Ltd",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -3771,7 +3758,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2020-03-01T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -3814,25 +3801,29 @@
     "path": "src/Books/The Ocean at the End of the Lane - Neil Gaiman.md",
     "slug": "The Ocean at the End of the Lane - Neil Gaiman",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "UrbanFantasy",
+        "ModernFairyTale"
+      ],
       "title": "The Ocean at the End of the Lane",
-      "subtitle": " ",
+      "subtitle": "Illustrated Edition",
       "author": [
         "Neil Gaiman"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL25427899M-M.jpg",
+      "publisher": "Headline",
+      "published": "2020-11-10T00:00:00.000Z",
+      "page_count": 0,
+      "isbn": "1472260228 9781472260222",
+      "description": "A special illustrated edition of The Ocean at the End of the Lane, the bestselling magical novel from master storyteller Neil Gaiman. Breathtaking black-and-white illustrations throughout by fine artist and illustrator, Elise Hurst. 'Both a pitch-perfect fantasy and a moving examination of childhood memories and their effects on our adult selves ... superb' The Times 'Some books you read. Some books you enjoy. But some books just swallow you up, heart and soul' Joanne Harris This is what he remembers, as he sits by the ocean at the end of the lane: A dead man on the back seat of the car, and warm milk at the farmhouse. An ancient little girl, and an old woman who saw the moon being made. A beautiful housekeeper with a monstrous smile. And dark forces woken that were best left undisturbed. They are memories hard to believe, waiting at the edge of things. The recollections of a man who thought he was lost but is now, perhaps, remembering a time when he was saved...",
+      "coverUrl": "http://books.google.com/books/content?id=RWKu0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": true,
-      "start_date": null,
-      "end_date": null,
+      "start_date": "2020-12-25T00:00:00.000Z",
+      "end_date": "2020-12-31T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
-        "name": null,
+        "name": "Martin Cutillo-Rigby",
         "url": null
       },
       "created": "2015-10-06T00:00:00.000Z"
@@ -3901,7 +3892,10 @@
     "path": "src/Books/The Minority Report - Philip K Dick.md",
     "slug": "The Minority Report - Philip K Dick",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "sci-fi",
+        "dystopia"
+      ],
       "title": "The Minority Report",
       "subtitle": " ",
       "author": [
@@ -3916,7 +3910,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2018-05-02T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
@@ -3934,7 +3928,7 @@
         "sci-fi"
       ],
       "title": "The Midwich Cuckoos",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "John Wyndham"
       ],
@@ -4110,7 +4104,7 @@
     "frontmatter": {
       "tags": [],
       "title": "The Marco Effect",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Jussi Adler-Olsen"
       ],
@@ -4226,7 +4220,7 @@
     "frontmatter": {
       "tags": [],
       "title": "The Man From Beijing",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -4470,7 +4464,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -4654,7 +4648,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -4777,7 +4771,7 @@
         "YoungAdult"
       ],
       "title": "The Last Dragonslayer",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Jasper Fforde"
       ],
@@ -4806,7 +4800,7 @@
     "frontmatter": {
       "tags": [],
       "title": "The Language of Spells",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Sarah Painter"
       ],
@@ -4980,12 +4974,12 @@
     "frontmatter": {
       "tags": [],
       "title": "The Island God",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Sarah Painter"
       ],
       "publisher": "Siskin Press Ltd",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -5198,7 +5192,9 @@
     "slug": "The Host- A Novel - Stephenie Meyer",
     "frontmatter": {
       "tags": [
-        "Fiction"
+        "fantasy",
+        "UrbanFantasy",
+        "vampires"
       ],
       "title": "The Host: A Novel",
       "subtitle": " 6",
@@ -5385,7 +5381,12 @@
     "path": "src/Books/The Hanging Tree - Ben Aaronovitch.md",
     "slug": "The Hanging Tree - Ben Aaronovitch",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "UrbanFantasy",
+        "crime",
+        "police",
+        "Religon"
+      ],
       "title": "The Hanging Tree",
       "subtitle": " ",
       "author": [
@@ -5450,7 +5451,7 @@
         "Susan Cooper"
       ],
       "publisher": "Simon & Schuster Children's Publishing",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -5634,7 +5635,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2011-01-10T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -5692,7 +5693,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2011-01-20T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -5721,7 +5722,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2011-01-30T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -5737,7 +5738,7 @@
     "frontmatter": {
       "tags": [],
       "title": "The Garden of Magic",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Sarah Painter"
       ],
@@ -5805,7 +5806,7 @@
         "Sarah Painter"
       ],
       "publisher": "Siskin Press",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -5827,7 +5828,10 @@
     "path": "src/Books/The Fog - James Herbert.md",
     "slug": "The Fog - James Herbert",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "horror",
+        "supernatural"
+      ],
       "title": "The Fog",
       "subtitle": " ",
       "author": [
@@ -5842,7 +5846,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1990-11-21T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -5918,22 +5922,27 @@
     "path": "src/Books/The Fault in Our Stars - John Green.md",
     "slug": "The Fault in Our Stars - John Green",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "YoungAdult",
+        "romance",
+        "drama",
+        "hospital"
+      ],
       "title": "The Fault in Our Stars",
-      "subtitle": " ",
+      "subtitle": "",
       "author": [
         "John Green"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL27540004M-M.jpg",
+      "publisher": "Penguin UK",
+      "published": "2012-05-03T00:00:00.000Z",
+      "page_count": 231,
+      "isbn": "0141345640 9780141345642",
+      "description": "I fell in love the way you fall asleep: slowly, then all at once. Despite the tumour-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten. Insightful, bold, irreverent, and raw, The Fault in Our Stars brilliantly explores the funny, thrilling, and tragic business of being alive and in love. Praise for The Fault in Our Stars: Sunday Times (Culture) 'A touching, often fiercely funny novel' The Sun on Sunday (Fabulous Magazine) 'So good I think it should be compulsory reading for everyone!' Daily Express 'John Green brilliantly captures the voices of a young generation while instilling it with the wisdom of a life that has lived too much yet will never live enough' The Metro - 2013 Best Fiction 'The love affair of two terminally ill teenagers could be mawkish. In fact, it's funny, clever, irreverent and life-affirming.' Grazia 'So good!' Good Housekeeping 'As funny as it is heartbreaking... we defy you not to fall in love with its main characters, Hazel and Augustus.' The Tablet 'A humourous and poignant love story... It's terrifically funny... as well as a moving exploration of loss and grief. And no, it's so much not just for teenage cancer sufferers... it's for everyone.' Bliss 'If you need inspiration when it comes to making the most of a moment, this one is for you' Mizz 'Insightful, bold, irreverent and raw, if this doesn't make you cry, it'll definitely make you think, laugh and maybe even fall in love yourself!'",
+      "coverUrl": "http://books.google.com/books/content?id=Qk8n0olOX5MC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": true,
-      "start_date": null,
-      "end_date": null,
+      "start_date": "2012-02-02T00:00:00.000Z",
+      "end_date": "2012-02-12T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -5959,7 +5968,7 @@
         "Ursula K. Le Guin"
       ],
       "publisher": null,
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -5967,7 +5976,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2020-02-24T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -6014,7 +6023,7 @@
         "Fiction:Detective"
       ],
       "title": "The Eye of the Leopard",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -6134,12 +6143,12 @@
     "frontmatter": {
       "tags": [],
       "title": "The Dispossessed",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Ursula K. Le Guin"
       ],
       "publisher": "HarperCollins",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -6294,7 +6303,7 @@
         "Fiction"
       ],
       "title": "The Curse of Lono",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Hunter S. Thompson"
       ],
@@ -6325,7 +6334,7 @@
         "Fiction"
       ],
       "title": "The Crow Road",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Iain M. Banks"
       ],
@@ -6359,7 +6368,7 @@
         "Sarah Painter"
       ],
       "publisher": "Siskin Press Ltd",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -6377,6 +6386,39 @@
     }
   },
   {
+    "filename": "The Complete Strain Trilogy The Strain The Fall The Night Eternal - Guillermo del Toro.md",
+    "path": "src/Books/The Complete Strain Trilogy The Strain The Fall The Night Eternal - Guillermo del Toro.md",
+    "slug": "The Complete Strain Trilogy The Strain The Fall The Night Eternal - Guillermo del Toro",
+    "frontmatter": {
+      "tags": [
+        "horror",
+        "thriller",
+        "supernatural"
+      ],
+      "title": "The Complete Strain Trilogy: The Strain, The Fall, The Night Eternal",
+      "subtitle": "",
+      "author": [
+        "Guillermo del Toro"
+      ],
+      "publisher": "HarperCollins UK",
+      "published": "2013-10-24T00:00:00.000Z",
+      "page_count": 856,
+      "isbn": "0007535147 9780007535149",
+      "description": "The high-concept thriller with a supernatural edge from the world-famous director, whose films include Pan’s Labyrinth and Hellboy.",
+      "coverUrl": "http://books.google.com/books/content?id=7W9dAAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": null,
+      "end_date": "2013-11-14T00:00:00.000Z",
+      "rating": 0,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2025-10-15T06:04:39.000Z"
+    }
+  },
+  {
     "filename": "The Complete Novels Of George Orwell - George Orwell.md",
     "path": "src/Books/The Complete Novels Of George Orwell - George Orwell.md",
     "slug": "The Complete Novels Of George Orwell - George Orwell",
@@ -6385,7 +6427,7 @@
         "dystopia"
       ],
       "title": "The Complete Novels Of George Orwell",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "George Orwell"
       ],
@@ -6586,6 +6628,39 @@
     }
   },
   {
+    "filename": "The Borrowers 2-in-1 - Mary Norton.md",
+    "path": "src/Books/The Borrowers 2-in-1 - Mary Norton.md",
+    "slug": "The Borrowers 2-in-1 - Mary Norton",
+    "frontmatter": {
+      "tags": [
+        "kids",
+        "fantasy",
+        "UrbanFantasy"
+      ],
+      "title": "The Borrowers",
+      "subtitle": "",
+      "author": [
+        "Mary Norton"
+      ],
+      "publisher": "Hachette UK",
+      "published": "2011-12-15T00:00:00.000Z",
+      "page_count": 328,
+      "isbn": "1444006533 9781444006537",
+      "description": "Deep beneath the floorboards lives the tiny Borrower family - Pod, Homily and Arrietty Clock. Everything they have is borrowed from the humans above them, even their names are not quite their own. There is just one rule: they must never be seen. Then one day Arrietty meets the boy, and the family's incredible adventure begins. A great value edition of the first two classic BORROWERS books to tie in with this year's BBC 90-minute family Christmas special.",
+      "coverUrl": "http://books.google.com/books/content?id=JvxX0jHABrEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": null,
+      "end_date": "1986-12-25T00:00:00.000Z",
+      "rating": 3,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2025-10-15T13:35:09.000Z"
+    }
+  },
+  {
     "filename": "The Book of Three - Lloyd Alexander.md",
     "path": "src/Books/The Book of Three - Lloyd Alexander.md",
     "slug": "The Book of Three - Lloyd Alexander",
@@ -6652,7 +6727,9 @@
     "slug": "The Book of Doors - Gareth Brown",
     "frontmatter": {
       "tags": [
-        "Fiction"
+        "fantasy",
+        "UrbanFantasy",
+        "magic"
       ],
       "title": "The Book of Doors",
       "subtitle": "",
@@ -6809,7 +6886,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin Young Readers Group",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -6865,7 +6942,7 @@
         "thriller"
       ],
       "title": "The Bachman Books",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Richard Bachman"
       ],
@@ -6878,7 +6955,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2014-09-09T00:00:00.000Z",
       "rating": 5,
       "recommended_by": {
         "name": null,
@@ -6892,28 +6969,32 @@
     "path": "src/Books/The Andromeda Strain - Michael Crichton.md",
     "slug": "The Andromeda Strain - Michael Crichton",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "sci-fi",
+        "adventure",
+        "drama"
+      ],
       "title": "The Andromeda Strain",
-      "subtitle": " ",
+      "subtitle": "",
       "author": [
         "Michael Crichton"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL9232969M-M.jpg",
+      "publisher": "Vintage",
+      "published": "2012-05-14T00:00:00.000Z",
+      "page_count": 276,
+      "isbn": "0307816419 9780307816412",
+      "description": "From the author of Jurassic Park, Timeline, and Sphere comes a captivating thriller about a deadly extraterrestrial microorganism, which threatens to annihilate human life. Five prominent biophysicists have warned the United States government that sterilization procedures for returning space probes may be inadequate to guarantee uncontaminated re-entry to the atmosphere. Two years later, a probe satellite falls to the earth and lands in a desolate region of northeastern Arizona. Nearby, in the town of Piedmont, bodies lie heaped and flung across the ground, faces locked in frozen surprise. What could cause such shock and fear? The terror has begun, and there is no telling where it will end.",
+      "coverUrl": "http://books.google.com/books/content?id=kbZxbyksU84C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1995-09-01T00:00:00.000Z",
       "rating": 2,
       "recommended_by": {
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2025-10-15T14:55:02.000Z"
     }
   },
   {
@@ -6938,7 +7019,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2015-01-22T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -6984,7 +7065,7 @@
       "tags": [
         "Fiction"
       ],
-      "title": "The Alchemist - 10th Anniversary Edition",
+      "title": "The Alchemist",
       "subtitle": "",
       "author": [
         "Paulo Coelho"
@@ -7119,7 +7200,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2020-02-27T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -7211,7 +7292,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2020-04-23T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -7802,7 +7883,7 @@
         "TJ Klune"
       ],
       "publisher": "Tor Publishing Group",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -7820,32 +7901,35 @@
     }
   },
   {
-    "filename": "So Long - Douglas Adams.md",
-    "path": "src/Books/So Long - Douglas Adams.md",
-    "slug": "So Long - Douglas Adams",
+    "filename": "So Long and Thanks for All the Fish - Douglas Adams.md",
+    "path": "src/Books/So Long and Thanks for All the Fish - Douglas Adams.md",
+    "slug": "So Long and Thanks for All the Fish - Douglas Adams",
     "frontmatter": {
-      "tags": [],
-      "title": "So Long",
-      "subtitle": " ",
+      "tags": [
+        "sci-fi",
+        "comedy"
+      ],
+      "title": "So Long, and Thanks for All the Fish",
+      "subtitle": "Hitch-hiker's Guide to the Galaxy 4",
       "author": [
         "Douglas Adams"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL10492631M-M.jpg",
+      "publisher": "Pan Macmillan",
+      "published": "2009-09-01T00:00:00.000Z",
+      "page_count": 193,
+      "isbn": "0330513176 9780330513173",
+      "description": "‘Sheer delight’ – The Times This 42nd Anniversary Edition includes exclusive bonus material from the Douglas Adams archives, and a new introduction. ***** So Long, and Thanks for All the Fish is the fourth installment in Douglas Adams' bestselling cult classic, the Hitchhiker's Guide to the Galaxy 'trilogy'. There is a knack to flying. The knack lies in learning how to throw yourself at the ground and miss. It’s not an easy thing to do and Arthur Dent thinks he’s the only human who’s been able to master this nifty little trick – until he meets Fenchurch, the girl of his dreams. Fenchurch knows how the world could be made a good and happy place. Unfortunately, she’s forgotten. Convinced that the secret lies within God’s Final Message to His Creation they go in search of it. And, in a dramatic break with tradition, actually find it . . . Follow Arthur Dent's galactic (mis)adventures in the last of the 'trilogy of five', Mostly Harmless. ***** Praise for Douglas Adams: 'A pleasure to read' - New York Times 'Magical . . . read this book' - Sunday Express 'One of the world's sanest, smartest, kindest, funniest voices' - Independent on Sunday",
+      "coverUrl": "http://books.google.com/books/content?id=zq6R7xXqNt0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
-      "owned": true,
+      "owned": false,
       "start_date": null,
-      "end_date": null,
-      "rating": 3,
+      "end_date": "1993-01-01T00:00:00.000Z",
+      "rating": 2,
       "recommended_by": {
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2025-10-15T15:09:47.000Z"
     }
   },
   {
@@ -8090,35 +8174,6 @@
     }
   },
   {
-    "filename": "Sin Eater - Megan Campisi.md",
-    "path": "src/Books/Sin Eater - Megan Campisi.md",
-    "slug": "Sin Eater - Megan Campisi",
-    "frontmatter": {
-      "tags": [],
-      "title": "Sin Eater",
-      "subtitle": " ",
-      "author": [
-        "Megan Campisi"
-      ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL28183827M-M.jpg",
-      "shelf": "read",
-      "owned": false,
-      "start_date": null,
-      "end_date": null,
-      "rating": null,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "created": "2021-09-24T00:00:00.000Z"
-    }
-  },
-  {
     "filename": "Silverview - John le Carre.md",
     "path": "src/Books/Silverview - John le Carre.md",
     "slug": "Silverview - John le Carre",
@@ -8167,7 +8222,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2021-02-28T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -8242,7 +8297,11 @@
     "slug": "Sidetracked - Henning Mankell",
     "frontmatter": {
       "tags": [
-        "Mystery"
+        "scandinoir",
+        "crime",
+        "police",
+        "thriller",
+        "sweden"
       ],
       "title": "Sidetracked",
       "subtitle": "Kurt Wallander 5",
@@ -8331,7 +8390,9 @@
     "slug": "Shield of Winter - Aaron Hodges",
     "frontmatter": {
       "tags": [
-        "Fiction"
+        "fantasy",
+        "magic",
+        "war"
       ],
       "title": "Shield of Winter",
       "subtitle": "An Epic Fantasy Novel With Gods, Dragons and Magic",
@@ -8544,7 +8605,7 @@
         "YoungAdult"
       ],
       "title": "Sea of Monsters",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Rick Riordan"
       ],
@@ -8586,10 +8647,10 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2015-11-02T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
-        "name": null,
+        "name": "my wife",
         "url": null
       },
       "created": "2015-11-02T00:00:00.000Z"
@@ -8675,7 +8736,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2016-01-30T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -8725,7 +8786,7 @@
         "Brian Jacques"
       ],
       "publisher": "Firebird",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -9043,7 +9104,12 @@
     "path": "src/Books/Rivers of London - Ben Aaronovitch.md",
     "slug": "Rivers of London - Ben Aaronovitch",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "UrbanFantasy",
+        "crime",
+        "police",
+        "Religon"
+      ],
       "title": "Rivers of London",
       "subtitle": " ",
       "author": [
@@ -9246,7 +9312,11 @@
     "path": "src/Books/Red Queen - Victoria Aveyard.md",
     "slug": "Red Queen - Victoria Aveyard",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "dystopia",
+        "YoungAdult"
+      ],
       "title": "Red Queen",
       "subtitle": "Red Queen 1",
       "author": [
@@ -9342,7 +9412,7 @@
         "Mystery"
       ],
       "title": "Rebel Island",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Rick Riordan"
       ],
@@ -9438,7 +9508,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -9462,7 +9532,7 @@
     "frontmatter": {
       "tags": [],
       "title": "Rage",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Stephen King"
       ],
@@ -9580,7 +9650,7 @@
         "Science Fiction"
       ],
       "title": "Project Hail Mary",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Andy Weir"
       ],
@@ -9786,7 +9856,7 @@
     "frontmatter": {
       "tags": [],
       "title": "Piranesi",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Susanna Clarke"
       ],
@@ -9846,7 +9916,7 @@
         "fantasy"
       ],
       "title": "Phantastes",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "George MacDonald"
       ],
@@ -9995,7 +10065,9 @@
     "slug": "Percy Jackson and the Olympians- The Chalice of the Gods - Rick Riordan",
     "frontmatter": {
       "tags": [
-        "Fantasy"
+        "fantasy",
+        "UrbanFantasy",
+        "mythology"
       ],
       "title": "Percy Jackson and the Olympians: The Chalice of the Gods",
       "subtitle": "Percy Jackson and the Olympians 6",
@@ -10025,7 +10097,11 @@
     "path": "src/Books/Percy Jackson and the Lightning Thief - Rick Riordan.md",
     "slug": "Percy Jackson and the Lightning Thief - Rick Riordan",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "UrbanFantasy",
+        "mythology"
+      ],
       "title": "Percy Jackson and the Lightning Thief",
       "subtitle": "Percy Jackson and The Olympians 1",
       "author": [
@@ -10056,7 +10132,7 @@
     "frontmatter": {
       "tags": [],
       "title": "Penric's Demon",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Lois McMaster Bujold"
       ],
@@ -10090,7 +10166,7 @@
         "Brian Jacques"
       ],
       "publisher": "Philomel Books",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -10271,7 +10347,7 @@
         "Brian Jacques"
       ],
       "publisher": "Random House",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -10294,10 +10370,11 @@
     "slug": "Our Kind of Traitor - John le Carre",
     "frontmatter": {
       "tags": [
-        "Fiction:Thriller"
+        "thriller",
+        "espionage"
       ],
       "title": "Our Kind of Traitor",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "John le Carré"
       ],
@@ -10357,7 +10434,7 @@
         "Fiction:Thriller"
       ],
       "title": "Operation Napoleon",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Arnaldur Indriðason"
       ],
@@ -10384,7 +10461,13 @@
     "path": "src/Books/One Step Behind - Henning Mankell.md",
     "slug": "One Step Behind - Henning Mankell",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "scandinoir",
+        "crime",
+        "police",
+        "thriller",
+        "sweden"
+      ],
       "title": "One Step Behind",
       "subtitle": "A Kurt Wallender Mystery",
       "author": [
@@ -10444,7 +10527,10 @@
     "path": "src/Books/Ombria in Shadow - Patricia A. McKillip.md",
     "slug": "Ombria in Shadow - Patricia A. McKillip",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "dystopia"
+      ],
       "title": "Ombria in Shadow",
       "subtitle": " ",
       "author": [
@@ -10459,7 +10545,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2022-12-22T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -10478,7 +10564,7 @@
         "child"
       ],
       "title": "Odd and the Frost Giants",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Neil Gaiman"
       ],
@@ -10501,22 +10587,27 @@
     }
   },
   {
-    "filename": "Odd Thomas - Dean R. Koontz.md",
-    "path": "src/Books/Odd Thomas - Dean R. Koontz.md",
-    "slug": "Odd Thomas - Dean R. Koontz",
+    "filename": "Odd Thomas - Dean Koontz.md",
+    "path": "src/Books/Odd Thomas - Dean Koontz.md",
+    "slug": "Odd Thomas - Dean Koontz",
     "frontmatter": {
-      "tags": [],
-      "title": "Odd Thomas",
-      "subtitle": " ",
-      "author": [
-        "Dean R. Koontz"
+      "tags": [
+        "fantasy",
+        "UrbanFantasy",
+        "supernatural",
+        "demons"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL16729662M-M.jpg",
+      "title": "Odd Thomas",
+      "subtitle": "",
+      "author": [
+        "Dean Koontz"
+      ],
+      "publisher": "HarperCollins UK",
+      "published": "2009-02-13T00:00:00.000Z",
+      "page_count": 16,
+      "isbn": "0007318200 9780007318209",
+      "description": "The 400 million copy worldwide bestseller Dean Koontz is at his very best in this critically-acclaimed page-turner – soon to be a major motion picture. Find out why Odd Thomas is the master storyteller’s most-loved creation.",
+      "coverUrl": "http://books.google.com/books/content?id=mKmsN2BfsBMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": false,
       "start_date": "2016-05-06T00:00:00.000Z",
@@ -10583,7 +10674,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2015-01-01T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -10713,35 +10804,6 @@
     }
   },
   {
-    "filename": "Night eternal - Guillermo del Toro.md",
-    "path": "src/Books/Night eternal - Guillermo del Toro.md",
-    "slug": "Night eternal - Guillermo del Toro",
-    "frontmatter": {
-      "tags": [],
-      "title": "Night eternal",
-      "subtitle": " ",
-      "author": [
-        "Guillermo del Toro"
-      ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL25004907M-M.jpg",
-      "shelf": "read",
-      "owned": false,
-      "start_date": null,
-      "end_date": null,
-      "rating": 4,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "created": "2015-10-06T00:00:00.000Z"
-    }
-  },
-  {
     "filename": "New Moon - Stephenie Meyer.md",
     "path": "src/Books/New Moon - Stephenie Meyer.md",
     "slug": "New Moon - Stephenie Meyer",
@@ -10828,8 +10890,8 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
-      "rating": null,
+      "end_date": "2017-06-16T00:00:00.000Z",
+      "rating": 3,
       "recommended_by": {
         "name": null,
         "url": null
@@ -10931,22 +10993,25 @@
     "path": "src/Books/Mostly Harmless - Douglas Adams.md",
     "slug": "Mostly Harmless - Douglas Adams",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "sci-fi",
+        "comedy"
+      ],
       "title": "Mostly Harmless",
-      "subtitle": " ",
+      "subtitle": "Hitch-hiker's Guide to the Galaxy 5",
       "author": [
         "Douglas Adams"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL39877196M-M.jpg",
+      "publisher": "Del Rey",
+      "published": 1992,
+      "page_count": 286,
+      "isbn": "0345379330 9780345379337",
+      "description": "Now celebrating the 42nd anniversary of The Hitchhiker’s Guide to the Galaxy, soon to be a Hulu original series! “Hitchhiker fans rejoice! . . . [Here’s] more of the same zany nonsensical mayhem.”—The New York Times Book Review It’s easy to get disheartened when your planet has been blown up and the woman you love has vanished due to a misunderstanding about space/time. However, instead of being disheartened, Arthur Dent makes the terrible mistake of starting to enjoy life a bit—and immediately all hell breaks loose. Hell takes a number of forms: there’s the standard Ford Prefect version, in the shape of an all-new edition of The Hitchhiker’s Guide to the Galaxy, and a totally unexpected manifestation in the form of a teenage girl who startles Arthur Dent by being his daughter when he didn’t even know he had one. Can Arthur save the Earth from total multidimensional obliteration? Can he save the Guide from a hostile alien takeover? Can he save his daughter, Random, from herself? Of course not. He never works out exactly what is going on. Will you? “Douglas Adams is a terrific satirist. . . . He is anything but harmless.”—The Washington Post Book World",
+      "coverUrl": "http://books.google.com/books/content?id=jxPu4XLOS7EC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1992-11-03T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
@@ -10967,7 +11032,7 @@
         "Brian Jacques"
       ],
       "publisher": "Firebird",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -10989,7 +11054,12 @@
     "path": "src/Books/Moon Over Soho - Ben Aaronovitch.md",
     "slug": "Moon Over Soho - Ben Aaronovitch",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "UrbanFantasy",
+        "crime",
+        "police",
+        "Religon"
+      ],
       "title": "Moon Over Soho",
       "subtitle": " ",
       "author": [
@@ -11116,7 +11186,7 @@
         "Mystery"
       ],
       "title": "Mission road",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Rick Riordan"
       ],
@@ -11241,7 +11311,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin Young Readers Group",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -11270,7 +11340,7 @@
         "Brian Jacques"
       ],
       "publisher": "Firebird",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -11299,7 +11369,7 @@
         "Brian Jacques"
       ],
       "publisher": "Firebird",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -11386,7 +11456,7 @@
         "Raymond E. Feist"
       ],
       "publisher": "HarperCollins Publishers",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -11539,7 +11609,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1992-12-31T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -11560,7 +11630,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace Books",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -11638,27 +11708,29 @@
     }
   },
   {
-    "filename": "Long Dark Tea Time of the Soul - Douglas Adams.md",
-    "path": "src/Books/Long Dark Tea Time of the Soul - Douglas Adams.md",
-    "slug": "Long Dark Tea Time of the Soul - Douglas Adams",
+    "filename": "Long Dark Tea-Time of the Soul - Douglas Adams.md",
+    "path": "src/Books/Long Dark Tea-Time of the Soul - Douglas Adams.md",
+    "slug": "Long Dark Tea-Time of the Soul - Douglas Adams",
     "frontmatter": {
-      "tags": [],
-      "title": "Long Dark Tea Time of the Soul",
-      "subtitle": " ",
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Long Dark Tea-Time of the Soul",
+      "subtitle": "",
       "author": [
         "Douglas Adams"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL7663946M-M.jpg",
-      "shelf": "read",
-      "owned": true,
+      "publisher": "Simon and Schuster",
+      "published": 1990,
+      "page_count": 326,
+      "isbn": "0671742515 9780671742515",
+      "description": "Science-fiction roman.",
+      "coverUrl": "http://books.google.com/books/content?id=h7pjdEPBeGUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
       "start_date": null,
-      "end_date": null,
-      "rating": 2,
+      "end_date": "1990-12-25T00:00:00.000Z",
+      "rating": 3,
       "recommended_by": {
         "name": null,
         "url": null
@@ -11680,7 +11752,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -11702,7 +11774,10 @@
     "path": "src/Books/Little Wizard stories of Oz - L. Frank Baum.md",
     "slug": "Little Wizard stories of Oz - L. Frank Baum",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "ParallelWorlds"
+      ],
       "title": "Little Wizard stories of Oz",
       "subtitle": " ",
       "author": [
@@ -11717,13 +11792,45 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2015-11-02T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
         "url": null
       },
       "created": "2015-11-02T00:00:00.000Z"
+    }
+  },
+  {
+    "filename": "Life the Universe and Everything - Douglas Adams.md",
+    "path": "src/Books/Life the Universe and Everything - Douglas Adams.md",
+    "slug": "Life the Universe and Everything - Douglas Adams",
+    "frontmatter": {
+      "tags": [
+        "sci-fi",
+        "comedy"
+      ],
+      "title": "Life, the Universe and Everything",
+      "subtitle": "Hitch-hiker's Guide to the Galaxy 3",
+      "author": [
+        "Douglas Adams"
+      ],
+      "publisher": "Pan Macmillan",
+      "published": "2009-09-01T00:00:00.000Z",
+      "page_count": 197,
+      "isbn": "0330513141 9780330513142",
+      "description": "‘One of the world's sanest, smartest, kindest, funniest voices’ – Independent on Sunday This 42nd Anniversary Edition includes exclusive bonus material from the Douglas Adams archives, and an introduction by Simon Brett, producer of the original radio broadcast. ***** In Life, the Universe and Everything, the third title in Douglas Adams' blockbusting sci-fi comedy series, The Hitchhiker's Guide to the Galaxy, Arthur Dent finds himself enlisted to prevent a galactic war. Following a number of stunning catastrophes, which have involved him being alternately blown up and insulted in ever stranger regions of the Galaxy, Arthur Dent is surprised to find himself living in a cave on prehistoric Earth. However, just as he thinks that things cannot get possibly worse, they suddenly do. An eddy in the space-time continuum lands him, Ford Prefect, and their flying sofa in the middle of the cricket ground at Lord's, just two days before the world is due to be destroyed by the Vogons. Escaping the end of the world for a second time, Arthur, Ford, and their old friend Slartibartfast embark (reluctantly) on a mission to save the whole galaxy from fanatical robots. Not bad for a man in his dressing gown . . . Follow Arthur Dent's galactic (mis)adventures in the rest of the trilogy with five parts: So Long, and Thanks for All the Fish, and Mostly Harmless. ***** Praise for Douglas Adams: 'Sheer delight' - The Times 'A pleasure to read' - New York Times 'Magical . . . read this book' - Sunday Express",
+      "coverUrl": "http://books.google.com/books/content?id=8QCRffdz99oC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 3,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2025-10-15T15:08:04.000Z"
     }
   },
   {
@@ -11756,40 +11863,16 @@
     }
   },
   {
-    "filename": "Life - Douglas Adams.md",
-    "path": "src/Books/Life - Douglas Adams.md",
-    "slug": "Life - Douglas Adams",
-    "frontmatter": {
-      "tags": [],
-      "title": "Life",
-      "subtitle": " ",
-      "author": [
-        "Douglas Adams"
-      ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL3434028M-M.jpg",
-      "shelf": "read",
-      "owned": true,
-      "start_date": null,
-      "end_date": null,
-      "rating": 3,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "created": "2015-11-02T00:00:00.000Z"
-    }
-  },
-  {
     "filename": "Lies Sleeping - Ben Aaronovitch.md",
     "path": "src/Books/Lies Sleeping - Ben Aaronovitch.md",
     "slug": "Lies Sleeping - Ben Aaronovitch",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "UrbanFantasy",
+        "crime",
+        "police",
+        "Religon"
+      ],
       "title": "Lies Sleeping",
       "subtitle": " ",
       "author": [
@@ -11819,7 +11902,11 @@
     "slug": "Let the Right One In - John Ajvide Lindqvist",
     "frontmatter": {
       "tags": [
-        "Fiction"
+        "fantasy",
+        "horror",
+        "UrbanFantasy",
+        "vampires",
+        "sweden"
       ],
       "title": "Let the Right One In",
       "subtitle": "A Novel",
@@ -11882,28 +11969,32 @@
     "path": "src/Books/Last Rituals - Yrsa Sigurdardottir.md",
     "slug": "Last Rituals - Yrsa Sigurdardottir",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "scandinoir",
+        "crime",
+        "iceland"
+      ],
       "title": "Last Rituals",
-      "subtitle": " ",
+      "subtitle": "",
       "author": [
         "Yrsa Sigurðardóttir"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL18018546M-M.jpg",
+      "publisher": "William Morrow",
+      "published": "2007-10-02T00:00:00.000Z",
+      "page_count": 328,
+      "isbn": "STANFORD:36105124054359",
+      "description": "An Icelandic novel of secret symbols, medieval witchcraft, and modern murder.",
+      "coverUrl": "http://books.google.com/books/content?id=gU0iAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
-      "owned": true,
+      "owned": false,
       "start_date": null,
-      "end_date": null,
-      "rating": null,
+      "end_date": "2017-06-04T00:00:00.000Z",
+      "rating": 4,
       "recommended_by": {
         "name": null,
         "url": null
       },
-      "created": "2022-12-22T00:00:00.000Z"
+      "created": "2025-10-15T15:03:42.000Z"
     }
   },
   {
@@ -11911,7 +12002,9 @@
     "path": "src/Books/Last Gasp - T. Hoyle.md",
     "slug": "Last Gasp - T. Hoyle",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "sci-fi"
+      ],
       "title": "Last Gasp",
       "subtitle": " ",
       "author": [
@@ -11929,7 +12022,7 @@
       "end_date": null,
       "rating": null,
       "recommended_by": {
-        "name": null,
+        "name": "John Rigby",
         "url": null
       },
       "created": "2022-08-07T00:00:00.000Z"
@@ -12059,7 +12152,11 @@
     "path": "src/Books/King's Cage - Victoria Aveyard.md",
     "slug": "King's Cage - Victoria Aveyard",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "dystopia",
+        "YoungAdult"
+      ],
       "title": "King's Cage",
       "subtitle": "Red Queen 3",
       "author": [
@@ -12073,14 +12170,14 @@
       "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
       "shelf": "read",
       "owned": true,
-      "start_date": null,
-      "end_date": null,
+      "start_date": "2015-05-07T00:00:00.000Z",
+      "end_date": "2016-05-31T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
         "url": null
       },
-      "created": null
+      "created": "2015-05-07T00:00:00.000Z"
     }
   },
   {
@@ -12121,7 +12218,7 @@
         "Fiction:Thriller"
       ],
       "title": "Kennedy's Brain",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -12238,7 +12335,13 @@
     "slug": "K-Pax - Gene Brewer",
     "frontmatter": {
       "tags": [
-        "Life on other planets"
+        "sci-fi",
+        "thriller",
+        "aliens",
+        "psychology",
+        "hospital",
+        "environment",
+        "drama"
       ],
       "title": "K-Pax",
       "subtitle": "",
@@ -12253,8 +12356,8 @@
       "coverUrl": "http://books.google.com/books/content?id=FfFNPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": false,
-      "start_date": "1995-12-31T00:00:00.000Z",
-      "end_date": "1993-12-31T00:00:00.000Z",
+      "start_date": "2001-12-25T00:00:00.000Z",
+      "end_date": "2001-12-31T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -12503,7 +12606,7 @@
     "slug": "Jagannath - Karin Tidbeck",
     "frontmatter": {
       "tags": [
-        "Fiction"
+        "ShortStories"
       ],
       "title": "Jagannath",
       "subtitle": "",
@@ -12535,7 +12638,7 @@
     "frontmatter": {
       "tags": [],
       "title": "Italian Shoes",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -12686,12 +12789,12 @@
         "Fantasy"
       ],
       "title": "Imajica: Complete Edition",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Clive Barker"
       ],
       "publisher": null,
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -13168,7 +13271,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -13321,7 +13424,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2013-09-09T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
@@ -13379,7 +13482,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1996-09-04T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -13576,7 +13679,11 @@
     "path": "src/Books/Glass Sword - Victoria Aveyard.md",
     "slug": "Glass Sword - Victoria Aveyard",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "dystopia",
+        "YoungAdult"
+      ],
       "title": "Glass Sword",
       "subtitle": "Red Queen 2",
       "author": [
@@ -13590,8 +13697,8 @@
       "coverUrl": "https://covers.openlibrary.org/b/olid/OL25934733M-M.jpg",
       "shelf": "read",
       "owned": true,
-      "start_date": null,
-      "end_date": null,
+      "start_date": "2015-04-16T00:00:00.000Z",
+      "end_date": "2016-05-06T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -13667,7 +13774,7 @@
         "YoungAdult"
       ],
       "title": "Geektastic",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Holly Black"
       ],
@@ -13753,7 +13860,8 @@
     "slug": "Funeral in Berlin - Len Deighton",
     "frontmatter": {
       "tags": [
-        "Fiction"
+        "thriller",
+        "espionage"
       ],
       "title": "Funeral in Berlin",
       "subtitle": "Harry Palmer 3",
@@ -13769,13 +13877,13 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2010-02-04T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
         "url": null
       },
-      "created": null
+      "created": "2010-02-04T00:00:00.000Z"
     }
   },
   {
@@ -13812,7 +13920,12 @@
     "path": "src/Books/Foxglove Summer - Ben Aaronovitch.md",
     "slug": "Foxglove Summer - Ben Aaronovitch",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "UrbanFantasy",
+        "crime",
+        "police",
+        "Religon"
+      ],
       "title": "Foxglove Summer",
       "subtitle": " ",
       "author": [
@@ -13826,8 +13939,8 @@
       "coverUrl": "https://covers.openlibrary.org/b/olid/OL26814320M-M.jpg",
       "shelf": "read",
       "owned": true,
-      "start_date": null,
-      "end_date": null,
+      "start_date": "2021-05-07T00:00:00.000Z",
+      "end_date": "2021-06-01T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -13842,7 +13955,11 @@
     "slug": "Firewall - Henning Mankell",
     "frontmatter": {
       "tags": [
-        "Mystery"
+        "scandinoir",
+        "crime",
+        "police",
+        "thriller",
+        "sweden"
       ],
       "title": "Firewall",
       "subtitle": "Kurt Wallander 8",
@@ -13858,8 +13975,8 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
-      "rating": null,
+      "end_date": "2020-12-17T00:00:00.000Z",
+      "rating": 4,
       "recommended_by": {
         "name": null,
         "url": null
@@ -14000,7 +14117,7 @@
       "isbn": null,
       "description": "",
       "coverUrl": "https://covers.openlibrary.org/b/olid/OL25418289M-M.jpg",
-      "shelf": "read",
+      "shelf": "to-read",
       "owned": true,
       "start_date": null,
       "end_date": null,
@@ -14113,7 +14230,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -14136,7 +14253,7 @@
     "slug": "Escape Velocity - Victor Manibo",
     "frontmatter": {
       "tags": [
-        "Fiction"
+        "sci-fi"
       ],
       "title": "Escape Velocity",
       "subtitle": "",
@@ -14520,28 +14637,32 @@
     "path": "src/Books/Dissecting Marilyn Manson - Gavin Baddeley.md",
     "slug": "Dissecting Marilyn Manson - Gavin Baddeley",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "nonfiction",
+        "biography",
+        "music"
+      ],
       "title": "Dissecting Marilyn Manson",
-      "subtitle": " ",
+      "subtitle": "",
       "author": [
         "Gavin Baddeley"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
+      "publisher": "Plexus Publishing",
+      "published": "2015-06-29T00:00:00.000Z",
+      "page_count": 361,
+      "isbn": "0859658767 9780859658768",
+      "description": "In Dissecting Marilyn Manson, author Gavin Baddeley performs a cultural autopsy upon Manson, examining the seminal influences and psychotic sources that have gone into making him the Frankenstein monster that he is today. With its heavily visual approach, the text and pictures create the impression of a pathological scrapbook, emphasising the idea of the performer being put under the knife, exploring the Manson mythos in an irreverent but authoritative manner. Each chapter exposes one gruesome angle after another, gradually revealing just what makes Marilyn Manson tick and why so many find him so compelling. Dissecting Marilyn Manson offers the legion of dedicated Manson fans an alternative look into his macabre and twisted world. This revised and updated edition continues dissecting up to the present day, analysing recent developments in Manson's professional and private life, including his recent high-profile court case, marriage to fetish model Dita Von Teese, and creative forays into the worlds of art and film.",
+      "coverUrl": "http://books.google.com/books/content?id=HKt_DAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
       "owned": false,
       "start_date": null,
       "end_date": "2000-08-01T00:00:00.000Z",
-      "rating": null,
+      "rating": 3,
       "recommended_by": {
         "name": null,
         "url": null
       },
-      "created": "2024-08-02T00:00:00.000Z"
+      "created": "2025-10-15T14:29:53.000Z"
     }
   },
   {
@@ -14637,10 +14758,10 @@
     "slug": "Depths - Henning Mankell",
     "frontmatter": {
       "tags": [
-        "Fiction:Thriller"
+        "thriller"
       ],
       "title": "Depths",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -14669,12 +14790,12 @@
     "frontmatter": {
       "tags": [],
       "title": "Deerskin",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Robin McKinley"
       ],
       "publisher": "Open Road Media",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -14761,7 +14882,7 @@
         "Clive Barker"
       ],
       "publisher": "HarperCollins",
-      "published": "0101-01-01T00:00:00.000Z",
+      "published": null,
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -14872,7 +14993,7 @@
     "frontmatter": {
       "tags": [],
       "title": "Daniel",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -14990,7 +15111,7 @@
         "crime"
       ],
       "title": "Crime and Punishment",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Fyodor Dostoyevsky"
       ],
@@ -15032,7 +15153,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2002-10-19T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -15121,7 +15242,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2016-10-13T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -15256,7 +15377,7 @@
         "Mystery"
       ],
       "title": "Cold Springs",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Rick Riordan"
       ],
@@ -15371,10 +15492,10 @@
     "slug": "Chronicler of the Winds - Henning Mankell",
     "frontmatter": {
       "tags": [
-        "Contemporary"
+        "fiction"
       ],
       "title": "Chronicler of the Winds",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -15521,7 +15642,7 @@
         "Sci-Fi Short"
       ],
       "title": "Changing Planes",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Ursula K. Le Guin"
       ],
@@ -15534,7 +15655,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2020-04-22T00:00:00.000Z",
       "rating": 5,
       "recommended_by": {
         "name": null,
@@ -15798,7 +15919,12 @@
     "path": "src/Books/Broken Homes - Ben Aaronovitch.md",
     "slug": "Broken Homes - Ben Aaronovitch",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "UrbanFantasy",
+        "crime",
+        "police",
+        "Religon"
+      ],
       "title": "Broken Homes",
       "subtitle": " ",
       "author": [
@@ -15812,8 +15938,8 @@
       "coverUrl": "https://covers.openlibrary.org/b/olid/OL27011566M-M.jpg",
       "shelf": "read",
       "owned": true,
-      "start_date": null,
-      "end_date": null,
+      "start_date": "2021-05-07T00:00:00.000Z",
+      "end_date": "2021-06-01T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -15858,7 +15984,7 @@
     "frontmatter": {
       "tags": [
         "fantasy",
-        "vampire",
+        "vampires",
         "UrbanFantasy",
         "romance"
       ],
@@ -15894,7 +16020,7 @@
         "sci-fi"
       ],
       "title": "Brave New World Revisited",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Aldous Huxley"
       ],
@@ -15925,7 +16051,7 @@
         "dystopia"
       ],
       "title": "Brave New World",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Aldous Huxley"
       ],
@@ -15952,7 +16078,11 @@
     "path": "src/Books/Bound in Blood - Tarah Benner.md",
     "slug": "Bound in Blood - Tarah Benner",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "thriller",
+        "sci-fi",
+        "crime"
+      ],
       "title": "Bound in Blood",
       "subtitle": " ",
       "author": [
@@ -15985,7 +16115,7 @@
         "Fiction"
       ],
       "title": "Boring Girls",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Sara Taylor"
       ],
@@ -16041,7 +16171,11 @@
     "path": "src/Books/Book of Night - Holly Black.md",
     "slug": "Book of Night - Holly Black",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "UrbanFantasy",
+        "horror",
+        "magic"
+      ],
       "title": "Book of Night",
       "subtitle": " ",
       "author": [
@@ -16128,7 +16262,10 @@
     "path": "src/Books/Blade Breaker - Victoria Aveyard.md",
     "slug": "Blade Breaker - Victoria Aveyard",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "YoungAdult"
+      ],
       "title": "Blade Breaker",
       "subtitle": "Realm Breaker 2",
       "author": [
@@ -16222,9 +16359,15 @@
     "path": "src/Books/Before the Frost - Henning Mankell.md",
     "slug": "Before the Frost - Henning Mankell",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "scandinoir",
+        "crime",
+        "police",
+        "thriller",
+        "sweden"
+      ],
       "title": "Before the Frost",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "Henning Mankell"
       ],
@@ -16251,7 +16394,11 @@
     "path": "src/Books/Battle of the Labyrinth - Rick Riordan.md",
     "slug": "Battle of the Labyrinth - Rick Riordan",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "UrbanFantasy",
+        "mythology"
+      ],
       "title": "Battle of the Labyrinth",
       "subtitle": "Percy Jackson and the Olympians 4",
       "author": [
@@ -16266,7 +16413,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2015-10-06T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
@@ -16367,7 +16514,10 @@
     "path": "src/Books/Ascension - Nicholas Binge.md",
     "slug": "Ascension - Nicholas Binge",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "sci-fi",
+        "horror"
+      ],
       "title": "Ascension",
       "subtitle": " ",
       "author": [
@@ -16455,7 +16605,10 @@
     "slug": "An Event in Autumn - Henning Mankell",
     "frontmatter": {
       "tags": [
-        "Fiction"
+        "crime",
+        "police",
+        "sweden",
+        "scandinoir"
       ],
       "title": "An Event in Autumn",
       "subtitle": "Kurt Wallander 11",
@@ -16514,7 +16667,11 @@
     "path": "src/Books/American Psycho - Bret Easton Ellis.md",
     "slug": "American Psycho - Bret Easton Ellis",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "thriller",
+        "horror",
+        "SerialKiller"
+      ],
       "title": "American Psycho",
       "subtitle": " ",
       "author": [
@@ -16543,7 +16700,12 @@
     "path": "src/Books/American Gods - Neil Gaiman.md",
     "slug": "American Gods - Neil Gaiman",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "UrbanFantasy",
+        "Religon",
+        "americana"
+      ],
       "title": "American Gods",
       "subtitle": " ",
       "author": [
@@ -16553,13 +16715,13 @@
       "published": null,
       "page_count": null,
       "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
+      "description": "Days before his release from prison, Shadow's wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America.",
+      "coverUrl": "https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/187b708a-356c-4462-9b51-e6ccd739da4c.jpeg",
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
-      "rating": null,
+      "end_date": "2022-12-22T00:00:00.000Z",
+      "rating": 4,
       "recommended_by": {
         "name": null,
         "url": null
@@ -16601,7 +16763,10 @@
     "path": "src/Books/All The Pretty Dead Girls - John Manning.md",
     "slug": "All The Pretty Dead Girls - John Manning",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "horror",
+        "demons"
+      ],
       "title": "All The Pretty Dead Girls",
       "subtitle": " ",
       "author": [
@@ -16695,7 +16860,11 @@
     "path": "src/Books/Alice in DemonLand - RaShelle Workman.md",
     "slug": "Alice in DemonLand - RaShelle Workman",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "UrbanFantasy",
+        "demons"
+      ],
       "title": "Alice in DemonLand",
       "subtitle": " ",
       "author": [
@@ -16710,7 +16879,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2020-07-14T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -16846,7 +17015,7 @@
         "ParallelWorlds"
       ],
       "title": "Abarat: The First Book of Hours",
-      "subtitle": " 1",
+      "subtitle": "Abarat Book 1",
       "author": [
         "Clive Barker"
       ],
@@ -17015,7 +17184,7 @@
       "shelf": "read",
       "owned": false,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2003-12-31T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
@@ -17218,7 +17387,7 @@
         "Religon"
       ],
       "title": "A Grief Observed",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "C. S. Lewis"
       ],
@@ -17364,7 +17533,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2021-03-01T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -17512,7 +17681,7 @@
         "horror"
       ],
       "title": "'48",
-      "subtitle": " 1",
+      "subtitle": "",
       "author": [
         "James Herbert"
       ],

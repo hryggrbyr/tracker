@@ -1722,7 +1722,7 @@
       "length": 83,
       "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 6,
       "watched": "2025-09-06T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BZWFhOTdmMzItYjUxYy00NjkyLTllMmItNmUyYjcwYzVjNzU4XkEyXkFqcGc@._V1_SX300.jpg"
     }
@@ -2492,36 +2492,6 @@
       "rating": null,
       "watched": null,
       "poster": "https://image.tmdb.org/t/p/w500/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg"
-    }
-  },
-  {
-    "filename": "The_Secret_World_of_Arrietty_2010.md",
-    "path": "src/Movies/The_Secret_World_of_Arrietty_2010.md",
-    "slug": "The_Secret_World_of_Arrietty_2010",
-    "frontmatter": {
-      "type": "movie",
-      "country": "JP",
-      "title": "The Secret World of Arrietty",
-      "year": 2010,
-      "director": "Hiromasa Yonebayashi",
-      "actors": [
-        "Mirai Shida",
-        "Ryunosuke Kamiki",
-        "Tomokazu Miura",
-        "Keiko Takeshita",
-        "Kirin Kiki"
-      ],
-      "genre": [
-        "Fantasy",
-        "Animation",
-        "Family"
-      ],
-      "length": "1h 34m",
-      "shelf": "watchlist",
-      "owned": false,
-      "rating": null,
-      "watched": null,
-      "poster": "https://image.tmdb.org/t/p/w500/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg"
     }
   },
   {
@@ -3703,6 +3673,62 @@
       "rating": null,
       "watched": "2023-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+    }
+  },
+  {
+    "filename": "The Seeker The Dark Is Rising-David L. Cunningham-2007.md",
+    "path": "src/Movies/The Seeker The Dark Is Rising-David L. Cunningham-2007.md",
+    "slug": "The Seeker The Dark Is Rising-David L. Cunningham-2007",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "The Seeker: The Dark Is Rising",
+      "year": 2007,
+      "director": "David L. Cunningham",
+      "actors": [
+        "Alexander Ludwig",
+        "Ian McShane",
+        "Christopher Eccleston"
+      ],
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Family"
+      ],
+      "length": 99,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI4ODI5MzEwM15BMl5BanBnXkFtZTYwMTg4Njk3._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "The Secret World of Arrietty-Hiromasa Yonebayashi-2010.md",
+    "path": "src/Movies/The Secret World of Arrietty-Hiromasa Yonebayashi-2010.md",
+    "slug": "The Secret World of Arrietty-Hiromasa Yonebayashi-2010",
+    "frontmatter": {
+      "type": "movie",
+      "country": "Japan",
+      "title": "The Secret World of Arrietty",
+      "year": 2010,
+      "director": "Hiromasa Yonebayashi",
+      "actors": [
+        "Bridgit Mendler",
+        "Amy Poehler",
+        "Will Arnett"
+      ],
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "length": 94,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 4,
+      "watched": "2025-10-15T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@._V1_SX300.jpg"
     }
   },
   {
@@ -5023,7 +5049,7 @@
       "shelf": "watchlist",
       "owned": true,
       "rating": null,
-      "watched": "2015-12-31T00:00:00.000Z",
+      "watched": null,
       "poster": "https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_SX300.jpg"
     }
   },
@@ -10177,7 +10203,7 @@
       "length": 101,
       "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 7,
       "watched": "2025-10-04T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BMzFmMTAwNjQtMTcwMC00Nzg4LTg2MzMtNGU3ZGEzYWRlMGU1XkEyXkFqcGc@._V1_SX300.jpg"
     }
@@ -16331,7 +16357,7 @@
       "length": 85,
       "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 7,
       "watched": "2025-09-22T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNjQ4NDYtM2I3NC00YWJmLTkwODYtYTk5NGIyMjJlYzQ2XkEyXkFqcGc@._V1_SX300.jpg"
     }
@@ -20647,6 +20673,34 @@
     }
   },
   {
+    "filename": "Extremely Loud & Incredibly Close-Stephen Daldry-2011.md",
+    "path": "src/Movies/Extremely Loud & Incredibly Close-Stephen Daldry-2011.md",
+    "slug": "Extremely Loud & Incredibly Close-Stephen Daldry-2011",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Extremely Loud & Incredibly Close",
+      "year": 2011,
+      "director": "Stephen Daldry",
+      "actors": [
+        "Thomas Horn",
+        "Tom Hanks",
+        "Sandra Bullock"
+      ],
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "length": 129,
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzYwMTE3NV5BMl5BanBnXkFtZTcwMDY2NzU4Ng@@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Eternal Sunshine of the Spotless Mind-Michel Gondry-2004.md",
     "path": "src/Movies/Eternal Sunshine of the Spotless Mind-Michel Gondry-2004.md",
     "slug": "Eternal Sunshine of the Spotless Mind-Michel Gondry-2004",
@@ -23711,7 +23765,7 @@
       "length": "N/A",
       "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 5,
       "watched": "2025-08-29T00:00:00.000Z",
       "poster": "N/A"
     }
@@ -24382,7 +24436,7 @@
       "length": "45m",
       "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 5,
       "watched": "2025-08-25T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/gFlZhcJejtNFsiwKvX4t9Evds1B.jpg"
     }
@@ -24822,7 +24876,7 @@
       ],
       "length": 91,
       "shelf": "watchlist",
-      "owned": false,
+      "owned": true,
       "rating": null,
       "watched": null,
       "poster": "https://m.media-amazon.com/images/M/MV5BZTU5NWRkNmEtZmY4Yi00ZTIzLWIxNjUtMzM3ODM2ZTdiOWNhXkEyXkFqcGc@._V1_SX300.jpg"
@@ -25810,7 +25864,7 @@
       "length": "59m",
       "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 6,
       "watched": "2025-02-22T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/oAFPCDSU9bOzl4WDCkakeUyobDD.jpg"
     }
