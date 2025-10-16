@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 1992-11-04
 rating:
 recommended_by:
   name:
@@ -32,5 +32,5 @@ _The Hitchhiker's Guide to the Galaxy 1_
 | --- | --- |
 | Genre | sci-fi |
 | Started |  |
-| Finished |  |
+| Finished | 1992-11-04T00:00:00.000+00:00 |
 | Rating | /5 |
