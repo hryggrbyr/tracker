@@ -1,5 +1,13 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - ModernFairyTale
+  - pirates
+  - witches
+  - magic
+  - quest
+  - adventure
+  - steampunk
 title: Stardust
 subtitle: " "
 author:
@@ -13,7 +21,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL9243374M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2011-03-02
 rating: 3
 recommended_by:
   name:
@@ -29,8 +37,8 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,ModernFairyTale,pirates,witches,magic,quest,adventure,steampunk |
 | Started |  |
-| Finished |  |
+| Finished | 2011-03-02T00:00:00.000+00:00 |
 | Rating | 3/5 |
 
