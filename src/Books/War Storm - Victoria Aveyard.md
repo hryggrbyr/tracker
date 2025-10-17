@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - dystopia
+  - YoungAdult
 title: War Storm
 subtitle: Red Queen 4
 author:
@@ -13,8 +16,8 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
-rating:
+end_date: 2018-04-11
+rating: 4
 recommended_by:
   name:
   url:
@@ -29,7 +32,7 @@ _Red Queen 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,dystopia,YoungAdult |
 | Started |  |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2018-04-11T00:00:00.000+01:00 |
+| Rating | 4/5 |
