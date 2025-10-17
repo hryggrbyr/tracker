@@ -10,7 +10,7 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
-shelf: read
+shelf: to-read
 owned: true
 start_date:
 end_date:
@@ -27,7 +27,7 @@ created:
 
 __
 
-| Shelf | read |
+| Shelf | to-read |
 | --- | --- |
 | Genre |  |
 | Started |  |
