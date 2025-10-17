@@ -16,12 +16,12 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2004-07-12
 rating: 3
 recommended_by:
   name:
   url:
-created:
+created: 2004-10-17
 ---
 
 # SS-GB: Nazi-occupied Britain 1941 by Len Deighton
@@ -34,6 +34,6 @@ _Nazi-occupied Britain 1941_
 | --- | --- |
 | Genre | Fiction,HistoricalFiction,espionage |
 | Started |  |
-| Finished |  |
+| Finished | 2004-07-12T00:00:00.000+01:00 |
 | Rating | 3/5 |
 
