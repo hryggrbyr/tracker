@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - horror
+  - classic
 title: Picture of Dorian Gray
 subtitle: " "
 author:
@@ -13,7 +15,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL34304799M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 1994-09-01
 rating: 3
 recommended_by:
   name:
@@ -29,8 +31,8 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | horror,classic |
 | Started |  |
-| Finished |  |
+| Finished | 1994-09-01T00:00:00.000+01:00 |
 | Rating | 3/5 |
 
