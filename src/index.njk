@@ -9,7 +9,7 @@ layout: "base.njk"
     <ul>
     {% for book in Books | reverse %}
         {% if book.frontmatter.shelf == "reading" %}
-        <li><em>&ldquo;{{ book.frontmatter.title }}&rdquo;</em> by <strong>{{ book.frontmatter.author }}</strong></li>
+        <li><em><strong>&ldquo;{{ book.frontmatter.title }}&rdquo;</strong></em> by <strong>{{ book.frontmatter.author }}</strong></li>
         {% endif %}
     {% endfor %}
     </ul>
@@ -17,14 +17,14 @@ layout: "base.njk"
     <ul>
 
     {% for film in Movies | watched %}
-        <li><em>&ldquo;{{ film.frontmatter.title }}&rdquo;</em> (Dir. <strong>{{ film.frontmatter.director }}</strong>, {{ film.frontmatter.year }})</li>
+        <li><em><strong>&ldquo;{{ film.frontmatter.title }}&rdquo;</strong></em> (Dir. <strong>{{ film.frontmatter.director }}</strong>, {{ film.frontmatter.year }})</li>
     {% endfor %}
     </ul>
     <h3>Television</h3>
     <ul>
 
     {% for show in Series | watched %}
-        <li><em>&ldquo;{{ show.frontmatter.title }}&rdquo;</em> (Dir. <strong>{{ show.frontmatter.director }}</strong>, {{ show.frontmatter.year }})</li>
+        <li><em><strong>&ldquo;{{ show.frontmatter.title }}&rdquo;</strong></em> (Dir. <strong>{{ show.frontmatter.director }}</strong>, {{ show.frontmatter.year }})</li>
     {% endfor %}
     </ul>
 </section>
