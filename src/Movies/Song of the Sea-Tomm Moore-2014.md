@@ -13,10 +13,10 @@ genre:
   - Adventure
   - Drama
 length: 93
-shelf: watchlist
+shelf: watched
 owned: false
-rating:
-watched:
+rating: 8
+watched: 2025-10-21
 poster: https://m.media-amazon.com/images/M/MV5BMTQ2MDMwNjEwNV5BMl5BanBnXkFtZTgwOTkxMzI0MzE@._V1_SX300.jpg
 ---
 
