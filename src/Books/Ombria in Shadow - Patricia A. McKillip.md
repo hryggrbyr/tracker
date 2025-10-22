@@ -15,7 +15,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL27078561M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date: 2022-12-22
+end_date: 2022-10-22
 rating: 4
 recommended_by:
   name:
@@ -33,5 +33,5 @@ _ _
 | --- | --- |
 | Genre | fantasy,dystopia |
 | Started |  |
-| Finished | 2022-12-22T00:00:00.000+00:00 |
+| Finished | 2022-10-22T00:00:00.000+01:00 |
 | Rating | 4/5 |
