@@ -17,7 +17,7 @@ coverUrl: https://bookwyrm-social.sfo3.digitaloceanspaces.com/images/covers/187b
 shelf: read
 owned: true
 start_date:
-end_date: 2022-12-22
+end_date: 2022-11-02
 rating: 4
 recommended_by:
   name:
@@ -35,7 +35,7 @@ _ _
 | --- | --- |
 | Genre | fantasy,UrbanFantasy,Religon,americana |
 | Started |  |
-| Finished | 2022-12-22T00:00:00.000+00:00 |
+| Finished | 2022-11-02T00:00:00.000+00:00 |
 | Rating | 4/5 |
 
 Days before his release from prison, Shadow's wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America.
