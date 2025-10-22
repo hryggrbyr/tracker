@@ -5,7 +5,7 @@ tags:
   - police
   - Religon
 title: Foxglove Summer
-subtitle: " "
+subtitle: Rivers of London 5
 author:
   - Ben Aaronovitch
 publisher:
@@ -29,7 +29,7 @@ created: 2021-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL26814320M-M.jpg)
 
-_ _
+_Rivers of London 5_
 
 | Shelf | read |
 | --- | --- |
