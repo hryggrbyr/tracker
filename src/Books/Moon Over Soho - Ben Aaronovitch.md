@@ -5,7 +5,7 @@ tags:
   - police
   - Religon
 title: Moon Over Soho
-subtitle: " "
+subtitle: Rivers of London 2
 author:
   - Ben Aaronovitch
 publisher:
@@ -29,7 +29,7 @@ created: 2021-03-17
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27101094M-M.jpg)
 
-_ _
+_Rivers of London 2_
 
 | Shelf | read |
 | --- | --- |
