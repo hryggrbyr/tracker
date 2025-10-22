@@ -1,6 +1,9 @@
 ---
 tags:
-  - Fiction
+  - HistoricalFiction
+  - thriller
+  - crime
+  - dystopia
 title: The Sin Eater
 subtitle: ""
 author:
@@ -30,7 +33,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre | HistoricalFiction,thriller,crime,dystopia |
 | Started | 2020-04-02T00:00:00.000+01:00 |
 | Finished | 2020-04-11T00:00:00.000+01:00 |
 | Rating | 4/5 |
