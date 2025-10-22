@@ -5,7 +5,7 @@ tags:
   - police
   - Religon
 title: Lies Sleeping
-subtitle: " "
+subtitle: Rivers of London 7
 author:
   - Ben Aaronovitch
 publisher:
@@ -29,7 +29,7 @@ created: 2021-05-07
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL29201121M-M.jpg)
 
-_ _
+_Rivers of London 7_
 
 | Shelf | read |
 | --- | --- |

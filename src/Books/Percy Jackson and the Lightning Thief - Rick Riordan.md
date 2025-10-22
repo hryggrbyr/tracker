@@ -1,9 +1,11 @@
 ---
 tags:
+  - YoungAdult
   - fantasy
   - UrbanFantasy
   - mythology
-title: Percy Jackson and the Lightning Thief
+  - magic
+title: The Lightning Thief
 subtitle: Percy Jackson and The Olympians 1
 author:
   - Rick Riordan
@@ -15,8 +17,8 @@ description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
-start_date: 2011-02-02
-end_date: 2011-02-02
+start_date: 2011-08-02
+end_date: 2011-08-22
 rating: 4
 recommended_by:
   name:
@@ -32,7 +34,7 @@ _Percy Jackson and The Olympians 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,mythology |
-| Started | 2011-02-02T00:00:00.000+00:00 |
-| Finished | 2011-02-02T00:00:00.000+00:00 |
+| Genre | YoungAdult,fantasy,UrbanFantasy,mythology,magic |
+| Started | 2011-08-02T00:00:00.000+01:00 |
+| Finished | 2011-08-22T00:00:00.000+01:00 |
 | Rating | 4/5 |

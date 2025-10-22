@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - sci-fi
+  - cyberpunk
 title: Johnny Mnemonic
 subtitle: " "
 author:
@@ -10,11 +12,11 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL32194747M-M.jpg
-shelf: read
+shelf: to-read
 owned: false
 start_date:
 end_date:
-rating: 3
+rating:
 recommended_by:
   name:
   url:
@@ -27,9 +29,9 @@ created: 2015-10-06
 
 _ _
 
-| Shelf | read |
+| Shelf | to-read |
 | --- | --- |
-| Genre |  |
+| Genre | sci-fi,cyberpunk |
 | Started |  |
 | Finished |  |
-| Rating | 3/5 |
+| Rating | /5 |

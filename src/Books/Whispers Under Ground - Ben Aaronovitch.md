@@ -5,7 +5,7 @@ tags:
   - police
   - Religon
 title: Whispers Under Ground
-subtitle: " "
+subtitle: Rivers of London 3
 author:
   - Ben Aaronovitch
 publisher:
@@ -29,7 +29,7 @@ created: 2021-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL26053512M-M.jpg)
 
-_ _
+_Rivers of London 3_
 
 | Shelf | read |
 | --- | --- |

@@ -6,7 +6,7 @@ tags:
   - mythology
   - magic
 title: The Last Olympian
-subtitle: Percy Jackson and the Olympians 1
+subtitle: Percy Jackson and the Olympians 5
 author:
   - Rick Riordan
 publisher: Disney Book Group
@@ -18,7 +18,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date: 2011-02-02
+end_date: 2011-10-16
 rating:
 recommended_by:
   name:
@@ -30,12 +30,12 @@ created:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_Percy Jackson and the Olympians 1_
+_Percy Jackson and the Olympians 5_
 
 | Shelf | read |
 | --- | --- |
 | Genre | YoungAdult,fantasy,UrbanFantasy,mythology,magic |
 | Started |  |
-| Finished | 2011-02-02T00:00:00.000+00:00 |
+| Finished | 2011-10-16T00:00:00.000+01:00 |
 | Rating | /5 |
 
