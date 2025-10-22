@@ -5,7 +5,7 @@ tags:
   - police
   - Religon
 title: The Hanging Tree
-subtitle: " "
+subtitle: Rivers of London 6
 author:
   - Ben Aaronovitch
 publisher:
@@ -29,7 +29,7 @@ created: 2021-04-22
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL28364646M-M.jpg)
 
-_ _
+_Rivers of London 6_
 
 | Shelf | read |
 | --- | --- |
