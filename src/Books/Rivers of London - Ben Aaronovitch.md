@@ -5,7 +5,7 @@ tags:
   - police
   - Religon
 title: Rivers of London
-subtitle: " "
+subtitle: Rivers of London 1
 author:
   - Ben Aaronovitch
 publisher:
@@ -29,7 +29,7 @@ created: 2021-03-17
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-_ _
+_Rivers of London 1_
 
 | Shelf | read |
 | --- | --- |
