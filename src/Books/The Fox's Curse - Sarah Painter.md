@@ -1,5 +1,11 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - UrbanFantasy
+  - magic
+  - england
+  - supernatural
+  - folklore
 title: The Fox's Curse
 subtitle: Crow Investigations 3
 author:
@@ -29,7 +35,8 @@ _Crow Investigations 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,UrbanFantasy,magic,england,supernatural,folklore |
 | Started | 2022-12-09T00:00:00.000+00:00 |
 | Finished | 2023-01-07T00:00:00.000+00:00 |
 | Rating | 4/5 |
+
