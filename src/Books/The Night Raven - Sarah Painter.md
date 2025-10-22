@@ -1,5 +1,11 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - UrbanFantasy
+  - magic
+  - england
+  - supernatural
+  - folklore
 title: The Night Raven
 subtitle: Crow Investigations 1
 author:
@@ -29,7 +35,7 @@ _Crow Investigations 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,UrbanFantasy,magic,england,supernatural,folklore |
 | Started | 2022-11-03T00:00:00.000+00:00 |
 | Finished | 2022-11-24T00:00:00.000+00:00 |
 | Rating | 5/5 |
