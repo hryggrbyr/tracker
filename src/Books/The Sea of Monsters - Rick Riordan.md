@@ -1,7 +1,12 @@
 ---
-tags: []
+tags:
+  - YoungAdult
+  - fantasy
+  - UrbanFantasy
+  - mythology
+  - magic
 title: The Sea of Monsters
-subtitle: " "
+subtitle: Percy Jackson and the Olympians 2
 author:
   - Rick Riordan
 publisher:
@@ -13,7 +18,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL8142912M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 2011-09-03
 rating: 4
 recommended_by:
   name:
@@ -25,12 +30,12 @@ created: 2015-10-06
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL8142912M-M.jpg)
 
-_ _
+_Percy Jackson and the Olympians 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | YoungAdult,fantasy,UrbanFantasy,mythology,magic |
 | Started |  |
-| Finished |  |
+| Finished | 2011-09-03T00:00:00.000+01:00 |
 | Rating | 4/5 |
 
