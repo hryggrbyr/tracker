@@ -1,5 +1,11 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - UrbanFantasy
+  - magic
+  - england
+  - supernatural
+  - folklore
 title: The Copper Heart
 subtitle: Crow Investigations 5
 author:
@@ -29,7 +35,8 @@ _Crow Investigations 5_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,UrbanFantasy,magic,england,supernatural,folklore |
 | Started | 2023-01-23T00:00:00.000+00:00 |
 | Finished | 2023-02-23T00:00:00.000+00:00 |
 | Rating | 3/5 |
+

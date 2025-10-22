@@ -1,7 +1,13 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - UrbanFantasy
+  - magic
+  - england
+  - supernatural
+  - folklore
 title: The Magpie Key
-subtitle: " "
+subtitle: Crow Investigations 8
 author:
   - Sarah Painter
 publisher:
@@ -25,11 +31,11 @@ created: 2023-04-24
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL46469298M-M.jpg)
 
-_ _
+_Crow Investigations 8_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,UrbanFantasy,magic,england,supernatural,folklore |
 | Started | 2023-04-02T00:00:00.000+01:00 |
 | Finished | 2023-04-23T00:00:00.000+01:00 |
 | Rating | /5 |
