@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - HistoricalFiction
+  - fantasy
+  - HistoricalFantasy
 title: The Silence Factory
 subtitle: " "
 author:
@@ -29,7 +32,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | HistoricalFiction,fantasy,HistoricalFantasy |
 | Started | 2025-06-19T00:00:00.000+01:00 |
 | Finished | 2025-06-28T00:00:00.000+01:00 |
 | Rating | 4/5 |
