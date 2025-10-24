@@ -1,6 +1,7 @@
 ---
 tags:
-  - Fiction
+  - sci-fi
+  - comedy
 title: Long Dark Tea-Time of the Soul
 subtitle: ""
 author:
@@ -30,7 +31,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre | sci-fi,comedy |
 | Started |  |
 | Finished | 1990-12-25T00:00:00.000+00:00 |
 | Rating | 3/5 |
