@@ -11,7 +11,7 @@ page_count: 298
 isbn: UOM:39015025363790
 description: ""
 coverUrl: http://books.google.com/books/content?id=Me1aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-shelf: to-read
+shelf: read
 owned: false
 start_date:
 end_date: 1992-12-14
@@ -28,7 +28,7 @@ created: 2025-10-24 11:21:02
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | read | 
 | --- | --- |
 | Genre | horror |
 | Started |  |
