@@ -1,7 +1,7 @@
 ---
 type: series
 country: UK
-title: How Are You It's Alan (Partridge)
+title: How Are You? It's Alan (Partridge)
 year: 2025–
 director: Neil Gibbons, Rob Gibbons
 actors:
@@ -12,7 +12,7 @@ actors:
 genre:
   - Comedy
   - Mockumentary
-length: N/A
+length: 8 x 25 minutes
 shelf: watched
 owned: false
 rating: 4
