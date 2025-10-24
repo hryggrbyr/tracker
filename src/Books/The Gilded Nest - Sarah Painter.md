@@ -1,6 +1,9 @@
 ---
 tags:
-  - Fiction
+  - fantasy
+  - UrbanFantasy
+  - magic
+  - england
 title: The Gilded Nest
 subtitle: ""
 author:
@@ -30,7 +33,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre | fantasy,UrbanFantasy,magic,england |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
