@@ -1,7 +1,7 @@
 ---
 type: movie
 country: United States, India, United Kingdom, Mexico, Japan, Canada
-title: Tron Legacy
+title: "Tron: Legacy"
 year: 2010
 director: Joseph Kosinski
 actors:
