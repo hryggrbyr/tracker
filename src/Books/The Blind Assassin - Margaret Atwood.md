@@ -1,6 +1,7 @@
 ---
 tags:
-  - Fiction
+  - fantasy
+  - relationships
 title: The Blind Assassin
 subtitle: ""
 author:
@@ -33,7 +34,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | fantasy,relationships |
 | Started | 2015-10-06T00:00:00.000+01:00 |
 | Finished | 2015-10-16T00:00:00.000+01:00 |
 | Rating | 3/5 |

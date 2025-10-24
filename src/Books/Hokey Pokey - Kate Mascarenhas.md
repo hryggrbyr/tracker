@@ -1,6 +1,9 @@
 ---
 tags:
-  - Fiction
+  - thriller
+  - horror
+  - supernatural
+  - HistoricalFiction
 title: Hokey Pokey
 subtitle: ""
 author:
@@ -30,7 +33,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | thriller,horror,supernatural,HistoricalFiction |
 | Started | 2024-12-23T00:00:00.000+00:00 |
 | Finished | 2025-01-01T00:00:00.000+00:00 |
 | Rating | 5/5 |

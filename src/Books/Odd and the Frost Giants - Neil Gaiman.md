@@ -1,7 +1,7 @@
 ---
 tags:
   - mythology
-  - child
+  - JuvenileFiction
 title: Odd and the Frost Giants
 subtitle: ""
 author:
@@ -31,7 +31,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | mythology,child |
+| Genre | mythology,JuvenileFiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

@@ -1,6 +1,8 @@
 ---
 tags:
-  - Music
+  - music
+  - nonfiction
+  - biography
 title: "Rebel Girl: My Life as a Feminist Punk"
 subtitle: ""
 author:
@@ -32,7 +34,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Music |
+| Genre | music,nonfiction,biography |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

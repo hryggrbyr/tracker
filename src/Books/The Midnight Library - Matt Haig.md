@@ -1,6 +1,8 @@
 ---
 tags:
-  - Fiction
+  - fantasy
+  - UrbanFantasy
+  - library
 title: The Midnight Library
 subtitle: The No.1 Sunday Times bestseller and worldwide phenomenon
 author:
@@ -30,7 +32,7 @@ _The No.1 Sunday Times bestseller and worldwide phenomenon_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre | fantasy,UrbanFantasy,library |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

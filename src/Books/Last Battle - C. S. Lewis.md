@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - child
+  - JuvenileFiction
 title: Last Battle
 subtitle: "Chronicles of Narnia: Chronological order 7"
 author:
@@ -31,7 +31,7 @@ _Chronicles of Narnia: Chronological order 7_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,child |
+| Genre | fantasy,JuvenileFiction |
 | Started | 1994-07-01T00:00:00.000+01:00 |
 | Finished | 1994-07-01T00:00:00.000+01:00 |
 | Rating | 4/5 |

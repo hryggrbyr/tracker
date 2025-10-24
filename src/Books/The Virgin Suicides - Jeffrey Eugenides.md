@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction
+  - YoungAdult
   - suicide
   - DarkHumour
   - ComingOfAge
@@ -33,7 +33,7 @@ _A Novel (Twenty-Fifth Anniversary Edition)_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction,suicide,DarkHumour,ComingOfAge |
+| Genre | YoungAdult,suicide,DarkHumour,ComingOfAge |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
