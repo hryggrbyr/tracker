@@ -12,7 +12,7 @@ page_count: 260
 isbn: 0345286421 9780345286420
 description: ""
 coverUrl: http://books.google.com/books/content?id=kX_2HDi9wB4C&printsec=frontcover&img=1&zoom=1&source=gbs_api
-shelf: to-read
+shelf: read
 owned: false
 start_date:
 end_date: 1989-11-20
@@ -29,7 +29,7 @@ created: 2025-10-24 11:19:17
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | read | 
 | --- | --- |
 | Genre | sci-fi,horror |
 | Started |  |
