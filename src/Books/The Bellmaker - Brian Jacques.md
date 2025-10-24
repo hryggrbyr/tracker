@@ -1,5 +1,9 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
 title: The Bellmaker
 subtitle: Redwall 7
 author:
@@ -29,7 +33,8 @@ _Redwall 7_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
+
