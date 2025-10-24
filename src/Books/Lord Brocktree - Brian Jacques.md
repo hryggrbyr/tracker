@@ -1,5 +1,9 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
 title: Lord Brocktree
 subtitle: Redwall 13
 author:
@@ -29,7 +33,7 @@ _Redwall 13_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
