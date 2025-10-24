@@ -1,6 +1,9 @@
 ---
 tags:
-  - Juvenile Fiction
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
 title: Loamhedge
 subtitle: Redwall 16
 author:
@@ -30,7 +33,7 @@ _Redwall 16_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
