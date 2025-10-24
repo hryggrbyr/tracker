@@ -1,5 +1,12 @@
 ---
-tags: []
+tags:
+  - JuvenileFiction
+  - fantasy
+  - mythology
+  - UrbanFantasy
+  - folklore
+  - magic
+  - wizards
 title: Greenwitch
 subtitle: The Dark is Rising Sequence 3
 author:
@@ -10,15 +17,15 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
-shelf: to-read
+shelf: reading
 owned: true
-start_date:
+start_date: 2025-10-24
 end_date:
 rating:
 recommended_by:
   name:
   url:
-created:
+created: 2022-12-18
 ---
 
 # Greenwitch by Susan Cooper
@@ -27,9 +34,9 @@ created:
 
 _The Dark is Rising Sequence 3_
 
-| Shelf | to-read |
+| Shelf | reading |
 | --- | --- |
-| Genre |  |
-| Started |  |
+| Genre | JuvenileFiction,fantasy,mythology,UrbanFantasy,folklore,magic,wizards |
+| Started | 2025-10-24T00:00:00.000+01:00 |
 | Finished |  |
 | Rating | /5 |
