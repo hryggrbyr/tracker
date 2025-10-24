@@ -1,6 +1,9 @@
 ---
 tags:
-  - Juvenile Fiction
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
 title: Triss
 subtitle: Redwall 15
 author:
@@ -30,7 +33,7 @@ _Redwall 15_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Juvenile Fiction |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

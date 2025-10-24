@@ -1,6 +1,9 @@
 ---
 tags:
-  - Juvenile Fiction
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
 title: The Sable Quean
 subtitle: Redwall 21
 author:
@@ -30,7 +33,8 @@ _Redwall 21_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
+

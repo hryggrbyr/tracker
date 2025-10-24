@@ -11,9 +11,10 @@ actors:
   - Alison Pill
   - Amos Crawley
 genre:
-  - Action & Adventure
+  - Adventure
   - Animation
-  - Sci-Fi & Fantasy
+  - fantasy
+  - TalkingAnimals
 length: 3 seasons (39 episodes)
 shelf: watchlist
 owned: false

@@ -1,5 +1,9 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
 title: Salamandastron
 subtitle: Redwall 5
 author:
@@ -29,7 +33,8 @@ _Redwall 5_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
 | Finished |  |
 | Rating | 3/5 |
+
