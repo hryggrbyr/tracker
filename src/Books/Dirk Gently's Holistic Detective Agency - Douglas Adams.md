@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - sci-fi
+  - comedy
 title: Dirk Gently's Holistic Detective Agency
 subtitle: " "
 author:
@@ -13,7 +15,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL26339588M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 1998-01-02
 rating: 2
 recommended_by:
   name:
@@ -29,7 +31,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | sci-fi,comedy |
 | Started |  |
-| Finished |  |
+| Finished | 1998-01-02T00:00:00.000+00:00 |
 | Rating | 2/5 |
