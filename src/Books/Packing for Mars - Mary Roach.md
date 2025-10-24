@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - nonfiction
+  - space
+  - science
 title: Packing for Mars
 subtitle: " "
 author:
@@ -29,7 +32,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | nonfiction,space,science |
 | Started | 2023-10-08T00:00:00.000+01:00 |
 | Finished | 2023-11-22T00:00:00.000+00:00 |
 | Rating | 4/5 |
