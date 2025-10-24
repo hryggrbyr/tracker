@@ -1,6 +1,9 @@
 ---
 tags:
-  - Fiction
+  - fantasy
+  - TalkingAnimals
+  - Religon
+  - drama
 title: Watership Down
 subtitle: ""
 author:
@@ -33,7 +36,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | fantasy,TalkingAnimals,Religon,drama |
 | Started | 1990-10-31T00:00:00.000+00:00 |
 | Finished | 1990-11-30T00:00:00.000+00:00 |
 | Rating | 4/5 |
