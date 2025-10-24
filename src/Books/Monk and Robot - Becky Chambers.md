@@ -1,6 +1,7 @@
 ---
 tags:
-  - Fiction
+  - sci-fi
+  - gentle
 title: Monk and Robot
 subtitle: ""
 author:
@@ -32,7 +33,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | sci-fi,gentle |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
