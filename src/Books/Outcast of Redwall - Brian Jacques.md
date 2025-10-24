@@ -1,6 +1,9 @@
 ---
 tags:
-  - Juvenile Fiction
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
 title: Outcast of Redwall
 subtitle: Redwall 8
 author:
@@ -30,7 +33,7 @@ _Redwall 8_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
