@@ -1,6 +1,8 @@
 ---
 tags:
-  - Fiction
+  - fantasy
+  - magic
+  - wizards
 title: The Magicians' Guild
 subtitle: The Black Magician Trilogy
 author:
@@ -30,7 +32,7 @@ _The Black Magician Trilogy_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre | fantasy,magic,wizards |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
