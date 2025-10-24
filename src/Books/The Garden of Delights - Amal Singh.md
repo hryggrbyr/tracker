@@ -4,6 +4,7 @@ tags:
   - magic
   - politics
   - Religon
+  - gentle
 title: The Garden of Delights
 subtitle: ""
 author:
@@ -32,7 +33,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,magic,politics,Religon |
+| Genre | fantasy,magic,politics,Religon,gentle |
 | Started | 2025-07-27T00:00:00.000+01:00 |
 | Finished | 2025-08-20T00:00:00.000+01:00 |
 | Rating | 5/5 |
