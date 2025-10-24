@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - child
+  - YoungAdult
   - ParallelWorlds
 title: "Abarat: The First Book of Hours"
 subtitle: Abarat Book 1
@@ -32,7 +32,7 @@ _Abarat Book 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fantasy,child,ParallelWorlds |
+| Genre | fantasy,YoungAdult,ParallelWorlds |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
