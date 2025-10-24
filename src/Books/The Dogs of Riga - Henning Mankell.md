@@ -1,6 +1,9 @@
 ---
 tags:
-  - Mystery
+  - crime
+  - scandinoir
+  - sweden
+  - police
 title: The Dogs of Riga
 subtitle: A Kurt Wallander Mystery 2
 author:
@@ -30,7 +33,7 @@ _A Kurt Wallander Mystery 2_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Mystery |
+| Genre | crime,scandinoir,sweden,police |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
