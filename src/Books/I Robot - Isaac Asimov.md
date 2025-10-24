@@ -11,7 +11,7 @@ page_count: 224
 isbn: STANFORD:36105010636624
 description: For use in schools and libraries only. The development of robot technology to a state of perfection by future civilizations is explored in nine science fiction stories.
 coverUrl: http://books.google.com/books/content?id=MD0GAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-shelf: to-read
+shelf: read
 owned: false
 start_date:
 end_date: 1989-11-30
@@ -28,7 +28,7 @@ created: 2025-10-24 11:17:42
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | read | 
 | --- | --- |
 | Genre | sci-fi |
 | Started |  |
