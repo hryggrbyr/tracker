@@ -1,8 +1,8 @@
 ---
 tags:
-  - Fiction
   - HistoricalFiction
   - espionage
+  - thriller
 title: SS-GB
 subtitle: Nazi-occupied Britain 1941
 author:
@@ -32,7 +32,7 @@ _Nazi-occupied Britain 1941_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,HistoricalFiction,espionage |
+| Genre | HistoricalFiction,espionage,thriller |
 | Started |  |
 | Finished | 2004-07-12T00:00:00.000+01:00 |
 | Rating | 3/5 |
