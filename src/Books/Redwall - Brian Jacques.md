@@ -1,5 +1,9 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
 title: Redwall
 subtitle: Redwall 1
 author:
@@ -29,7 +33,7 @@ _Redwall 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
 | Finished |  |
 | Rating | 5/5 |
