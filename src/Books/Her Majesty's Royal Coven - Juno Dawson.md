@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-01-14
+reviewUrl:
+bookshopUrl:
 ---
 
 # Her Majesty's Royal Coven by Juno Dawson
