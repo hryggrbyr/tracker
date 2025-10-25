@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-01-16
+reviewUrl:
+bookshopUrl:
 ---
 
 # We Sold Our Souls by Grady Hendrix
