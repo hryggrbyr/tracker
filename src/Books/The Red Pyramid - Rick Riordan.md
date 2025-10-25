@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Red Pyramid by Rick Riordan
@@ -34,4 +36,3 @@ _The Kane Chronicles 1_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
