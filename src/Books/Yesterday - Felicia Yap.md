@@ -20,6 +20,8 @@ recommended_by:
   name: Kobo blog
   url:
 created: 2025-09-28 19:05:17
+reviewUrl:
+bookshopUrl:
 ---
 
 # Yesterday by Felicia Yap
