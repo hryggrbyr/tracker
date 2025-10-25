@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-04-04
+reviewUrl:
+bookshopUrl:
 ---
 
 # Fate Breaker by Victoria Aveyard
