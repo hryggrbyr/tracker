@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-11-28
+reviewUrl:
+bookshopUrl:
 ---
 
 # I'm Afraid You've Got Dragons by Peter S. Beagle
