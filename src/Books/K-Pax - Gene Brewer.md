@@ -26,6 +26,8 @@ recommended_by:
   name:
   url:
 created: 2025-09-06 19:45:06
+reviewUrl:
+bookshopUrl:
 ---
 
 # K-Pax by Gene Brewer
