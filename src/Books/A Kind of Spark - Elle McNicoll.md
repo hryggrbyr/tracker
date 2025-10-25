@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-09-22 13:35:33
+reviewUrl:
+bookshopUrl:
 ---
 
 # A Kind of Spark by Elle McNicoll
