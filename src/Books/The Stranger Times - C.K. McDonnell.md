@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-02-23
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Stranger Times by C.K. McDonnell
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
