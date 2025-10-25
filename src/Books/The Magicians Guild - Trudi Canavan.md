@@ -22,6 +22,8 @@ recommended_by:
   name: Silvia
   url:
 created: 2025-10-12 06:30:32
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Magicians' Guild by Trudi Canavan
@@ -30,7 +32,7 @@ created: 2025-10-12 06:30:32
 
 _The Black Magician Trilogy_
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | fantasy,magic,wizards |
 | Started |  |
