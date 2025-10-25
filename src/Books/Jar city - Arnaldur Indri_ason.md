@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2022-11-16
+reviewUrl:
+bookshopUrl:
 ---
 
 # Jar city by Arnaldur Indriðason
