@@ -24,6 +24,8 @@ recommended_by:
   name:
   url:
 created: 2025-09-08 14:19:53
+reviewUrl: /posts/book-review-let-the-right-one-in-john-ajvide-lindqvist
+bookshopUrl:
 ---
 
 # Let the Right One In by John Ajvide Lindqvist
