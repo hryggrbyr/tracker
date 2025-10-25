@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-28
+reviewUrl:
+bookshopUrl:
 ---
 
 # Stig of the Dump by Clive King
