@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Grey King by Susan Cooper
@@ -33,3 +35,4 @@ _The Dark is Rising Sequence 4_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
+
