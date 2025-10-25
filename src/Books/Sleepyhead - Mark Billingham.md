@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2015-11-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # Sleepyhead by Mark Billingham
