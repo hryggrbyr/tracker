@@ -25,6 +25,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-24 18:35:56
+reviewUrl:
+bookshopUrl:
 ---
 
 # Hannibal by Thomas Harris
@@ -33,7 +35,7 @@ No cover image
 
 _The Return of Hannibal Lecter_
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | police,crime,SerialKiller,psychology,america,adventure |
 | Started |  |
