@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-10-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Seven Deaths of Evelyn Hardcastle by Stuart Turton
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
