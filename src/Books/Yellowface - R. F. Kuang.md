@@ -22,7 +22,7 @@ recommended_by:
   name:
   url:
 created: 2025-01-21
-reviewUrl: /posts/book-review-yellowface-r-f-kuang
+reviewUrl: /posts/book-review-yellowface-rf-kuang
 bookshopUrl:
 ---
 
