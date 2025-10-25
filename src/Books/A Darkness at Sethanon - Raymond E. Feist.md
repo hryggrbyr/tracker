@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2021-03-17
+reviewUrl:
+bookshopUrl:
 ---
 
 # A Darkness at Sethanon by Raymond E. Feist
