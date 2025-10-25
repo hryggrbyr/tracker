@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # Spy Line (Hook by Len Deighton
