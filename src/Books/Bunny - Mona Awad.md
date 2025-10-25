@@ -20,6 +20,8 @@ recommended_by:
   name: Alice at Wallflower Digest
   url:
 created: 2024-08-27 21:09:18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Bunny by Mona Awad
