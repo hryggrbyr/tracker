@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Brave New World by Aldous Huxley
