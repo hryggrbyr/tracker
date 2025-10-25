@@ -20,6 +20,8 @@ recommended_by:
   name: me (seen in the lobby of a Spanish hotel)
   url:
 created: 2025-09-20 22:36:31
+reviewUrl:
+bookshopUrl:
 ---
 
 # Stolen Tongues by Felix Blackwell
