@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-07-03
+reviewUrl:
+bookshopUrl:
 ---
 
 # Wizard's War by Phillip Tomasso
