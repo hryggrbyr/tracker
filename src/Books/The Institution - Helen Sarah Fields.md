@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2024-11-07
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Institution by Helen Sarah Fields
@@ -36,4 +38,3 @@ _ _
 | Started | 2024-10-31T00:00:00.000+00:00 |
 | Finished | 2024-11-07T00:00:00.000+00:00 |
 | Rating | 3/5 |
-
