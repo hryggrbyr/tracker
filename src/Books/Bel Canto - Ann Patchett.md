@@ -20,6 +20,8 @@ recommended_by:
   name: Annie Mueller
   url: https://anniemueller.com/posts/reading-notes-august-september
 created: 2025-10-10 07:04:41
+reviewUrl:
+bookshopUrl:
 ---
 
 # Bel Canto by Ann Patchett
