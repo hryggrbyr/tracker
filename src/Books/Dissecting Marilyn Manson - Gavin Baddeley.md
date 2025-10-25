@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-15 14:29:53
+reviewUrl:
+bookshopUrl:
 ---
 
 # Dissecting Marilyn Manson by Gavin Baddeley
@@ -30,7 +32,7 @@ created: 2025-10-15 14:29:53
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | nonfiction,biography,music |
 | Started |  |
