@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-09
+reviewUrl:
+bookshopUrl:
 ---
 
 # Semiosis (Semiosis Duology by Sue Burke
