@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-09
+reviewUrl:
+bookshopUrl:
 ---
 
 # All The Pretty Dead Girls by John Manning
