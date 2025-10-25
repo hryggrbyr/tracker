@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-09-13
+reviewUrl:
+bookshopUrl:
 ---
 
 # XPD by Len Deighton
@@ -33,4 +35,3 @@ __
 | Started |  |
 | Finished | 1992-09-12T00:00:00.000+01:00 |
 | Rating | 3/5 |
-
