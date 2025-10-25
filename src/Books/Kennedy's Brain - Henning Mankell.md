@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Kennedy's Brain by Henning Mankell
