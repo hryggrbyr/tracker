@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Ipcress File by Len Deighton
@@ -35,4 +37,3 @@ _Harry Palmer 1_
 | Started | 1993-07-26T00:00:00.000+01:00 |
 | Finished | 1993-08-01T00:00:00.000+01:00 |
 | Rating | 4/5 |
-
