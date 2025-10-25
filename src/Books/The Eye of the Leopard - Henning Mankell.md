@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Eye of the Leopard by Henning Mankell
