@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-29
+reviewUrl:
+bookshopUrl:
 ---
 
 # Groosham Grange by Anthony Horowitz
