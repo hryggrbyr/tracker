@@ -1,9 +1,12 @@
 ---
 tags:
-  - Juvenile Fiction
+  - JuvenileFiction
   - fantasy
-  - UrbanFantasy
   - mythology
+  - UrbanFantasy
+  - folklore
+  - magic
+  - wizards
 title: Over Sea, Under Stone
 subtitle: The Dark is Rising sequence
 author:
@@ -23,6 +26,8 @@ recommended_by:
   name:
   url:
 created: 2025-09-25 17:29:21
+reviewUrl: /posts/book-review-over-sea-under-stone-susan-cooper
+bookshopUrl:
 ---
 
 # Over Sea, Under Stone by Susan Cooper
@@ -33,7 +38,7 @@ _The Dark is Rising sequence_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | Juvenile Fiction,fantasy,UrbanFantasy,mythology |
+| Genre | JuvenileFiction,fantasy,mythology,UrbanFantasy,folklore,magic,wizards |
 | Started | 2025-09-25T00:00:00.000+01:00 |
 | Finished | 2025-10-05T00:00:00.000+01:00 |
 | Rating | 4/5 |
