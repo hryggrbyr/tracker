@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Dictionary of Lost Words by Pip Williams
