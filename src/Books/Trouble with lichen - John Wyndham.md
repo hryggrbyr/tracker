@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-03-01
+reviewUrl:
+bookshopUrl:
 ---
 
 # Trouble with lichen by John Wyndham
