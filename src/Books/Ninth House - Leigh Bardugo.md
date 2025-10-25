@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-06-28
+reviewUrl:
+bookshopUrl:
 ---
 
 # Ninth House by Leigh Bardugo
