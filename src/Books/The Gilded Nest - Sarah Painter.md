@@ -23,6 +23,8 @@ recommended_by:
   name: Book Series in Order
   url: https://www.bookseriesinorder.com/crow-investigations/
 created: 2025-10-22 15:52:44
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Gilded Nest by Sarah Painter
