@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-07-03
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Ones Who Walk Away from Omelas by Ursula K. Le Guin
@@ -33,4 +35,3 @@ _ _
 | Started | 2024-07-02T00:00:00.000+01:00 |
 | Finished | 2024-07-02T00:00:00.000+01:00 |
 | Rating | 5/5 |
-
