@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2015-11-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Killer Book of Cold Cases by Tom Philbin
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished | 2015-10-20T00:00:00.000+01:00 |
 | Rating | 2/5 |
-
