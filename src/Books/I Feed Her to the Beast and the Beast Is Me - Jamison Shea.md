@@ -20,6 +20,8 @@ recommended_by:
   name: Jamison Shea
   url:
 created: 2025-08-26 21:07:50
+reviewUrl:
+bookshopUrl:
 ---
 
 # I Feed Her to the Beast and the Beast Is Me by Jamison Shea
