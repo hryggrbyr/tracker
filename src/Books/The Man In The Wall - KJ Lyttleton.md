@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-04-26
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Man In The Wall by KJ Lyttleton
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
