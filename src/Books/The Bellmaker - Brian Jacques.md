@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Bellmaker by Brian Jacques
