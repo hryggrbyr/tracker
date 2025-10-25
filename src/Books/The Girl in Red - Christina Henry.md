@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-11-28
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Girl in Red by Christina Henry
