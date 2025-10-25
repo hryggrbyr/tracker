@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-11-15
+reviewUrl:
+bookshopUrl:
 ---
 
 # Dragon Storm by Lindsay Buroker
