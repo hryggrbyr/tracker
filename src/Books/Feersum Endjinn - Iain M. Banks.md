@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-06-16
+reviewUrl:
+bookshopUrl:
 ---
 
 # Feersum Endjinn by Iain M. Banks
