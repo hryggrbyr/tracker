@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2021-09-11
+reviewUrl:
+bookshopUrl:
 ---
 
 # English Animals by Laura Kaye
