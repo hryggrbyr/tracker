@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Legend of Luke by Brian Jacques
@@ -37,4 +39,3 @@ _Redwall 12_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
