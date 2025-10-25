@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-02-12
+reviewUrl:
+bookshopUrl:
 ---
 
 # Hidden Face by M. I. Verras
