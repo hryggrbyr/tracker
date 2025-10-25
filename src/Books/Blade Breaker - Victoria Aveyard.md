@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2022-08-07
+reviewUrl:
+bookshopUrl:
 ---
 
 # Blade Breaker by Victoria Aveyard
