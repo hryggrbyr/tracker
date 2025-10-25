@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-02-27
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Mountain in the Sea by Ray Nayler
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
