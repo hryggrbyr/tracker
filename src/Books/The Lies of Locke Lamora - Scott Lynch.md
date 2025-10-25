@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Lies of Locke Lamora by Scott Lynch
@@ -34,4 +36,3 @@ _The Gentleman Bastard Sequence 1_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
