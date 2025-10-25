@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-11-07
+reviewUrl:
+bookshopUrl:
 ---
 
 # A Song of Storm and Shadow by Stephanie A Cain
