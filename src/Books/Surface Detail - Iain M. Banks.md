@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Surface Detail by Iain M. Banks
