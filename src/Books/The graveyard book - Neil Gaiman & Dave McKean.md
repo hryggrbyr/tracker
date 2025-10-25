@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The graveyard book by Neil Gaiman & Dave McKean
@@ -34,4 +36,3 @@ __
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
