@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Suck less : where there's a Willam by Willam Belli
