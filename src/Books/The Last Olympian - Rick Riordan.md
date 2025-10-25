@@ -24,6 +24,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Last Olympian (Percy Jackson and the Olympians by Rick Riordan
@@ -38,4 +40,3 @@ _Percy Jackson and the Olympians 5_
 | Started |  |
 | Finished | 2011-10-16T00:00:00.000+01:00 |
 | Rating | /5 |
-

@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Long Patrol by Brian Jacques
@@ -37,4 +39,3 @@ _Redwall 10_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

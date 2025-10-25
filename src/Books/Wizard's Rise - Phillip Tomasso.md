@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-06-13
+reviewUrl:
+bookshopUrl:
 ---
 
 # Wizard's Rise by Phillip Tomasso
@@ -33,4 +35,3 @@ _ _
 | Started | 2024-05-23T00:00:00.000+01:00 |
 | Finished | 2024-06-12T00:00:00.000+01:00 |
 | Rating | 3/5 |
-

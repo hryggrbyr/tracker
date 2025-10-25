@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-06-21
+reviewUrl:
+bookshopUrl:
 ---
 
 # Present Tense by Dave Duncan

@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-23
+reviewUrl:
+bookshopUrl:
 ---
 
 # Tomorrow and tomorrow and tomorrow by Gabrielle Zevin

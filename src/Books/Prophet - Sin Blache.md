@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-05-23
+reviewUrl:
+bookshopUrl:
 ---
 
 # Prophet by Sin Blach

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2022-09-10
+reviewUrl:
+bookshopUrl:
 ---
 
 # Frozen Out by Quentin Bates

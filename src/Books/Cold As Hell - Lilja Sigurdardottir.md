@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2022-09-04
+reviewUrl:
+bookshopUrl:
 ---
 
 # Cold As Hell by Lilja Sigurðardóttir

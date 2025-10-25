@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Lion by C. S. Lewis
@@ -35,4 +37,3 @@ _Chronicles of Narnia: Chronological order 2_
 | Started | 1994-07-01T00:00:00.000+01:00 |
 | Finished | 1994-07-01T00:00:00.000+01:00 |
 | Rating | 5/5 |
-

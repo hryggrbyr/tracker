@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-07-20
+reviewUrl:
+bookshopUrl:
 ---
 
 # Things We Lost in the Fire by Mariana Enriquez

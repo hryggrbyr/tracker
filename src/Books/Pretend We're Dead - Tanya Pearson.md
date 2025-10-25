@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-03-05
+reviewUrl:
+bookshopUrl:
 ---
 
 # Pretend We're Dead by Tanya Pearson

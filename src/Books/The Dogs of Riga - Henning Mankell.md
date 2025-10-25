@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Dogs of Riga: A Kurt Wallendar Mystery by Henning Mankell

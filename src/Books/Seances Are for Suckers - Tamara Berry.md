@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Séances Are for Suckers by Tamara Berry

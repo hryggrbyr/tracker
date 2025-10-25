@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-31
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Shifter by Janice Hardy
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

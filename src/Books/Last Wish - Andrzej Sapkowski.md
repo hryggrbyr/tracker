@@ -22,6 +22,8 @@ recommended_by:
   name: Netflix
   url:
 created: 2020-04-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # Last Wish by Andrzej Sapkowski

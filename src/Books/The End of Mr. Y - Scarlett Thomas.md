@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-04-16
+reviewUrl:
+bookshopUrl:
 ---
 
 # The End of Mr. Y by Scarlett Thomas

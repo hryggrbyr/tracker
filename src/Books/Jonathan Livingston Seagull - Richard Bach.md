@@ -20,6 +20,8 @@ recommended_by:
   name: My mum
   url:
 created: 2025-08-17 06:37:45
+reviewUrl:
+bookshopUrl:
 ---
 
 # Jonathan Livingston Seagull by Richard Bach

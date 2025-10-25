@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # War Storm by Victoria Aveyard

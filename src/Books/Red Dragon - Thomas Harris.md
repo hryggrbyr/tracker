@@ -25,6 +25,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-24 18:33:16
+reviewUrl:
+bookshopUrl:
 ---
 
 # Red Dragon by Thomas Harris

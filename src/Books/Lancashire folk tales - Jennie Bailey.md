@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2021-07-19
+reviewUrl:
+bookshopUrl:
 ---
 
 # Lancashire folk tales by Jennie Bailey

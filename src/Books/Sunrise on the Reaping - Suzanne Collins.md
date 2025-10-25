@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-10-16
+reviewUrl:
+bookshopUrl:
 ---
 
 # Sunrise on the Reaping by Suzanne Collins

@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Stories: All-New Tales by Neil Gaiman & Al Sarrantonio

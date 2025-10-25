@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Rakkety Tam by Brian Jacques
@@ -34,3 +36,4 @@ _Redwall 17_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
+

@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2025-08-17 06:55:42
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Midnight Library by Matt Haig
@@ -30,7 +32,7 @@ created: 2025-08-17 06:55:42
 
 _The No.1 Sunday Times bestseller and worldwide phenomenon_
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | fantasy,UrbanFantasy,library |
 | Started |  |

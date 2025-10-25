@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2023-12-20
+reviewUrl:
+bookshopUrl:
 ---
 
 # A Scanner Darkly by Philip K Dick

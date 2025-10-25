@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2025-08-04 14:55:57
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Book of Elsewhere by Keanu Reeves, China Miéville

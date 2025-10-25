@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-06-25
+reviewUrl:
+bookshopUrl:
 ---
 
 # Boring Girls by Sara Taylor

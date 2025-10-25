@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Red Dwarf Omnibus by Grant Naylor

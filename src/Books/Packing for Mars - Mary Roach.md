@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2023-11-24
+reviewUrl:
+bookshopUrl:
 ---
 
 # Packing for Mars by Mary Roach

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-01-14
+reviewUrl:
+bookshopUrl:
 ---
 
 # City of Last Chances by Adrian Tchaikovsky

@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-31
+reviewUrl:
+bookshopUrl:
 ---
 
 # Watership Down by Richard Adams

@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-24 11:21:02
+reviewUrl:
+bookshopUrl:
 ---
 
 # Let's Go Play at the Adams' by Mendal W. Johnson

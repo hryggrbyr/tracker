@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2022-10-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Kalyna the Soothsayer by Elijah Kinch Spector

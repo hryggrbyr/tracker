@@ -20,6 +20,8 @@ recommended_by:
   name: John Rigby
   url:
 created: 2022-08-07
+reviewUrl:
+bookshopUrl:
 ---
 
 # Last Gasp by T. Hoyle

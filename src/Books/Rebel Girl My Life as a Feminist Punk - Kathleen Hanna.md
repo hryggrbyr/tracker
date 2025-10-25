@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2025-07-25 10:34:04
+reviewUrl:
+bookshopUrl:
 ---
 
 # Rebel Girl: My Life as a Feminist Punk by Kathleen Hanna

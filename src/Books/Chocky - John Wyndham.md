@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-05
+reviewUrl:
+bookshopUrl:
 ---
 
 # Chocky by John Wyndham

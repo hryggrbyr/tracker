@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-04-28
+reviewUrl:
+bookshopUrl:
 ---
 
 # Was by Geoff Ryman

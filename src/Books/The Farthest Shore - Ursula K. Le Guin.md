@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2020-04-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Farthest Shore by Ursula K. Le Guin
@@ -37,3 +39,4 @@ _Earthsea 3_
 | Started |  |
 | Finished | 2020-02-24T00:00:00.000+00:00 |
 | Rating | /5 |
+

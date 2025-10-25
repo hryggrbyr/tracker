@@ -25,6 +25,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-24 18:32:21
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Silence of the Lambs by Thomas Harris
@@ -33,7 +35,7 @@ created: 2025-10-24 18:32:21
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | police,crime,SerialKiller,psychology,america,adventure |
 | Started |  |

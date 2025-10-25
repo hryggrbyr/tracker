@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2015-12-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Trigger Warning by Neil Gaiman

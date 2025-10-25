@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-04-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # Humanborn by Joanna Maciejewska

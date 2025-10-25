@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Heroes of Olympus by Rick Riordan
@@ -36,4 +38,3 @@ _The Heroes of Olympus 1_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-09-09
+reviewUrl:
+bookshopUrl:
 ---
 
 # Ghost Ship by Kate Mosse

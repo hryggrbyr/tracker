@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-04-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # You by Caroline Kepnes
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

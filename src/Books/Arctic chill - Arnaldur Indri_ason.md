@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-04-26
+reviewUrl:
+bookshopUrl:
 ---
 
 # Arctic chill by Arnaldur Indriðason

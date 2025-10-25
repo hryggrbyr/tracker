@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-01-01
+reviewUrl:
+bookshopUrl:
 ---
 
 # Roadside Picnic by Boris Strugatsky

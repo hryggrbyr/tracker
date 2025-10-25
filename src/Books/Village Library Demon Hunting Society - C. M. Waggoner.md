@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2024-10-30
+reviewUrl:
+bookshopUrl:
 ---
 
 # Village Library Demon Hunting Society by C. M. Waggoner

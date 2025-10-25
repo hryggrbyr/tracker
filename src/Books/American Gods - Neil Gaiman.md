@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2022-12-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # American Gods by Neil Gaiman

@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2024-09-13
+reviewUrl:
+bookshopUrl:
 ---
 
 # Twinkle, Twinkle, Little Spy by Len Deighton

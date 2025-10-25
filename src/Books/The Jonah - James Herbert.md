@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-17 20:40:26
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Jonah by James Herbert
@@ -30,7 +32,7 @@ created: 2025-10-17 20:40:26
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | horror,supernatural,DrugSmuggling |
 | Started |  |

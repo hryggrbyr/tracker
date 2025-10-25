@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-07-17
+reviewUrl:
+bookshopUrl:
 ---
 
 # Queens Of Osiris by Phillip Tomasso

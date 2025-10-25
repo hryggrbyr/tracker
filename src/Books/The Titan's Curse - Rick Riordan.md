@@ -24,6 +24,8 @@ recommended_by:
   name:
   url:
 created: 2015-10-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Titan's Curse by Rick Riordan
@@ -38,4 +40,3 @@ _Percy Jackson and the Olympians 3_
 | Started |  |
 | Finished | 2011-09-12T00:00:00.000+01:00 |
 | Rating | 4/5 |
-

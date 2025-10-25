@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2025-02-13
+reviewUrl: /posts/book-review-book-of-night-holly-black
+bookshopUrl:
 ---
 
 # Book of Night by Holly Black

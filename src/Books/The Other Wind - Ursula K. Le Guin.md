@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Other Wind by Ursula K. Le Guin
@@ -37,4 +39,3 @@ _Earthsea 5_
 | Started |  |
 | Finished | 2020-03-01T00:00:00.000+00:00 |
 | Rating | /5 |
-

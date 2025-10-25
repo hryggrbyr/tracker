@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2015-10-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Minority Report by Philip K Dick
@@ -35,4 +37,3 @@ _ _
 | Started |  |
 | Finished | 2018-05-02T00:00:00.000+01:00 |
 | Rating | 3/5 |
-

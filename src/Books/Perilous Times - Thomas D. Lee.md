@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-01-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Perilous Times by Thomas D. Lee

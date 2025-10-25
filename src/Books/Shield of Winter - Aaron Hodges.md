@@ -1,10 +1,13 @@
 ---
 tags:
   - fantasy
+  - SwordAndSorcery
   - magic
+  - wizards
+  - dragons
   - war
 title: Shield of Winter
-subtitle: An Epic Fantasy Novel With Gods, Dragons and Magic
+subtitle: Legend of the Gods 2
 author:
   - Aaron Hodges
 publisher: Aaron Hodges
@@ -22,18 +25,18 @@ recommended_by:
   name:
   url:
 created: 2025-07-16 16:17:11
-updated: 2025-07-16 16:17:11
+reviewUrl: /posts/book-review-shield-of-winter-aaron-hodges
 ---
 
 # Shield of Winter by Aaron Hodges
 
 ![Book Cover Art](http://books.google.com/books/content?id=uKKuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
-_An Epic Fantasy Novel With Gods, Dragons and Magic_
+_Legend of the Gods 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,magic,war |
+| Genre | fantasy,SwordAndSorcery,magic,wizards,dragons,war |
 | Started | 2025-03-31T00:00:00.000+01:00 |
 | Finished | 2025-04-11T00:00:00.000+01:00 |
 | Rating | 3/5 |

@@ -20,6 +20,8 @@ recommended_by:
   name: Jill Hammer
   url: https://electricliterature.com/7-queer-fantasy-novels-enchanted-with-water-magic/
 created: 2025-10-12 06:17:34
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Bright Sword by Lev Grossman

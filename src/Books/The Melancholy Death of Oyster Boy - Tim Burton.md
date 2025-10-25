@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Melancholy Death of Oyster Boy by Tim Burton
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished | 1999-08-17T00:00:00.000+01:00 |
 | Rating | /5 |
-

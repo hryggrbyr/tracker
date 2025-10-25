@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2024-09-21
+reviewUrl:
+bookshopUrl:
 ---
 
 # The House in the Cerulean Sea by TJ Klune
@@ -36,4 +38,3 @@ _The Cerulean Chronicles 1_
 | Started | 2024-08-23T00:00:00.000+01:00 |
 | Finished | 2024-09-20T00:00:00.000+01:00 |
 | Rating | 5/5 |
-

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-06-04
+reviewUrl:
+bookshopUrl:
 ---
 
 # Wake by Elizabeth Knox

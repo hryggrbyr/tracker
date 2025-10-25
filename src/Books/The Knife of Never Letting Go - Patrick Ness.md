@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-05-28
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Knife of Never Letting Go by Patrick Ness
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

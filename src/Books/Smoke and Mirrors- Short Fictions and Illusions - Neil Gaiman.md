@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Smoke and Mirrors: Short Fictions and Illusions by Neil Gaiman

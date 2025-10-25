@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # Galilee by Clive Barker

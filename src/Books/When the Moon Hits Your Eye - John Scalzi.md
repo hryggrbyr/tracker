@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-07-25 10:34:24
+reviewUrl:
+bookshopUrl:
 ---
 
 # When the Moon Hits Your Eye by John Scalzi

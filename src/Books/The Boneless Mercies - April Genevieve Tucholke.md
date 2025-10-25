@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2021-12-11
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Boneless Mercies by April Genevieve Tucholke

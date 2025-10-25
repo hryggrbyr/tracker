@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-02-27
+reviewUrl:
+bookshopUrl:
 ---
 
 # Son of the Black Sword (Saga of the Forgotten Warrior) by Larry Correia

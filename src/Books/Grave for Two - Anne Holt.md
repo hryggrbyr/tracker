@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2021-12-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Grave for Two by Anne Holt

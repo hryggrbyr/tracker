@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-04-17
+reviewUrl:
+bookshopUrl:
 ---
 
 # Shadow of a Dark Queen (Serpentwar Saga) by Raymond E. Feist

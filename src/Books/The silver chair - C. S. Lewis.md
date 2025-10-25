@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 1994-07-01
+reviewUrl:
+bookshopUrl:
 ---
 
 # The silver chair by C. S. Lewis

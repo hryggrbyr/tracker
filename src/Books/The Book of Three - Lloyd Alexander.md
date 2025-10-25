@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2020-04-23
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Book of Three by Lloyd Alexander

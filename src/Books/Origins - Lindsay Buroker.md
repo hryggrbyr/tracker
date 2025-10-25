@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-11-29
+reviewUrl:
+bookshopUrl:
 ---
 
 # Origins by Lindsay Buroker

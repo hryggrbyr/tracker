@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-02-08
+reviewUrl:
+bookshopUrl:
 ---
 
 # White As Snow by Lilja Sigurðardóttir
@@ -33,4 +35,3 @@ _An Áróra Investigation 03_
 | Started | 2024-01-22T00:00:00.000+00:00 |
 | Finished | 2024-02-08T00:00:00.000+00:00 |
 | Rating | /5 |
-

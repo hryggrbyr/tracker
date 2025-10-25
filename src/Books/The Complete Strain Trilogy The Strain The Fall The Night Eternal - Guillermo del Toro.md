@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-15 06:04:39
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Complete Strain Trilogy: The Strain, The Fall, The Night Eternal by Guillermo del Toro

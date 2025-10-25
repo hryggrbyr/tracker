@@ -20,6 +20,8 @@ recommended_by:
   name: Ylvis
   url:
 created: 2025-08-04 16:33:30
+reviewUrl:
+bookshopUrl:
 ---
 
 # What Does the Fox Say? by Ylvis

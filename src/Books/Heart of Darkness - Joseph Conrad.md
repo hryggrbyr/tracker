@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-21
+reviewUrl:
+bookshopUrl:
 ---
 
 # Heart of Darkness by Joseph Conrad

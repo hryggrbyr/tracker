@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Last Dragonslayer by Jasper Fforde
@@ -36,4 +38,3 @@ __
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

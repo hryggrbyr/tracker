@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2025-04-28
+reviewUrl:
+bookshopUrl:
 ---
 
 # Vampirates: Demons of the Ocean by Justin Somper

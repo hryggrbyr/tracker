@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2022-12-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # Ombria in Shadow by Patricia A. McKillip

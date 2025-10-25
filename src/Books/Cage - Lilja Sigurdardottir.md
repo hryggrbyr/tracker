@@ -25,6 +25,8 @@ recommended_by:
   name:
   url:
 created: 2022-01-05
+reviewUrl: /posts/book-review-cage-lilja-sigurdardottir
+bookshopUrl:
 ---
 
 # Cage by Lilja Sigurðardóttir

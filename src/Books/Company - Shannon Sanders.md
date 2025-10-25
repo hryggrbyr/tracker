@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-11-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # Company by Shannon Sanders

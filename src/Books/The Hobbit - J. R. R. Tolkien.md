@@ -22,6 +22,8 @@ recommended_by:
   name: Mr Preston
   url:
 created: 2015-10-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Hobbit by J. R. R. Tolkien

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-01-27
+reviewUrl:
+bookshopUrl:
 ---
 
 # Featherhood by Charlie Gilmour

@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2022-05-13
+reviewUrl:
+bookshopUrl:
 ---
 
 # A Promise of Fire by Amanda Bouchet

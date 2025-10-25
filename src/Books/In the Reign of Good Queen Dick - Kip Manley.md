@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2022-12-27
+reviewUrl:
+bookshopUrl:
 ---
 
 # In the Reign of Good Queen Dick by Kip Manley

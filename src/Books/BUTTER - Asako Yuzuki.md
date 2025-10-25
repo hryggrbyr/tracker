@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-12-14
+reviewUrl:
+bookshopUrl:
 ---
 
 # BUTTER by Asako Yuzuki

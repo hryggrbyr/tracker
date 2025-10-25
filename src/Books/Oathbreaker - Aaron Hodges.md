@@ -1,6 +1,8 @@
 ---
 tags:
   - fantasy
+  - SwordAndSorcery
+  - magic
   - wizards
   - dragons
   - war
@@ -23,6 +25,8 @@ recommended_by:
   name:
   url:
 created: 2025-04-19
+reviewUrl: /posts/book-review-oathbreaker-aaron-hodges
+bookshopUrl:
 ---
 
 # Oathbreaker by Aaron Hodges
@@ -33,7 +37,7 @@ _Legend of the Gods 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,wizards,dragons,war |
+| Genre | fantasy,SwordAndSorcery,magic,wizards,dragons,war |
 | Started | 2025-03-18T00:00:00.000+00:00 |
 | Finished | 2025-03-31T00:00:00.000+01:00 |
 | Rating | 4/5 |

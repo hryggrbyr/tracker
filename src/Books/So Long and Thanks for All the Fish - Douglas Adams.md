@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-15 15:09:47
+reviewUrl:
+bookshopUrl:
 ---
 
 # So Long, and Thanks for All the Fish by Douglas Adams

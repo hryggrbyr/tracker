@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2020-04-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # Hainish Novels and Stories Vol. 2 by Ursula K. Le Guin

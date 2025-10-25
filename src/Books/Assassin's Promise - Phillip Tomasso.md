@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-07-29
+reviewUrl:
+bookshopUrl:
 ---
 
 # Assassin's Promise by Phillip Tomasso

@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2015-10-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Rats by James Herbert
@@ -34,4 +36,3 @@ _ _
 | Started |  |
 | Finished | 1990-11-13T00:00:00.000+00:00 |
 | Rating | 4/5 |
-

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-31
+reviewUrl:
+bookshopUrl:
 ---
 
 # Rot and Ruin by Jonathan Maberry

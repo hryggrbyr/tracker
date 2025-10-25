@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2021-03-17
+reviewUrl:
+bookshopUrl:
 ---
 
 # Silverthorn by Raymond E. Feist

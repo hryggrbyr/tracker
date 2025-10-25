@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-15 15:03:42
+reviewUrl:
+bookshopUrl:
 ---
 
 # Last Rituals by Yrsa Sigurdardottir
@@ -30,7 +32,7 @@ created: 2025-10-15 15:03:42
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | scandinoir,crime,iceland |
 | Started |  |

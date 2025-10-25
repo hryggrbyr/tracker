@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2024-09-13
+reviewUrl:
+bookshopUrl:
 ---
 
 # American Psycho by Bret Easton Ellis

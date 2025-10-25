@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-04-03
+reviewUrl:
+bookshopUrl:
 ---
 
 # In the Woods by Tana French

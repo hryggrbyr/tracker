@@ -4,6 +4,7 @@ tags:
   - horror
   - supernatural
   - HistoricalFiction
+  - england
 title: Hokey Pokey
 subtitle: ""
 author:
@@ -21,8 +22,10 @@ end_date: 2025-01-01
 rating: 5
 recommended_by:
   name: Terence Eden
-  url:
+  url: https://shkspr.mobi/blog/2023/12/book-review-hokey-pokey-kate-mascarenhas/
 created: 2025-01-01
+reviewUrl: /posts/book-review-hokey-pokey-kate-mascarenhas
+bookshopUrl:
 ---
 
 # Hokey Pokey by Kate Mascarenhas
@@ -33,7 +36,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | thriller,horror,supernatural,HistoricalFiction |
+| Genre | thriller,horror,supernatural,HistoricalFiction,england |
 | Started | 2024-12-23T00:00:00.000+00:00 |
 | Finished | 2025-01-01T00:00:00.000+00:00 |
 | Rating | 5/5 |

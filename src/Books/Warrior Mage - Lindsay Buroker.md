@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-03-03
+reviewUrl:
+bookshopUrl:
 ---
 
 # Warrior Mage by Lindsay Buroker

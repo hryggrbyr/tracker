@@ -20,6 +20,8 @@ recommended_by:
   name: Annie Mueller
   url: https://anniemueller.com/posts/reading-notes-august-september
 created: 2025-10-10 07:03:24
+reviewUrl:
+bookshopUrl:
 ---
 
 # Crazy Hawk by R. J. Stewart

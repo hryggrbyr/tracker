@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-01-10
+reviewUrl:
+bookshopUrl:
 ---
 
 # Poor Things by Alasdair Gray

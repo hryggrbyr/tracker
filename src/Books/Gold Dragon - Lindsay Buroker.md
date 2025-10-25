@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-12-15
+reviewUrl:
+bookshopUrl:
 ---
 
 # Gold Dragon by Lindsay Buroker

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-01-11
+reviewUrl:
+bookshopUrl:
 ---
 
 # Piranesi by Susanna Clarke
