@@ -24,6 +24,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-24 18:34:42
+reviewUrl:
+bookshopUrl:
 ---
 
 # Hannibal Rising by Thomas Harris
@@ -32,7 +34,7 @@ created: 2025-10-24 18:34:42
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | crime,SerialKiller,psychology,HistoricalFiction,adventure |
 | Started |  |
