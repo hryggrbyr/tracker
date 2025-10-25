@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Host: A Novel by Stephenie Meyer
@@ -36,4 +38,3 @@ _ 6_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
