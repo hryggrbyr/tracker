@@ -24,6 +24,8 @@ recommended_by:
   name: Bookbub
   url:
 created: 2025-07-27 20:40:08
+reviewUrl: /posts/book-review-the-garden-of-delights-amal-singh
+bookshopUrl:
 ---
 
 # The Garden of Delights by Amal Singh
