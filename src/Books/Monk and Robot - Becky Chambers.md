@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2025-07-25 10:35:45
+reviewUrl:
+bookshopUrl:
 ---
 
 # Monk and Robot by Becky Chambers
