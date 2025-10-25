@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-21
+reviewUrl:
+bookshopUrl:
 ---
 
 # House of Hollow by Krystal Sutherland
