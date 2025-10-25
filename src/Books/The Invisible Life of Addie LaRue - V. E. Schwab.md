@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-12-21
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Invisible Life of Addie LaRue by V. E. Schwab
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
