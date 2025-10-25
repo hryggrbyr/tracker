@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-03-19
+reviewUrl:
+bookshopUrl:
 ---
 
 # Queen of the High Fields by Rhiannon A. Grist
