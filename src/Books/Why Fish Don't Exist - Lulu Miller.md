@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-09-29
+reviewUrl:
+bookshopUrl:
 ---
 
 # Why Fish Don't Exist by Lulu Miller
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
