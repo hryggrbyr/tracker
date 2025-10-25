@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-09-26
+reviewUrl:
+bookshopUrl:
 ---
 
 # Hothouse by Brian W. Aldiss
