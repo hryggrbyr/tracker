@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2021-05-07
+reviewUrl:
+bookshopUrl:
 ---
 
 # Lies Sleeping by Ben Aaronovitch
