@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - quest
+  - classic
 title: The Hobbit
 subtitle: or There and Back Again
 author:
@@ -13,7 +16,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL31900303M-M.jpg
 shelf: read
 owned: true
 start_date: 1988-09-04
-end_date: 1990-08-10
+end_date: 1990-06-10
 rating: 3
 recommended_by:
   name: Mr Preston
@@ -29,7 +32,7 @@ _or There and Back Again_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,quest,classic |
 | Started | 1988-09-04T00:00:00.000+01:00 |
-| Finished | 1990-08-10T00:00:00.000+01:00 |
+| Finished | 1990-06-10T00:00:00.000+01:00 |
 | Rating | 3/5 |
