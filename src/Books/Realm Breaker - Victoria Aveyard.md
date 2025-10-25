@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2022-08-07
+reviewUrl:
+bookshopUrl:
 ---
 
 # Realm Breaker by Victoria Aveyard
