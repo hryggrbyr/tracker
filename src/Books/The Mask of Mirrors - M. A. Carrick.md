@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-09-11
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Mask of Mirrors by M. A. Carrick
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
