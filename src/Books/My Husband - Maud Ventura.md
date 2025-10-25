@@ -20,6 +20,8 @@ recommended_by:
   name: Alice at Wallflower Digest
   url: https://thewallflowerdigest.co.uk/books/reading-roundup/reading-roundup-july-2025/
 created: 2025-08-03 08:04:02
+reviewUrl:
+bookshopUrl:
 ---
 
 # My Husband by Maud Ventura
