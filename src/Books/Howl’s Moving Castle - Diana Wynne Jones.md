@@ -24,6 +24,8 @@ recommended_by:
   name: Studio Ghibli
   url:
 created: 2022-04-01 17:42:29
+reviewUrl:
+bookshopUrl:
 ---
 
 # Howl’s Moving Castle by Diana Wynne Jones
