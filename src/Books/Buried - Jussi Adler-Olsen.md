@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-07-12
+reviewUrl:
+bookshopUrl:
 ---
 
 # Buried (Department Q #5) by Jussi Adler-Olsen
