@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-01-15
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Hellebore Society by Serenity Dillaway
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
