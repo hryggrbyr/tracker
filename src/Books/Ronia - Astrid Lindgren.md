@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-06-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # Ronia by Astrid Lindgren
