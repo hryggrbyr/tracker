@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2024-12-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # Bound in Blood by Tarah Benner
