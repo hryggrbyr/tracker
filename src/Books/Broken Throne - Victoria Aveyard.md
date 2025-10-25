@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2019-08-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # Broken Throne by Victoria Aveyard
