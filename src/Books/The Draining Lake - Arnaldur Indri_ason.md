@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-04-26
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Draining Lake by Arnaldur Indriðason
