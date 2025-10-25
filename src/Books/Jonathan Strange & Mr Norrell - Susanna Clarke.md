@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Jonathan Strange & Mr Norrell by Susanna Clarke
