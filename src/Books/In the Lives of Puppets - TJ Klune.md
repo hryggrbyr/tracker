@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-02-19
+reviewUrl:
+bookshopUrl:
 ---
 
 # In the Lives of Puppets by TJ Klune
