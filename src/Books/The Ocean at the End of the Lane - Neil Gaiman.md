@@ -22,6 +22,8 @@ recommended_by:
   name: Martin Cutillo-Rigby
   url:
 created: 2015-10-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Ocean at the End of the Lane by Neil Gaiman
@@ -30,7 +32,7 @@ created: 2015-10-06
 
 _Illustrated Edition_
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | fantasy,UrbanFantasy,ModernFairyTale |
 | Started | 2020-12-25T00:00:00.000+00:00 |
