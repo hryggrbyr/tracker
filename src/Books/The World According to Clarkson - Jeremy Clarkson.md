@@ -22,6 +22,8 @@ recommended_by:
   name: Oliver Playforth
   url:
 created: 2025-08-06 08:33:24
+reviewUrl:
+bookshopUrl:
 ---
 
 # The World According to Clarkson by Jeremy Clarkson
