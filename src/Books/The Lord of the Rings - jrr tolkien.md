@@ -23,6 +23,8 @@ recommended_by:
   name: Mr Preston
   url:
 created: 2023-09-29
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Lord of the Rings by J. R. R. Tolkien
