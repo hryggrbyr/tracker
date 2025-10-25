@@ -1,5 +1,13 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - epic
+  - UrbanFantasy
+  - HistoricalFantasy
+  - magic
+  - war
+  - family
+  - relationships
 title: The Toymakers
 subtitle: " "
 author:
@@ -19,6 +27,8 @@ recommended_by:
   name:
   url:
 created: 2025-01-09
+reviewUrl: /posts/book-review-the-toymakers-robert-dinsdale
+bookshopUrl:
 ---
 
 # The Toymakers by Robert Dinsdale
@@ -29,8 +39,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,epic,UrbanFantasy,HistoricalFantasy,magic,war,family,relationships |
 | Started | 2025-01-01T00:00:00.000+00:00 |
 | Finished | 2025-01-09T00:00:00.000+00:00 |
 | Rating | 5/5 |
-
