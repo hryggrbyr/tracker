@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2023-09-29
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Wasp Factory by Iain M. Banks
@@ -36,4 +38,3 @@ __
 | Started | 1992-12-01T00:00:00.000+00:00 |
 | Finished | 1992-12-24T00:00:00.000+00:00 |
 | Rating | 5/5 |
-
