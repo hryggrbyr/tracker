@@ -20,6 +20,8 @@ recommended_by:
   name: Jamison Shea
   url:
 created: 2025-08-26 21:08:39
+reviewUrl:
+bookshopUrl:
 ---
 
 # Roar of the Lambs by Jamison Shea
