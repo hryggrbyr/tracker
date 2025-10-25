@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-08-03
+reviewUrl:
+bookshopUrl:
 ---
 
 # Jimmy the kid by Donald E. Westlake
