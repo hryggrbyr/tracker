@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Marco Effect by Jussi Adler-Olsen
@@ -33,4 +35,3 @@ __
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
