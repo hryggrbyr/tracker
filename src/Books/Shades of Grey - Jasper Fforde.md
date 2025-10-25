@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-03-10
+reviewUrl:
+bookshopUrl:
 ---
 
 # Shades of Grey by Jasper Fforde
