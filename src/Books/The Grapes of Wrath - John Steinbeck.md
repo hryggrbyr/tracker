@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-08-06 08:31:44
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Grapes of Wrath by John Steinbeck
