@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Somewhere Beyond the Sea by TJ Klune
@@ -35,3 +37,4 @@ _The Cerulean Chronicles 2_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
+
