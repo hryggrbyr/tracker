@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-17 19:48:55
+reviewUrl:
+bookshopUrl:
 ---
 
 # Gone Before Goodbye by Harlan Coben, Reese Witherspoon
@@ -31,7 +33,7 @@ created: 2025-10-17 19:48:55
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | thriller,medical,military |
 | Started |  |
