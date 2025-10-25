@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-09-13
+reviewUrl:
+bookshopUrl:
 ---
 
 # Clive Barker's books of blood by Clive Barker
