@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Shadow Murders: A Department Q Novel by Jussi Adler-Olsen
@@ -34,4 +36,3 @@ _Department Q 9_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-
