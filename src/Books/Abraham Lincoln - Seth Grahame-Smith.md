@@ -1,6 +1,10 @@
 ---
-tags: []
-title: Abraham Lincoln
+tags:
+  - horror
+  - vampires
+  - america
+  - HistoricalFantasy
+title: Abraham Lincoln, Vampire Hunter
 subtitle: " "
 author:
   - Seth Grahame-Smith
@@ -23,7 +27,7 @@ reviewUrl:
 bookshopUrl:
 ---
 
-# Abraham Lincoln by Seth Grahame-Smith
+# Abraham Lincoln, Vampire Hunter by Seth Grahame-Smith
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL24194711M-M.jpg)
 
@@ -31,7 +35,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | horror,vampires,america,HistoricalFantasy |
 | Started | 2010-03-02T00:00:00.000+00:00 |
 | Finished | 2010-03-02T00:00:00.000+00:00 |
 | Rating | 3/5 |
