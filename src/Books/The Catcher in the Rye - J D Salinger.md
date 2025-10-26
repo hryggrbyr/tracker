@@ -8,7 +8,7 @@ author:
 publisher: Amereon Limited
 published: 1951-09-01
 page_count: 277
-isbn: 0848832914 9780848832919
+isbn: 9780848832919
 description: Originally published in hardcover by Little,Brown and Company, July 1951--T.p. vers
 coverUrl: http://books.google.com/books/content?id=Bb91ngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
