@@ -8,7 +8,7 @@ author:
 publisher: HarperCollins
 published: 1998-06-03T08:00:00+01:00
 page_count:
-isbn:
+isbn: 9781447294610
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
