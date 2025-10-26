@@ -27,7 +27,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -56,7 +58,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-22T00:00:00.000Z"
+      "created": "2025-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -85,7 +89,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -116,7 +122,9 @@
         "name": "Kobo blog",
         "url": null
       },
-      "created": "2025-09-28T19:05:17.000Z"
+      "created": "2025-09-28T19:05:17.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -149,7 +157,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-01-21T00:00:00.000Z"
+      "created": "2025-01-21T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-yellowface-rf-kuang",
+      "bookshopUrl": null
     }
   },
   {
@@ -178,7 +188,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-13T00:00:00.000Z"
+      "created": "2024-09-13T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -209,7 +221,9 @@
         "name": "Robin Rendle",
         "url": "https://robinrendle.com/notes/book-notes/"
       },
-      "created": "2025-07-18T05:08:39.000Z"
+      "created": "2025-07-18T05:08:39.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -238,7 +252,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-03-14T00:00:00.000Z"
+      "created": "2023-03-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -267,7 +283,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-07-03T00:00:00.000Z"
+      "created": "2024-07-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -296,7 +314,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-06-13T00:00:00.000Z"
+      "created": "2024-06-13T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -325,7 +345,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-02-22T00:00:00.000Z"
+      "created": "2025-02-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -354,7 +376,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -383,7 +407,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-01-11T00:00:00.000Z"
+      "created": "2025-01-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -415,7 +441,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -447,7 +475,9 @@
         "name": null,
         "url": null
       },
-      "created": "2016-05-06T00:00:00.000Z"
+      "created": "2016-05-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -476,7 +506,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-09-29T00:00:00.000Z"
+      "created": "2023-09-29T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -505,7 +537,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-21T00:00:00.000Z"
+      "created": "2023-10-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -534,7 +568,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-02-08T00:00:00.000Z"
+      "created": "2024-02-08T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -568,7 +604,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-04-22T00:00:00.000Z"
+      "created": "2021-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -599,7 +637,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-25T10:34:24.000Z"
+      "created": "2025-07-25T10:34:24.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -630,7 +670,9 @@
         "name": "Ylvis",
         "url": null
       },
-      "created": "2025-08-04T16:33:30.000Z"
+      "created": "2025-08-04T16:33:30.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -659,7 +701,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-01-16T00:00:00.000Z"
+      "created": "2024-01-16T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -693,7 +737,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -722,7 +768,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-04-28T00:00:00.000Z"
+      "created": "2023-04-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -751,7 +799,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-03-03T00:00:00.000Z"
+      "created": "2025-03-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -785,7 +835,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-06T19:30:40.000Z"
+      "created": "2025-08-06T19:30:40.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -818,7 +870,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -847,7 +901,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-27T00:00:00.000Z"
+      "created": "2022-12-27T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -876,7 +932,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-06-04T00:00:00.000Z"
+      "created": "2023-06-04T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -907,7 +965,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-26T00:00:00.000Z"
+      "created": "2025-04-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -936,7 +996,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -969,7 +1031,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-10-30T00:00:00.000Z"
+      "created": "2024-10-30T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1000,7 +1064,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1031,7 +1097,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1063,7 +1131,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-28T00:00:00.000Z"
+      "created": "2025-04-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1092,7 +1162,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-12-05T00:00:00.000Z"
+      "created": "2024-12-05T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1121,7 +1193,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-18T00:00:00.000Z"
+      "created": "2022-12-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1150,7 +1224,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1179,7 +1255,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-02-19T00:00:00.000Z"
+      "created": "2025-02-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1211,7 +1289,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-13T00:00:00.000Z"
+      "created": "2024-09-13T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1246,7 +1326,9 @@
         "name": null,
         "url": null
       },
-      "created": "2009-12-01T00:00:00.000Z"
+      "created": "2009-12-01T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-twilight-stephenie-meyer",
+      "bookshopUrl": null
     }
   },
   {
@@ -1275,7 +1357,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-07T00:00:00.000Z"
+      "created": "2023-01-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1304,7 +1388,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-03-01T00:00:00.000Z"
+      "created": "2024-03-01T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1338,7 +1424,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1367,7 +1455,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-12-18T00:00:00.000Z"
+      "created": "2015-12-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1396,7 +1486,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1432,7 +1524,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-14T00:00:00.000Z"
+      "created": "2025-07-14T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-trap-lilja-sigurdardottir",
+      "bookshopUrl": null
     }
   },
   {
@@ -1463,7 +1557,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1496,7 +1592,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-23T00:00:00.000Z"
+      "created": "2024-08-23T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1525,7 +1623,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1557,7 +1657,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1586,7 +1688,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-06-11T00:00:00.000Z"
+      "created": "2024-06-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1615,7 +1719,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-07-20T00:00:00.000Z"
+      "created": "2024-07-20T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1647,7 +1753,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1679,7 +1787,9 @@
         "name": null,
         "url": null
       },
-      "created": "1994-07-01T00:00:00.000Z"
+      "created": "1994-07-01T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1708,7 +1818,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1740,7 +1852,9 @@
         "name": null,
         "url": null
       },
-      "created": "1994-07-01T00:00:00.000Z"
+      "created": "1994-07-01T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1769,7 +1883,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-09-24T00:00:00.000Z"
+      "created": "2021-09-24T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1801,7 +1917,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1832,7 +1950,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1863,7 +1983,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1894,7 +2016,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1923,7 +2047,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1932,7 +2058,9 @@
     "slug": "The World According to Clarkson - Jeremy Clarkson",
     "frontmatter": {
       "tags": [
-        "Humor"
+        "Comedy",
+        "OpinionColumn",
+        "nonfiction"
       ],
       "title": "The World According to Clarkson",
       "subtitle": "The World According to Clarkson Volume 1",
@@ -1954,7 +2082,9 @@
         "name": "Oliver Playforth",
         "url": null
       },
-      "created": "2025-08-06T08:33:24.000Z"
+      "created": "2025-08-06T08:33:24.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -1983,7 +2113,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-28T00:00:00.000Z"
+      "created": "2023-01-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2012,7 +2144,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2041,7 +2175,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-07-19T00:00:00.000Z"
+      "created": "2021-07-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2072,7 +2208,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2105,7 +2243,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-09-29T00:00:00.000Z"
+      "created": "2023-09-29T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2134,7 +2274,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-01-09T00:00:00.000Z"
+      "created": "2025-01-09T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2168,7 +2310,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-17T06:42:41.000Z"
+      "created": "2025-08-17T06:42:41.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2197,7 +2341,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2226,7 +2372,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2234,7 +2382,16 @@
     "path": "src/Books/The Toymakers - Robert Dinsdale.md",
     "slug": "The Toymakers - Robert Dinsdale",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "epic",
+        "UrbanFantasy",
+        "HistoricalFantasy",
+        "magic",
+        "war",
+        "family",
+        "relationships"
+      ],
       "title": "The Toymakers",
       "subtitle": " ",
       "author": [
@@ -2255,7 +2412,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-01-09T00:00:00.000Z"
+      "created": "2025-01-09T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-the-toymakers-robert-dinsdale",
+      "bookshopUrl": null
     }
   },
   {
@@ -2289,7 +2448,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2324,7 +2485,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2353,7 +2516,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-10-18T00:00:00.000Z"
+      "created": "2022-10-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2384,7 +2549,9 @@
         "name": "Annie Mueller",
         "url": "https://anniemueller.com/posts/reading-notes-august-september"
       },
-      "created": "2025-10-10T07:02:51.000Z"
+      "created": "2025-10-10T07:02:51.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2413,7 +2580,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-06-16T00:00:00.000Z"
+      "created": "2025-06-16T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2445,7 +2614,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-11-06T00:00:00.000Z"
+      "created": "2022-11-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2474,7 +2645,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-26T00:00:00.000Z"
+      "created": "2022-12-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2503,7 +2676,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-06-07T00:00:00.000Z"
+      "created": "2021-06-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2536,7 +2711,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2565,7 +2742,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-02-23T00:00:00.000Z"
+      "created": "2023-02-23T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2594,7 +2773,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-22T00:00:00.000Z"
+      "created": "2022-12-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2623,7 +2804,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2631,7 +2814,13 @@
     "path": "src/Books/The Snow Song - Sally Gardner.md",
     "slug": "The Snow Song - Sally Gardner",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "magic",
+        "supernatural",
+        "charming",
+        "gentle"
+      ],
       "title": "The Snow Song",
       "subtitle": " ",
       "author": [
@@ -2652,7 +2841,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-01-26T00:00:00.000Z"
+      "created": "2025-01-26T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-the-snow-song-sally-gardner",
+      "bookshopUrl": null
     }
   },
   {
@@ -2681,7 +2872,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-12-20T00:00:00.000Z"
+      "created": "2023-12-20T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2715,7 +2908,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-15T15:21:58.000Z"
+      "created": "2025-10-15T15:21:58.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2751,7 +2946,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-17T00:00:00.000Z"
+      "created": "2022-12-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2787,7 +2984,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-24T18:32:21.000Z"
+      "created": "2025-10-24T18:32:21.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2824,7 +3023,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-06-29T00:00:00.000Z"
+      "created": "2025-06-29T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-the-silence-factory-bridget-collins",
+      "bookshopUrl": null
     }
   },
   {
@@ -2857,7 +3058,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2886,7 +3089,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2915,7 +3120,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2951,7 +3158,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-03-12T00:00:00.000Z"
+      "created": "2023-03-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -2982,7 +3191,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3011,7 +3222,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3040,7 +3253,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-10-06T00:00:00.000Z"
+      "created": "2024-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3071,7 +3286,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3106,7 +3323,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3135,7 +3354,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-12T00:00:00.000Z"
+      "created": "2025-07-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3169,7 +3390,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3198,7 +3421,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3227,7 +3452,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-07-20T00:00:00.000Z"
+      "created": "2024-07-20T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3261,7 +3488,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3290,7 +3519,9 @@
         "name": null,
         "url": null
       },
-      "created": "2017-11-02T00:00:00.000Z"
+      "created": "2017-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3319,7 +3550,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3348,7 +3581,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3377,7 +3612,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3406,7 +3643,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3435,7 +3674,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3467,7 +3708,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3498,7 +3741,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3529,7 +3774,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3558,7 +3805,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3587,7 +3836,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-12T00:00:00.000Z"
+      "created": "2025-07-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3616,7 +3867,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-07-27T00:00:00.000Z"
+      "created": "2020-07-27T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3645,7 +3898,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-09-29T00:00:00.000Z"
+      "created": "2023-09-29T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3678,7 +3933,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3707,7 +3964,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-08-05T00:00:00.000Z"
+      "created": "2020-08-05T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3738,7 +3997,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3769,7 +4030,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-06T19:32:37.000Z"
+      "created": "2025-08-06T19:32:37.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3805,7 +4068,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-18T00:00:00.000Z"
+      "created": "2023-01-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3839,7 +4104,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3868,7 +4135,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-07-03T00:00:00.000Z"
+      "created": "2024-07-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3901,7 +4170,9 @@
         "name": "Martin Cutillo-Rigby",
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3937,7 +4208,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-04-22T00:00:00.000Z"
+      "created": "2021-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3966,7 +4239,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-02-27T00:00:00.000Z"
+      "created": "2023-02-27T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -3998,7 +4273,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4029,7 +4306,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4058,7 +4337,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4091,7 +4372,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-17T06:55:42.000Z"
+      "created": "2025-08-17T06:55:42.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4120,7 +4403,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-11T00:00:00.000Z"
+      "created": "2024-11-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4149,7 +4434,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-18T00:00:00.000Z"
+      "created": "2024-08-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4178,7 +4465,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-11T00:00:00.000Z"
+      "created": "2024-09-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4207,7 +4496,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4236,7 +4527,9 @@
         "name": null,
         "url": null
       },
-      "created": "2016-05-06T00:00:00.000Z"
+      "created": "2016-05-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4265,7 +4558,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4294,7 +4589,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-26T00:00:00.000Z"
+      "created": "2025-04-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4323,7 +4620,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4352,7 +4651,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4388,7 +4689,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-04-24T00:00:00.000Z"
+      "created": "2023-04-24T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4421,7 +4724,9 @@
         "name": "Silvia",
         "url": null
       },
-      "created": "2025-10-12T06:30:32.000Z"
+      "created": "2025-10-12T06:30:32.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4429,7 +4734,16 @@
     "path": "src/Books/The Magicians - Lev Grossman.md",
     "slug": "The Magicians - Lev Grossman",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "UrbanFantasy",
+        "magic",
+        "wizards",
+        "MagicalSchool",
+        "ParallelWorlds",
+        "horror",
+        "DarkFantasy"
+      ],
       "title": "The Magicians",
       "subtitle": "Magician 1",
       "author": [
@@ -4450,7 +4764,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-05-01T00:00:00.000Z"
+      "created": "2025-05-01T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-the-magicians-lev-grossman",
+      "bookshopUrl": null
     }
   },
   {
@@ -4458,7 +4774,16 @@
     "path": "src/Books/The Magician's Land - Lev Grossman.md",
     "slug": "The Magician's Land - Lev Grossman",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "UrbanFantasy",
+        "magic",
+        "wizards",
+        "MagicalSchool",
+        "ParallelWorlds",
+        "horror",
+        "DarkFantasy"
+      ],
       "title": "The Magician's Land",
       "subtitle": "Magician 3",
       "author": [
@@ -4479,7 +4804,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-05-23T00:00:00.000Z"
+      "created": "2025-05-23T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-the-magicians-land-lev-grossman",
+      "bookshopUrl": null
     }
   },
   {
@@ -4487,7 +4814,16 @@
     "path": "src/Books/The Magician King - Lev Grossman.md",
     "slug": "The Magician King - Lev Grossman",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "UrbanFantasy",
+        "magic",
+        "wizards",
+        "MagicalSchool",
+        "ParallelWorlds",
+        "horror",
+        "DarkFantasy"
+      ],
       "title": "The Magician King",
       "subtitle": "Magician 2",
       "author": [
@@ -4508,7 +4844,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-05-11T00:00:00.000Z"
+      "created": "2025-05-11T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-the-magician-king-lev-grossman",
+      "bookshopUrl": null
     }
   },
   {
@@ -4541,7 +4879,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4575,7 +4915,9 @@
         "name": "Mr Preston",
         "url": null
       },
-      "created": "2023-09-29T00:00:00.000Z"
+      "created": "2023-09-29T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4609,7 +4951,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4641,7 +4985,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4673,7 +5019,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4704,7 +5052,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4733,7 +5083,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-11T00:00:00.000Z"
+      "created": "2024-09-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4741,9 +5093,16 @@
     "path": "src/Books/The Legend of the Gods - Aaron Hodges.md",
     "slug": "The Legend of the Gods - Aaron Hodges",
     "frontmatter": {
-      "tags": [],
-      "title": "The Legend of the Gods",
-      "subtitle": " ",
+      "tags": [
+        "fantasy",
+        "SwordAndSorcery",
+        "magic",
+        "wizards",
+        "dragons",
+        "war"
+      ],
+      "title": "Dawn of War",
+      "subtitle": "Legend of the Gods 3",
       "author": [
         "Aaron Hodges"
       ],
@@ -4762,7 +5121,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-19T00:00:00.000Z"
+      "created": "2025-04-19T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-dawn-of-war-aaron-hodges",
+      "bookshopUrl": null
     }
   },
   {
@@ -4796,7 +5157,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4827,7 +5190,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4856,7 +5221,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4891,7 +5258,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4924,7 +5293,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4953,7 +5324,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -4989,7 +5362,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-22T15:54:37.000Z"
+      "created": "2025-10-22T15:54:37.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5018,7 +5393,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-05-28T00:00:00.000Z"
+      "created": "2025-05-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5047,7 +5424,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5076,7 +5455,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-12T00:00:00.000Z"
+      "created": "2025-07-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5105,7 +5486,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5138,7 +5521,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-17T20:40:26.000Z"
+      "created": "2025-10-17T20:40:26.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5167,7 +5552,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5199,7 +5586,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-02T00:00:00.000Z"
+      "created": "2024-08-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5228,7 +5617,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-12-21T00:00:00.000Z"
+      "created": "2023-12-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5261,7 +5652,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-07T00:00:00.000Z"
+      "created": "2024-11-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5295,7 +5688,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5324,7 +5719,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-05-18T00:00:00.000Z"
+      "created": "2020-05-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5357,7 +5754,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-21T00:00:00.000Z"
+      "created": "2024-09-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5390,7 +5789,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5423,7 +5824,9 @@
         "name": "Mr Preston",
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5456,7 +5859,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5485,7 +5890,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-01-15T00:00:00.000Z"
+      "created": "2025-01-15T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5518,7 +5925,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5551,7 +5960,9 @@
         "name": null,
         "url": null
       },
-      "created": "2017-03-12T00:00:00.000Z"
+      "created": "2017-03-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5585,7 +5996,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-04-22T00:00:00.000Z"
+      "created": "2021-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5614,7 +6027,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-12T00:00:00.000Z"
+      "created": "2025-07-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5643,7 +6058,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5672,7 +6089,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-26T00:00:00.000Z"
+      "created": "2022-12-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5701,7 +6120,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-12-31T00:00:00.000Z"
+      "created": "2023-12-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5730,7 +6151,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-01-22T00:00:00.000Z"
+      "created": "2024-01-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5761,7 +6184,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-06T08:31:44.000Z"
+      "created": "2025-08-06T08:31:44.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5790,7 +6215,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5819,7 +6246,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5848,7 +6277,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-28T00:00:00.000Z"
+      "created": "2024-11-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5877,7 +6308,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5906,7 +6339,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5940,7 +6375,9 @@
         "name": "Book Series in Order",
         "url": "https://www.bookseriesinorder.com/crow-investigations/"
       },
-      "created": "2025-10-22T15:52:44.000Z"
+      "created": "2025-10-22T15:52:44.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -5969,7 +6406,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6004,7 +6443,9 @@
         "name": "Bookbub",
         "url": null
       },
-      "created": "2025-07-27T20:40:08.000Z"
+      "created": "2025-07-27T20:40:08.000Z",
+      "reviewUrl": "/posts/book-review-the-garden-of-delights-amal-singh",
+      "bookshopUrl": null
     }
   },
   {
@@ -6040,7 +6481,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-07T00:00:00.000Z"
+      "created": "2023-01-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6072,7 +6515,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6106,7 +6551,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-06-01T00:00:00.000Z"
+      "created": "2021-06-01T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6137,7 +6584,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-24T00:00:00.000Z"
+      "created": "2022-12-24T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6171,7 +6620,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6205,7 +6656,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6234,7 +6687,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6265,7 +6720,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6294,7 +6751,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-04-16T00:00:00.000Z"
+      "created": "2024-04-16T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6325,7 +6784,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-26T00:00:00.000Z"
+      "created": "2025-04-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6359,7 +6820,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6388,7 +6851,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6417,7 +6882,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-18T00:00:00.000Z"
+      "created": "2023-10-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6446,7 +6913,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6475,7 +6944,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-27T00:00:00.000Z"
+      "created": "2022-12-27T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6500,7 +6971,7 @@
       "publisher": "Simon and Schuster",
       "published": "1973-04",
       "page_count": 348,
-      "isbn": "0689303173 9780689303173",
+      "isbn": 9780689303173,
       "description": "",
       "coverUrl": "http://books.google.com/books/content?id=EiqUckhKnE4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "shelf": "read",
@@ -6520,6 +6991,8 @@
           "rating": 4
         }
       ],
+      "reviewUrl": "/posts/book-review-the-dark-is-rising-susan-cooper/",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780689303173",
       "recommended_by": {
         "name": null,
         "url": null
@@ -6555,7 +7028,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6586,7 +7061,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6622,7 +7099,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-02-23T00:00:00.000Z"
+      "created": "2023-02-23T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6655,7 +7134,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-15T06:04:39.000Z"
+      "created": "2025-10-15T06:04:39.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6686,7 +7167,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6715,7 +7198,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6744,7 +7229,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6757,6 +7244,7 @@
         "UrbanFantasy",
         "ParallelWorlds",
         "gentle",
+        "charming",
         "library",
         "japan"
       ],
@@ -6780,7 +7268,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-03-11T00:00:00.000Z"
+      "created": "2025-03-11T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-the-city-and-its-uncertain-walls-haruki-murakami",
+      "bookshopUrl": null
     }
   },
   {
@@ -6809,7 +7299,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-26T00:00:00.000Z"
+      "created": "2022-12-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6840,7 +7332,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-06T08:30:38.000Z"
+      "created": "2025-08-06T08:30:38.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6876,7 +7370,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-04-03T00:00:00.000Z"
+      "created": "2023-04-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6907,7 +7403,9 @@
         "name": "Jill Hammer",
         "url": "https://electricliterature.com/7-queer-fantasy-novels-enchanted-with-water-magic/"
       },
-      "created": "2025-10-12T06:17:34.000Z"
+      "created": "2025-10-12T06:17:34.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6940,7 +7438,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-15T13:35:09.000Z"
+      "created": "2025-10-15T13:35:09.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -6969,7 +7469,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-23T00:00:00.000Z"
+      "created": "2020-04-23T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7001,7 +7503,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-04T14:55:57.000Z"
+      "created": "2025-08-04T14:55:57.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7034,7 +7538,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-06-20T00:00:00.000Z"
+      "created": "2025-06-20T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-the-book-of-doors-gareth-brown",
+      "bookshopUrl": null
     }
   },
   {
@@ -7063,7 +7569,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-12-11T00:00:00.000Z"
+      "created": "2021-12-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7095,7 +7603,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7124,7 +7634,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7155,7 +7667,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-11T21:31:52.000Z"
+      "created": "2025-08-11T21:31:52.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7189,7 +7703,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7218,7 +7734,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-10-16T00:00:00.000Z"
+      "created": "2024-10-16T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7250,7 +7768,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7283,7 +7803,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-15T14:55:02.000Z"
+      "created": "2025-10-15T14:55:02.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7316,7 +7838,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7345,7 +7869,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-22T00:00:00.000Z"
+      "created": "2022-12-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7376,7 +7902,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-17T06:35:36.000Z"
+      "created": "2025-08-17T06:35:36.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7405,7 +7933,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7434,7 +7964,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-07-24T00:00:00.000Z"
+      "created": "2023-07-24T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7463,7 +7995,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-12T00:00:00.000Z"
+      "created": "2025-07-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7497,7 +8031,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7526,7 +8062,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-18T00:00:00.000Z"
+      "created": "2023-10-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7555,7 +8093,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-06-21T00:00:00.000Z"
+      "created": "2024-06-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7589,7 +8129,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7620,7 +8162,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7654,7 +8198,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7683,7 +8229,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7714,7 +8262,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7743,7 +8293,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-10-16T00:00:00.000Z"
+      "created": "2024-10-16T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7772,7 +8324,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-18T00:00:00.000Z"
+      "created": "2024-08-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7801,7 +8355,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-06-10T00:00:00.000Z"
+      "created": "2024-06-10T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7830,7 +8386,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-12-14T00:00:00.000Z"
+      "created": "2024-12-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7859,7 +8417,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-27T00:00:00.000Z"
+      "created": "2022-12-27T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7890,7 +8450,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7921,7 +8483,9 @@
         "name": "me (seen in the lobby of a Spanish hotel)",
         "url": null
       },
-      "created": "2025-09-20T22:36:31.000Z"
+      "created": "2025-09-20T22:36:31.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7950,7 +8514,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-28T00:00:00.000Z"
+      "created": "2024-08-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -7979,7 +8545,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8017,7 +8585,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8050,7 +8620,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8083,7 +8655,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-02T00:00:00.000Z"
+      "created": "2024-08-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8116,7 +8690,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8145,7 +8721,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-21T00:00:00.000Z"
+      "created": "2023-10-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8174,7 +8752,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-02-27T00:00:00.000Z"
+      "created": "2024-02-27T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8206,7 +8786,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8238,7 +8820,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-15T15:09:47.000Z"
+      "created": "2025-10-15T15:09:47.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8267,7 +8851,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8303,7 +8889,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-05T00:00:00.000Z"
+      "created": "2025-07-05T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-snare-lilja-sigurdardottir",
+      "bookshopUrl": null
     }
   },
   {
@@ -8334,7 +8922,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8363,7 +8953,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8392,7 +8984,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8421,7 +9015,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8450,7 +9046,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8479,7 +9077,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8511,7 +9111,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-23T01:16:23.000Z"
+      "created": "2025-10-23T01:16:23.000Z",
+      "reviewUrl": "/posts/book-review-silverview-john-le-carre",
+      "bookshopUrl": null
     }
   },
   {
@@ -8540,7 +9142,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-03-17T00:00:00.000Z"
+      "created": "2021-03-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8569,7 +9173,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8600,7 +9206,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-26T00:00:00.000Z"
+      "created": "2025-04-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8635,7 +9243,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8664,7 +9274,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-03-14T00:00:00.000Z"
+      "created": "2023-03-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8693,7 +9305,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-09-05T00:00:00.000Z"
+      "created": "2023-09-05T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8703,11 +9317,14 @@
     "frontmatter": {
       "tags": [
         "fantasy",
+        "SwordAndSorcery",
         "magic",
+        "wizards",
+        "dragons",
         "war"
       ],
       "title": "Shield of Winter",
-      "subtitle": "An Epic Fantasy Novel With Gods, Dragons and Magic",
+      "subtitle": "Legend of the Gods 2",
       "author": [
         "Aaron Hodges"
       ],
@@ -8727,7 +9344,7 @@
         "url": null
       },
       "created": "2025-07-16T16:17:11.000Z",
-      "updated": "2025-07-16T16:17:11.000Z"
+      "reviewUrl": "/posts/book-review-shield-of-winter-aaron-hodges"
     }
   },
   {
@@ -8756,7 +9373,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-06-04T00:00:00.000Z"
+      "created": "2023-06-04T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8789,7 +9408,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8818,7 +9439,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-04-17T00:00:00.000Z"
+      "created": "2024-04-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8847,7 +9470,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-03-10T00:00:00.000Z"
+      "created": "2023-03-10T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8876,7 +9501,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-09T00:00:00.000Z"
+      "created": "2024-08-09T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8905,7 +9532,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-18T00:00:00.000Z"
+      "created": "2023-10-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8936,7 +9565,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8965,7 +9596,9 @@
         "name": "my wife",
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -8996,7 +9629,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-13T15:40:58.000Z"
+      "created": "2025-08-13T15:40:58.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9025,7 +9660,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-11T00:00:00.000Z"
+      "created": "2023-01-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9054,7 +9691,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9083,7 +9722,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-18T00:00:00.000Z"
+      "created": "2023-10-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9117,7 +9758,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9150,7 +9793,9 @@
         "name": null,
         "url": null
       },
-      "created": "2004-10-17T00:00:00.000Z"
+      "created": "2004-10-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9179,7 +9824,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9208,7 +9855,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9237,7 +9886,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9266,7 +9917,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9295,7 +9948,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-06-02T00:00:00.000Z"
+      "created": "2024-06-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9324,7 +9979,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9353,7 +10010,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9384,7 +10043,9 @@
         "name": "Jamison Shea",
         "url": null
       },
-      "created": "2025-08-26T21:08:39.000Z"
+      "created": "2025-08-26T21:08:39.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9413,7 +10074,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-01-01T00:00:00.000Z"
+      "created": "2025-01-01T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9447,7 +10110,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-03-17T00:00:00.000Z"
+      "created": "2021-03-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9476,7 +10141,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9505,7 +10172,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-21T00:00:00.000Z"
+      "created": "2024-11-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9534,7 +10203,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9568,7 +10239,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9597,7 +10270,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-28T00:00:00.000Z"
+      "created": "2024-08-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9626,7 +10301,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9659,7 +10336,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-16T00:00:00.000Z"
+      "created": "2015-11-16T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9688,7 +10367,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-18T00:00:00.000Z"
+      "created": "2024-08-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9724,7 +10405,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-24T18:33:16.000Z"
+      "created": "2025-10-24T18:33:16.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9758,7 +10441,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-08-17T00:00:00.000Z"
+      "created": "2023-08-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9789,7 +10474,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9822,7 +10509,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-25T10:34:04.000Z"
+      "created": "2025-07-25T10:34:04.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9851,7 +10540,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-08-07T00:00:00.000Z"
+      "created": "2022-08-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9882,7 +10573,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9911,7 +10604,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9940,7 +10635,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-07-17T00:00:00.000Z"
+      "created": "2024-07-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9969,7 +10666,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-03-19T00:00:00.000Z"
+      "created": "2023-03-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -9998,7 +10697,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-05-23T00:00:00.000Z"
+      "created": "2024-05-23T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10030,7 +10731,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-24T11:19:17.000Z"
+      "created": "2025-10-24T11:19:17.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10061,7 +10764,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10093,7 +10798,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10122,7 +10829,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-18T00:00:00.000Z"
+      "created": "2024-08-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10151,7 +10860,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-03-05T00:00:00.000Z"
+      "created": "2025-03-05T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10180,7 +10891,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-06-21T00:00:00.000Z"
+      "created": "2024-06-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10209,7 +10922,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-01-10T00:00:00.000Z"
+      "created": "2024-01-10T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10238,7 +10953,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-07-19T00:00:00.000Z"
+      "created": "2021-07-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10267,7 +10984,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-11T00:00:00.000Z"
+      "created": "2023-01-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10299,7 +11018,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10330,7 +11051,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10359,7 +11082,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-26T00:00:00.000Z"
+      "created": "2022-12-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10388,7 +11113,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-01-18T00:00:00.000Z"
+      "created": "2025-01-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10417,7 +11144,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10451,7 +11180,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10486,7 +11217,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10521,7 +11254,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10550,7 +11285,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10584,7 +11321,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10613,7 +11352,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-06-21T00:00:00.000Z"
+      "created": "2024-06-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10642,7 +11383,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-02-10T00:00:00.000Z"
+      "created": "2023-02-10T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10671,7 +11414,9 @@
         "name": null,
         "url": null
       },
-      "created": "2016-05-06T00:00:00.000Z"
+      "created": "2016-05-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10704,7 +11449,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-11-24T00:00:00.000Z"
+      "created": "2023-11-24T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10713,10 +11460,13 @@
     "slug": "Over Sea Under Stone - Susan Cooper",
     "frontmatter": {
       "tags": [
-        "Juvenile Fiction",
+        "JuvenileFiction",
         "fantasy",
+        "mythology",
         "UrbanFantasy",
-        "mythology"
+        "folklore",
+        "magic",
+        "wizards"
       ],
       "title": "Over Sea, Under Stone",
       "subtitle": "The Dark is Rising sequence",
@@ -10738,7 +11488,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-09-25T17:29:21.000Z"
+      "created": "2025-09-25T17:29:21.000Z",
+      "reviewUrl": "/posts/book-review-over-sea-under-stone-susan-cooper",
+      "bookshopUrl": null
     }
   },
   {
@@ -10772,7 +11524,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10804,7 +11558,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10833,7 +11589,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-29T00:00:00.000Z"
+      "created": "2024-11-29T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10864,7 +11622,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10899,7 +11659,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-07-19T00:00:00.000Z"
+      "created": "2021-07-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10930,7 +11692,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10962,7 +11726,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-22T00:00:00.000Z"
+      "created": "2022-12-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -10994,7 +11760,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11028,7 +11796,9 @@
         "name": null,
         "url": null
       },
-      "created": "2016-05-06T00:00:00.000Z"
+      "created": "2016-05-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11038,6 +11808,8 @@
     "frontmatter": {
       "tags": [
         "fantasy",
+        "SwordAndSorcery",
+        "magic",
         "wizards",
         "dragons",
         "war"
@@ -11062,7 +11834,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-19T00:00:00.000Z"
+      "created": "2025-04-19T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-oathbreaker-aaron-hodges",
+      "bookshopUrl": null
     }
   },
   {
@@ -11091,7 +11865,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11124,7 +11900,9 @@
         "name": null,
         "url": null
       },
-      "created": "2018-02-08T00:00:00.000Z"
+      "created": "2018-02-08T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11155,7 +11933,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-06-01T00:00:00.000Z"
+      "created": "2021-06-01T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11184,7 +11964,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-06-28T00:00:00.000Z"
+      "created": "2024-06-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11213,7 +11995,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-09T00:00:00.000Z"
+      "created": "2024-08-09T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11248,7 +12032,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11280,7 +12066,9 @@
         "name": "Tom Cruise",
         "url": null
       },
-      "created": "2024-08-21T00:00:00.000Z"
+      "created": "2024-08-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11309,7 +12097,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-08-07T00:00:00.000Z"
+      "created": "2022-08-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11340,7 +12130,9 @@
         "name": "Alice at Wallflower Digest",
         "url": "https://thewallflowerdigest.co.uk/books/reading-roundup/reading-roundup-july-2025/"
       },
-      "created": "2025-08-03T08:04:02.000Z"
+      "created": "2025-08-03T08:04:02.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11369,7 +12161,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-12-20T00:00:00.000Z"
+      "created": "2024-12-20T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11398,7 +12192,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-07-06T00:00:00.000Z"
+      "created": "2020-07-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11430,7 +12226,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11464,7 +12262,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11498,7 +12298,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-03-17T00:00:00.000Z"
+      "created": "2021-03-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11530,7 +12332,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-25T10:35:45.000Z"
+      "created": "2025-07-25T10:35:45.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11564,7 +12368,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11593,7 +12399,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-19T00:00:00.000Z"
+      "created": "2022-12-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11624,7 +12432,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11653,7 +12463,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-12-17T00:00:00.000Z"
+      "created": "2020-12-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11687,7 +12499,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11718,7 +12532,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11752,7 +12568,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11786,7 +12604,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11820,7 +12640,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11849,7 +12671,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-10-14T00:00:00.000Z"
+      "created": "2024-10-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11878,7 +12702,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-05-15T00:00:00.000Z"
+      "created": "2020-05-15T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11907,7 +12733,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-01-15T00:00:00.000Z"
+      "created": "2021-01-15T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11936,7 +12764,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11965,7 +12795,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -11994,7 +12826,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-23T00:00:00.000Z"
+      "created": "2023-01-23T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12023,7 +12857,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-04-13T00:00:00.000Z"
+      "created": "2024-04-13T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12052,7 +12888,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12086,7 +12924,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12115,7 +12955,9 @@
         "name": null,
         "url": null
       },
-      "created": "2016-05-06T00:00:00.000Z"
+      "created": "2016-05-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12146,7 +12988,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-09-11T07:02:35.000Z"
+      "created": "2025-09-11T07:02:35.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12178,7 +13022,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12212,7 +13058,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12244,7 +13092,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12276,7 +13126,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-15T15:08:04.000Z"
+      "created": "2025-10-15T15:08:04.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12305,7 +13157,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-26T00:00:00.000Z"
+      "created": "2025-04-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12339,7 +13193,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-05-07T00:00:00.000Z"
+      "created": "2021-05-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12370,7 +13226,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-24T11:21:02.000Z"
+      "created": "2025-10-24T11:21:02.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12405,7 +13263,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-09-08T14:19:53.000Z"
+      "created": "2025-09-08T14:19:53.000Z",
+      "reviewUrl": "/posts/book-review-let-the-right-one-in-john-ajvide-lindqvist",
+      "bookshopUrl": null
     }
   },
   {
@@ -12438,7 +13298,9 @@
         "name": "Netflix",
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12471,7 +13333,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-15T15:03:42.000Z"
+      "created": "2025-10-15T15:03:42.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12502,7 +13366,9 @@
         "name": "John Rigby",
         "url": null
       },
-      "created": "2022-08-07T00:00:00.000Z"
+      "created": "2022-08-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12534,7 +13400,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12563,7 +13431,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-07-19T00:00:00.000Z"
+      "created": "2021-07-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12592,7 +13462,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-10-14T00:00:00.000Z"
+      "created": "2024-10-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12621,7 +13493,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-11T00:00:00.000Z"
+      "created": "2024-09-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12654,7 +13528,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-05-07T00:00:00.000Z"
+      "created": "2015-05-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12683,7 +13559,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12714,7 +13592,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12745,7 +13625,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-25T19:05:40.000Z"
+      "created": "2025-08-25T19:05:40.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12774,7 +13656,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-10-18T00:00:00.000Z"
+      "created": "2022-10-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12782,9 +13666,15 @@
     "path": "src/Books/Kala - Colin Walsh.md",
     "slug": "Kala - Colin Walsh",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "mystery",
+        "ireland",
+        "childhood",
+        "ComingOfAge",
+        "thriller"
+      ],
       "title": "Kala",
-      "subtitle": " ",
+      "subtitle": "A Novel",
       "author": [
         "Colin Walsh"
       ],
@@ -12803,7 +13693,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-05T00:00:00.000Z"
+      "created": "2025-07-05T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-kala-colin-walsh",
+      "bookshopUrl": null
     }
   },
   {
@@ -12840,7 +13732,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-09-06T19:45:06.000Z"
+      "created": "2025-09-06T19:45:06.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12869,7 +13763,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-25T00:00:00.000Z"
+      "created": "2025-04-25T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12898,7 +13794,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-01-25T00:00:00.000Z"
+      "created": "2024-01-25T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12927,7 +13825,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-18T00:00:00.000Z"
+      "created": "2023-10-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12958,7 +13858,9 @@
         "name": "My mum",
         "url": null
       },
-      "created": "2025-08-17T06:37:45.000Z"
+      "created": "2025-08-17T06:37:45.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -12990,7 +13892,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13019,7 +13923,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-03T00:00:00.000Z"
+      "created": "2024-08-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13048,7 +13954,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-22T00:00:00.000Z"
+      "created": "2022-12-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13077,7 +13985,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-11-16T00:00:00.000Z"
+      "created": "2022-11-16T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13108,7 +14018,9 @@
         "name": "Terence Eden",
         "url": "https://shkspr.mobi/blog/2025/01/book-review-jagannath-by-karin-tidbeck/"
       },
-      "created": "2025-10-11T19:13:36.000Z"
+      "created": "2025-10-11T19:13:36.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13137,7 +14049,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13168,7 +14082,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-08-17T06:36:20.000Z"
+      "created": "2025-08-17T06:36:20.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13197,7 +14113,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-03T00:00:00.000Z"
+      "created": "2025-04-03T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13226,7 +14144,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-27T00:00:00.000Z"
+      "created": "2022-12-27T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13257,7 +14177,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-02-19T00:00:00.000Z"
+      "created": "2025-02-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13288,7 +14210,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13317,7 +14241,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-02-19T00:00:00.000Z"
+      "created": "2025-02-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13346,7 +14272,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-28T00:00:00.000Z"
+      "created": "2024-11-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13375,7 +14303,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-03-19T00:00:00.000Z"
+      "created": "2025-03-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13406,7 +14336,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-24T11:17:42.000Z"
+      "created": "2025-10-24T11:17:42.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13437,7 +14369,9 @@
         "name": "Jamison Shea",
         "url": null
       },
-      "created": "2025-08-26T21:07:50.000Z"
+      "created": "2025-08-26T21:07:50.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13466,7 +14400,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-14T00:00:00.000Z"
+      "created": "2025-04-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13495,7 +14431,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-02T00:00:00.000Z"
+      "created": "2024-08-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13524,7 +14462,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-04-22T00:00:00.000Z"
+      "created": "2024-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13559,7 +14499,9 @@
         "name": "Studio Ghibli",
         "url": null
       },
-      "created": "2022-04-01T17:42:29.000Z"
+      "created": "2022-04-01T17:42:29.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13588,7 +14530,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-12-07T00:00:00.000Z"
+      "created": "2024-12-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13617,7 +14561,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13646,7 +14592,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-21T00:00:00.000Z"
+      "created": "2023-10-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13675,7 +14623,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-26T00:00:00.000Z"
+      "created": "2024-09-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13704,7 +14654,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-07T00:00:00.000Z"
+      "created": "2024-11-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13733,7 +14685,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-01-08T00:00:00.000Z"
+      "created": "2025-01-08T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13745,7 +14699,8 @@
         "thriller",
         "horror",
         "supernatural",
-        "HistoricalFiction"
+        "HistoricalFiction",
+        "england"
       ],
       "title": "Hokey Pokey",
       "subtitle": "",
@@ -13765,9 +14720,11 @@
       "rating": 5,
       "recommended_by": {
         "name": "Terence Eden",
-        "url": null
+        "url": "https://shkspr.mobi/blog/2023/12/book-review-hokey-pokey-kate-mascarenhas/"
       },
-      "created": "2025-01-01T00:00:00.000Z"
+      "created": "2025-01-01T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-hokey-pokey-kate-mascarenhas",
+      "bookshopUrl": null
     }
   },
   {
@@ -13801,7 +14758,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13830,7 +14789,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-02-12T00:00:00.000Z"
+      "created": "2025-02-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13859,7 +14820,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-14T00:00:00.000Z"
+      "created": "2023-01-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13888,7 +14851,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-21T00:00:00.000Z"
+      "created": "2024-08-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13917,7 +14882,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-21T00:00:00.000Z"
+      "created": "2024-08-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13946,7 +14913,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -13975,7 +14944,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-19T00:00:00.000Z"
+      "created": "2022-12-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14010,7 +14981,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-24T18:34:42.000Z"
+      "created": "2025-10-24T18:34:42.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14046,7 +15019,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-24T18:35:56.000Z"
+      "created": "2025-10-24T18:35:56.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14075,7 +15050,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14108,7 +15085,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14137,7 +15116,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-29T00:00:00.000Z"
+      "created": "2023-10-29T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14174,7 +15155,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-18T00:00:00.000Z"
+      "created": "2022-12-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14208,7 +15191,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-12-18T00:00:00.000Z"
+      "created": "2021-12-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14242,7 +15227,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-17T19:48:55.000Z"
+      "created": "2025-10-17T19:48:55.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14271,7 +15258,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-28T00:00:00.000Z"
+      "created": "2024-08-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14300,7 +15289,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-12-15T00:00:00.000Z"
+      "created": "2024-12-15T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14333,7 +15324,9 @@
         "name": null,
         "url": null
       },
-      "created": "2016-05-06T00:00:00.000Z"
+      "created": "2016-05-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14362,7 +15355,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-19T00:00:00.000Z"
+      "created": "2022-12-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14391,7 +15386,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-09T00:00:00.000Z"
+      "created": "2024-09-09T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14422,7 +15419,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14451,7 +15450,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-02T00:00:00.000Z"
+      "created": "2024-08-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14480,7 +15481,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-06-21T00:00:00.000Z"
+      "created": "2024-06-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14512,7 +15515,9 @@
         "name": null,
         "url": null
       },
-      "created": "2010-02-04T00:00:00.000Z"
+      "created": "2010-02-04T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14541,7 +15546,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-09-10T00:00:00.000Z"
+      "created": "2022-09-10T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14575,7 +15582,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-04-22T00:00:00.000Z"
+      "created": "2021-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14610,7 +15619,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14639,7 +15650,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-06-16T00:00:00.000Z"
+      "created": "2025-06-16T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14668,7 +15681,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-27T00:00:00.000Z"
+      "created": "2023-01-27T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14697,7 +15712,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-02T00:00:00.000Z"
+      "created": "2024-08-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14726,7 +15743,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-04-04T00:00:00.000Z"
+      "created": "2024-04-04T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14755,7 +15774,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14784,7 +15805,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-13T00:00:00.000Z"
+      "created": "2024-09-13T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14813,7 +15836,9 @@
         "name": null,
         "url": null
       },
-      "created": "2016-05-06T00:00:00.000Z"
+      "created": "2016-05-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14842,7 +15867,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-07T00:00:00.000Z"
+      "created": "2024-11-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14876,7 +15903,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14907,7 +15936,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-25T10:35:24.000Z"
+      "created": "2025-07-25T10:35:24.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14936,7 +15967,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-09-11T00:00:00.000Z"
+      "created": "2021-09-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -14965,7 +15998,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-07T00:00:00.000Z"
+      "created": "2024-11-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15000,7 +16035,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15029,7 +16066,9 @@
         "name": "Alice at Wallflower Digest",
         "url": null
       },
-      "created": "2025-08-15T20:50:24.000Z"
+      "created": "2025-08-15T20:50:24.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15058,7 +16097,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15087,7 +16128,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-07T00:00:00.000Z"
+      "created": "2024-11-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15116,7 +16159,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-03-14T00:00:00.000Z"
+      "created": "2023-03-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15145,7 +16190,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-01-15T00:00:00.000Z"
+      "created": "2021-01-15T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15174,7 +16221,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-07T00:00:00.000Z"
+      "created": "2024-11-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15203,7 +16252,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-15T00:00:00.000Z"
+      "created": "2024-11-15T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15237,7 +16288,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15266,7 +16319,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15299,7 +16354,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-10-15T14:29:53.000Z"
+      "created": "2025-10-15T14:29:53.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15328,7 +16385,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-12T00:00:00.000Z"
+      "created": "2025-07-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15360,7 +16419,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15389,7 +16450,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-22T00:00:00.000Z"
+      "created": "2022-12-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15420,7 +16483,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15449,7 +16514,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15478,7 +16545,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-26T00:00:00.000Z"
+      "created": "2022-12-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15507,7 +16576,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-22T00:00:00.000Z"
+      "created": "2022-12-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15536,7 +16607,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-26T00:00:00.000Z"
+      "created": "2025-04-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15565,7 +16638,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-26T00:00:00.000Z"
+      "created": "2022-12-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15594,7 +16669,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-22T00:00:00.000Z"
+      "created": "2022-12-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15602,7 +16679,11 @@
     "path": "src/Books/Dark As Night - Lilja Sigurdardottir.md",
     "slug": "Dark As Night - Lilja Sigurdardottir",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "scandinoir",
+        "crime",
+        "iceland"
+      ],
       "title": "Dark As Night",
       "subtitle": "An Áróra Investigation 04",
       "author": [
@@ -15623,7 +16704,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-03-18T00:00:00.000Z"
+      "created": "2025-03-18T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-dark-as-night-lilja-sigurdardottir",
+      "bookshopUrl": null
     }
   },
   {
@@ -15652,7 +16735,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15681,7 +16766,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-02T00:00:00.000Z"
+      "created": "2024-08-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15710,7 +16797,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-28T00:00:00.000Z"
+      "created": "2024-11-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15739,7 +16828,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-10-21T00:00:00.000Z"
+      "created": "2024-10-21T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15770,7 +16861,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15799,7 +16892,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15830,7 +16925,9 @@
         "name": "Annie Mueller",
         "url": "https://anniemueller.com/posts/reading-notes-august-september"
       },
-      "created": "2025-10-10T07:03:24.000Z"
+      "created": "2025-10-10T07:03:24.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15859,7 +16956,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15888,7 +16987,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15918,7 +17019,9 @@
         "name": "Alice at Wallflower Digest",
         "url": null
       },
-      "created": "2024-08-27T00:00:00.000Z"
+      "created": "2024-08-27T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15947,7 +17050,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-25T00:00:00.000Z"
+      "created": "2025-04-25T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -15976,7 +17081,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-11-06T00:00:00.000Z"
+      "created": "2023-11-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16005,7 +17112,9 @@
         "name": null,
         "url": null
       },
-      "created": "2016-10-11T00:00:00.000Z"
+      "created": "2016-10-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16036,7 +17145,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16065,7 +17176,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-09-04T00:00:00.000Z"
+      "created": "2022-09-04T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16094,7 +17207,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-13T00:00:00.000Z"
+      "created": "2024-09-13T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16123,7 +17238,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-14T00:00:00.000Z"
+      "created": "2023-01-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16154,7 +17271,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16183,7 +17302,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16212,7 +17333,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-05T00:00:00.000Z"
+      "created": "2024-08-05T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16241,7 +17364,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-02-19T00:00:00.000Z"
+      "created": "2025-02-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16270,7 +17395,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-18T00:00:00.000Z"
+      "created": "2022-12-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16301,7 +17428,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16330,7 +17459,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-05-22T00:00:00.000Z"
+      "created": "2025-05-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16364,7 +17495,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16395,7 +17528,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16431,7 +17566,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-01-05T00:00:00.000Z"
+      "created": "2022-01-05T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-cage-lilja-sigurdardottir",
+      "bookshopUrl": null
     }
   },
   {
@@ -16462,7 +17599,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16491,7 +17630,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-07-12T00:00:00.000Z"
+      "created": "2025-07-12T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16522,7 +17663,9 @@
         "name": "Alice at Wallflower Digest",
         "url": null
       },
-      "created": "2024-08-27T21:09:18.000Z"
+      "created": "2024-08-27T21:09:18.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16551,7 +17694,9 @@
         "name": null,
         "url": null
       },
-      "created": "2019-08-02T00:00:00.000Z"
+      "created": "2019-08-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16585,7 +17730,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-04-22T00:00:00.000Z"
+      "created": "2021-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16619,7 +17766,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16650,7 +17799,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16681,7 +17832,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-08-18T00:00:00.000Z"
+      "created": "2024-08-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16714,7 +17867,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-12-22T00:00:00.000Z"
+      "created": "2024-12-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16745,7 +17900,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-06-25T00:00:00.000Z"
+      "created": "2025-06-25T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16774,7 +17931,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-06-04T00:00:00.000Z"
+      "created": "2025-06-04T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16787,7 +17946,7 @@
         "horror",
         "magic"
       ],
-      "title": "Book of Night",
+      "title": "The Book of Night",
       "subtitle": " ",
       "author": [
         "Holly Black"
@@ -16807,7 +17966,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-02-13T00:00:00.000Z"
+      "created": "2025-02-13T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-the-book-of-night-holly-black",
+      "bookshopUrl": null
     }
   },
   {
@@ -16836,7 +17997,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-09-04T00:00:00.000Z"
+      "created": "2022-09-04T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16865,7 +18028,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-07T00:00:00.000Z"
+      "created": "2024-11-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16897,7 +18062,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-08-07T00:00:00.000Z"
+      "created": "2022-08-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16931,7 +18098,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-01-05T00:00:00.000Z"
+      "created": "2022-01-05T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16962,7 +18131,9 @@
         "name": "Annie Mueller",
         "url": "https://anniemueller.com/posts/reading-notes-august-september"
       },
-      "created": "2025-10-10T07:04:41.000Z"
+      "created": "2025-10-10T07:04:41.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -16997,7 +18168,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17032,7 +18205,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17061,7 +18236,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-01-23T00:00:00.000Z"
+      "created": "2023-01-23T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17090,7 +18267,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-12-14T00:00:00.000Z"
+      "created": "2024-12-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17119,7 +18298,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-07-29T00:00:00.000Z"
+      "created": "2024-07-29T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17151,7 +18332,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-02-04T00:00:00.000Z"
+      "created": "2025-02-04T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-ascension-nicholas-binge",
+      "bookshopUrl": null
     }
   },
   {
@@ -17180,7 +18363,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-26T00:00:00.000Z"
+      "created": "2025-04-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17209,7 +18394,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17243,7 +18430,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17272,7 +18461,9 @@
         "name": null,
         "url": null
       },
-      "created": "2016-05-05T00:00:00.000Z"
+      "created": "2016-05-05T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17305,7 +18496,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-09-13T00:00:00.000Z"
+      "created": "2024-09-13T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17339,7 +18532,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-12-22T00:00:00.000Z"
+      "created": "2022-12-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17368,7 +18563,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-06-11T00:00:00.000Z"
+      "created": "2023-06-11T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17400,7 +18597,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-09T00:00:00.000Z"
+      "created": "2023-10-09T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17432,7 +18631,9 @@
         "name": "Mary Ormerod, North West Bylines",
         "url": "https://northwestbylines.co.uk/lifestyle/books/horror-story-novel-set-in-the-lake-district-inspired-by-the-authors-childhood/?utm_source=rss&utm_medium=rss&utm_campaign=horror-story-novel-set-in-the-lake-district-inspired-by-the-authors-childhood"
       },
-      "created": "2025-10-11T19:00:47.000Z"
+      "created": "2025-10-11T19:00:47.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17465,7 +18666,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-11-02T00:00:00.000Z"
+      "created": "2015-11-02T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17498,7 +18701,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-07-01T00:00:00.000Z"
+      "created": "2020-07-01T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17527,7 +18732,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-28T00:00:00.000Z"
+      "created": "2024-11-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17556,7 +18763,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17585,7 +18794,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17614,7 +18825,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17647,7 +18860,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17676,7 +18891,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-04-26T00:00:00.000Z"
+      "created": "2025-04-26T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17710,7 +18927,9 @@
         "name": null,
         "url": null
       },
-      "created": "2020-04-22T00:00:00.000Z"
+      "created": "2020-04-22T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17743,7 +18962,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17772,7 +18993,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-11-07T00:00:00.000Z"
+      "created": "2024-11-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17803,7 +19026,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17832,7 +19057,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-06-14T00:00:00.000Z"
+      "created": "2025-06-14T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17863,7 +19090,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-12-20T00:00:00.000Z"
+      "created": "2023-12-20T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17892,7 +19121,9 @@
         "name": null,
         "url": null
       },
-      "created": "2023-10-31T00:00:00.000Z"
+      "created": "2023-10-31T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17926,7 +19157,9 @@
         "name": null,
         "url": null
       },
-      "created": "2022-05-13T00:00:00.000Z"
+      "created": "2022-05-13T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17957,7 +19190,9 @@
         "name": "Jill Hammer",
         "url": "https://electricliterature.com/7-queer-fantasy-novels-enchanted-with-water-magic/"
       },
-      "created": "2025-10-12T06:20:17.000Z"
+      "created": "2025-10-12T06:20:17.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -17988,7 +19223,9 @@
         "name": null,
         "url": null
       },
-      "created": "2025-09-22T13:35:33.000Z"
+      "created": "2025-09-22T13:35:33.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18019,7 +19256,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18052,7 +19291,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18086,7 +19327,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-10-18T00:00:00.000Z"
+      "created": "2024-10-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18119,7 +19362,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18152,7 +19397,9 @@
         "name": null,
         "url": null
       },
-      "created": "2021-03-17T00:00:00.000Z"
+      "created": "2021-03-17T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18185,7 +19432,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18216,7 +19465,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18249,7 +19500,9 @@
         "name": null,
         "url": null
       },
-      "created": "2015-10-06T00:00:00.000Z"
+      "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18282,7 +19535,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18301,7 +19556,7 @@
       "publisher": "HarperCollins",
       "published": "1998-06-03T07:00:00.000Z",
       "page_count": null,
-      "isbn": null,
+      "isbn": 9781447294610,
       "description": "",
       "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
       "shelf": "to-read",
@@ -18313,7 +19568,9 @@
         "name": null,
         "url": null
       },
-      "created": null
+      "created": null,
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   },
   {
@@ -18345,7 +19602,9 @@
         "name": null,
         "url": null
       },
-      "created": "2024-10-19T00:00:00.000Z"
+      "created": "2024-10-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
     }
   }
 ]

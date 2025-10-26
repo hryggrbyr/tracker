@@ -6,26 +6,28 @@
 		<p>
 			<strong class="title">{{ book.frontmatter.title }}</strong>
 			{% if book.frontmatter.subtitle %}
-				<br />{{ book.frontmatter.subtitle }}
+			<br /><em>{{ book.frontmatter.subtitle }}</em>
 			{% endif %}
 		</p>
 		<p>{{ book.frontmatter.author }}</p>
-		<p><a href="{{ book.slug | slugify }}">View</a></p>
-	</div>
-	<div class="card-author">
-	{% if book.frontmatter.owned == true %}
-		<p>I own this!</p>
-	{% endif %}
-	{% if book.frontmatter.shelf == 'reading' and book.frontmatter.start_date %}
-		<p>I started reading this on {{ book.frontmatter.start_date | humanReadableDate }}</p>
-	{% endif %}
-	{% if book.frontmatter.shelf == 'read' and book.frontmatter.end_date %}
 		<p>
-			I finished this on {{ book.frontmatter.end_date | humanReadableDate }}
-			{% if book.frontmatter.rating %}
-				and I gave it {{ book.frontmatter.rating }} stars out of 5
-			{% endif %}
+		    <a href="/tracker/books/{{ book.slug | slugify }}">View</a>
+			<a href="https://www.ebooks.com/en-gb/searchapp/searchresults.net?term={{ book.frontmatter.isbn or (book.frontmatter.title | urlEncode ~ '%20' ~book.frontmatter.author | urlEncode) }}">Buy</a>
 		</p>
-	{% endif %}
+		<hr style="appearance: none; border: 0; display: block; width: 100%; height: 1px; background-color: rgba(from currentColor r g b / 0.5);"/>
+		{% if book.frontmatter.owned == true %}
+			<p>I own this!</p>
+		{% endif %}
+		{% if book.frontmatter.shelf == 'reading' and book.frontmatter.start_date %}
+			<p>I started reading this on {{ book.frontmatter.start_date | humanReadableDate }}</p>
+		{% endif %}
+		{% if book.frontmatter.shelf == 'read' and book.frontmatter.end_date %}
+			<p>
+				I finished this on {{ book.frontmatter.end_date | humanReadableDate }}
+				{% if book.frontmatter.rating %}
+					and I gave it {{ book.frontmatter.rating }} stars out of 5
+				{% endif %}
+			</p>
+		{% endif %}
 	</div>
 </article>
