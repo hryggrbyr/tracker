@@ -21,6 +21,8 @@ recommended_by:
   name: Tom Cruise
   url:
 created: 2024-08-21
+reviewUrl:
+bookshopUrl:
 ---
 
 # Never Go Back (A Jack Reacher Novel) by Lee Child

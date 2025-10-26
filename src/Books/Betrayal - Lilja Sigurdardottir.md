@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2022-01-05
+reviewUrl:
+bookshopUrl:
 ---
 
 # Betrayal by Lilja Sigurðardóttir

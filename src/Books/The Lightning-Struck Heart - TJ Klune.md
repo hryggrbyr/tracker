@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Lightning-Struck Heart by TJ Klune
@@ -35,4 +37,3 @@ _Tales From Verania 1_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

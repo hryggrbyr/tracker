@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2021-03-17
+reviewUrl:
+bookshopUrl:
 ---
 
 # Rivers of London by Ben Aaronovitch

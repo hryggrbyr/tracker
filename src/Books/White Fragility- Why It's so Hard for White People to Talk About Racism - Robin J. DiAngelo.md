@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-10-21
+reviewUrl:
+bookshopUrl:
 ---
 
 # White Fragility: Why It's so Hard for White People to Talk About Racism by Robin J. DiAngelo

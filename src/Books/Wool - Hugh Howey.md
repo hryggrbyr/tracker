@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-03-14
+reviewUrl:
+bookshopUrl:
 ---
 
 # Wool by Hugh Howey
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-06-10
+reviewUrl:
+bookshopUrl:
 ---
 
 # Strong Female Character by Fern Brady

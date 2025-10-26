@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2022-12-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Stranger by Albert Camus
@@ -33,4 +35,3 @@ _ _
 | Started | 2010-02-02T00:00:00.000+00:00 |
 | Finished | 2010-02-02T00:00:00.000+00:00 |
 | Rating | 3/5 |
-

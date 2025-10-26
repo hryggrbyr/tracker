@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-06-16
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Tainted Cup by Robert Jackson Bennett
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

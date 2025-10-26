@@ -25,6 +25,8 @@ recommended_by:
   name:
   url:
 created: 2025-07-14
+reviewUrl: /posts/book-review-trap-lilja-sigurdardottir
+bookshopUrl:
 ---
 
 # Trap by Lilja Sigurðardóttir

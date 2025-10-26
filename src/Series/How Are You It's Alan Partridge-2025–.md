@@ -20,7 +20,7 @@ watched: 2025-10-24
 poster: https://m.media-amazon.com/images/M/MV5BNmU0NzZhZTgtOGY4ZS00YTI4LWI5ZmQtMTE3OGJjNzczMzRhXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
-# How Are You It's Alan (Partridge) (2025–)
+# How Are You? It's Alan (Partridge) (2025–)
 
 ![](https://m.media-amazon.com/images/M/MV5BNmU0NzZhZTgtOGY4ZS00YTI4LWI5ZmQtMTE3OGJjNzczMzRhXkEyXkFqcGc@._V1_SX300.jpg)
 

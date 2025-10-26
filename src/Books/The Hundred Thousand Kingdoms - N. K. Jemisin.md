@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2020-05-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Hundred Thousand Kingdoms by N. K. Jemisin
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

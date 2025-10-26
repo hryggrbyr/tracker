@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2021-06-07
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Sword of Kaigen by M. L. Wang
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

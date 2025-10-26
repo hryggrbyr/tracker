@@ -24,6 +24,8 @@ recommended_by:
   name:
   url:
 created: 2021-07-19
+reviewUrl:
+bookshopUrl:
 ---
 
 # One Step Behind by Henning Mankell

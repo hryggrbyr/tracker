@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-06-11
+reviewUrl:
+bookshopUrl:
 ---
 
 # All Tomorrow's Parties by William Gibson

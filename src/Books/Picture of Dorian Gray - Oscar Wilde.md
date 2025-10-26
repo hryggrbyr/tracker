@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2015-11-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # Picture of Dorian Gray by Oscar Wilde

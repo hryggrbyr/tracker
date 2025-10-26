@@ -25,6 +25,8 @@ recommended_by:
   name:
   url:
 created: 2025-07-05
+reviewUrl: /posts/book-review-snare-lilja-sigurdardottir
+bookshopUrl:
 ---
 
 # Snare by Lilja Sigurðardóttir

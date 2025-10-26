@@ -25,6 +25,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-22 15:54:37
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Lancashire Witches by Philip C. Almond
@@ -33,7 +35,7 @@ created: 2025-10-22 15:54:37
 
 _A Chronicle of Sorcery and Death on Pendle Hill_
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | History,england,witches,magic,Religion,folklore |
 | Started |  |

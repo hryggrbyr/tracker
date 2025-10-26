@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-10-14
+reviewUrl:
+bookshopUrl:
 ---
 
 # Lady in the Lake by Laura Lippman

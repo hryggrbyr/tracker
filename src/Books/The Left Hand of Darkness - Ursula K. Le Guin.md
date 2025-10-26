@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Left Hand of Darkness by Ursula K. Le Guin
@@ -34,4 +36,3 @@ _Ekumen 4_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

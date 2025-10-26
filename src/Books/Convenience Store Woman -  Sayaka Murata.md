@@ -20,6 +20,8 @@ recommended_by:
   name: Alice at Wallflower Digest
   url:
 created: 2024-08-27
+reviewUrl:
+bookshopUrl:
 ---
 
 # Convenience Store Woman by Sayaka Murata

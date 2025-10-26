@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The hitchhiker's guide to the galaxy by Douglas Adams

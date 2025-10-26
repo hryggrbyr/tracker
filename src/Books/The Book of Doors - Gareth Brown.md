@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2025-06-20
+reviewUrl: /posts/book-review-the-book-of-doors-gareth-brown
+bookshopUrl:
 ---
 
 # The Book of Doors by Gareth Brown

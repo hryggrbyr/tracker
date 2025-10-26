@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2015-11-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Restaurant at the End of the Universe by Douglas Adams
@@ -35,4 +37,3 @@ _Hitch-hiker's Guide to the Galaxy 2_
 | Started |  |
 | Finished | 1991-01-01T00:00:00.000+00:00 |
 | Rating | 4/5 |
-

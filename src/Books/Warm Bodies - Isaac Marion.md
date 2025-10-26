@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2025-08-06 19:30:40
+reviewUrl:
+bookshopUrl:
 ---
 
 # Warm Bodies by Isaac Marion

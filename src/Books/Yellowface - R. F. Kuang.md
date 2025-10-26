@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2025-01-21
+reviewUrl: /posts/book-review-yellowface-rf-kuang
+bookshopUrl:
 ---
 
 # Yellowface by R. F. Kuang

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-06-14
+reviewUrl:
+bookshopUrl:
 ---
 
 # A Sea of Unspoken Things by Adrienne Young

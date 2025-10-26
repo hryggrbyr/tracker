@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-09-11
+reviewUrl:
+bookshopUrl:
 ---
 
 # Labyrinth's Heart by M. A. Carrick

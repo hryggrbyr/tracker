@@ -20,6 +20,8 @@ recommended_by:
   name: Robin Rendle
   url: https://robinrendle.com/notes/book-notes/
 created: 2025-07-18 05:08:39
+reviewUrl:
+bookshopUrl:
 ---
 
 # Worn by Sofi Thanhauser

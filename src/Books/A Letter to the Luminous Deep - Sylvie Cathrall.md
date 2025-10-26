@@ -20,6 +20,8 @@ recommended_by:
   name: Jill Hammer
   url: https://electricliterature.com/7-queer-fantasy-novels-enchanted-with-water-magic/
 created: 2025-10-12 06:20:17
+reviewUrl:
+bookshopUrl:
 ---
 
 # A Letter to the Luminous Deep by Sylvie Cathrall
@@ -28,7 +30,7 @@ created: 2025-10-12 06:20:17
 
 _the perfect cosy magical academia read!_
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | Fiction |
 | Started |  |

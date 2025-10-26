@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-12-07
+reviewUrl:
+bookshopUrl:
 ---
 
 # How Infrastructure Works by Deb Chachra

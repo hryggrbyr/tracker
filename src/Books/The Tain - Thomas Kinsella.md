@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2022-11-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Táin by Thomas Kinsella
@@ -35,4 +37,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

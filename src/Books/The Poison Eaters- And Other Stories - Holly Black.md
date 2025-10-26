@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Poison Eaters: And Other Stories by Holly Black
@@ -34,4 +36,3 @@ __
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

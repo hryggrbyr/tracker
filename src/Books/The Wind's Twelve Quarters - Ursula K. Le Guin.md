@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-01-28
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Wind's Twelve Quarters by Ursula K. Le Guin
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

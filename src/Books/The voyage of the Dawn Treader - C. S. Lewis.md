@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Voyage of the Dawn Treader by C. S. Lewis

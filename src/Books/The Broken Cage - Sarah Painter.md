@@ -25,6 +25,8 @@ recommended_by:
   name:
   url:
 created: 2023-04-03
+reviewUrl:
+bookshopUrl:
 ---
 
 # Broken Cage by Sarah Painter

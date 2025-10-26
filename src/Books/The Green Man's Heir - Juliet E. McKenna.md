@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-12-31
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Green Man's Heir by Juliet E. McKenna

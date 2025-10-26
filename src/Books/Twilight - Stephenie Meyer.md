@@ -24,6 +24,8 @@ recommended_by:
   name:
   url:
 created: 2009-12-01
+reviewUrl: /posts/book-review-twilight-stephenie-meyer
+bookshopUrl:
 ---
 
 # Twilight by Stephenie Meyer

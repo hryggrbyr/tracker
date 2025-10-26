@@ -20,6 +20,8 @@ recommended_by:
   name: Terence Eden
   url: https://shkspr.mobi/blog/2025/01/book-review-jagannath-by-karin-tidbeck/
 created: 2025-10-11 19:13:36
+reviewUrl:
+bookshopUrl:
 ---
 
 # Jagannath by Karin Tidbeck
@@ -28,7 +30,7 @@ created: 2025-10-11 19:13:36
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | ShortStories |
 | Started |  |

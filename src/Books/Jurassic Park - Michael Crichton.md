@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-04-25
+reviewUrl:
+bookshopUrl:
 ---
 
 # Jurassic Park by Michael Crichton

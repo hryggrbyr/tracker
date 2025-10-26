@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2022-12-18
+reviewUrl:
+bookshopUrl:
 ---
 
 # Underland by Chanda Hahn

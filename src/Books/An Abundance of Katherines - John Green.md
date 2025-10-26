@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2016-05-05
+reviewUrl:
+bookshopUrl:
 ---
 
 # An Abundance of Katherines by John Green

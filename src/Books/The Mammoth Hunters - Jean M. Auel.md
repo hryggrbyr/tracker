@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Earth's Children 3 - The Mammoth Hunters (v5.0) by Jean M. Auel
@@ -33,4 +35,3 @@ _Earth's Children 3_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

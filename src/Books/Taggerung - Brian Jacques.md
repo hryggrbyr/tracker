@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Taggerung by Brian Jacques

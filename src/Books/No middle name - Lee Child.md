@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2018-02-08
+reviewUrl:
+bookshopUrl:
 ---
 
 # No Middle Name by Lee Child

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2017-11-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Roanoke girls by Amy Engel
@@ -33,4 +35,3 @@ _ _
 | Started | 2017-11-02T00:00:00.000+00:00 |
 | Finished | 2018-02-08T00:00:00.000+00:00 |
 | Rating | /5 |
-

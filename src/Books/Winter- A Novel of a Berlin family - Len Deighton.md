@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Winter: A Novel of a Berlin family by Len Deighton
@@ -35,4 +37,3 @@ __
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

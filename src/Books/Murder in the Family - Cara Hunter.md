@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-12-20
+reviewUrl:
+bookshopUrl:
 ---
 
 # Murder in the Family by Cara Hunter

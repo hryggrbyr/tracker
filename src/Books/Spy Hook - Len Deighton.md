@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Spy Hook by Len Deighton

@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2022-12-24
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Fifth Season by N. K. Jemisin

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Earth's Children 2 - The Valley of Horses (v5.0) by Jean M. Auel
@@ -33,4 +35,3 @@ _Earth's Children 2_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

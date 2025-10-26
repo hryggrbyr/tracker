@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2015-10-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # Breaking Dawn (Twilight #4) by Stephenie Meyer

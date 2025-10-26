@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2015-11-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # Long Dark Tea-Time of the Soul by Douglas Adams

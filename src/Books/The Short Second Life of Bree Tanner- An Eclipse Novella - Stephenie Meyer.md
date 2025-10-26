@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Short Second Life of Bree Tanner: An Eclipse Novella by Stephenie Meyer
@@ -36,4 +38,3 @@ _The Twilight Saga 3.5_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

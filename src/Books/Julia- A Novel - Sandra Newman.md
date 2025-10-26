@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-01-25
+reviewUrl:
+bookshopUrl:
 ---
 
 # Julia: A Novel by Sandra Newman

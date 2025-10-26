@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2025-02-04
+reviewUrl: /posts/book-review-ascension-nicholas-binge
+bookshopUrl:
 ---
 
 # Ascension by Nicholas Binge

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Man Who Smiled by Henning Mankell
@@ -33,4 +35,3 @@ _Kurt Wallander 4_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

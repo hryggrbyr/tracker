@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2024-10-19
+reviewUrl:
+bookshopUrl:
 ---
 
 # $ git commit murder by Michael Warren Lucas
@@ -35,4 +37,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

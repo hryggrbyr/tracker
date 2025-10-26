@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # An Event in Autumn by Henning Mankell

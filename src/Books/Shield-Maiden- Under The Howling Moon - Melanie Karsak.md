@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-09-05
+reviewUrl:
+bookshopUrl:
 ---
 
 # Shield-Maiden: Under The Howling Moon (The Road to Valhalla Book 1) by Melanie Karsak

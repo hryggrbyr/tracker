@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-24 11:17:42
+reviewUrl:
+bookshopUrl:
 ---
 
 # I, Robot by Isaac Asimov
@@ -28,7 +30,7 @@ created: 2025-10-24 11:17:42
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | sci-fi |
 | Started |  |

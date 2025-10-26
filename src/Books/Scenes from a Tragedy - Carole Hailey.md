@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-08-13 15:40:58
+reviewUrl:
+bookshopUrl:
 ---
 
 # Scenes from a Tragedy by Carole Hailey

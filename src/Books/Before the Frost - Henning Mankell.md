@@ -24,6 +24,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Before the Frost by Henning Mankell

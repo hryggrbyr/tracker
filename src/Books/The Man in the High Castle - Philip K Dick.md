@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2016-05-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Man in the High Castle by Philip K Dick
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

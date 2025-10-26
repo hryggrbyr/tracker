@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Midwich Cuckoos by John Wyndham
@@ -34,4 +36,3 @@ __
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

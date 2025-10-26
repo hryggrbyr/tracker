@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-04-13
+reviewUrl:
+bookshopUrl:
 ---
 
 # Lost Boy by Christina Henry

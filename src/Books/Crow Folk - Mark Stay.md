@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-10-21
+reviewUrl:
+bookshopUrl:
 ---
 
 # Crow Folk by Mark Stay

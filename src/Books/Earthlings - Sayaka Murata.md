@@ -19,6 +19,8 @@ recommended_by:
   name: Alice at Wallflower Digest
   url:
 created: 2025-08-15 20:50:24
+reviewUrl:
+bookshopUrl:
 ---
 
 # Earthlings by Sayaka Murata

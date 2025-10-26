@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2021-01-15
+reviewUrl:
+bookshopUrl:
 ---
 
 # Magician: Apprentice by Raymond E. Feist

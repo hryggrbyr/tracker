@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2016-05-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # Odd Thomas by Dean Koontz

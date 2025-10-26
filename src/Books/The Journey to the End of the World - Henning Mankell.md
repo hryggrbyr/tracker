@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Journey to the End of the World by Henning Mankell
@@ -33,4 +35,3 @@ _Joel Gustafson Stories_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

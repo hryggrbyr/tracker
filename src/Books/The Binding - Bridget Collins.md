@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-08-11 21:31:52
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Binding by Bridget Collins

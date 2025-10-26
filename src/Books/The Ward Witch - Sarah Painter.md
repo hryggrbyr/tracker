@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-01-09
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Ward Witch by Sarah Painter
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

@@ -1,6 +1,8 @@
 ---
 tags:
-  - Humor
+  - Comedy
+  - OpinionColumn
+  - nonfiction
 title: The World According to Clarkson
 subtitle: The World According to Clarkson Volume 1
 author:
@@ -20,6 +22,8 @@ recommended_by:
   name: Oliver Playforth
   url:
 created: 2025-08-06 08:33:24
+reviewUrl:
+bookshopUrl:
 ---
 
 # The World According to Clarkson by Jeremy Clarkson
@@ -33,7 +37,7 @@ _The World According to Clarkson Volume 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Humor |
+| Genre | Comedy,OpinionColumn,nonfiction |
 | Started | 2005-12-25T00:00:00.000+00:00 |
 | Finished | 2006-01-10T00:00:00.000+00:00 |
 | Rating | 1/5 |

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2020-05-15
+reviewUrl:
+bookshopUrl:
 ---
 
 # Malafrena by Ursula K. Le Guin

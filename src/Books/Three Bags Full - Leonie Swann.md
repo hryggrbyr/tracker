@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-06-11
+reviewUrl:
+bookshopUrl:
 ---
 
 # Three Bags Full by Leonie Swann

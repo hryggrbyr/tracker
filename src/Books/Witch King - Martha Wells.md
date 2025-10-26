@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-01-11
+reviewUrl:
+bookshopUrl:
 ---
 
 # Witch King by Martha Wells
@@ -33,4 +35,3 @@ _ _
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

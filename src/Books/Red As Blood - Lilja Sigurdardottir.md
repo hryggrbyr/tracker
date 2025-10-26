@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2023-08-17
+reviewUrl:
+bookshopUrl:
 ---
 
 # Red As Blood by Lilja Sigurðardóttir

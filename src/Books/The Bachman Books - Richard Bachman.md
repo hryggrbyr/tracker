@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Bachman Books by Richard Bachman

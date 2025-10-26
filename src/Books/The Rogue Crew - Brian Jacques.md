@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Rogue Crew by Brian Jacques
@@ -37,4 +39,3 @@ _Redwall 22_
 | Started |  |
 | Finished |  |
 | Rating | /5 |
-

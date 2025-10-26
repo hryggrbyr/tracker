@@ -24,6 +24,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # Percy Jackson and the Olympians: The Chalice of the Gods by Rick Riordan

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2023-07-24
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Absolute Book by Elizabeth Knox

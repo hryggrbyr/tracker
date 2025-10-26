@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-08-25 19:05:40
+reviewUrl:
+bookshopUrl:
 ---
 
 # Katabasis by R. F. Kuang

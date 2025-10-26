@@ -23,6 +23,8 @@ recommended_by:
   name:
   url:
 created: 2021-06-01
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Fifth Woman by Henning Mankell

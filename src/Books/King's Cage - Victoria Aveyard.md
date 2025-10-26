@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created: 2015-05-07
+reviewUrl:
+bookshopUrl:
 ---
 
 # King's Cage by Victoria Aveyard

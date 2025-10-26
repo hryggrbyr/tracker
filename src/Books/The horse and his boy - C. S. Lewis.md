@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Horse and his Boy by C. S. Lewis

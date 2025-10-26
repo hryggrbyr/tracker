@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2022-12-26
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Green Millennium by Fritz Leiber

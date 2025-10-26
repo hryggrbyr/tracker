@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-24 11:19:17
+reviewUrl:
+bookshopUrl:
 ---
 
 # Prophecy by David Seltzer

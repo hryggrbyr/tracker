@@ -20,6 +20,8 @@ recommended_by:
   name:
   url:
 created: 2025-08-06 19:32:37
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Plague Dogs by Richard Adams

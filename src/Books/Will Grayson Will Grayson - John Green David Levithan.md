@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2016-05-06
+reviewUrl:
+bookshopUrl:
 ---
 
 # Will Grayson, Will Grayson by John Green, David Levithan

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-02-22
+reviewUrl:
+bookshopUrl:
 ---
 
 # Withered Hill by David Barnett

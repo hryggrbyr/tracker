@@ -19,6 +19,8 @@ recommended_by:
   name: my wife
   url:
 created: 2015-11-02
+reviewUrl:
+bookshopUrl:
 ---
 
 # Scrum by Chris Sims

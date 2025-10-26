@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2024-10-16
+reviewUrl:
+bookshopUrl:
 ---
 
 # The Ballad of Songbirds and Snakes by Suzanne Collins

@@ -21,6 +21,8 @@ recommended_by:
   name:
   url:
 created: 2025-10-23 01:16:23
+reviewUrl: /posts/book-review-silverview-john-le-carre
+bookshopUrl:
 ---
 
 # Silverview by John le Carré

@@ -19,6 +19,8 @@ recommended_by:
   name:
   url:
 created: 2025-03-19
+reviewUrl:
+bookshopUrl:
 ---
 
 # I Want to Go Home but I'm Already There by Risn Lanigan

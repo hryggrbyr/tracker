@@ -22,6 +22,8 @@ recommended_by:
   name:
   url:
 created:
+reviewUrl:
+bookshopUrl:
 ---
 
 # A Bridge to the Stars by Henning Mankell
