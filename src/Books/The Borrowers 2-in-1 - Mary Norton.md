@@ -10,7 +10,7 @@ author:
 publisher: Hachette UK
 published: 2011-12-15
 page_count: 328
-isbn: 1444006533 9781444006537
+isbn: 9781444006537
 description: "Deep beneath the floorboards lives the tiny Borrower family - Pod, Homily and Arrietty Clock. Everything they have is borrowed from the humans above them, even their names are not quite their own. There is just one rule: they must never be seen. Then one day Arrietty meets the boy, and the family's incredible adventure begins. A great value edition of the first two classic BORROWERS books to tie in with this year's BBC 90-minute family Christmas special."
 coverUrl: http://books.google.com/books/content?id=JvxX0jHABrEC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
@@ -32,7 +32,7 @@ bookshopUrl:
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | JuvenileFiction,fantasy,UrbanFantasy |
 | Started |  |
