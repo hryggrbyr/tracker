@@ -15,3 +15,30 @@ layout: base.njk
 		{{ rating }}/5 @ {{ finished_date }}
 	</div>
 </div>
+
+<section>
+    <h2>YAML for Review</h2>
+    <pre>
+---
+public: false
+title: "Book Review — {{ title }} by {{ author }}"
+date:
+tags:
+  - entertainment
+  - books
+  - review
+{% for tag in tags %}  - {{ tag }}
+{% endfor %}
+description: "One of my sporadic book reviews"
+layout: "book-review"
+hero: "/images/book-review.jpg"
+teaserImage: true
+book:
+    title: "{{ title }}"
+    author: "{{ author }}"
+    publishedDate: "{{ published }}"
+    rating: "0"
+    url: "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term={{ isbn or title ~ '%20' ~author | urlEncode }}"
+---
+    </pre>
+</section>

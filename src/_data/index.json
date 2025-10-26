@@ -1,6 +1,6 @@
 {
   "Books": {
-    "count": 585,
+    "count": 595,
     "items": [
       {
         "filename": "You Can't Stop Me - Max Allan Collins & Matthew Clemens.md",
@@ -552,7 +552,7 @@
             "Religon"
           ],
           "title": "Whispers Under Ground",
-          "subtitle": " ",
+          "subtitle": "Rivers of London 3",
           "author": [
             "Ben Aaronovitch"
           ],
@@ -671,7 +671,10 @@
         "slug": "Watership Down - Richard Adams",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "Religon",
+            "drama"
           ],
           "title": "Watership Down",
           "subtitle": "",
@@ -760,7 +763,10 @@
         "slug": "Warm Bodies - Isaac Marion",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "fantasy",
+            "UrbanFantasy",
+            "zombies",
+            "relationships"
           ],
           "title": "Warm Bodies",
           "subtitle": "A Novel",
@@ -790,7 +796,11 @@
         "path": "src/Books/War Storm - Victoria Aveyard.md",
         "slug": "War Storm - Victoria Aveyard",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "dystopia",
+            "YoungAdult"
+          ],
           "title": "War Storm",
           "subtitle": "Red Queen 4",
           "author": [
@@ -805,8 +815,8 @@
           "shelf": "read",
           "owned": true,
           "start_date": null,
-          "end_date": null,
-          "rating": null,
+          "end_date": "2018-04-11T00:00:00.000Z",
+          "rating": 4,
           "recommended_by": {
             "name": null,
             "url": null
@@ -1306,7 +1316,10 @@
         "slug": "Triss - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "Triss",
           "subtitle": "Redwall 15",
@@ -1523,8 +1536,11 @@
         "path": "src/Books/Through the Looking-Glass by Lewis Carroll - Lewis Carroll.md",
         "slug": "Through the Looking-Glass by Lewis Carroll - Lewis Carroll",
         "frontmatter": {
-          "tags": [],
-          "title": "Through the Looking-Glass by Lewis Carroll",
+          "tags": [
+            "fantasy",
+            "ParallelWorlds"
+          ],
+          "title": "Through the Looking-Glass",
           "subtitle": " ",
           "author": [
             "Lewis Carroll"
@@ -1538,7 +1554,7 @@
           "shelf": "read",
           "owned": true,
           "start_date": null,
-          "end_date": null,
+          "end_date": "1987-02-02T00:00:00.000Z",
           "rating": 3,
           "recommended_by": {
             "name": null,
@@ -1612,7 +1628,7 @@
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child"
+            "JuvenileFiction"
           ],
           "title": "The Voyage of the Dawn Treader",
           "subtitle": "Chronicles of Narnia: Chronological order 5",
@@ -1644,7 +1660,7 @@
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child"
+            "JuvenileFiction"
           ],
           "title": "The Silver Chair",
           "subtitle": "Chronicles of Narnia: Chronological order 6",
@@ -1705,7 +1721,7 @@
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child"
+            "JuvenileFiction"
           ],
           "title": "The Magician's Nephew",
           "subtitle": "Chronicles of Narnia: Chronological order 1",
@@ -1766,7 +1782,7 @@
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child"
+            "JuvenileFiction"
           ],
           "title": "The Horse and his Boy",
           "subtitle": "Chronicles of Narnia: Chronological order 3",
@@ -1828,7 +1844,7 @@
         "slug": "The graveyard book - Neil Gaiman & Dave McKean",
         "frontmatter": {
           "tags": [
-            "child"
+            "JuvenileFiction"
           ],
           "title": "The Graveyard Book",
           "subtitle": "",
@@ -2068,7 +2084,9 @@
         "slug": "The Wasp Factory - Iain M. Banks",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "ComingOfAge",
+            "thriller",
+            "DarkHumour"
           ],
           "title": "The Wasp Factory",
           "subtitle": "",
@@ -2128,7 +2146,7 @@
         "slug": "The Virgin Suicides - Jeffrey Eugenides",
         "frontmatter": {
           "tags": [
-            "Fiction",
+            "YoungAdult",
             "suicide",
             "DarkHumour",
             "ComingOfAge"
@@ -2283,10 +2301,14 @@
         "slug": "The Titan's Curse - Rick Riordan",
         "frontmatter": {
           "tags": [
-            "YoungAdult"
+            "YoungAdult",
+            "fantasy",
+            "UrbanFantasy",
+            "mythology",
+            "magic"
           ],
           "title": "The Titan's Curse",
-          "subtitle": "",
+          "subtitle": "Percy Jackson and the Olympians 3",
           "author": [
             "Rick Riordan"
           ],
@@ -2299,7 +2321,7 @@
           "shelf": "read",
           "owned": false,
           "start_date": null,
-          "end_date": null,
+          "end_date": "2011-09-12T00:00:00.000Z",
           "rating": 4,
           "recommended_by": {
             "name": null,
@@ -2430,35 +2452,6 @@
         }
       },
       {
-        "filename": "The Taggerung - Brian Jacques.md",
-        "path": "src/Books/The Taggerung - Brian Jacques.md",
-        "slug": "The Taggerung - Brian Jacques",
-        "frontmatter": {
-          "tags": [],
-          "title": "The Taggerung",
-          "subtitle": "Redwall",
-          "author": [
-            "Brian Jacques"
-          ],
-          "publisher": null,
-          "published": null,
-          "page_count": null,
-          "isbn": null,
-          "description": "",
-          "coverUrl": "https://covers.openlibrary.org/b/olid/OL12061976M-M.jpg",
-          "shelf": "to-read",
-          "owned": true,
-          "start_date": null,
-          "end_date": null,
-          "rating": 5,
-          "recommended_by": {
-            "name": null,
-            "url": null
-          },
-          "created": "2023-10-31T00:00:00.000Z"
-        }
-      },
-      {
         "filename": "The Swords of Lankhmar - Fritz Leiber.md",
         "path": "src/Books/The Swords of Lankhmar - Fritz Leiber.md",
         "slug": "The Swords of Lankhmar - Fritz Leiber",
@@ -2522,7 +2515,9 @@
         "slug": "The Subtle Knife - Philip Pullman",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "fantasy",
+            "Religon",
+            "ParallelWorlds"
           ],
           "title": "The Subtle Knife",
           "subtitle": "His Dark Materials 2",
@@ -2698,7 +2693,10 @@
         "slug": "The Sin Eater - Megan Campisi",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "HistoricalFiction",
+            "thriller",
+            "crime",
+            "dystopia"
           ],
           "title": "The Sin Eater",
           "subtitle": "",
@@ -2728,7 +2726,14 @@
         "path": "src/Books/The Silver Mark - Sarah Painter.md",
         "slug": "The Silver Mark - Sarah Painter",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "magic",
+            "england",
+            "supernatural",
+            "folklore"
+          ],
           "title": "The Silver Mark",
           "subtitle": "Crow Investigations 2",
           "author": [
@@ -2753,11 +2758,55 @@
         }
       },
       {
+        "filename": "The Silence of the Lambs - Thomas Harris.md",
+        "path": "src/Books/The Silence of the Lambs - Thomas Harris.md",
+        "slug": "The Silence of the Lambs - Thomas Harris",
+        "frontmatter": {
+          "tags": [
+            "police",
+            "crime",
+            "SerialKiller",
+            "psychology",
+            "america",
+            "adventure"
+          ],
+          "title": "The Silence of the Lambs",
+          "subtitle": "",
+          "author": [
+            "Thomas Harris"
+          ],
+          "publisher": "Macmillan",
+          "published": "1988-07-15T00:00:00.000Z",
+          "page_count": 360,
+          "isbn": "0312022824 9780312022822",
+          "description": "She is Clarice Starling, young, vulnerable FBI trainee. He is Hannibal Lecter, brilliant, evil genius. Theirs is a mesmerizing struggle between good and evil- designed to stop a killer, and guaranteed to chill your blood.",
+          "coverUrl": "http://books.google.com/books/content?id=oysBBPAy3nwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "read",
+          "owned": false,
+          "start_date": null,
+          "end_date": "1993-04-11T00:00:00.000Z",
+          "rating": 4,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-10-24T18:32:21.000Z"
+        }
+      },
+      {
         "filename": "The Silence Factory - Bridget Collins.md",
         "path": "src/Books/The Silence Factory - Bridget Collins.md",
         "slug": "The Silence Factory - Bridget Collins",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "thriller",
+            "horror",
+            "supernatural",
+            "HistoricalFiction",
+            "fantasy",
+            "HistoricalFantasy",
+            "england"
+          ],
           "title": "The Silence Factory",
           "subtitle": " ",
           "author": [
@@ -2877,9 +2926,16 @@
         "path": "src/Books/The Shadow Wing - Sarah Painter.md",
         "slug": "The Shadow Wing - Sarah Painter",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "magic",
+            "england",
+            "supernatural",
+            "folklore"
+          ],
           "title": "The Shadow Wing",
-          "subtitle": " ",
+          "subtitle": "Crow Investigations 6",
           "author": [
             "Sarah Painter"
           ],
@@ -3009,11 +3065,11 @@
           "isbn": null,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-          "shelf": "read",
+          "shelf": "to-read",
           "owned": true,
           "start_date": null,
           "end_date": null,
-          "rating": 5,
+          "rating": 0,
           "recommended_by": {
             "name": null,
             "url": null
@@ -3026,9 +3082,15 @@
         "path": "src/Books/The Sea of Monsters - Rick Riordan.md",
         "slug": "The Sea of Monsters - Rick Riordan",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "YoungAdult",
+            "fantasy",
+            "UrbanFantasy",
+            "mythology",
+            "magic"
+          ],
           "title": "The Sea of Monsters",
-          "subtitle": " ",
+          "subtitle": "Percy Jackson and the Olympians 2",
           "author": [
             "Rick Riordan"
           ],
@@ -3041,7 +3103,7 @@
           "shelf": "read",
           "owned": false,
           "start_date": null,
-          "end_date": null,
+          "end_date": "2011-09-03T00:00:00.000Z",
           "rating": 4,
           "recommended_by": {
             "name": null,
@@ -3085,7 +3147,10 @@
         "slug": "The Sable Quean - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "The Sable Quean",
           "subtitle": "Redwall 21",
@@ -3174,7 +3239,10 @@
         "slug": "The Rogue Crew - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "The Rogue Crew",
           "subtitle": "Redwall 22",
@@ -3712,7 +3780,14 @@
         "path": "src/Books/The Pearl King - Sarah Painter.md",
         "slug": "The Pearl King - Sarah Painter",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "magic",
+            "england",
+            "supernatural",
+            "folklore"
+          ],
           "title": "The Pearl King",
           "subtitle": "Crow Investigations 4",
           "author": [
@@ -3837,7 +3912,14 @@
         "path": "src/Books/The Night Raven - Sarah Painter.md",
         "slug": "The Night Raven - Sarah Painter",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "magic",
+            "england",
+            "supernatural",
+            "folklore"
+          ],
           "title": "The Night Raven",
           "subtitle": "Crow Investigations 1",
           "author": [
@@ -3988,7 +4070,9 @@
         "slug": "The Midnight Library - Matt Haig",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "fantasy",
+            "UrbanFantasy",
+            "library"
           ],
           "title": "The Midnight Library",
           "subtitle": "The No.1 Sunday Times bestseller and worldwide phenomenon",
@@ -4279,9 +4363,16 @@
         "path": "src/Books/The Magpie Key - Sarah Painter.md",
         "slug": "The Magpie Key - Sarah Painter",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "magic",
+            "england",
+            "supernatural",
+            "folklore"
+          ],
           "title": "The Magpie Key",
-          "subtitle": " ",
+          "subtitle": "Crow Investigations 8",
           "author": [
             "Sarah Painter"
           ],
@@ -4301,6 +4392,39 @@
             "url": null
           },
           "created": "2023-04-24T00:00:00.000Z"
+        }
+      },
+      {
+        "filename": "The Magicians Guild - Trudi Canavan.md",
+        "path": "src/Books/The Magicians Guild - Trudi Canavan.md",
+        "slug": "The Magicians Guild - Trudi Canavan",
+        "frontmatter": {
+          "tags": [
+            "fantasy",
+            "magic",
+            "wizards"
+          ],
+          "title": "The Magicians' Guild",
+          "subtitle": "The Black Magician Trilogy",
+          "author": [
+            "Trudi Canavan"
+          ],
+          "publisher": "Harper Collins",
+          "published": "2009-10-13T00:00:00.000Z",
+          "page_count": 388,
+          "isbn": "0061797677 9780061797675",
+          "description": "\"We should expect this young woman to be more powerful than our average novice, possibly even more powerful than the average magician.\" This year, like every other, the magicians of Imardin gather to purge the city of undesirables. Cloaked in the protection of their sorcery, they move with no fear of the vagrants and miscreants who despise them and their work—until one enraged girl, barely more than a child, hurls a stone at the hated invaders . . . and effortlessly penetrates their magical shield. What the Magicians' Guild has long dreaded has finally come to pass. There is someone outside their ranks who possesses a raw power beyond imagining, an untrained mage who must be found and schooled before she destroys herself and her city with a force she cannot yet control.",
+          "coverUrl": "http://books.google.com/books/content?id=Eu1IZBmuFfEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": false,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": "Silvia",
+            "url": null
+          },
+          "created": "2025-10-12T06:30:32.000Z"
         }
       },
       {
@@ -4395,9 +4519,13 @@
         "path": "src/Books/The Lost Hero - Rick Riordan.md",
         "slug": "The Lost Hero - Rick Riordan",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "mythology"
+          ],
           "title": "The Lost Hero",
-          "subtitle": " ",
+          "subtitle": "Heroes of Olympus 1",
           "author": [
             "Rick Riordan"
           ],
@@ -4407,11 +4535,11 @@
           "isbn": null,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/OL24376021M-M.jpg",
-          "shelf": "read",
+          "shelf": "to-read",
           "owned": false,
           "start_date": null,
           "end_date": null,
-          "rating": 3,
+          "rating": null,
           "recommended_by": {
             "name": null,
             "url": null
@@ -4459,7 +4587,10 @@
         "slug": "The Long Patrol - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "The Long Patrol",
           "subtitle": "Redwall 10",
@@ -4485,13 +4616,13 @@
         }
       },
       {
-        "filename": "The Lion - C. S. Lewis.md",
-        "path": "src/Books/The Lion - C. S. Lewis.md",
-        "slug": "The Lion - C. S. Lewis",
+        "filename": "The Lion The Witch and The Wardrobe - C. S. Lewis.md",
+        "path": "src/Books/The Lion The Witch and The Wardrobe - C. S. Lewis.md",
+        "slug": "The Lion The Witch and The Wardrobe - C. S. Lewis",
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child"
+            "JuvenileFiction"
           ],
           "title": "The Lion, The Witch, and The Wardrobe",
           "subtitle": "Chronicles of Narnia: Chronological order 2",
@@ -4643,7 +4774,10 @@
         "slug": "The Legend of Luke - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "The Legend of Luke",
           "subtitle": "Redwall 12",
@@ -4741,7 +4875,7 @@
             "magic"
           ],
           "title": "The Last Olympian",
-          "subtitle": "Percy Jackson and the Olympians 1",
+          "subtitle": "Percy Jackson and the Olympians 5",
           "author": [
             "Rick Riordan"
           ],
@@ -4754,7 +4888,7 @@
           "shelf": "read",
           "owned": true,
           "start_date": null,
-          "end_date": "2011-02-02T00:00:00.000Z",
+          "end_date": "2011-10-16T00:00:00.000Z",
           "rating": null,
           "recommended_by": {
             "name": null,
@@ -4823,6 +4957,42 @@
             "url": null
           },
           "created": null
+        }
+      },
+      {
+        "filename": "The Lancashire Witches - Philip C Almond.md",
+        "path": "src/Books/The Lancashire Witches - Philip C Almond.md",
+        "slug": "The Lancashire Witches - Philip C Almond",
+        "frontmatter": {
+          "tags": [
+            "History",
+            "england",
+            "witches",
+            "magic",
+            "Religion",
+            "folklore"
+          ],
+          "title": "The Lancashire Witches",
+          "subtitle": "A Chronicle of Sorcery and Death on Pendle Hill",
+          "author": [
+            "Philip C. Almond"
+          ],
+          "publisher": "Bloomsbury Publishing",
+          "published": "2017-01-30T00:00:00.000Z",
+          "page_count": 255,
+          "isbn": "1786739704 9781786739704",
+          "description": "In the febrile religious and political climate of late sixteenth-century England, when the grip of the Reformation was as yet fragile and insecure, and underground papism still perceived to be rife, Lancashire was felt by the Protestant authorities to be a sinister corner of superstition, lawlessness and popery. And it was around Pendle Hill, a sombre ridge that looms over the intersecting pastures, meadows and moorland of the Ribble Valley, that their suspicions took infamous shape. The arraignment of the Lancashire witches in the assizes of Lancaster during 1612 is England's most notorious witch-trial. The women who lived in the vicinity of Pendle, who were accused, convicted and hanged alongside the so-called 'Salmesbury Witches', were more than just wicked sorcerers whose malign incantations caused others harm. They were reputed to be part of a dense network of devilry and mischief that revealed itself as much in hidden celebration of the Mass as in malevolent magic. They had to be eliminated to set an example to others. In this remarkable and authoritative treatment, published to coincide with the 400th anniversary of the case of the Lancashire witches, Philip C Almond evokes all the fear, drama and paranoia of those volatile times: the bleak story of the storm over Pendle.",
+          "coverUrl": "http://books.google.com/books/content?id=n7qKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": true,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-10-22T15:54:37.000Z"
         }
       },
       {
@@ -4946,28 +5116,32 @@
         "path": "src/Books/The Jonah - James Herbert.md",
         "slug": "The Jonah - James Herbert",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "horror",
+            "supernatural",
+            "DrugSmuggling"
+          ],
           "title": "The Jonah",
-          "subtitle": " ",
+          "subtitle": "",
           "author": [
             "James Herbert"
           ],
-          "publisher": null,
-          "published": null,
-          "page_count": null,
-          "isbn": null,
-          "description": "",
-          "coverUrl": "https://covers.openlibrary.org/b/olid/OL10491294M-M.jpg",
+          "publisher": "Pan Macmillan",
+          "published": "2011-05-11T00:00:00.000Z",
+          "page_count": 404,
+          "isbn": "1447203275 9781447203278",
+          "description": "By the Master of Horror, in James Herbert's The Jonah, detective Jim Kelso is sent to a small coastal town to investigate drug smuggling and stumbles on a dangerous organization. Suddenly more than just his life is at stake. It’s his past, his future, his sanity. Through torture and drugs he discovers the terrifying secret of The Jonah. And learns, in the most horrifying way that it can destroy him as well as others . . .",
+          "coverUrl": "http://books.google.com/books/content?id=XRv9MjLFIxAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
           "shelf": "read",
           "owned": false,
           "start_date": null,
-          "end_date": null,
-          "rating": 2,
+          "end_date": "1995-08-28T00:00:00.000Z",
+          "rating": 0,
           "recommended_by": {
             "name": null,
             "url": null
           },
-          "created": "2015-10-06T00:00:00.000Z"
+          "created": "2025-10-17T20:40:26.000Z"
         }
       },
       {
@@ -5227,7 +5401,11 @@
         "path": "src/Books/The Hobbit - J. R. R. Tolkien.md",
         "slug": "The Hobbit - J. R. R. Tolkien",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "quest",
+            "classic"
+          ],
           "title": "The Hobbit",
           "subtitle": "or There and Back Again",
           "author": [
@@ -5242,7 +5420,7 @@
           "shelf": "read",
           "owned": true,
           "start_date": "1988-09-04T00:00:00.000Z",
-          "end_date": "1990-08-10T00:00:00.000Z",
+          "end_date": "1990-06-10T00:00:00.000Z",
           "rating": 3,
           "recommended_by": {
             "name": "Mr Preston",
@@ -5391,7 +5569,7 @@
             "Religon"
           ],
           "title": "The Hanging Tree",
-          "subtitle": " ",
+          "subtitle": "Rivers of London 6",
           "author": [
             "Ben Aaronovitch"
           ],
@@ -5606,11 +5784,11 @@
           "isbn": null,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-          "shelf": "read",
+          "shelf": "to-read",
           "owned": false,
           "start_date": null,
           "end_date": null,
-          "rating": 3,
+          "rating": 0,
           "recommended_by": {
             "name": null,
             "url": null
@@ -5735,6 +5913,40 @@
         }
       },
       {
+        "filename": "The Gilded Nest - Sarah Painter.md",
+        "path": "src/Books/The Gilded Nest - Sarah Painter.md",
+        "slug": "The Gilded Nest - Sarah Painter",
+        "frontmatter": {
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "magic",
+            "england"
+          ],
+          "title": "The Gilded Nest",
+          "subtitle": "",
+          "author": [
+            "Sarah Painter"
+          ],
+          "publisher": "Siskin Press Ltd",
+          "published": "2025-05-13T00:00:00.000Z",
+          "page_count": 273,
+          "isbn": "1913676714 9781913676711",
+          "description": "Lydia Crow is back. After the turbulent events of The Magpie Key, Lydia is trying to adjust to life without her home. She is living in Uncle Charlie’s house and learning what ‘head of the Crow Family’ truly means. The four magical Families of London are playing nicely… for now, but a new threat has risen. Lydia and DCI Fleet race against time to find a modern-day Jack the Ripper stalking the streets of Whitechapel. But all is not as it seems… The unmissable ninth instalment in the bestselling Urban Fantasy mystery series, Crow Investigations. Praise for the series: 'I'm a huge fan!' Charlaine Harris, award winning and bestselling author of mystery and fantasy ‘My favourite new urban fantasy series, clever and twisty and deliciously magical, with a shivery sense of wonder that feels utterly grounded in its London setting. Perfect for fans of Ben Aaronovitch, Genevieve Cogman or Robert Galbraith!’ Stephanie Burgis, author of Snowspelled 'I raced through this book, it's thrilling, fast paced and full of adventure and intriguing characters. I cannot wait to read more about Lydia so I'm delighted that this will be a series and that there will be more stories about the Crow family. The Night Raven is perfect for fans of Anna McKerrow, Laura Laakso, Ben Aaronovitch and V. E. Schwab.' LisaReadsBooks 'All my favourite things together - mystery, crime, a sassy female PI and a Magical underworld going on right under Londoner's noses.' A.L. Michael",
+          "coverUrl": "http://books.google.com/books/content?id=xN9bEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": false,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": "Book Series in Order",
+            "url": "https://www.bookseriesinorder.com/crow-investigations/"
+          },
+          "created": "2025-10-22T15:52:44.000Z"
+        }
+      },
+      {
         "filename": "The Garden of Magic - Sarah Painter.md",
         "path": "src/Books/The Garden of Magic - Sarah Painter.md",
         "slug": "The Garden of Magic - Sarah Painter",
@@ -5751,7 +5963,7 @@
           "isbn": null,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-          "shelf": "read",
+          "shelf": "to-read",
           "owned": true,
           "start_date": null,
           "end_date": null,
@@ -5772,7 +5984,8 @@
             "fantasy",
             "magic",
             "politics",
-            "Religon"
+            "Religon",
+            "gentle"
           ],
           "title": "The Garden of Delights",
           "subtitle": "",
@@ -5802,7 +6015,14 @@
         "path": "src/Books/The Fox's Curse - Sarah Painter.md",
         "slug": "The Fox's Curse - Sarah Painter",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "magic",
+            "england",
+            "supernatural",
+            "folklore"
+          ],
           "title": "The Fox's Curse",
           "subtitle": "Crow Investigations 3",
           "author": [
@@ -5864,7 +6084,10 @@
         "slug": "The Fifth Woman - Henning Mankell",
         "frontmatter": {
           "tags": [
-            "Mystery"
+            "crime",
+            "scandinoir",
+            "sweden",
+            "police"
           ],
           "title": "The Fifth Woman",
           "subtitle": "Kurt Wallander 6",
@@ -6036,7 +6259,7 @@
           "isbn": null,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-          "shelf": "read",
+          "shelf": "to-read",
           "owned": true,
           "start_date": null,
           "end_date": null,
@@ -6114,7 +6337,10 @@
         "slug": "The Dogs of Riga - Henning Mankell",
         "frontmatter": {
           "tags": [
-            "Mystery"
+            "crime",
+            "scandinoir",
+            "sweden",
+            "police"
           ],
           "title": "The Dogs of Riga",
           "subtitle": "A Kurt Wallander Mystery 2",
@@ -6261,11 +6487,13 @@
         "slug": "The Dark is Rising - Susan Cooper",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction",
+            "JuvenileFiction",
             "fantasy",
             "mythology",
             "UrbanFantasy",
-            "folklore"
+            "folklore",
+            "magic",
+            "wizards"
           ],
           "title": "The Dark is Rising",
           "subtitle": "The Dark is Rising Sequence 2",
@@ -6278,15 +6506,20 @@
           "isbn": "0689303173 9780689303173",
           "description": "",
           "coverUrl": "http://books.google.com/books/content?id=EiqUckhKnE4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-          "shelf": "reading",
+          "shelf": "read",
           "owned": true,
           "start_date": "2025-10-05T00:00:00.000Z",
-          "end_date": null,
-          "rating": null,
+          "end_date": "2025-10-24T00:00:00.000Z",
+          "rating": 4,
           "history": [
             {
               "start_date": "2021-12-20T00:00:00.000Z",
               "end_date": "2022-01-19T00:00:00.000Z",
+              "rating": 4
+            },
+            {
+              "start_date": "2025-10-05T00:00:00.000Z",
+              "end_date": "2025-10-24T00:00:00.000Z",
               "rating": 4
             }
           ],
@@ -6364,7 +6597,14 @@
         "path": "src/Books/The Copper Heart - Sarah Painter.md",
         "slug": "The Copper Heart - Sarah Painter",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "magic",
+            "england",
+            "supernatural",
+            "folklore"
+          ],
           "title": "The Copper Heart",
           "subtitle": "Crow Investigations 5",
           "author": [
@@ -6515,7 +6755,14 @@
         "path": "src/Books/The City and Its Uncertain Walls - Haruki Murakami.md",
         "slug": "The City and Its Uncertain Walls - Haruki Murakami",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "ParallelWorlds",
+            "gentle",
+            "library",
+            "japan"
+          ],
           "title": "The City and Its Uncertain Walls",
           "subtitle": " ",
           "author": [
@@ -6600,6 +6847,42 @@
         }
       },
       {
+        "filename": "The Broken Cage - Sarah Painter.md",
+        "path": "src/Books/The Broken Cage - Sarah Painter.md",
+        "slug": "The Broken Cage - Sarah Painter",
+        "frontmatter": {
+          "tags": [
+            "fantasy",
+            "UrbanFantasy",
+            "magic",
+            "england",
+            "supernatural",
+            "folklore"
+          ],
+          "title": "The Broken Cage",
+          "subtitle": "Crow Investigations 7",
+          "author": [
+            "Sarah Painter"
+          ],
+          "publisher": null,
+          "published": null,
+          "page_count": null,
+          "isbn": null,
+          "description": "",
+          "coverUrl": "https://covers.openlibrary.org/b/olid/OL46445833M-M.jpg",
+          "shelf": "read",
+          "owned": true,
+          "start_date": "2023-03-13T00:00:00.000Z",
+          "end_date": "2023-04-02T00:00:00.000Z",
+          "rating": null,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2023-04-03T00:00:00.000Z"
+        }
+      },
+      {
         "filename": "The Bright Sword - Lev Grossman.md",
         "path": "src/Books/The Bright Sword - Lev Grossman.md",
         "slug": "The Bright Sword - Lev Grossman",
@@ -6636,7 +6919,7 @@
         "slug": "The Borrowers 2-in-1 - Mary Norton",
         "frontmatter": {
           "tags": [
-            "kids",
+            "JuvenileFiction",
             "fantasy",
             "UrbanFantasy"
           ],
@@ -6792,7 +7075,8 @@
         "slug": "The Blind Assassin - Margaret Atwood",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "fantasy",
+            "relationships"
           ],
           "title": "The Blind Assassin",
           "subtitle": "",
@@ -6882,7 +7166,12 @@
         "path": "src/Books/The Bellmaker - Brian Jacques.md",
         "slug": "The Bellmaker - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "The Bellmaker",
           "subtitle": "Redwall 7",
           "author": [
@@ -7006,7 +7295,9 @@
         "slug": "The Amber Spyglass - Philip Pullman",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "fantasy",
+            "ParallelWorlds",
+            "Religon"
           ],
           "title": "The Amber Spyglass",
           "subtitle": "His Dark Materials 3",
@@ -7340,7 +7631,12 @@
         "path": "src/Books/Taggerung - Brian Jacques.md",
         "slug": "Taggerung - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Taggerung",
           "subtitle": "Redwall 14",
           "author": [
@@ -7694,7 +7990,16 @@
         "path": "src/Books/Stardust - Neil Gaiman.md",
         "slug": "Stardust - Neil Gaiman",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "ModernFairyTale",
+            "pirates",
+            "witches",
+            "magic",
+            "quest",
+            "adventure",
+            "steampunk"
+          ],
           "title": "Stardust",
           "subtitle": " ",
           "author": [
@@ -7709,7 +8014,7 @@
           "shelf": "read",
           "owned": true,
           "start_date": null,
-          "end_date": null,
+          "end_date": "2011-03-02T00:00:00.000Z",
           "rating": 3,
           "recommended_by": {
             "name": null,
@@ -7724,9 +8029,9 @@
         "slug": "Spy Sinker - Len Deighton",
         "frontmatter": {
           "tags": [
-            {
-              "Audio Adult": "Books On Tape"
-            }
+            "thriller",
+            "HistoricalFiction",
+            "espionage"
           ],
           "title": "Spy Sinker",
           "subtitle": "Bernard Samson 6",
@@ -7742,7 +8047,7 @@
           "shelf": "read",
           "owned": true,
           "start_date": null,
-          "end_date": null,
+          "end_date": "1992-08-01T00:00:00.000Z",
           "rating": 3,
           "recommended_by": {
             "name": null,
@@ -7757,7 +8062,9 @@
         "slug": "Spy Line - Len Deighton",
         "frontmatter": {
           "tags": [
-            "Mystery"
+            "thriller",
+            "HistoricalFiction",
+            "espionage"
           ],
           "title": "Spy Line",
           "subtitle": "Bernard Samson 5",
@@ -7788,6 +8095,8 @@
         "slug": "Spy Hook - Len Deighton",
         "frontmatter": {
           "tags": [
+            "thriller",
+            "HistoricalFiction",
             "espionage"
           ],
           "title": "Spy Hook",
@@ -7804,7 +8113,7 @@
           "shelf": "read",
           "owned": true,
           "start_date": null,
-          "end_date": null,
+          "end_date": "1992-08-01T00:00:00.000Z",
           "rating": 3,
           "recommended_by": {
             "name": null,
@@ -8177,22 +8486,25 @@
         }
       },
       {
-        "filename": "Silverview - John le Carre.md",
-        "path": "src/Books/Silverview - John le Carre.md",
-        "slug": "Silverview - John le Carre",
+        "filename": "Silverview - John le Carré.md",
+        "path": "src/Books/Silverview - John le Carré.md",
+        "slug": "Silverview - John le Carré",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "thriller",
+            "espionage"
+          ],
           "title": "Silverview",
-          "subtitle": " ",
+          "subtitle": "A Novel",
           "author": [
             "John le Carré"
           ],
-          "publisher": null,
-          "published": null,
-          "page_count": null,
-          "isbn": null,
-          "description": "",
-          "coverUrl": "https://covers.openlibrary.org/b/olid/OL32472669M-M.jpg",
+          "publisher": "National Geographic Books",
+          "published": "2022-07-05T00:00:00.000Z",
+          "page_count": 0,
+          "isbn": "0735244480 9780735244481",
+          "description": "INTERNATIONAL BESTSELLER In Silverview, John le Carré turns his focus to the world that occupied his writing for the past sixty years—the secret world itself. Julian Lawndsley has renounced his high-flying job in the City for a simpler life running a bookshop in a small English seaside town. But only a couple of months into his new career, Julian’s evening is disrupted by a visitor. Edward, a Polish émigré living in Silverview, the big house on the edge of town, seems to know a lot about Julian’s family and is rather too interested in the inner workings of his modest new enterprise. When a letter turns up at the door of a spy chief in London warning him of a dangerous leak, the investigations lead him to this quiet town by the sea . . . Silverview is the mesmerizing story of an encounter between innocence and experience and between public duty and private morals. In this last complete masterwork from the greatest chronicler of our age, John le Carré asks what you owe to your country when you no longer recognize it.",
+          "coverUrl": "http://books.google.com/books/content?id=F8KOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
           "shelf": "read",
           "owned": true,
           "start_date": "2025-05-22T00:00:00.000Z",
@@ -8202,7 +8514,7 @@
             "name": null,
             "url": null
           },
-          "created": "2025-06-03T00:00:00.000Z"
+          "created": "2025-10-23T01:16:23.000Z"
         }
       },
       {
@@ -8317,7 +8629,7 @@
           "isbn": null,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-          "shelf": "read",
+          "shelf": "to-read",
           "owned": true,
           "start_date": null,
           "end_date": null,
@@ -8782,7 +9094,12 @@
         "path": "src/Books/Salamandastron - Brian Jacques.md",
         "slug": "Salamandastron - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Salamandastron",
           "subtitle": "Redwall 5",
           "author": [
@@ -8812,9 +9129,9 @@
         "slug": "SS-GB - Len Deighton",
         "frontmatter": {
           "tags": [
-            "Fiction",
             "HistoricalFiction",
-            "espionage"
+            "espionage",
+            "thriller"
           ],
           "title": "SS-GB",
           "subtitle": "Nazi-occupied Britain 1941",
@@ -8830,13 +9147,13 @@
           "shelf": "read",
           "owned": true,
           "start_date": null,
-          "end_date": null,
+          "end_date": "2004-07-12T00:00:00.000Z",
           "rating": 3,
           "recommended_by": {
             "name": null,
             "url": null
           },
-          "created": null
+          "created": "2004-10-17T00:00:00.000Z"
         }
       },
       {
@@ -9114,7 +9431,7 @@
             "Religon"
           ],
           "title": "Rivers of London",
-          "subtitle": " ",
+          "subtitle": "Rivers of London 1",
           "author": [
             "Ben Aaronovitch"
           ],
@@ -9228,7 +9545,12 @@
         "path": "src/Books/Redwall - Brian Jacques.md",
         "slug": "Redwall - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Redwall",
           "subtitle": "Redwall 1",
           "author": [
@@ -9373,6 +9695,42 @@
         }
       },
       {
+        "filename": "Red Dragon - Thomas Harris.md",
+        "path": "src/Books/Red Dragon - Thomas Harris.md",
+        "slug": "Red Dragon - Thomas Harris",
+        "frontmatter": {
+          "tags": [
+            "police",
+            "crime",
+            "SerialKiller",
+            "psychology",
+            "america",
+            "adventure"
+          ],
+          "title": "Red Dragon",
+          "subtitle": "The Silence of the Lambs",
+          "author": [
+            "Thomas Harris"
+          ],
+          "publisher": "Bounty Books",
+          "published": 1992,
+          "page_count": 533,
+          "isbn": "1850522316 9781850522317",
+          "description": "Kriminalromaner.",
+          "coverUrl": "http://books.google.com/books/content?id=c1qLQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "read",
+          "owned": false,
+          "start_date": null,
+          "end_date": "1994-02-09T00:00:00.000Z",
+          "rating": 4,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-10-24T18:33:16.000Z"
+        }
+      },
+      {
         "filename": "Red As Blood - Lilja Sigurdardottir.md",
         "path": "src/Books/Red As Blood - Lilja Sigurdardottir.md",
         "slug": "Red As Blood - Lilja Sigurdardottir",
@@ -9443,7 +9801,9 @@
         "slug": "Rebel Girl My Life as a Feminist Punk - Kathleen Hanna",
         "frontmatter": {
           "tags": [
-            "Music"
+            "music",
+            "nonfiction",
+            "biography"
           ],
           "title": "Rebel Girl: My Life as a Feminist Punk",
           "subtitle": "",
@@ -9645,6 +10005,38 @@
         }
       },
       {
+        "filename": "Prophecy - David Seltzer.md",
+        "path": "src/Books/Prophecy - David Seltzer.md",
+        "slug": "Prophecy - David Seltzer",
+        "frontmatter": {
+          "tags": [
+            "sci-fi",
+            "horror"
+          ],
+          "title": "Prophecy",
+          "subtitle": "",
+          "author": [
+            "David Seltzer"
+          ],
+          "publisher": "Ballantine Books",
+          "published": "1979-06-12T00:00:00.000Z",
+          "page_count": 260,
+          "isbn": "0345286421 9780345286420",
+          "description": "",
+          "coverUrl": "http://books.google.com/books/content?id=kX_2HDi9wB4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "read",
+          "owned": false,
+          "start_date": null,
+          "end_date": "1989-11-20T00:00:00.000Z",
+          "rating": 0,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-10-24T11:19:17.000Z"
+        }
+      },
+      {
         "filename": "Project Hail Mary - Andy Weir.md",
         "path": "src/Books/Project Hail Mary - Andy Weir.md",
         "slug": "Project Hail Mary - Andy Weir",
@@ -9682,7 +10074,7 @@
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child"
+            "JuvenileFiction"
           ],
           "title": "Prince Caspian",
           "subtitle": "Chronicles of Narnia: Chronological order 4",
@@ -9886,7 +10278,10 @@
         "path": "src/Books/Picture of Dorian Gray - Oscar Wilde.md",
         "slug": "Picture of Dorian Gray - Oscar Wilde",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "horror",
+            "classic"
+          ],
           "title": "Picture of Dorian Gray",
           "subtitle": " ",
           "author": [
@@ -9901,7 +10296,7 @@
           "shelf": "read",
           "owned": false,
           "start_date": null,
-          "end_date": null,
+          "end_date": "1994-09-01T00:00:00.000Z",
           "rating": 3,
           "recommended_by": {
             "name": null,
@@ -10068,11 +10463,13 @@
         "slug": "Percy Jackson and the Olympians- The Chalice of the Gods - Rick Riordan",
         "frontmatter": {
           "tags": [
+            "YoungAdult",
             "fantasy",
             "UrbanFantasy",
-            "mythology"
+            "mythology",
+            "magic"
           ],
-          "title": "Percy Jackson and the Olympians: The Chalice of the Gods",
+          "title": "The Chalice of the Gods",
           "subtitle": "Percy Jackson and the Olympians 6",
           "author": [
             "Rick Riordan"
@@ -10083,11 +10480,11 @@
           "isbn": null,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-          "shelf": "read",
+          "shelf": "to-read",
           "owned": true,
           "start_date": null,
-          "end_date": "2011-02-02T00:00:00.000Z",
-          "rating": 5,
+          "end_date": null,
+          "rating": null,
           "recommended_by": {
             "name": null,
             "url": null
@@ -10101,11 +10498,13 @@
         "slug": "Percy Jackson and the Lightning Thief - Rick Riordan",
         "frontmatter": {
           "tags": [
+            "YoungAdult",
             "fantasy",
             "UrbanFantasy",
-            "mythology"
+            "mythology",
+            "magic"
           ],
-          "title": "Percy Jackson and the Lightning Thief",
+          "title": "The Lightning Thief",
           "subtitle": "Percy Jackson and The Olympians 1",
           "author": [
             "Rick Riordan"
@@ -10118,8 +10517,8 @@
           "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
           "shelf": "read",
           "owned": true,
-          "start_date": "2011-02-02T00:00:00.000Z",
-          "end_date": "2011-02-02T00:00:00.000Z",
+          "start_date": "2011-08-02T00:00:00.000Z",
+          "end_date": "2011-08-22T00:00:00.000Z",
           "rating": 4,
           "recommended_by": {
             "name": null,
@@ -10162,7 +10561,12 @@
         "path": "src/Books/Pearls of Lutra - Brian Jacques.md",
         "slug": "Pearls of Lutra - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Pearls of Lutra",
           "subtitle": "Redwall 9",
           "author": [
@@ -10278,7 +10682,11 @@
         "path": "src/Books/Packing for Mars - Mary Roach.md",
         "slug": "Packing for Mars - Mary Roach",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "nonfiction",
+            "space",
+            "science"
+          ],
           "title": "Packing for Mars",
           "subtitle": " ",
           "author": [
@@ -10342,7 +10750,10 @@
         "slug": "Outcast of Redwall - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "Outcast of Redwall",
           "subtitle": "Redwall 8",
@@ -10548,7 +10959,7 @@
           "shelf": "read",
           "owned": false,
           "start_date": null,
-          "end_date": "2022-12-22T00:00:00.000Z",
+          "end_date": "2022-10-22T00:00:00.000Z",
           "rating": 4,
           "recommended_by": {
             "name": null,
@@ -10564,7 +10975,7 @@
         "frontmatter": {
           "tags": [
             "mythology",
-            "child"
+            "JuvenileFiction"
           ],
           "title": "Odd and the Frost Giants",
           "subtitle": "",
@@ -10724,23 +11135,25 @@
         "path": "src/Books/No Good Deed - John Niven.md",
         "slug": "No Good Deed - John Niven",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "Fiction"
+          ],
           "title": "No Good Deed",
-          "subtitle": " ",
+          "subtitle": "",
           "author": [
             "John Niven"
           ],
-          "publisher": null,
-          "published": null,
-          "page_count": null,
-          "isbn": null,
-          "description": "",
-          "coverUrl": "https://covers.openlibrary.org/b/olid/OL26788450M-M.jpg",
-          "shelf": "read",
+          "publisher": "Random House",
+          "published": "2017-06-29T00:00:00.000Z",
+          "page_count": 248,
+          "isbn": "1473507065 9781473507067",
+          "description": "***Now available for preorder: KILL 'EM ALL, the stunning sequel to KILL YOUR FRIENDS*** The viciously funny novel by John Niven, bestselling author of Kill Your Friends and Straight White Male. What do you do when a homeless man knows your name? How about when he turns out to be a friend you haven’t seen in twenty years? Do you treat him to a hot meal and see him on his way? Give him a wad of middle-class guilt money? Or take him in and get him back on his feet? For Alan, there’s no question – only natural that he’d want to see his old mate Craig off the streets, even if only for a few nights, and into some clean clothes. But what if the successful life you’ve made for yourself – good job, happy marriage, lovely kids, grand Victorian house (you did well out of the property boom, thank you very much) – is one that that your old pal would quite like to have too? Even if it means taking it from you? Following the divergent lives of two childhood friends, No Good Deed is a funny and painful examination of friendship, the strange currents of ambition, loathing, pity and affection that flow between people over the decades, and of men getting older as they fail and succeed.",
+          "coverUrl": "http://books.google.com/books/content?id=SL7fDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
           "owned": false,
           "start_date": null,
           "end_date": null,
-          "rating": 5,
+          "rating": 0,
           "recommended_by": {
             "name": null,
             "url": null
@@ -11028,7 +11441,12 @@
         "path": "src/Books/Mossflower - Brian Jacques.md",
         "slug": "Mossflower - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Mossflower",
           "subtitle": "Redwall 2",
           "author": [
@@ -11064,7 +11482,7 @@
             "Religon"
           ],
           "title": "Moon Over Soho",
-          "subtitle": " ",
+          "subtitle": "Rivers of London 2",
           "author": [
             "Ben Aaronovitch"
           ],
@@ -11092,7 +11510,8 @@
         "slug": "Monk and Robot - Becky Chambers",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "sci-fi",
+            "gentle"
           ],
           "title": "Monk and Robot",
           "subtitle": "",
@@ -11246,7 +11665,10 @@
         "slug": "Mattimeo - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "Mattimeo",
           "subtitle": "Redwall 3",
@@ -11307,7 +11729,12 @@
         "path": "src/Books/Martin the Warrior - Brian Jacques.md",
         "slug": "Martin the Warrior - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Martin the Warrior",
           "subtitle": "Redwall 6",
           "author": [
@@ -11336,7 +11763,12 @@
         "path": "src/Books/Marlfox - Brian Jacques.md",
         "slug": "Marlfox - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Marlfox",
           "subtitle": "Redwall 11",
           "author": [
@@ -11365,7 +11797,12 @@
         "path": "src/Books/Mariel of Redwall - Brian Jacques.md",
         "slug": "Mariel of Redwall - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Mariel of Redwall",
           "subtitle": "Redwall 4",
           "author": [
@@ -11626,7 +12063,12 @@
         "path": "src/Books/Lord Brocktree - Brian Jacques.md",
         "slug": "Lord Brocktree - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Lord Brocktree",
           "subtitle": "Redwall 13",
           "author": [
@@ -11716,7 +12158,8 @@
         "slug": "Long Dark Tea-Time of the Soul - Douglas Adams",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "sci-fi",
+            "comedy"
           ],
           "title": "Long Dark Tea-Time of the Soul",
           "subtitle": "",
@@ -11747,7 +12190,10 @@
         "slug": "Loamhedge - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "Loamhedge",
           "subtitle": "Redwall 16",
@@ -11827,7 +12273,7 @@
           "shelf": "read",
           "owned": false,
           "start_date": null,
-          "end_date": null,
+          "end_date": "1996-01-01T00:00:00.000Z",
           "rating": 3,
           "recommended_by": {
             "name": null,
@@ -11877,7 +12323,7 @@
             "Religon"
           ],
           "title": "Lies Sleeping",
-          "subtitle": " ",
+          "subtitle": "Rivers of London 7",
           "author": [
             "Ben Aaronovitch"
           ],
@@ -11897,6 +12343,37 @@
             "url": null
           },
           "created": "2021-05-07T00:00:00.000Z"
+        }
+      },
+      {
+        "filename": "Let's Go Play at the Adams' - Mendal W Johnson.md",
+        "path": "src/Books/Let's Go Play at the Adams' - Mendal W Johnson.md",
+        "slug": "Let's Go Play at the Adams' - Mendal W Johnson",
+        "frontmatter": {
+          "tags": [
+            "horror"
+          ],
+          "title": "Let's Go Play at the Adams'",
+          "subtitle": "",
+          "author": [
+            "Mendal W. Johnson"
+          ],
+          "publisher": null,
+          "published": 1974,
+          "page_count": 298,
+          "isbn": "UOM:39015025363790",
+          "description": "",
+          "coverUrl": "http://books.google.com/books/content?id=Me1aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "read",
+          "owned": false,
+          "start_date": null,
+          "end_date": "1992-12-14T00:00:00.000Z",
+          "rating": 0,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-10-24T11:21:02.000Z"
         }
       },
       {
@@ -12038,7 +12515,7 @@
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child"
+            "JuvenileFiction"
           ],
           "title": "Last Battle",
           "subtitle": "Chronicles of Narnia: Chronological order 7",
@@ -12492,7 +12969,10 @@
         "path": "src/Books/Johnny Mnemonic - William Gibson.md",
         "slug": "Johnny Mnemonic - William Gibson",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "sci-fi",
+            "cyberpunk"
+          ],
           "title": "Johnny Mnemonic",
           "subtitle": " ",
           "author": [
@@ -12504,11 +12984,11 @@
           "isbn": null,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/OL32194747M-M.jpg",
-          "shelf": "read",
+          "shelf": "to-read",
           "owned": false,
           "start_date": null,
           "end_date": null,
-          "rating": 3,
+          "rating": null,
           "recommended_by": {
             "name": null,
             "url": null
@@ -12902,6 +13382,37 @@
         }
       },
       {
+        "filename": "I Robot - Isaac Asimov.md",
+        "path": "src/Books/I Robot - Isaac Asimov.md",
+        "slug": "I Robot - Isaac Asimov",
+        "frontmatter": {
+          "tags": [
+            "sci-fi"
+          ],
+          "title": "I, Robot",
+          "subtitle": "",
+          "author": [
+            "Isaac Asimov"
+          ],
+          "publisher": "Roc",
+          "published": 1950,
+          "page_count": 224,
+          "isbn": "STANFORD:36105010636624",
+          "description": "For use in schools and libraries only. The development of robot technology to a state of perfection by future civilizations is explored in nine science fiction stories.",
+          "coverUrl": "http://books.google.com/books/content?id=MD0GAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "read",
+          "owned": false,
+          "start_date": null,
+          "end_date": "1989-11-30T00:00:00.000Z",
+          "rating": 0,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-10-24T11:17:42.000Z"
+        }
+      },
+      {
         "filename": "I Feed Her to the Beast and the Beast Is Me - Jamison Shea.md",
         "path": "src/Books/I Feed Her to the Beast and the Beast Is Me - Jamison Shea.md",
         "slug": "I Feed Her to the Beast and the Beast Is Me - Jamison Shea",
@@ -13026,10 +13537,9 @@
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child",
+            "JuvenileFiction",
             "magic",
             "wizards",
-            "juvenile",
             "ParallelWorlds"
           ],
           "title": "Howl’s Moving Castle",
@@ -13235,7 +13745,10 @@
         "slug": "Hokey Pokey - Kate Mascarenhas",
         "frontmatter": {
           "tags": [
-            "Fiction"
+            "thriller",
+            "horror",
+            "supernatural",
+            "HistoricalFiction"
           ],
           "title": "Hokey Pokey",
           "subtitle": "",
@@ -13266,7 +13779,10 @@
         "slug": "High Rhulain - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "High Rhulain",
           "subtitle": "Redwall 18",
@@ -13466,6 +13982,77 @@
         }
       },
       {
+        "filename": "Hannibal Rising - Thomas Harris.md",
+        "path": "src/Books/Hannibal Rising - Thomas Harris.md",
+        "slug": "Hannibal Rising - Thomas Harris",
+        "frontmatter": {
+          "tags": [
+            "crime",
+            "SerialKiller",
+            "psychology",
+            "HistoricalFiction",
+            "adventure"
+          ],
+          "title": "Hannibal Rising",
+          "subtitle": "",
+          "author": [
+            "Thomas Harris"
+          ],
+          "publisher": "Dell",
+          "published": "2007-05-29T00:00:00.000Z",
+          "page_count": 386,
+          "isbn": "044024286X 9780440242864",
+          "description": "He is one of the most haunting characters in all of literature. At last the evolution of his evil is revealed. Hannibal Lecter emerges from the nightmare of the Eastern Front, a boy in the snow, mute, with a chain around his neck. He seems utterly alone, but he has brought his demons with him. Hannibal’s uncle, a noted painter, finds him in a Soviet orphanage and brings him to France, where Hannibal will live with his uncle and his uncle’s beautiful and exotic wife, Lady Murasaki. Lady Murasaki helps Hannibal to heal. With her help he flourishes, becoming the youngest person ever admitted to medical school in France. But Hannibal’s demons visit him and torment him. When he is old enough, he visits them in turn. He discovers he has gifts beyond the academic, and in that epiphany, Hannibal Lecter becomes death’s prodigy.",
+          "coverUrl": "http://books.google.com/books/content?id=hE8kJTMm5ksC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "read",
+          "owned": false,
+          "start_date": null,
+          "end_date": "2011-08-03T00:00:00.000Z",
+          "rating": 3,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-10-24T18:34:42.000Z"
+        }
+      },
+      {
+        "filename": "Hannibal - Thomas Harris.md",
+        "path": "src/Books/Hannibal - Thomas Harris.md",
+        "slug": "Hannibal - Thomas Harris",
+        "frontmatter": {
+          "tags": [
+            "police",
+            "crime",
+            "SerialKiller",
+            "psychology",
+            "america",
+            "adventure"
+          ],
+          "title": "Hannibal",
+          "subtitle": "The Return of Hannibal Lecter",
+          "author": [
+            "Thomas Harris"
+          ],
+          "publisher": null,
+          "published": "2000-01-01T00:00:00.000Z",
+          "page_count": 592,
+          "isbn": "0753162814 9780753162811",
+          "description": "You remember Hannibal Lecter: gentleman, genius, cannibal. Seven years have passed since Dr. Lecter escaped from custody. And for seven years he's been at large, free to savor the scents, the essences, of an unguarded world. But intruders have entered Dr. Lecter's world, piercing his new identity, sensing the evil that surrounds him. For the multimillionaire Hannibal left maimed, for a corrupt Italian policeman, and for FBI agent Clarice Starling, who once stood before Lecter and who has never been the same, the final hunt for Hannibal Lecter has begun. All of them, in their separate ways, want to find Dr. Lecter. And all three will get their wish. But only one will live long enough to savor the reward....From the Paperback edition.",
+          "coverUrl": null,
+          "shelf": "read",
+          "owned": false,
+          "start_date": null,
+          "end_date": "2004-05-07T00:00:00.000Z",
+          "rating": 3,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-10-24T18:35:56.000Z"
+        }
+      },
+      {
         "filename": "Handmaid's Tale - Margaret Atwood.md",
         "path": "src/Books/Handmaid's Tale - Margaret Atwood.md",
         "slug": "Handmaid's Tale - Margaret Atwood",
@@ -13561,7 +14148,15 @@
         "path": "src/Books/Greenwitch - Susan Cooper.md",
         "slug": "Greenwitch - Susan Cooper",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "JuvenileFiction",
+            "fantasy",
+            "mythology",
+            "UrbanFantasy",
+            "folklore",
+            "magic",
+            "wizards"
+          ],
           "title": "Greenwitch",
           "subtitle": "The Dark is Rising Sequence 3",
           "author": [
@@ -13573,16 +14168,16 @@
           "isbn": null,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-          "shelf": "to-read",
+          "shelf": "reading",
           "owned": true,
-          "start_date": null,
+          "start_date": "2025-10-24T00:00:00.000Z",
           "end_date": null,
           "rating": null,
           "recommended_by": {
             "name": null,
             "url": null
           },
-          "created": null
+          "created": "2022-12-18T00:00:00.000Z"
         }
       },
       {
@@ -13617,6 +14212,40 @@
             "url": null
           },
           "created": "2021-12-18T00:00:00.000Z"
+        }
+      },
+      {
+        "filename": "Gone Before Goodbye - Harlan Coben Reese Witherspoon.md",
+        "path": "src/Books/Gone Before Goodbye - Harlan Coben Reese Witherspoon.md",
+        "slug": "Gone Before Goodbye - Harlan Coben Reese Witherspoon",
+        "frontmatter": {
+          "tags": [
+            "thriller",
+            "medical",
+            "military"
+          ],
+          "title": "Gone Before Goodbye",
+          "subtitle": "",
+          "author": [
+            "Harlan Coben",
+            "Reese Witherspoon"
+          ],
+          "publisher": "Hachette UK",
+          "published": "2025-10-14T00:00:00.000Z",
+          "page_count": 320,
+          "isbn": "1538774712 9781538774717",
+          "description": "An unforgettable suspense novel that combines the storytelling talents of Academy Award-winning actor Reese Witherspoon and internationally bestselling author Harlan Coben. Gone Before Goodbye is the story of a woman trapped in a deadly conspiracy—where uncovering the truth could cost her everything. Maggie McCabe is teetering on the brink. A highly skilled and renowned Army combat surgeon, she has always lived life at the edge, where she could make the most impact. And it was all going to plan ... until it wasn’t. Upside down after a devastating series of tragedies leads to her medical license being revoked, Maggie has lost her purpose, but not her nerve or her passion. At her lowest point, she is thrown a lifeline by a former colleague, an elite plastic surgeon whose anonymous clientele demand the best care money can buy, as well as absolute discretion. Halfway across the globe, sequestered in the lap of luxury and cutting-edge technology, one of the world’s most mysterious men requires unconventional medical assistance. Desperate, and one of the few surgeons in the world skilled enough to take this job, Maggie enters his realm of unspeakable opulence and fulfills her end of the agreement. But when the patient suddenly disappears while still under her care, Maggie must become a fugitive herself—or she will be the next one who is ... Gone Before Goodbye",
+          "coverUrl": "http://books.google.com/books/content?id=Uy8mEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": false,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-10-17T19:48:55.000Z"
         }
       },
       {
@@ -13930,7 +14559,7 @@
             "Religon"
           ],
           "title": "Foxglove Summer",
-          "subtitle": " ",
+          "subtitle": "Rivers of London 5",
           "author": [
             "Ben Aaronovitch"
           ],
@@ -14225,7 +14854,10 @@
         "slug": "Eulalia! - Brian Jacques",
         "frontmatter": {
           "tags": [
-            "Juvenile Fiction"
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
           ],
           "title": "Eulalia!",
           "subtitle": "Redwall 19",
@@ -14582,7 +15214,12 @@
         "path": "src/Books/Doomwyte - Brian Jacques.md",
         "slug": "Doomwyte - Brian Jacques",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "fantasy",
+            "TalkingAnimals",
+            "drama",
+            "JuvenileFiction"
+          ],
           "title": "Doomwyte",
           "subtitle": "Redwall 20",
           "author": [
@@ -14702,7 +15339,10 @@
         "path": "src/Books/Dirk Gently's Holistic Detective Agency - Douglas Adams.md",
         "slug": "Dirk Gently's Holistic Detective Agency - Douglas Adams",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "sci-fi",
+            "comedy"
+          ],
           "title": "Dirk Gently's Holistic Detective Agency",
           "subtitle": " ",
           "author": [
@@ -14717,7 +15357,7 @@
           "shelf": "read",
           "owned": false,
           "start_date": null,
-          "end_date": null,
+          "end_date": "1998-01-02T00:00:00.000Z",
           "rating": 2,
           "recommended_by": {
             "name": null,
@@ -15929,7 +16569,7 @@
             "Religon"
           ],
           "title": "Broken Homes",
-          "subtitle": " ",
+          "subtitle": "Rivers of London 4",
           "author": [
             "Ben Aaronovitch"
           ],
@@ -15949,35 +16589,6 @@
             "url": null
           },
           "created": "2021-04-22T00:00:00.000Z"
-        }
-      },
-      {
-        "filename": "Broken Cage - Sarah Painter.md",
-        "path": "src/Books/Broken Cage - Sarah Painter.md",
-        "slug": "Broken Cage - Sarah Painter",
-        "frontmatter": {
-          "tags": [],
-          "title": "Broken Cage",
-          "subtitle": " ",
-          "author": [
-            "Sarah Painter"
-          ],
-          "publisher": null,
-          "published": null,
-          "page_count": null,
-          "isbn": null,
-          "description": "",
-          "coverUrl": "https://covers.openlibrary.org/b/olid/OL46445833M-M.jpg",
-          "shelf": "read",
-          "owned": true,
-          "start_date": "2023-03-13T00:00:00.000Z",
-          "end_date": "2023-04-02T00:00:00.000Z",
-          "rating": null,
-          "recommended_by": {
-            "name": null,
-            "url": null
-          },
-          "created": "2023-04-03T00:00:00.000Z"
         }
       },
       {
@@ -16398,9 +17009,11 @@
         "slug": "Battle of the Labyrinth - Rick Riordan",
         "frontmatter": {
           "tags": [
+            "YoungAdult",
             "fantasy",
             "UrbanFantasy",
-            "mythology"
+            "mythology",
+            "magic"
           ],
           "title": "Battle of the Labyrinth",
           "subtitle": "Percy Jackson and the Olympians 4",
@@ -16416,7 +17029,7 @@
           "shelf": "read",
           "owned": false,
           "start_date": null,
-          "end_date": "2015-10-06T00:00:00.000Z",
+          "end_date": "2011-10-06T00:00:00.000Z",
           "rating": 3,
           "recommended_by": {
             "name": null,
@@ -16723,7 +17336,7 @@
           "shelf": "read",
           "owned": true,
           "start_date": null,
-          "end_date": "2022-12-22T00:00:00.000Z",
+          "end_date": "2022-11-02T00:00:00.000Z",
           "rating": 4,
           "recommended_by": {
             "name": null,
@@ -16832,7 +17445,7 @@
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child",
+            "JuvenileFiction",
             "classic"
           ],
           "title": "Alice's Adventures in Wonderland",
@@ -17014,7 +17627,7 @@
         "frontmatter": {
           "tags": [
             "fantasy",
-            "child",
+            "YoungAdult",
             "ParallelWorlds"
           ],
           "title": "Abarat: The First Book of Hours",
@@ -17741,7 +18354,7 @@
     ]
   },
   "Movies": {
-    "count": 935,
+    "count": 940,
     "items": [
       {
         "filename": "eXistenZ-David Cronenberg-1999.md",
@@ -19746,7 +20359,7 @@
         "frontmatter": {
           "type": "movie",
           "country": "United States, India, United Kingdom, Mexico, Japan, Canada",
-          "title": "Tron Legacy",
+          "title": "Tron: Legacy",
           "year": 2010,
           "director": "Joseph Kosinski",
           "actors": [
@@ -27121,6 +27734,34 @@
         }
       },
       {
+        "filename": "Song of the Sea-Tomm Moore-2014.md",
+        "path": "src/Movies/Song of the Sea-Tomm Moore-2014.md",
+        "slug": "Song of the Sea-Tomm Moore-2014",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Ireland, Denmark, Belgium, France, Luxembourg",
+          "title": "Song of the Sea",
+          "year": 2014,
+          "director": "Tomm Moore",
+          "actors": [
+            "David Rawle",
+            "Brendan Gleeson",
+            "Lisa Hannigan"
+          ],
+          "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+          ],
+          "length": 93,
+          "shelf": "watched",
+          "owned": false,
+          "rating": 8,
+          "watched": "2025-10-21T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MDMwNjEwNV5BMl5BanBnXkFtZTgwOTkxMzI0MzE@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Snowpiercer-Bong Joon Ho-2013.md",
         "path": "src/Movies/Snowpiercer-Bong Joon Ho-2013.md",
         "slug": "Snowpiercer-Bong Joon Ho-2013",
@@ -27148,6 +27789,34 @@
           "rating": null,
           "watched": "2014-06-27T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/9JPx09Rr0Txq2eSQfjq1DEBR5cx.jpg"
+        }
+      },
+      {
+        "filename": "Snow White and the Huntsman-Rupert Sanders-2012.md",
+        "path": "src/Movies/Snow White and the Huntsman-Rupert Sanders-2012.md",
+        "slug": "Snow White and the Huntsman-Rupert Sanders-2012",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom, Japan, United States",
+          "title": "Snow White and the Huntsman",
+          "year": 2012,
+          "director": "Rupert Sanders",
+          "actors": [
+            "Kristen Stewart",
+            "Chris Hemsworth",
+            "Charlize Theron"
+          ],
+          "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "length": 127,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2012-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -29057,9 +29726,10 @@
             "Amos Crawley"
           ],
           "genre": [
-            "Action & Adventure",
+            "Adventure",
             "Animation",
-            "Sci-Fi & Fantasy"
+            "fantasy",
+            "TalkingAnimals"
           ],
           "length": "3 seasons (39 episodes)",
           "shelf": "watchlist",
@@ -31432,6 +32102,34 @@
           "rating": null,
           "watched": "1976-11-14T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/gZ8hhuVEQ78CLND09trZJ45Eiy8.jpg"
+        }
+      },
+      {
+        "filename": "Nausicaä of the Valley of the Wind-Hayao Miyazaki-1984.md",
+        "path": "src/Movies/Nausicaä of the Valley of the Wind-Hayao Miyazaki-1984.md",
+        "slug": "Nausicaä of the Valley of the Wind-Hayao Miyazaki-1984",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Japan",
+          "title": "Nausicaä of the Valley of the Wind",
+          "year": 1984,
+          "director": "Hayao Miyazaki",
+          "actors": [
+            "Sumi Shimamoto",
+            "Mahito Tsujimura",
+            "Hisako Kyôda"
+          ],
+          "genre": [
+            "Animation",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "length": 117,
+          "shelf": "watched",
+          "owned": false,
+          "rating": 6,
+          "watched": "2025-10-20T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BODBhMTI3YzMtNTRjYS00OTFkLWJmODUtNjJiNzcwYTVkNDhiXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -38091,6 +38789,34 @@
         }
       },
       {
+        "filename": "Faults-Riley Stearns-2014.md",
+        "path": "src/Movies/Faults-Riley Stearns-2014.md",
+        "slug": "Faults-Riley Stearns-2014",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Faults",
+          "year": 2014,
+          "director": "Riley Stearns",
+          "actors": [
+            "Leland Orser",
+            "Mary Elizabeth Winstead",
+            "Chris Ellis"
+          ],
+          "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+          ],
+          "length": 89,
+          "shelf": "watched",
+          "owned": false,
+          "rating": 9,
+          "watched": "2014-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzgzODQ2OTI0NF5BMl5BanBnXkFtZTgwMzQxNjE0NDE@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Fast Times at Ridgemont High-Amy Heckerling-1982.md",
         "path": "src/Movies/Fast Times at Ridgemont High-Amy Heckerling-1982.md",
         "slug": "Fast Times at Ridgemont High-Amy Heckerling-1982",
@@ -39527,6 +40253,34 @@
           "rating": null,
           "watched": "2024-12-25T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
+        }
+      },
+      {
+        "filename": "Death Becomes Her-Robert Zemeckis-1992.md",
+        "path": "src/Movies/Death Becomes Her-Robert Zemeckis-1992.md",
+        "slug": "Death Becomes Her-Robert Zemeckis-1992",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Death Becomes Her",
+          "year": 1992,
+          "director": "Robert Zemeckis",
+          "actors": [
+            "Meryl Streep",
+            "Bruce Willis",
+            "Goldie Hawn"
+          ],
+          "genre": [
+            "Comedy",
+            "Fantasy",
+            "Horror"
+          ],
+          "length": 104,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "1992-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTczYmEyMmEtMmJlYi00YjI2LTg3MzUtMzEyODUwYWYzNjJhXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -45270,7 +46024,7 @@
     ]
   },
   "Series": {
-    "count": 248,
+    "count": 249,
     "items": [
       {
         "filename": "Zom 100 Bucket List of the Dead-2023.md",
@@ -45498,7 +46252,7 @@
           "shelf": "watched",
           "owned": false,
           "rating": null,
-          "watched": "2025-10-01T00:00:00.000Z",
+          "watched": "2025-10-21T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MjcxMmMtOGQwMy00ZTU3LTgwNmItMzI1M2Q1MzdlYjgyXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
@@ -46284,7 +47038,7 @@
           "shelf": "watched",
           "owned": false,
           "rating": null,
-          "watched": "2025-10-14T00:00:00.000Z",
+          "watched": "2025-10-18T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BODFlZTE3YzgtZDBkZC00NDA2LWI2OGQtZWQ5MGY4MmFjZTYxXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
@@ -49740,6 +50494,34 @@
           "rating": null,
           "watched": "2018-07-05T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg"
+        }
+      },
+      {
+        "filename": "How Are You It's Alan Partridge-2025–.md",
+        "path": "src/Series/How Are You It's Alan Partridge-2025–.md",
+        "slug": "How Are You It's Alan Partridge-2025–",
+        "frontmatter": {
+          "type": "series",
+          "country": "UK",
+          "title": "How Are You? It's Alan (Partridge)",
+          "year": "2025–",
+          "director": "Neil Gibbons, Rob Gibbons",
+          "actors": [
+            "Steve Coogan",
+            "Felicity Montagu",
+            "Katherine Kelly",
+            "Tim Key"
+          ],
+          "genre": [
+            "Comedy",
+            "Mockumentary"
+          ],
+          "length": "8 x 25 minutes",
+          "shelf": "watched",
+          "owned": false,
+          "rating": 4,
+          "watched": "2025-10-24T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNmU0NzZhZTgtOGY4ZS00YTI4LWI5ZmQtMTE3OGJjNzczMzRhXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {

@@ -225,7 +225,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2025-10-01T00:00:00.000Z",
+      "watched": "2025-10-21T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MjcxMmMtOGQwMy00ZTU3LTgwNmItMzI1M2Q1MzdlYjgyXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
@@ -1011,7 +1011,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2025-10-14T00:00:00.000Z",
+      "watched": "2025-10-18T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BODFlZTE3YzgtZDBkZC00NDA2LWI2OGQtZWQ5MGY4MmFjZTYxXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
@@ -4467,6 +4467,34 @@
       "rating": null,
       "watched": "2018-07-05T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg"
+    }
+  },
+  {
+    "filename": "How Are You It's Alan Partridge-2025–.md",
+    "path": "src/Series/How Are You It's Alan Partridge-2025–.md",
+    "slug": "How Are You It's Alan Partridge-2025–",
+    "frontmatter": {
+      "type": "series",
+      "country": "UK",
+      "title": "How Are You? It's Alan (Partridge)",
+      "year": "2025–",
+      "director": "Neil Gibbons, Rob Gibbons",
+      "actors": [
+        "Steve Coogan",
+        "Felicity Montagu",
+        "Katherine Kelly",
+        "Tim Key"
+      ],
+      "genre": [
+        "Comedy",
+        "Mockumentary"
+      ],
+      "length": "8 x 25 minutes",
+      "shelf": "watched",
+      "owned": false,
+      "rating": 4,
+      "watched": "2025-10-24T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmU0NzZhZTgtOGY4ZS00YTI4LWI5ZmQtMTE3OGJjNzczMzRhXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {

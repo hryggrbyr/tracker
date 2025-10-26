@@ -10,6 +10,7 @@
 			{% endif %}
 		</p>
 		<p>{{ book.frontmatter.author }}</p>
+		<p><a href="{{ book.slug | slugify }}">View</a></p>
 	</div>
 	<div class="card-author">
 	{% if book.frontmatter.owned == true %}

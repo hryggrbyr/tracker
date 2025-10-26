@@ -1,0 +1,10 @@
+---
+  layout: "base.njk"
+---
+
+<section class="flow">
+    <h2>All Books</h2>
+{% for book in Books | reverse %}
+    {% include "book-card.njk" %}
+{% endfor %}
+</section>

@@ -14,7 +14,7 @@ author:
 publisher: Simon and Schuster
 published: 1973-04
 page_count: 348
-isbn: 0689303173 9780689303173
+isbn: 9780689303173
 description: ""
 coverUrl: http://books.google.com/books/content?id=EiqUckhKnE4C&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
@@ -41,10 +41,9 @@ created: 2022-12-18
 
 _The Dark is Rising Sequence 2_
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | JuvenileFiction,fantasy,mythology,UrbanFantasy,folklore,magic,wizards |
 | Started | 2025-10-05T00:00:00.000+01:00 |
 | Finished | 2025-10-24T00:00:00.000+01:00 |
 | Rating | 4/5 |
-

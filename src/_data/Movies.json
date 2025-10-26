@@ -2002,7 +2002,7 @@
     "frontmatter": {
       "type": "movie",
       "country": "United States, India, United Kingdom, Mexico, Japan, Canada",
-      "title": "Tron Legacy",
+      "title": "Tron: Legacy",
       "year": 2010,
       "director": "Joseph Kosinski",
       "actors": [
@@ -9377,6 +9377,34 @@
     }
   },
   {
+    "filename": "Song of the Sea-Tomm Moore-2014.md",
+    "path": "src/Movies/Song of the Sea-Tomm Moore-2014.md",
+    "slug": "Song of the Sea-Tomm Moore-2014",
+    "frontmatter": {
+      "type": "movie",
+      "country": "Ireland, Denmark, Belgium, France, Luxembourg",
+      "title": "Song of the Sea",
+      "year": 2014,
+      "director": "Tomm Moore",
+      "actors": [
+        "David Rawle",
+        "Brendan Gleeson",
+        "Lisa Hannigan"
+      ],
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "length": 93,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 8,
+      "watched": "2025-10-21T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MDMwNjEwNV5BMl5BanBnXkFtZTgwOTkxMzI0MzE@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Snowpiercer-Bong Joon Ho-2013.md",
     "path": "src/Movies/Snowpiercer-Bong Joon Ho-2013.md",
     "slug": "Snowpiercer-Bong Joon Ho-2013",
@@ -9404,6 +9432,34 @@
       "rating": null,
       "watched": "2014-06-27T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/9JPx09Rr0Txq2eSQfjq1DEBR5cx.jpg"
+    }
+  },
+  {
+    "filename": "Snow White and the Huntsman-Rupert Sanders-2012.md",
+    "path": "src/Movies/Snow White and the Huntsman-Rupert Sanders-2012.md",
+    "slug": "Snow White and the Huntsman-Rupert Sanders-2012",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United Kingdom, Japan, United States",
+      "title": "Snow White and the Huntsman",
+      "year": 2012,
+      "director": "Rupert Sanders",
+      "actors": [
+        "Kristen Stewart",
+        "Chris Hemsworth",
+        "Charlize Theron"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "length": 127,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2012-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -11313,9 +11369,10 @@
         "Amos Crawley"
       ],
       "genre": [
-        "Action & Adventure",
+        "Adventure",
         "Animation",
-        "Sci-Fi & Fantasy"
+        "fantasy",
+        "TalkingAnimals"
       ],
       "length": "3 seasons (39 episodes)",
       "shelf": "watchlist",
@@ -13688,6 +13745,34 @@
       "rating": null,
       "watched": "1976-11-14T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/gZ8hhuVEQ78CLND09trZJ45Eiy8.jpg"
+    }
+  },
+  {
+    "filename": "Nausicaä of the Valley of the Wind-Hayao Miyazaki-1984.md",
+    "path": "src/Movies/Nausicaä of the Valley of the Wind-Hayao Miyazaki-1984.md",
+    "slug": "Nausicaä of the Valley of the Wind-Hayao Miyazaki-1984",
+    "frontmatter": {
+      "type": "movie",
+      "country": "Japan",
+      "title": "Nausicaä of the Valley of the Wind",
+      "year": 1984,
+      "director": "Hayao Miyazaki",
+      "actors": [
+        "Sumi Shimamoto",
+        "Mahito Tsujimura",
+        "Hisako Kyôda"
+      ],
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "length": 117,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 6,
+      "watched": "2025-10-20T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODBhMTI3YzMtNTRjYS00OTFkLWJmODUtNjJiNzcwYTVkNDhiXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -20347,6 +20432,34 @@
     }
   },
   {
+    "filename": "Faults-Riley Stearns-2014.md",
+    "path": "src/Movies/Faults-Riley Stearns-2014.md",
+    "slug": "Faults-Riley Stearns-2014",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Faults",
+      "year": 2014,
+      "director": "Riley Stearns",
+      "actors": [
+        "Leland Orser",
+        "Mary Elizabeth Winstead",
+        "Chris Ellis"
+      ],
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "length": 89,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 9,
+      "watched": "2014-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzgzODQ2OTI0NF5BMl5BanBnXkFtZTgwMzQxNjE0NDE@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Fast Times at Ridgemont High-Amy Heckerling-1982.md",
     "path": "src/Movies/Fast Times at Ridgemont High-Amy Heckerling-1982.md",
     "slug": "Fast Times at Ridgemont High-Amy Heckerling-1982",
@@ -21783,6 +21896,34 @@
       "rating": null,
       "watched": "2024-12-25T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
+    }
+  },
+  {
+    "filename": "Death Becomes Her-Robert Zemeckis-1992.md",
+    "path": "src/Movies/Death Becomes Her-Robert Zemeckis-1992.md",
+    "slug": "Death Becomes Her-Robert Zemeckis-1992",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "Death Becomes Her",
+      "year": 1992,
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Meryl Streep",
+        "Bruce Willis",
+        "Goldie Hawn"
+      ],
+      "genre": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "length": 104,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "1992-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTczYmEyMmEtMmJlYi00YjI2LTg3MzUtMzEyODUwYWYzNjJhXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {

@@ -36,6 +36,9 @@ module.exports = function (eleventyConfig) {
       )
       .slice(0, 5),
   );
+  eleventyConfig.addFilter("urlEncode", function (value) {
+    return encodeURIComponent(value);
+  });
 
   eleventyConfig.addPassthroughCopy({
     "./_data/*.json": "api",
