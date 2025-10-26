@@ -8,7 +8,7 @@ author:
 publisher: HarperCollins UK
 published: 2020-02-27
 page_count: 350
-isbn: 0007381794 9780007381791
+isbn: 9780007381791
 description: Winner of The Women’s Prize for Fiction and the PEN/Faulkner Award for Fiction. The poignant – and at times very funny – novel from the author of The Dutch House and Commonwealth.
 coverUrl: http://books.google.com/books/content?id=NOPODwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: to-read
