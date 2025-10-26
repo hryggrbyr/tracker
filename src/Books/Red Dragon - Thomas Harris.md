@@ -13,7 +13,7 @@ author:
 publisher: Bounty Books
 published: 1992
 page_count: 533
-isbn: 1850522316 9781850522317
+isbn: 9781850522317
 description: Kriminalromaner.
 coverUrl: http://books.google.com/books/content?id=c1qLQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
@@ -35,7 +35,7 @@ bookshopUrl:
 
 _The Silence of the Lambs_
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | police,crime,SerialKiller,psychology,america,adventure |
 | Started |  |
