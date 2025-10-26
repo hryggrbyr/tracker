@@ -11,7 +11,7 @@ author:
 publisher: HarperCollins UK
 published: 2009-02-13
 page_count: 16
-isbn: 0007318200 9780007318209
+isbn: 9780007318209
 description: The 400 million copy worldwide bestseller Dean Koontz is at his very best in this critically-acclaimed page-turner – soon to be a major motion picture. Find out why Odd Thomas is the master storyteller’s most-loved creation.
 coverUrl: http://books.google.com/books/content?id=mKmsN2BfsBMC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
@@ -33,7 +33,7 @@ bookshopUrl:
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | fantasy,UrbanFantasy,supernatural,demons |
 | Started | 2016-05-06T00:00:00.000+01:00 |
