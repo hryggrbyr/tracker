@@ -12,11 +12,11 @@ actors:
 genre:
   - Comedy
   - Mockumentary
-length: 8 x 25 minutes
+length: 6 x 25 minutes
 shelf: watched
 owned: false
 rating: 4
-watched: 2025-10-24
+watched: 2025-10-26
 poster: https://m.media-amazon.com/images/M/MV5BNmU0NzZhZTgtOGY4ZS00YTI4LWI5ZmQtMTE3OGJjNzczMzRhXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
