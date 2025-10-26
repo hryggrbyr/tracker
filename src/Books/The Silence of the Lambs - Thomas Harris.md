@@ -13,7 +13,7 @@ author:
 publisher: Macmillan
 published: 1988-07-15
 page_count: 360
-isbn: 0312022824 9780312022822
+isbn: 9780312022822
 description: She is Clarice Starling, young, vulnerable FBI trainee. He is Hannibal Lecter, brilliant, evil genius. Theirs is a mesmerizing struggle between good and evil- designed to stop a killer, and guaranteed to chill your blood.
 coverUrl: http://books.google.com/books/content?id=oysBBPAy3nwC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read

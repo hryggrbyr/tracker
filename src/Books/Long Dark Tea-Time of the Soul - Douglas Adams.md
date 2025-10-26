@@ -9,7 +9,7 @@ author:
 publisher: Simon and Schuster
 published: 1990
 page_count: 326
-isbn: 0671742515 9780671742515
+isbn: 9780671742515
 description: Science-fiction roman.
 coverUrl: http://books.google.com/books/content?id=h7pjdEPBeGUC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: to-read
@@ -31,7 +31,7 @@ bookshopUrl:
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | to-read |
 | --- | --- |
 | Genre | sci-fi,comedy |
 | Started |  |

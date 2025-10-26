@@ -9,7 +9,7 @@ author:
 publisher: Del Rey
 published: 1992
 page_count: 286
-isbn: 0345379330 9780345379337
+isbn: 9780345379337
 description: "Now celebrating the 42nd anniversary of The Hitchhiker’s Guide to the Galaxy, soon to be a Hulu original series! “Hitchhiker fans rejoice! . . . [Here’s] more of the same zany nonsensical mayhem.”—The New York Times Book Review It’s easy to get disheartened when your planet has been blown up and the woman you love has vanished due to a misunderstanding about space/time. However, instead of being disheartened, Arthur Dent makes the terrible mistake of starting to enjoy life a bit—and immediately all hell breaks loose. Hell takes a number of forms: there’s the standard Ford Prefect version, in the shape of an all-new edition of The Hitchhiker’s Guide to the Galaxy, and a totally unexpected manifestation in the form of a teenage girl who startles Arthur Dent by being his daughter when he didn’t even know he had one. Can Arthur save the Earth from total multidimensional obliteration? Can he save the Guide from a hostile alien takeover? Can he save his daughter, Random, from herself? Of course not. He never works out exactly what is going on. Will you? “Douglas Adams is a terrific satirist. . . . He is anything but harmless.”—The Washington Post Book World"
 coverUrl: http://books.google.com/books/content?id=jxPu4XLOS7EC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
@@ -31,7 +31,7 @@ bookshopUrl:
 
 _Hitch-hiker's Guide to the Galaxy 5_
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | sci-fi,comedy |
 | Started |  |

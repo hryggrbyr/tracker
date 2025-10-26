@@ -10,7 +10,7 @@ author:
 publisher: HarperCollins UK
 published: 2013-10-24
 page_count: 856
-isbn: 0007535147 9780007535149
+isbn: 9780007535149
 description: The high-concept thriller with a supernatural edge from the world-famous director, whose films include Pan’s Labyrinth and Hellboy.
 coverUrl: http://books.google.com/books/content?id=7W9dAAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
@@ -32,7 +32,7 @@ bookshopUrl:
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | horror,thriller,supernatural |
 | Started |  |

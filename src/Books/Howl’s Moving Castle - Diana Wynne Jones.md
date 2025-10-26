@@ -12,7 +12,7 @@ author:
 publisher: HarperCollins UK
 published: 2012-12-06
 page_count: 197
-isbn: 0007380453 9780007380459
+isbn: 9780007380459
 description: ‘One of the greatest ever writers for children’ – Garth Nix ‘A true original’ – Katherine Rundell ‘Truly magical ... Guaranteed to leave you gasping’ The Bookseller ‘She is the best writer of magical fantasy for children’ Evening Standard
 coverUrl: http://books.google.com/books/content?id=WxPDPOCF2_cC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read

@@ -9,7 +9,7 @@ author:
 publisher: Ballantine Books
 published: 1979-06-12
 page_count: 260
-isbn: 0345286421 9780345286420
+isbn: 9780345286420
 description: ""
 coverUrl: http://books.google.com/books/content?id=kX_2HDi9wB4C&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
@@ -31,7 +31,7 @@ bookshopUrl:
 
 __
 
-| &nbsp; | read | 
+| &nbsp; | read |
 | --- | --- |
 | Genre | sci-fi,horror |
 | Started |  |
