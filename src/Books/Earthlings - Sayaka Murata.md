@@ -7,7 +7,7 @@ author:
 publisher:
 published: 2021-07
 page_count: 256
-isbn: 1783785691 9781783785698
+isbn: 9781783785698
 description: ""
 coverUrl: http://books.google.com/books/content?id=6Fs2zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: to-read
