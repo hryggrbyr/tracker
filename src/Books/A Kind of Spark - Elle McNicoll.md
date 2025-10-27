@@ -1,6 +1,11 @@
 ---
 tags:
-  - Juvenile Fiction
+  - JuvenileFiction
+  - UrbanFantasy
+  - witches
+  - magic
+  - neurodivergent
+  - scotland
 title: A Kind of Spark
 subtitle: ""
 author:
@@ -32,7 +37,7 @@ __
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | Juvenile Fiction |
+| Genre | JuvenileFiction,UrbanFantasy,witches,magic,neurodivergent,scotland |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
