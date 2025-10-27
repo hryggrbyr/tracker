@@ -1,5 +1,9 @@
 ---
-tags: []
+tags:
+  - crime
+  - police
+  - america
+  - SerialKiller
 title: Dexter in the Dark
 subtitle: " "
 author:
@@ -13,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL35458674M-M.jpg
 shelf: read
 owned: false
 start_date:
-end_date:
+end_date: 2007-05-01
 rating:
 recommended_by:
   name:
@@ -31,7 +35,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | crime,police,america,SerialKiller |
 | Started |  |
-| Finished |  |
+| Finished | 2007-05-01T00:00:00.000+01:00 |
 | Rating | /5 |
