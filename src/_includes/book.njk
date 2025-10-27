@@ -37,8 +37,8 @@ book:
     title: "{{ title }}"
     author: "{{ author }}"
     publishedDate: "{{ published }}"
-    rating: "0"
-    url: "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term={{ isbn or (title | urlEncode ~ '%20' ~author | urlEncode) }}"
+    rating: "{{ rating or '0'}}"
+    url: "{{ bookshopUrl or 'https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=' ~ (isbn or (title | urlencode ~ '%20' ~ author | urlencode)) }}"
 ---
     </pre>
 </section>
