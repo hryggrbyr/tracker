@@ -9,7 +9,7 @@ subtitle: Redwall 1
 author:
   - Brian Jacques
 publisher: Penguin Young Readers Group
-published: 2002-09-30T06:00:00+01:00
+published: 1986-12-31
 page_count:
 isbn:
 description: ""
@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL8632903M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 1986-12-31
 rating: 5
 recommended_by:
   name:
@@ -37,6 +37,6 @@ _Redwall 1_
 | --- | --- |
 | Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
-| Finished |  |
+| Finished | 1986-12-31T00:00:00.000+00:00 |
 | Rating | 5/5 |
 
