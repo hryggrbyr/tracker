@@ -9,7 +9,7 @@ subtitle: Redwall 3
 author:
   - Brian Jacques
 publisher: RHCP
-published: 2003-03-30T06:00:00+01:00
+published: 1989-12-31
 page_count:
 isbn:
 description: ""
@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/OL7524091M-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 1989-12-31
 rating: 5
 recommended_by:
   name:
@@ -37,5 +37,5 @@ _Redwall 3_
 | --- | --- |
 | Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
-| Finished |  |
+| Finished | 1989-12-31T00:00:00.000+00:00 |
 | Rating | 5/5 |

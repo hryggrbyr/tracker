@@ -9,7 +9,7 @@ subtitle: Redwall 18
 author:
   - Brian Jacques
 publisher: Penguin
-published:
+published: 2005-12-31
 page_count:
 isbn:
 description: ""
@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2005-12-31
 rating:
 recommended_by:
   name:
@@ -37,5 +37,5 @@ _Redwall 18_
 | --- | --- |
 | Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
-| Finished |  |
+| Finished | 2005-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

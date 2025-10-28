@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2008-10-16
 rating:
 recommended_by:
   name:
@@ -37,5 +37,5 @@ _Redwall 20_
 | --- | --- |
 | Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
-| Finished |  |
+| Finished | 2008-10-16T00:00:00.000+01:00 |
 | Rating | /5 |
