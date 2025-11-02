@@ -15,7 +15,7 @@ length: 83
 shelf: watched
 owned: false
 rating:
-watched: 2009-12-31
+watched: 2009-11-02
 poster: https://m.media-amazon.com/images/M/MV5BMTQxODcxMDYzNV5BMl5BanBnXkFtZTcwNjMwMDM1MQ@@._V1_SX300.jpg
 ---
 
