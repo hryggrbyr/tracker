@@ -16,7 +16,7 @@ length: 104
 shelf: watched
 owned: false
 rating: 5
-watched: 2022-12-31
+watched: 2022-11-02
 poster: https://m.media-amazon.com/images/M/MV5BY2UzYzFiZWUtOGU5ZC00YTIxLWFlNGUtMGU1YmI4OWUzN2FmXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
