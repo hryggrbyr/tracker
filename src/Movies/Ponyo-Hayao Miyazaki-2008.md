@@ -1,6 +1,6 @@
 ---
 type: movie
-country: JP
+country: japan
 title: Ponyo
 year: 2008
 director: Hayao Miyazaki
@@ -16,9 +16,9 @@ genre:
   - Family
 length: 1h 40m
 shelf: watched
-owned: false
+owned: true
 rating:
-watched: 2008-07-19
+watched: 2025-11-03
 poster: https://image.tmdb.org/t/p/w500/yp8vEZflGynlEylxEesbYasc06i.jpg
 ---
 
