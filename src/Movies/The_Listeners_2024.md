@@ -16,7 +16,7 @@ length: 1 season (4 episodes)
 shelf: watched
 owned: false
 rating:
-watched: 2025-11-04
+watched: 2025-11-05
 poster: https://image.tmdb.org/t/p/w500/5rpHENE6dIigVWy0TDpXTgLtIEp.jpg
 ---
 
