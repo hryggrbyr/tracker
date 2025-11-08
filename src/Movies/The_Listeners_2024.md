@@ -3,7 +3,7 @@ type: series
 country: GB
 title: The Listeners
 year: 2024
-director: Unknown
+director: Janicza Bravo
 actors:
   - Rebecca Hall
   - Ollie West
@@ -13,10 +13,10 @@ actors:
 genre:
   - Drama
 length: 1 season (4 episodes)
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
-watched: 2025-11-05
+watched:
 poster: https://image.tmdb.org/t/p/w500/5rpHENE6dIigVWy0TDpXTgLtIEp.jpg
 ---
 
