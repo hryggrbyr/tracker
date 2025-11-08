@@ -2561,7 +2561,7 @@
       "country": "GB",
       "title": "The Listeners",
       "year": 2024,
-      "director": "Unknown",
+      "director": "Janicza Bravo",
       "actors": [
         "Rebecca Hall",
         "Ollie West",
@@ -12038,7 +12038,7 @@
     "slug": "Ponyo-Hayao Miyazaki-2008",
     "frontmatter": {
       "type": "movie",
-      "country": "JP",
+      "country": "japan",
       "title": "Ponyo",
       "year": 2008,
       "director": "Hayao Miyazaki",
@@ -12056,9 +12056,9 @@
       ],
       "length": "1h 40m",
       "shelf": "watched",
-      "owned": false,
+      "owned": true,
       "rating": null,
-      "watched": "2008-07-19T00:00:00.000Z",
+      "watched": "2025-11-03T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/yp8vEZflGynlEylxEesbYasc06i.jpg"
     }
   },
@@ -20077,6 +20077,34 @@
       "rating": null,
       "watched": "1984-02-17T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg"
+    }
+  },
+  {
+    "filename": "Flushed Away-David Bowers, Sam Fell-2006.md",
+    "path": "src/Movies/Flushed Away-David Bowers, Sam Fell-2006.md",
+    "slug": "Flushed Away-David Bowers, Sam Fell-2006",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United Kingdom, United States",
+      "title": "Flushed Away",
+      "year": 2006,
+      "director": "David Bowers, Sam Fell",
+      "actors": [
+        "Hugh Jackman",
+        "Kate Winslet",
+        "Ian McKellen"
+      ],
+      "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "length": 85,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2025-11-02T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MzE1MDk2N15BMl5BanBnXkFtZTYwMjEwMzI3._V1_SX300.jpg"
     }
   },
   {

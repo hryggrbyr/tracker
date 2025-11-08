@@ -10,29 +10,42 @@
 <body>
     <header>
         <div class="wrapper spacing gutters">
-
-        <span>Tracker</span>
-
+            <a rel="home" href="{{ '/' | url }}">Tracker</a>
         </div>
     </header>
-    <nav class="wrapper spacing gutters flow" style="background-color: rgba(0,0,0,0.3)">
+    <nav class="wrapper spacing gutters">
+
         <div>
-            <a href="/tracker/api/Books.json">Books API</a>
-            <a href="/tracker/api/Movies.json">Films API</a>
-            <a href="/tracker/api/Series.json">TV API</a>
+            <p>My Year in Lists</p>
+            <div class="conjoined">
+                {%- for year, posts in collections.mediaByYear -%}
+                    <a href="{{ ('/this-year/' + year) | url }}">{{ year }}</a>
+                {%- endfor -%}
+            </div>
         </div>
-        <div>
-            <a href="/tracker/this-year/2025">This Year: 2025</a>
-        </div>
-        <div>
-            <a href="/tracker/books">📚 All books</a>
-            <a href="/tracker/wishlist">🎁 Wishlist</a>
-        </div>
+
     </nav>
     <main class="wrapper gutters spacing">
          {{ content | safe }}
     </main>
-    <footer>
+    <footer class="flow">
+        <div class="wrapper spacing gutters">
+                    <div>
+            <p>API</p>
+            <div class="conjoined">
+                <a href="{{ '/api/Books.json' | url }}">Books</a>
+                <a href="/{{ '/api/Movies.json' | url }}">Films</a>
+                <a href="{{ '/api/Series.json' | url }}">TV</a>
+            </div>
+        </div>
+                <div>
+            <p>Collections</p>
+            <div class="conjoined">
+                <a href="{{ '/books' | url }}">📚 All books</a>
+                <a href="{{ '/wishlist' | url }}">🎁 Wishlist</a>
+            </div>
+        </div>
+        </div>
         <div class="wrapper spacing gutters">
             <p>
                 &copy; 2025 <a href="https://thomasrigby.com">Thomas Rigby</a>

@@ -19,13 +19,20 @@ header .wrapper {
 header nav {
     margin-inline-start: auto;
 }
-header span {
+header a[rel="home"] {
+    font-size: 4em;
     font-weight: bold;
     font-style: italic;
+    display: block;
+    text-align: center;
+    margin-inline: auto;
+    text-decoration: none;
+    color: canvasText;
+    text-shadow: 0 0 4px light-dark(teal, goldenrod);
 }
 .wrapper {
-    width:100%;
-    max-width: 67ch;
+    width: 100%;
+    max-width: 80vw;
     margin-inline: auto;
 }
 .gutters {
@@ -103,5 +110,70 @@ a {
 pre {
     width: 100%;
     overflow: auto;
+}
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+nav > div {
+    flex-grow: 1;
+}
+nav .conjoined {
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    justify-content: stretch;
+}
+nav .conjoined a {
+    flex-grow: 1;
+    text-transform: none;
+    text-align: center;
+    text-decoration: none;
+    line-height: 1.1;
+    padding-inline: 2ch;
+    padding-block: 0.25lh;
+    background-color: light-dark(teal, goldenrod);
+    color: light-dark(canvas, canvas);
+}
+nav .conjoined a+a {
+    border-left: 1px solid currentColor;
+}
+nav .conjoined a:first-of-type {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+nav .conjoined a:last-of-type {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+table {
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    font-variant-numeric: slashed-zero tabular-nums;
+}
+
+table tbody {
+    display: inline-table;
+    width: 100%;
+}
+
+table tr :is(th, td) {
+    padding-inline: 2ch;
+    padding-block: 0.25lh;
+}
+
+table tr:nth-child(odd):not(:has(th)) {
+    background: rgb(from canvasText r g b/.2);
+}
+
+table tr:has(th) {
+    background: rgb(from canvasText r g b/.75);
+    color: canvas;
+    text-align: left;
+    font-size: 1.1em;
 }
 </style>

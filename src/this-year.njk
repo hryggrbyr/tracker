@@ -1,0 +1,26 @@
+---
+pagination:
+  data: collections.mediaByYear
+  size: 1
+  alias: yearData
+eleventyComputed:
+  permalink: "/this-year/{{ yearData[0] }}/"
+---
+<h1>Media from {{ yearData[0] }}</h1>
+
+<table>
+  <tr>
+    <th>Month completed</th>
+    <th>Title</th>
+    <th>Author</th>
+    <th>&nbsp;</th>
+  </tr>
+{%- for item in yearData[1] -%}
+  <tr>
+    <td>{{ item.data.watched or item.data.end_date | getMonthName }}</td>
+    <td>{{ item.data.title }}</td>
+    <td>{{ item.data.author }}</td>
+    <td><a href="{{ item.url | url }}">View</a></td>
+  </li>
+{%- endfor -%}
+</table>

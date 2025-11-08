@@ -1410,15 +1410,15 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": null,
+      "published": "2002-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
       "coverUrl": "https://covers.openlibrary.org/b/olid/OL24928009M-M.jpg",
-      "shelf": "to-read",
+      "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2002-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -3345,7 +3345,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace",
-      "published": null,
+      "published": "2010-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -3353,7 +3353,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2010-12-13T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -3443,7 +3443,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace",
-      "published": null,
+      "published": "2011-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -3451,7 +3451,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2011-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -4205,8 +4205,8 @@
       "end_date": null,
       "rating": null,
       "recommended_by": {
-        "name": null,
-        "url": null
+        "name": "Declan Byrd",
+        "url": "https://declanbyrd.co.uk/reading/9781399600491/"
       },
       "created": "2023-02-27T00:00:00.000Z",
       "reviewUrl": null,
@@ -4906,7 +4906,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace",
-      "published": null,
+      "published": "1997-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -4914,7 +4914,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1997-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -5058,6 +5058,42 @@
     }
   },
   {
+    "filename": "The Liar - Stephen Fry.md",
+    "path": "src/Books/The Liar - Stephen Fry.md",
+    "slug": "The Liar - Stephen Fry",
+    "frontmatter": {
+      "tags": [
+        "Comedy",
+        "ComingOfAge",
+        "BritishLiterature",
+        "lgbt"
+      ],
+      "title": "The Liar",
+      "subtitle": "",
+      "author": [
+        "Stephen Fry"
+      ],
+      "publisher": "Soho Press",
+      "published": "1990-12-31T23:00:00.000Z",
+      "page_count": 288,
+      "isbn": "9781569470268",
+      "description": "A witty and flamboyant tale of Adrian Healey, a young man navigating life, love, and espionage.",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9781569470268-M.jpg",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "2004-02-02T00:00:00.000Z",
+      "end_date": "2004-02-24T00:00:00.000Z",
+      "rating": "",
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2025-11-07T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
+    }
+  },
+  {
     "filename": "The Legend of the Gods - Aaron Hodges.md",
     "path": "src/Books/The Legend of the Gods - Aaron Hodges.md",
     "slug": "The Legend of the Gods - Aaron Hodges",
@@ -5112,7 +5148,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": null,
+      "published": "1999-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -5120,7 +5156,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1999-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -5794,6 +5830,43 @@
         "url": null
       },
       "created": "2015-10-06T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "The Hippopotamus - Stephen Fry.md",
+    "path": "src/Books/The Hippopotamus - Stephen Fry.md",
+    "slug": "The Hippopotamus - Stephen Fry",
+    "frontmatter": {
+      "tags": [
+        "Satire",
+        "Mystery",
+        "BritishLiterature",
+        "lgbt",
+        "supernatural"
+      ],
+      "title": "The Hippopotamus",
+      "subtitle": "",
+      "author": [
+        "Stephen Fry"
+      ],
+      "publisher": "Soho Press",
+      "published": "1993-12-31T23:00:00.000Z",
+      "page_count": 416,
+      "isbn": "9781569470343",
+      "description": "Ted Wallace, a disgraced poet, investigates miraculous healings at a country mansion, uncovering secrets and absurdities.",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9781569470343-M.jpg",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "",
+      "end_date": "2004-03-30T00:00:00.000Z",
+      "rating": "",
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2022-12-18T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
     }
@@ -6970,39 +7043,6 @@
     }
   },
   {
-    "filename": "The Damnation Game - Clive Barker.md",
-    "path": "src/Books/The Damnation Game - Clive Barker.md",
-    "slug": "The Damnation Game - Clive Barker",
-    "frontmatter": {
-      "tags": [
-        "horror"
-      ],
-      "title": "The Damnation Game",
-      "subtitle": "",
-      "author": [
-        "Clive Barker"
-      ],
-      "publisher": "Weidenfeld & Nicolson",
-      "published": 1985,
-      "page_count": 374,
-      "isbn": 9780722114162,
-      "description": "There are things worse than death. There are games so seductively evil, so wondrously vile, no gambler can resist. Amid the shadow-scarred rubble of World War II, Joseph Whitehead dared to challenge the dark champion of life's ultimate game. Now a millionaire, locked in a terror-shrouded fortress of his own design, Joseph Whitehead has hell to pay. And no soul is safe from this ravaging fear, the resurrected fury, the unspeakable desire of...",
-      "coverUrl": "https://www.murrayewing.co.uk/mewsings/wp-content/uploads/2024/02/Barker_DamnationGame_Sphere_1988_SteveCrisp.jpg",
-      "shelf": "read",
-      "owned": true,
-      "start_date": "1995-08-03T00:00:00.000Z",
-      "end_date": "1995-08-12T00:00:00.000Z",
-      "rating": 0,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "reviewUrl": "",
-      "bookshopUrl": "https://www.barnesandnoble.com/w/the-damnation-game-clive-barker/1101324242?ean=2940149730599",
-      "created": "2015-10-06T00:00:00.000Z"
-    }
-  },
-  {
     "filename": "The Curse of Lono - Hunter S. Thompson.md",
     "path": "src/Books/The Curse of Lono - Hunter S. Thompson.md",
     "slug": "The Curse of Lono - Hunter S. Thompson",
@@ -7691,7 +7731,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin Young Readers Group",
-      "published": null,
+      "published": "1994-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -7699,7 +7739,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1994-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -8186,7 +8226,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin Young Readers Group",
-      "published": "2003-09-15T05:00:00.000Z",
+      "published": "2001-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -8194,7 +8234,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2001-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -9749,7 +9789,7 @@
         "Brian Jacques"
       ],
       "publisher": "Firebird",
-      "published": null,
+      "published": "1992-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -9757,7 +9797,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1992-12-31T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
@@ -10230,7 +10270,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin Young Readers Group",
-      "published": "2002-09-30T05:00:00.000Z",
+      "published": "1986-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -10238,7 +10278,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1986-12-31T00:00:00.000Z",
       "rating": 5,
       "recommended_by": {
         "name": null,
@@ -10564,7 +10604,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": null,
+      "published": "2004-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -10572,7 +10612,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2004-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -11312,7 +11352,7 @@
         "Brian Jacques"
       ],
       "publisher": "Philomel Books",
-      "published": null,
+      "published": "1997-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -11320,7 +11360,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1997-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -11515,7 +11555,7 @@
         "Brian Jacques"
       ],
       "publisher": "Random House",
-      "published": null,
+      "published": "1995-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -11523,7 +11563,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1995-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -12253,7 +12293,7 @@
         "Brian Jacques"
       ],
       "publisher": "Firebird",
-      "published": null,
+      "published": "1988-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -12261,7 +12301,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1988-12-31T00:00:00.000Z",
       "rating": 4,
       "recommended_by": {
         "name": null,
@@ -12490,7 +12530,7 @@
         "Brian Jacques"
       ],
       "publisher": "RHCP",
-      "published": "2003-03-30T05:00:00.000Z",
+      "published": "1989-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -12498,7 +12538,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1989-12-31T00:00:00.000Z",
       "rating": 5,
       "recommended_by": {
         "name": null,
@@ -12559,7 +12599,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin Young Readers Group",
-      "published": null,
+      "published": "1993-12-13T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -12567,7 +12607,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1993-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -12595,7 +12635,7 @@
         "Brian Jacques"
       ],
       "publisher": "Firebird",
-      "published": null,
+      "published": "1998-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -12603,7 +12643,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1998-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -12631,7 +12671,7 @@
         "Brian Jacques"
       ],
       "publisher": "Firebird",
-      "published": null,
+      "published": "1991-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -12639,7 +12679,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "1991-12-31T00:00:00.000Z",
       "rating": 3,
       "recommended_by": {
         "name": null,
@@ -12708,6 +12748,44 @@
         "url": null
       },
       "created": "2020-05-15T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "Making History - Stephen Fry.md",
+    "path": "src/Books/Making History - Stephen Fry.md",
+    "slug": "Making History - Stephen Fry",
+    "frontmatter": {
+      "tags": [
+        "AlternateHistory",
+        "sci-fi",
+        "BritishLiterature",
+        "lgbt",
+        "war",
+        "TimeTravel"
+      ],
+      "title": "Making History",
+      "subtitle": "",
+      "author": [
+        "Stephen Fry"
+      ],
+      "publisher": "Soho Press",
+      "published": "1995-12-31T23:00:00.000Z",
+      "page_count": 416,
+      "isbn": "9781569470497",
+      "description": "A time-travel novel exploring an alternate history where Hitler never existed, raising questions about morality and unintended consequences.",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9781569470497-M.jpg",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "",
+      "end_date": "2004-04-28T00:00:00.000Z",
+      "rating": "",
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2022-12-18T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
     }
@@ -12915,7 +12993,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace Books",
-      "published": null,
+      "published": "2000-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -12923,7 +13001,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2000-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -13049,7 +13127,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": null,
+      "published": "2003-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -13057,7 +13135,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2003-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -14250,40 +14328,6 @@
     }
   },
   {
-    "filename": "I Want to Go Home but I'm Already There - Róisín Lanigan.md",
-    "path": "src/Books/I Want to Go Home but I'm Already There - Róisín Lanigan.md",
-    "slug": "I Want to Go Home but I'm Already There - Róisín Lanigan",
-    "frontmatter": {
-      "tags": [
-        "supernatural",
-        "ghosts"
-      ],
-      "title": "I Want to Go Home but I'm Already There",
-      "subtitle": " ",
-      "author": [
-        "Róisín Lanigan"
-      ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://m.media-amazon.com/images/I/71aDqGUdHKL._SL1500_.jpg",
-      "shelf": "to-read",
-      "owned": false,
-      "start_date": null,
-      "end_date": null,
-      "rating": null,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "created": "2025-03-19T00:00:00.000Z",
-      "reviewUrl": null,
-      "bookshopUrl": "https://www.ebooks.com/en-gb/book/211390646/i-want-to-go-home-but-i-m-already-there/r-is-n-lanigan/"
-    }
-  },
-  {
     "filename": "I Robot - Isaac Asimov.md",
     "path": "src/Books/I Robot - Isaac Asimov.md",
     "slug": "I Robot - Isaac Asimov",
@@ -14719,7 +14763,7 @@
         "Brian Jacques"
       ],
       "publisher": "Penguin",
-      "published": null,
+      "published": "2005-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -14727,7 +14771,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2005-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -15116,11 +15160,11 @@
         "Susan Cooper"
       ],
       "publisher": "Margaret K. McElderry Books",
-      "published": "2002-04-14T23:00:00.000Z",
+      "published": "1974-04-17T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
+      "description": "In their desperate quest to find the grail, stolen by the forces of the Dark, the Drew children have returned to Trewissick. One night, in a strange ceremony, Jane watches the village women construct the Greenwitch: an ancient offering to the sea. Overcome by the Greenwitch's power, Jane makes a perilous wish - one that will tip the balance in the ongoing struggle between good and evil. The third haunting, magical book in the highly acclaimed _Dark is Rising_ sequence.",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Greenwitch.png",
       "shelf": "reading",
       "owned": true,
       "start_date": "2025-10-24T00:00:00.000Z",
@@ -15132,7 +15176,7 @@
       },
       "created": "2022-12-18T00:00:00.000Z",
       "reviewUrl": null,
-      "bookshopUrl": null
+      "bookshopUrl": "https://www.ebooks.com/en-gb/book/211346491/greenwitch/susan-cooper/"
     }
   },
   {
@@ -15864,7 +15908,7 @@
         "Brian Jacques"
       ],
       "publisher": "Ace",
-      "published": null,
+      "published": "2007-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -15872,7 +15916,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2007-12-31T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
@@ -16140,37 +16184,6 @@
     }
   },
   {
-    "filename": "Dregs - Jorn Lier Horst.md",
-    "path": "src/Books/Dregs - Jorn Lier Horst.md",
-    "slug": "Dregs - Jorn Lier Horst",
-    "frontmatter": {
-      "tags": [],
-      "title": "Dregs",
-      "subtitle": " ",
-      "author": [
-        "Jorn Lier Horst"
-      ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL27164919M-M.jpg",
-      "shelf": "read",
-      "owned": false,
-      "start_date": null,
-      "end_date": null,
-      "rating": null,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "created": "2021-01-15T00:00:00.000Z",
-      "reviewUrl": null,
-      "bookshopUrl": null
-    }
-  },
-  {
     "filename": "Dragon Tear - Lindsay Buroker.md",
     "path": "src/Books/Dragon Tear - Lindsay Buroker.md",
     "slug": "Dragon Tear - Lindsay Buroker",
@@ -16257,7 +16270,7 @@
       "shelf": "read",
       "owned": true,
       "start_date": null,
-      "end_date": null,
+      "end_date": "2008-10-16T00:00:00.000Z",
       "rating": null,
       "recommended_by": {
         "name": null,
