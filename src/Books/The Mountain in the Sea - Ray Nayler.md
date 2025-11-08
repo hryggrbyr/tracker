@@ -16,8 +16,8 @@ start_date:
 end_date:
 rating:
 recommended_by:
-  name:
-  url:
+  name: Declan Byrd
+  url: https://declanbyrd.co.uk/reading/9781399600491/
 created: 2023-02-27
 reviewUrl:
 bookshopUrl:

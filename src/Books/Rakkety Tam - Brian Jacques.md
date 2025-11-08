@@ -6,7 +6,7 @@ subtitle: Redwall 17
 author:
   - Brian Jacques
 publisher: Penguin
-published:
+published: 2004-12-31
 page_count:
 isbn:
 description: ""
@@ -14,7 +14,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2004-12-31
 rating:
 recommended_by:
   name:
@@ -34,6 +34,6 @@ _Redwall 17_
 | --- | --- |
 | Genre | Juvenile Fiction |
 | Started |  |
-| Finished |  |
+| Finished | 2004-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
 

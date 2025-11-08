@@ -9,15 +9,15 @@ subtitle: Redwall 15
 author:
   - Brian Jacques
 publisher: Penguin
-published:
+published: 2002-12-31
 page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL24928009M-M.jpg
-shelf: to-read
+shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 2002-12-31
 rating:
 recommended_by:
   name:
@@ -33,9 +33,9 @@ bookshopUrl:
 
 _Redwall 15_
 
-| Shelf | to-read |
+| Shelf | read |
 | --- | --- |
 | Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
-| Finished |  |
+| Finished | 2002-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

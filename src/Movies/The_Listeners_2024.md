@@ -3,7 +3,7 @@ type: series
 country: GB
 title: The Listeners
 year: 2024
-director: Unknown
+director: Janicza Bravo
 actors:
   - Rebecca Hall
   - Ollie West

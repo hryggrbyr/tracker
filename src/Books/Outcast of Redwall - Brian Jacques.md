@@ -9,7 +9,7 @@ subtitle: Redwall 8
 author:
   - Brian Jacques
 publisher: Random House
-published:
+published: 1995-12-31
 page_count:
 isbn:
 description: ""
@@ -17,7 +17,7 @@ coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
 start_date:
-end_date:
+end_date: 1995-12-31
 rating:
 recommended_by:
   name:
@@ -37,5 +37,5 @@ _Redwall 8_
 | --- | --- |
 | Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
-| Finished |  |
+| Finished | 1995-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
