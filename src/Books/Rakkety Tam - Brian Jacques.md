@@ -1,6 +1,9 @@
 ---
 tags:
-  - Juvenile Fiction
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
 title: Rakkety Tam
 subtitle: Redwall 17
 author:
@@ -32,7 +35,7 @@ _Redwall 17_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
 | Finished | 2004-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
