@@ -3,11 +3,15 @@ type: series
 country: GB
 title: Race Across the World
 year: 2019
-director: Unknown
+director: Michael Perry, Georgina Sharma, Sabeh Bali, Various
 actors:
   - John Hannah
 genre:
   - Reality
+  - travel
+  - exploring
+  - backpacking
+  - HumanInterest
 length: 5 seasons (42 episodes)
 shelf: watched
 owned: false
