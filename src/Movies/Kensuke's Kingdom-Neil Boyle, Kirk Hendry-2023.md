@@ -3,9 +3,7 @@ type: movie
 country: United Kingdom, Luxembourg, France
 title: Kensuke's Kingdom
 year: 2023
-director:
-  - Neil Boyle
-  - Kirk Hendry
+director: Neil Boyle, Kirk Hendry
 actors:
   - Cillian Murphy
   - Raffey Cassidy

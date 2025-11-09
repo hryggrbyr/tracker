@@ -3,7 +3,7 @@ type: series
 country: GB
 title: "Love Island: All Stars"
 year: 2024
-director: Unknown
+director: Steven Priest
 actors:
   - Maya Jama
   - Iain Stirling

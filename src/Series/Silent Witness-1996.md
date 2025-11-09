@@ -3,7 +3,7 @@ type: series
 country: GB
 title: Silent Witness
 year: 1996
-director: Unknown
+director: Various
 actors:
   - Emilia Fox
   - David Caves

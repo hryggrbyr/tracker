@@ -3,7 +3,7 @@ type: series
 country: GB
 title: Love Island
 year: 2015
-director: Unknown
+director: Steven Priest
 actors:
   - Maya Jama
   - Laura Whitmore

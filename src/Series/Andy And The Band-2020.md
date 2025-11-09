@@ -3,7 +3,7 @@ type: series
 country: GB
 title: Andy And The Band
 year: 2020
-director: Unknown
+director: Matt Holt, Various
 actors:
   - Andy Day
   - Miai Leonie Phillip
