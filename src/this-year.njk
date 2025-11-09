@@ -8,19 +8,75 @@ eleventyComputed:
 ---
 <h1>Media from {{ yearData[0] }}</h1>
 
-<table>
-  <tr>
-    <th>Month completed</th>
-    <th>Title</th>
-    <th>Author</th>
-    <th>&nbsp;</th>
-  </tr>
-{%- for item in yearData[1] -%}
-  <tr>
-    <td>{{ item.data.watched or item.data.end_date | getMonthName }}</td>
-    <td>{{ item.data.title }}</td>
-    <td>{{ item.data.author }}</td>
-    <td><a href="{{ item.url | url }}">View</a></td>
-  </li>
-{%- endfor -%}
-</table>
+<div class="grid">
+  <!-- First tab: set to open -->
+  <details class="item" name="alpha" open style="--n: 1;">
+    <summary class="subitem">📚 Books</summary>
+    <div class="details-content">
+        <table>
+          <tr>
+            <th>Month completed</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>&nbsp;</th>
+          </tr>
+        {%- for item in yearData[1] -%}
+            {% if item.data.shelf == 'read' %}
+          <tr>
+            <td>{{ item.data.end_date | getMonthName }}</td>
+            <td>{{ item.data.title }}</td>
+            <td>{{ item.data.author }}</td>
+            <td><a href="{{ item.url | url }}">View</a></td>
+          </li>
+          {% endif %}
+        {%- endfor -%}
+        </table>
+    </div>
+  </details>
+  <details class="item" name="alpha" style="--n: 2;">
+    <summary class="subitem">🍿 Films</summary>
+    <div class="details-content">
+        <table>
+          <tr>
+            <th>Month completed</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>&nbsp;</th>
+          </tr>
+        {%- for item in yearData[1] -%}
+            {% if item.data.type == 'movie' %}
+          <tr>
+            <td>{{ item.data.watched | getMonthName }}</td>
+            <td>{{ item.data.title }}</td>
+            <td>{{ item.data.director }}</td>
+            <td><a href="{{ item.url | url }}">View</a></td>
+          </li>
+          {% endif %}
+        {%- endfor -%}
+        </table>
+    </div>
+  </details>
+  <details class="item" name="alpha" style="--n: 3;">
+    <summary class="subitem">📺 Telly</summary>
+    <div class="details-content">
+        <table>
+          <tr>
+            <th>Month completed</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>&nbsp;</th>
+          </tr>
+        {%- for item in yearData[1] -%}
+            {% if item.data.type == 'series' %}
+          <tr>
+            <td>{{ item.data.watched | getMonthName }}</td>
+            <td>{{ item.data.title }}</td>
+            <td>{{ item.data.director }}</td>
+            <td><a href="{{ item.url | url }}">View</a></td>
+          </li>
+          {% endif %}
+        {%- endfor -%}
+        </table>
+    </div>
+  </details>
+</div>

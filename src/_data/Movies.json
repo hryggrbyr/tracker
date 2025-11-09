@@ -2553,34 +2553,6 @@
     }
   },
   {
-    "filename": "The_Listeners_2024.md",
-    "path": "src/Movies/The_Listeners_2024.md",
-    "slug": "The_Listeners_2024",
-    "frontmatter": {
-      "type": "series",
-      "country": "GB",
-      "title": "The Listeners",
-      "year": 2024,
-      "director": "Janicza Bravo",
-      "actors": [
-        "Rebecca Hall",
-        "Ollie West",
-        "Prasanna Puwanarajah",
-        "Mia Tharia",
-        "Amr Waked"
-      ],
-      "genre": [
-        "Drama"
-      ],
-      "length": "1 season (4 episodes)",
-      "shelf": "watchlist",
-      "owned": false,
-      "rating": null,
-      "watched": null,
-      "poster": "https://image.tmdb.org/t/p/w500/5rpHENE6dIigVWy0TDpXTgLtIEp.jpg"
-    }
-  },
-  {
     "filename": "The_Last_Cabin_2025.md",
     "path": "src/Movies/The_Last_Cabin_2025.md",
     "slug": "The_Last_Cabin_2025",

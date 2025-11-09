@@ -26,9 +26,11 @@ const humanReadableDate = (value = null, lang = "en-GB") => {
 };
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addNunjucksFilter("getFullYear", x => new Date(x).getFullYear());
-  eleventyConfig.addNunjucksFilter("getMonthName", x => 
-    new Date(x).toLocaleString('en-US', { month: 'long' })
+  eleventyConfig.addNunjucksFilter("getFullYear", (x) =>
+    new Date(x).getFullYear(),
+  );
+  eleventyConfig.addNunjucksFilter("getMonthName", (x) =>
+    new Date(x).toLocaleString("en-GB", { month: "long" }),
   );
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
   eleventyConfig.addNunjucksFilter("watched", (x) =>
@@ -77,32 +79,40 @@ module.exports = function (eleventyConfig) {
   });
 
   const groupByYear = (items, shelf) => {
-  const byYear = {};
-  items.filter(x => shelf.includes(x.data.shelf)).forEach(item => {
-    const date = item.data.watched || item.data.end_date
-    const year = date.getFullYear();
-    if (!byYear[year]) {
-      byYear[year] = [];
-    }
-    byYear[year].push(item);
-  });
-  
-  // Sort items within each year by the appropriate date field
-  Object.keys(byYear).forEach(year => {
-    byYear[year].sort((a, b) => {
-      const dateA = a.data.shelf === 'read' ? a.data.end_date : a.data.watched;
-      const dateB = b.data.shelf === 'read' ? b.data.end_date : b.data.watched;
-      return dateA - dateB; // Oldest first
+    const byYear = {};
+    items
+      .filter((x) => shelf.includes(x.data.shelf))
+      .forEach((item) => {
+        const date = item.data.watched || item.data.end_date;
+        const year = date.getFullYear();
+        if (!byYear[year]) {
+          byYear[year] = [];
+        }
+        byYear[year].push(item);
+      });
+
+    // Sort items within each year by the appropriate date field
+    Object.keys(byYear).forEach((year) => {
+      byYear[year].sort((a, b) => {
+        const dateA =
+          a.data.shelf === "read" ? a.data.end_date : a.data.watched;
+        const dateB =
+          b.data.shelf === "read" ? b.data.end_date : b.data.watched;
+        return dateA - dateB; // Oldest first
+      });
     });
-  });
-  
-  // Return only 5 most recent years
-  return Object.entries(byYear)
-  .sort((a, b) => b[0] - a[0]) // Sort by year descending
-  .slice(0, 5)
-}
+
+    // Return only 5 most recent years
+    return Object.entries(byYear)
+      .sort((a, b) => b[0] - a[0]) // Sort by year descending
+      .slice(0, 5);
+  };
   eleventyConfig.addCollection("mediaByYear", (collectionApi) => {
-    const items = collectionApi.getFilteredByGlob(["src/Books/**/*.md"], ["src/Movies/**/*.md"], ["src/Series/**/*.md"]);
+    const items = collectionApi.getFilteredByGlob([
+      "src/Books/**/*.md",
+      "src/Movies/**/*.md",
+      "src/Series/**/*.md",
+    ]);
     return groupByYear(items, ["read", "watched"]);
   });
 

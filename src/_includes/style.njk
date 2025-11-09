@@ -176,4 +176,61 @@ table tr:has(th) {
     text-align: left;
     font-size: 1.1em;
 }
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto; /* Adjust based on number of tabs */
+  grid-template-rows: auto 1fr;
+}
+
+.item {
+	display: contents;
+}
+
+/* Make summaries look like tabs */
+.item summary {
+  grid-row: 1;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  list-style: none; /* Hide marker */
+  border: 1px solid #ccc;
+  border-bottom: none;
+}
+
+/* Hide the default marker in all browsers */
+.item summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Position each tab based on --n variable */
+.item summary {
+  grid-column: var(--n);
+}
+
+/* Active tab styling */
+.item[open] summary {
+  border-bottom: 1px solid white;
+  position: relative;
+  z-index: 1;
+}
+
+/* All content areas occupy the same grid cell */
+.details-content {
+	max-width: 100%;
+	overflow-x: auto;
+  grid-row: 2;
+  grid-column: 1 / -1; /* Span all columns */
+  padding: 1rem;
+  border: 1px solid currentColor;
+}
+
+/* Hide content when details is not open */
+.item:not([open]) .details-content {
+  display: none;
+}
+
+/* Show content only for open details */
+.item[open] .details-content {
+  display: block;
+}
 </style>
