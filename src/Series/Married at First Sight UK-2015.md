@@ -3,7 +3,9 @@ type: series
 country: GB
 title: Married at First Sight UK
 year: 2015
-director: Unknown
+director:
+  - James Kayler
+  - Various
 actors:
   - Mel Schilling
   - Paul C Brunson
