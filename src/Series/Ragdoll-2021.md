@@ -3,7 +3,7 @@ type: series
 country: US
 title: Ragdoll
 year: 2021
-director: Unknown
+director: Toby MacDonald, Niall MacCormick
 actors:
   - Lucy Hale
   - Ali Cook
