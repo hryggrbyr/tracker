@@ -3,7 +3,7 @@ type: series
 country: GB
 title: Code of Silence
 year: 2025
-director: Unknown
+director: Diarmuid Goggins, Chanya Button
 actors:
   - Rose Ayling-Ellis
   - Kieron Moore
@@ -17,7 +17,7 @@ genre:
 length: 1 season (6 episodes)
 shelf: watched
 owned: false
-rating:
+rating: 1
 watched: 2025-06-04
 poster: https://image.tmdb.org/t/p/w500/qQ9giFtSAOHg7sVGTPxOQ9FEL4X.jpg
 ---
