@@ -1,23 +1,31 @@
 ---
 type: movie
-country: N/A
-title: CBeebies Musical The Great Ice Cream Hunt
+country: United Kingdom
+title: "Cbeebies Musical: The Great Ice Cream Hunt"
 year: 2025
-director: N/A
+director: Geoff Coward
 actors:
-  - N/A
+  - Joanna Adeyinka-Burford
+  - Warrick Brownlow-Pike
+  - Jennie Dale
+  - Andy Day
+  - Rebecca Keatley
 genre:
-  - N/A
-length: N/A
+  - Comedy
+  - Theatre
+  - Kids
+  - Family
+  - Musical
+length: 56
 shelf: watched
 owned: false
-rating: 5
+rating:
 watched: 2025-08-29
-poster: N/A
+poster: https://m.media-amazon.com/images/M/MV5BNjJhMmZlNWItODhhNS00NmFmLTllYTgtMzMyYjVhMDRmYjliXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
-# CBeebies Musical The Great Ice Cream Hunt (2025)
+# The Great Ice Cream Hunt (2025)
 
-![](N/A)
+![](https://m.media-amazon.com/images/M/MV5BNjJhMmZlNWItODhhNS00NmFmLTllYTgtMzMyYjVhMDRmYjliXkEyXkFqcGc@._V1_SX300.jpg)
 
-N/A
+Lolly the Cow makes ice cream for the Empress' end-of-summer party. When it disappears, she and her friend Pinecone the Hedgehog embark on a magical journey in their ice cream van.
