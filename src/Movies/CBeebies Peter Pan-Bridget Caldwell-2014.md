@@ -8,8 +8,15 @@ actors:
   - Katrina Bryan
   - Andy Day
   - Joseph Elliott
+  - Justin Fletcher
+  - Rebecca Keatley
 genre:
   - Comedy
+  - Theatre
+  - Kids
+  - Christmas
+  - Family
+  - Musical
 length: 35
 shelf: watched
 owned: false
