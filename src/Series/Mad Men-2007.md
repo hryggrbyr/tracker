@@ -3,7 +3,7 @@ type: series
 country: US
 title: Mad Men
 year: 2007
-director: Unknown
+director: Phil Abraham, Various
 actors:
   - Jon Hamm
   - Elisabeth Moss
