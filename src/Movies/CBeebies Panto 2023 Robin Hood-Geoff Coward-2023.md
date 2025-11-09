@@ -9,7 +9,12 @@ actors:
   - Warrick Brownlow-Pike
   - Nigel Clarke
 genre:
-  - N/A
+  - Comedy
+  - Theatre
+  - Kids
+  - Christmas
+  - Family
+  - Musical
 length: N/A
 shelf: watched
 owned: false
