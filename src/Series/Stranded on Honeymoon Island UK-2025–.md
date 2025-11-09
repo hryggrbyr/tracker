@@ -3,7 +3,7 @@ type: series
 country: United Kingdom
 title: Stranded on Honeymoon Island UK
 year: 2025–
-director: N/A
+director: Roman Green
 actors:
   - Davina McCall
 genre:
