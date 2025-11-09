@@ -167,11 +167,11 @@ table tr :is(th, td) {
 }
 
 table tr:nth-child(odd):not(:has(th)) {
-    background: rgb(from canvasText r g b/.2);
+    background: rgb(from canvasText r g b/.05);
 }
 
 table tr:has(th) {
-    background: rgb(from canvasText r g b/.75);
+    background: rgb(from canvasText r g b/.5);
     color: canvas;
     text-align: left;
     font-size: 1.1em;
@@ -179,7 +179,7 @@ table tr:has(th) {
 
 .grid {
   display: grid;
-  grid-template-columns: auto auto auto; /* Adjust based on number of tabs */
+  grid-template-columns: repeat(4, 1fr); /* Adjust based on number of tabs */
   grid-template-rows: auto 1fr;
 }
 
@@ -193,8 +193,9 @@ table tr:has(th) {
   cursor: pointer;
   padding: 0.5rem 1rem;
   list-style: none; /* Hide marker */
-  border: 1px solid #ccc;
-  border-bottom: none;
+  border: 1px solid transparent;
+  border-bottom-color: light-dark(teal, goldenrod);
+  grid-column: var(--n);
 }
 
 /* Hide the default marker in all browsers */
@@ -204,12 +205,12 @@ table tr:has(th) {
 
 /* Position each tab based on --n variable */
 .item summary {
-  grid-column: var(--n);
 }
 
 /* Active tab styling */
 .item[open] summary {
-  border-bottom: 1px solid white;
+  border-color: light-dark(teal, goldenrod);
+  border-bottom-color: transparent;
   position: relative;
   z-index: 1;
 }
@@ -220,8 +221,11 @@ table tr:has(th) {
 	overflow-x: auto;
   grid-row: 2;
   grid-column: 1 / -1; /* Span all columns */
-  padding: 1rem;
-  border: 1px solid currentColor;
+  padding-block: 1lh;
+  padding-inline: 2ch;
+  border-left: 1px solid light-dark(teal, goldenrod);
+  border-right: 1px solid light-dark(teal, goldenrod);
+  border-bottom: 1px solid light-dark(teal, goldenrod);
 }
 
 /* Hide content when details is not open */

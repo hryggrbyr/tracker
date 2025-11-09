@@ -18,6 +18,7 @@ eleventyComputed:
             <th>Month completed</th>
             <th>Title</th>
             <th>Author</th>
+            <th>Published</th>
             <th>&nbsp;</th>
           </tr>
         {%- for item in yearData[1] -%}
@@ -26,6 +27,7 @@ eleventyComputed:
             <td>{{ item.data.end_date | getMonthName }}</td>
             <td>{{ item.data.title }}</td>
             <td>{{ item.data.author }}</td>
+            <td>{{ item.data.year }}</td>
             <td><a href="{{ item.url | url }}">View</a></td>
           </li>
           {% endif %}
@@ -34,36 +36,14 @@ eleventyComputed:
     </div>
   </details>
   <details class="item" name="alpha" style="--n: 2;">
-    <summary class="subitem">🍿 Films</summary>
-    <div class="details-content">
-        <table>
-          <tr>
-            <th>Month completed</th>
-            <th>Title</th>
-            <th>Author</th>
-            <th>&nbsp;</th>
-          </tr>
-        {%- for item in yearData[1] -%}
-            {% if item.data.type == 'movie' %}
-          <tr>
-            <td>{{ item.data.watched | getMonthName }}</td>
-            <td>{{ item.data.title }}</td>
-            <td>{{ item.data.director }}</td>
-            <td><a href="{{ item.url | url }}">View</a></td>
-          </li>
-          {% endif %}
-        {%- endfor -%}
-        </table>
-    </div>
-  </details>
-  <details class="item" name="alpha" style="--n: 3;">
     <summary class="subitem">📺 Telly</summary>
     <div class="details-content">
         <table>
           <tr>
             <th>Month completed</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Director</th>
+            <th>Released</th>
             <th>&nbsp;</th>
           </tr>
         {%- for item in yearData[1] -%}
@@ -72,10 +52,61 @@ eleventyComputed:
             <td>{{ item.data.watched | getMonthName }}</td>
             <td>{{ item.data.title }}</td>
             <td>{{ item.data.director }}</td>
+            <td>{{ item.data.year }}</td>
             <td><a href="{{ item.url | url }}">View</a></td>
           </li>
           {% endif %}
         {%- endfor -%}
+        </table>
+    </div>
+  </details>
+  <details class="item" name="alpha" style="--n: 3;">
+    <summary class="subitem">🍿 Films</summary>
+    <div class="details-content">
+        <table>
+          <tr>
+            <th>Month completed</th>
+            <th>Title</th>
+            <th>Director</th>
+            <th>Released</th>
+            <th>&nbsp;</th>
+          </tr>
+        {%- for item in yearData[1] -%}
+            {% if item.data.type == 'movie' %}
+          <tr>
+            <td>{{ item.data.watched | getMonthName }}</td>
+            <td>{{ item.data.title }}</td>
+            <td>{{ item.data.director }}</td>
+            <td>{{ item.data.year }}</td>
+            <td><a href="{{ item.url | url }}">View</a></td>
+          </li>
+          {% endif %}
+        {%- endfor -%}
+        </table>
+    </div>
+  </details>
+  <details class="item" name="alpha" style="--n: 4;">
+    <summary class="subitem">🎄 Christmas Films Endured</summary>
+    <div class="details-content">
+        <table>
+          <tr>
+            <th>Month completed</th>
+            <th>Title</th>
+            <th>Director</th>
+            <th>Released</th>
+            <th>&nbsp;</th>
+          </tr>
+          {%- for item in yearData[1] -%}
+            {% if item.data.type == 'movie' and item.data.genre and 'Christmas' in item.data.genre %}
+            <tr>
+              <td>{{ item.data.watched | getMonthName }}</td>
+              <td>{{ item.data.title }}</td>
+              <td>{{ item.data.director }}</td>
+              <td>{{ item.data.year }}</td>
+              <td><a href="{{ item.url | url }}">View</a></td>
+            </tr>
+            {% endif %}
+          {%- endfor -%}
         </table>
     </div>
   </details>
