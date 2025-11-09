@@ -17,7 +17,7 @@ length: 11 seasons (218 episodes)
 shelf: watched
 owned: false
 rating:
-watched: 2023-01-29
+watched: 1993-01-29
 poster: https://image.tmdb.org/t/p/w500/rcBx0p8h51LHceyhquYMxbspJQu.jpg
 ---
 
