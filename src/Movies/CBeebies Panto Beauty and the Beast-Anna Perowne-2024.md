@@ -9,7 +9,12 @@ actors:
   - Jennie Dale
   - Justin Fletcher
 genre:
+  - Comedy
+  - Theatre
+  - Kids
+  - Christmas
   - Family
+  - Musical
 length: 73
 shelf: watched
 owned: false
