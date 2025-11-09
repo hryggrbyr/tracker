@@ -3,7 +3,7 @@ type: series
 country: United States, France, Japan
 title: Pokémon Concierge
 year: 2023
-director: N/A
+director: Iku Oguwa
 actors:
   - Non
   - Ai Fairouz
