@@ -3,7 +3,7 @@ type: series
 country: AU
 title: Love Island Australia
 year: 2018
-director: Unknown
+director: Hayley MacFarlane
 actors:
   - Sophie Monk
 genre:
