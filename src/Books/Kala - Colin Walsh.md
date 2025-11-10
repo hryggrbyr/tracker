@@ -10,7 +10,7 @@ subtitle: A Novel
 author:
   - Colin Walsh
 publisher:
-published:
+published: 2024-07-04
 page_count:
 isbn:
 description: ""
