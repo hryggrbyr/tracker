@@ -8,7 +8,7 @@ subtitle: " "
 author:
   - Holly Black
 publisher:
-published:
+published: 2022-05-31
 page_count:
 isbn:
 description: ""
