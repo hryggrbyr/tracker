@@ -2,7 +2,6 @@
 :root {
     color-scheme: light dark;
     font-family: "Victor Mono", system-ui, sans-serif;
-    font-size: 120%;
 }
 * {
     box-sizing: border-box;
@@ -10,9 +9,6 @@
 body {
     max-width: 100%;
     overflow-x: hidden;
-}
-p {
-    max-width: 67ch;
 }
 header .wrapper {
 	display: flex;
@@ -139,7 +135,6 @@ nav .conjoined a {
     padding-block: 0.25lh;
     background-color: light-dark(teal, goldenrod);
     color: light-dark(canvas, canvas);
-    font-weight: bold;
 }
 nav .conjoined a+a {
     border-left: 1px solid currentColor;
@@ -231,6 +226,8 @@ table tr:has(th) {
   border-left: 1px solid light-dark(teal, goldenrod);
   border-right: 1px solid light-dark(teal, goldenrod);
   border-bottom: 1px solid light-dark(teal, goldenrod);
+    min-height: 0;
+  contain: layout;
 }
 
 /* Hide content when details is not open */

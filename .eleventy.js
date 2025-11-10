@@ -83,7 +83,6 @@ module.exports = function (eleventyConfig) {
     items
       .filter((x) => shelf.includes(x.data.shelf))
       .forEach((item) => {
-        console.log(item.data.title, item.data.watched, item.data.end_date);
         const date = item.data.watched || item.data.end_date;
         const year = date.getFullYear();
         if (!byYear[year]) {
