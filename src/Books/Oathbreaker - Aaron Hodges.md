@@ -11,7 +11,7 @@ subtitle: Legend of the Gods 1
 author:
   - Aaron Hodges
 publisher:
-published:
+published: 2018-03-18
 page_count:
 isbn:
 description: ""
