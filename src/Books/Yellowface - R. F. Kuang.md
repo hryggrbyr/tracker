@@ -7,8 +7,8 @@ title: Yellowface
 subtitle: " "
 author:
   - R. F. Kuang
-publisher:
-published:
+publisher: Harper Collins
+published: 2023-05-16
 page_count:
 isbn:
 description: ""
