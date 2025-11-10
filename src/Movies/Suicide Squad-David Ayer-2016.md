@@ -15,10 +15,10 @@ genre:
   - Adventure
   - Fantasy
 length: 2h 2m
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
-watched: 2023-04-22
+watched:
 poster: https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg
 ---
 
