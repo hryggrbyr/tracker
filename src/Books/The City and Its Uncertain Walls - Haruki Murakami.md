@@ -12,7 +12,7 @@ subtitle: " "
 author:
   - Haruki Murakami
 publisher:
-published:
+published: 2023-04-13
 page_count:
 isbn:
 description: ""
