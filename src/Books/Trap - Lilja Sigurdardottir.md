@@ -11,7 +11,7 @@ subtitle: The Reykjavik Noir 02
 author:
   - Lilja Sigurðardóttir
 publisher: Orenda Books
-published: 2018-04-15T00:00:00+01:00
+published: 2016-12-31
 page_count:
 isbn:
 description: ""
