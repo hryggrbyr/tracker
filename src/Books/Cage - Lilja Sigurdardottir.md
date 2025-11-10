@@ -11,7 +11,7 @@ subtitle: The Reykjavik Noir 03
 author:
   - Lilja Sigurðardóttir
 publisher:
-published: 2019
+published: 2017-12-31
 page_count:
 isbn:
 description: ""
