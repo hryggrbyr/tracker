@@ -27,7 +27,7 @@ eleventyComputed:
             <td>{{ item.data.end_date | getMonthName }}</td>
             <td>{{ item.data.title }}</td>
             <td>{{ item.data.author }}</td>
-            <td>{{ item.data.year }}</td>
+            <td>{{ item.data.published }}</td>
             <td><a href="{{ item.url | url }}">View</a></td>
           </li>
           {% endif %}

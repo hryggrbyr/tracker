@@ -51,7 +51,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2024-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/uGGAoM8ojRHOXj16n6xWiccKr34.jpg"
     }
   },
@@ -80,7 +80,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2021-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg"
     }
   },
@@ -198,7 +198,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2022-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg"
     }
   },
@@ -618,6 +618,34 @@
     }
   },
   {
+    "filename": "The_Listeners_2024.md",
+    "path": "src/Series/The_Listeners_2024.md",
+    "slug": "The_Listeners_2024",
+    "frontmatter": {
+      "type": "series",
+      "country": "GB",
+      "title": "The Listeners",
+      "year": 2024,
+      "director": "Janicza Bravo",
+      "actors": [
+        "Rebecca Hall",
+        "Ollie West",
+        "Prasanna Puwanarajah",
+        "Mia Tharia",
+        "Amr Waked"
+      ],
+      "genre": [
+        "Drama"
+      ],
+      "length": "1 season (4 episodes)",
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2025-11-05T00:00:00.000Z",
+      "poster": "https://image.tmdb.org/t/p/w500/5rpHENE6dIigVWy0TDpXTgLtIEp.jpg"
+    }
+  },
+  {
     "filename": "The X-Files-1993.md",
     "path": "src/Series/The X-Files-1993.md",
     "slug": "The X-Files-1993",
@@ -642,7 +670,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "1993-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/rcBx0p8h51LHceyhquYMxbspJQu.jpg"
     }
   },
@@ -703,7 +731,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2019-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg"
     }
   },
@@ -732,7 +760,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2020-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/gHBtyMdHbWoM3tpM8VZymer8HfF.jpg"
     }
   },
@@ -793,7 +821,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2014-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/6DImb7IFoLm5ghofYwLxmsvull2.jpg"
     }
   },
@@ -1323,7 +1351,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2022-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/bBBpi5pgOEZlCOgx2q116oPdJnx.jpg"
     }
   },
@@ -1350,7 +1378,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2011-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg"
     }
   },
@@ -1747,8 +1775,34 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2018-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/38PkhBGRQtmVx2drvPik3F42qHO.jpg"
+    }
+  },
+  {
+    "filename": "The Guest-2025–.md",
+    "path": "src/Series/The Guest-2025–.md",
+    "slug": "The Guest-2025–",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "The Guest",
+      "year": "2025–",
+      "director": "N/A",
+      "actors": [
+        "Eve Myles",
+        "Gabrielle Creevy",
+        "Emun Elliott"
+      ],
+      "genre": [
+        "Thriller"
+      ],
+      "length": "N/A",
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjAxODFkNGUtY2NjNC00NjQ3LTk1ZDQtMmRlYzBiZDA5YWE4XkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -1915,7 +1969,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2016-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg"
     }
   },
@@ -2104,7 +2158,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2011-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg"
     }
   },
@@ -2175,7 +2229,7 @@
       "country": "United Kingdom",
       "title": "Stranded on Honeymoon Island UK",
       "year": "2025–",
-      "director": "N/A",
+      "director": "Roman Green",
       "actors": [
         "Davina McCall"
       ],
@@ -2301,7 +2355,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2021-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"
     }
   },
@@ -2407,7 +2461,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2014-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/sCgzLaVlFy8KxtxRPvt1V5MNTDb.jpg"
     }
   },
@@ -2420,7 +2474,7 @@
       "country": "GB",
       "title": "Silent Witness",
       "year": 1996,
-      "director": "Unknown",
+      "director": "Various",
       "actors": [
         "Emilia Fox",
         "David Caves",
@@ -2462,7 +2516,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2010-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg"
     }
   },
@@ -2744,7 +2798,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2022-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
     }
   },
@@ -2785,7 +2839,7 @@
       "country": "US",
       "title": "Ragdoll",
       "year": 2021,
-      "director": "Unknown",
+      "director": "Toby MacDonald, Niall MacCormick",
       "actors": [
         "Lucy Hale",
         "Ali Cook",
@@ -2815,12 +2869,16 @@
       "country": "GB",
       "title": "Race Across the World",
       "year": 2019,
-      "director": "Unknown",
+      "director": "Michael Perry, Georgina Sharma, Sabeh Bali, Various",
       "actors": [
         "John Hannah"
       ],
       "genre": [
-        "Reality"
+        "Reality",
+        "travel",
+        "exploring",
+        "backpacking",
+        "HumanInterest"
       ],
       "length": "5 seasons (42 episodes)",
       "shelf": "watched",
@@ -2884,7 +2942,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2009-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/iGAdkXpbangnl2FoKdZQvJRkU0R.jpg"
     }
   },
@@ -2941,7 +2999,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2013-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/z885tJn5kkUHppjIK1g2Q54iTff.jpg"
     }
   },
@@ -3067,7 +3125,7 @@
       "country": "United States, France, Japan",
       "title": "Pokémon Concierge",
       "year": 2023,
-      "director": "N/A",
+      "director": "Iku Oguwa",
       "actors": [
         "Non",
         "Ai Fairouz",
@@ -3293,7 +3351,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2009-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/dDuzrl9rUIBYieZjqmtNCdncrmZ.jpg"
     }
   },
@@ -3602,7 +3660,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2016-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/klL4yhwiU8aF4AuF5dCfJA9sRnS.jpg"
     }
   },
@@ -3667,7 +3725,7 @@
       "country": "GB",
       "title": "Married at First Sight UK",
       "year": 2015,
-      "director": "Unknown",
+      "director": "James Kayler, Various",
       "actors": [
         "Mel Schilling",
         "Paul C Brunson",
@@ -3803,7 +3861,7 @@
       "country": "US",
       "title": "Mad Men",
       "year": 2007,
-      "director": "Unknown",
+      "director": "Phil Abraham, Various",
       "actors": [
         "Jon Hamm",
         "Elisabeth Moss",
@@ -3818,7 +3876,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2025-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg"
     }
   },
@@ -3967,7 +4025,7 @@
       "country": "GB",
       "title": "Love Island",
       "year": 2015,
-      "director": "Unknown",
+      "director": "Steven Priest",
       "actors": [
         "Maya Jama",
         "Laura Whitmore",
@@ -3996,7 +4054,7 @@
       "country": "GB",
       "title": "Love Island: All Stars",
       "year": 2024,
-      "director": "Unknown",
+      "director": "Steven Priest",
       "actors": [
         "Maya Jama",
         "Iain Stirling"
@@ -4046,7 +4104,7 @@
       "country": "AU",
       "title": "Love Island Australia",
       "year": 2018,
-      "director": "Unknown",
+      "director": "Hayley MacFarlane",
       "actors": [
         "Sophie Monk"
       ],
@@ -4221,7 +4279,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2021-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg"
     }
   },
@@ -4344,19 +4402,20 @@
       "country": "United Kingdom",
       "title": "Inside the Cult of the Jesus Army",
       "year": 2025,
-      "director": "N/A",
+      "director": "Ellena Wood",
       "actors": [
         "N/A"
       ],
       "genre": [
-        "Documentary"
+        "Documentary",
+        "Religion"
       ],
       "length": "N/A",
       "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 3,
       "watched": "2025-08-01T00:00:00.000Z",
-      "poster": "N/A"
+      "poster": "https://ichef.bbci.co.uk/images/ic/640x360/p0lqr5mp.jpg"
     }
   },
   {
@@ -4578,7 +4637,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2011-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg"
     }
   },
@@ -4634,7 +4693,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2019-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/g6tIKGc3f1H5QMz1dcgCwADKpZ7.jpg"
     }
   },
@@ -4919,7 +4978,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2011-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg"
     }
   },
@@ -4949,7 +5008,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2009-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
     }
   },
@@ -4979,7 +5038,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2005-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/tNWzu7erFag9cPJXHVbwNw4u88k.jpg"
     }
   },
@@ -5061,7 +5120,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "1994-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg"
     }
   },
@@ -5090,7 +5149,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2022-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/yZK3uB5btwimbgJVFzVo4BOLibX.jpg"
     }
   },
@@ -5370,7 +5429,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2012-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/ice3QRGMPs7JpwV8Fb8BpfWtYxP.jpg"
     }
   },
@@ -5572,7 +5631,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2006-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg"
     }
   },
@@ -5819,7 +5878,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2012-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/k6LX0rJOYeF4fNzfVlCGxWPTmE5.jpg"
     }
   },
@@ -5860,7 +5919,7 @@
       "country": "GB",
       "title": "Code of Silence",
       "year": 2025,
-      "director": "Unknown",
+      "director": "Diarmuid Goggins, Chanya Button",
       "actors": [
         "Rose Ayling-Ellis",
         "Kieron Moore",
@@ -5876,7 +5935,7 @@
       "length": "1 season (6 episodes)",
       "shelf": "watched",
       "owned": false,
-      "rating": null,
+      "rating": 1,
       "watched": "2025-06-04T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/qQ9giFtSAOHg7sVGTPxOQ9FEL4X.jpg"
     }
@@ -6605,7 +6664,7 @@
       "country": "GB",
       "title": "Andy And The Band",
       "year": 2020,
-      "director": "Unknown",
+      "director": "Matt Holt, Various",
       "actors": [
         "Andy Day",
         "Miai Leonie Phillip",
@@ -6731,7 +6790,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2023-01-29T00:00:00.000Z",
+      "watched": "2011-01-29T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg"
     }
   },
@@ -6921,6 +6980,32 @@
       "rating": 3,
       "watched": "2025-09-22T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BMzg5ZTI2OGYtZTNkNi00MGRkLTlmOTItNzhmMWI5N2RkNjQ2XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "7 Bears-2025–.md",
+    "path": "src/Series/7 Bears-2025–.md",
+    "slug": "7 Bears-2025–",
+    "frontmatter": {
+      "type": "series",
+      "country": "France",
+      "title": "7 Bears",
+      "year": "2025–",
+      "director": "Guillaume Rio",
+      "actors": [
+        "N/A"
+      ],
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": false,
+      "rating": 4,
+      "watched": "2025-11-09T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjVmMTQyMmItMTRjZi00ZDQ5LTg5MTctMzMxZmVkMzNjODk4XkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {

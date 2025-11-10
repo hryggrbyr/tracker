@@ -1,5 +1,42 @@
 [
   {
+    "filename": "ecstasy three tales of chemical romance - irvine welsh.md",
+    "path": "src/Books/ecstasy three tales of chemical romance - irvine welsh.md",
+    "slug": "ecstasy three tales of chemical romance - irvine welsh",
+    "frontmatter": {
+      "tags": [
+        "Scottish Literature",
+        "Transgressive Fiction",
+        "Dark Comedy",
+        "Novella Collection",
+        "Crime"
+      ],
+      "title": "Ecstasy: Three Tales of Chemical Romance",
+      "subtitle": "",
+      "author": [
+        "Irvine Welsh"
+      ],
+      "publisher": "Jonathan Cape",
+      "published": "1996-01-01T00:00:00.000Z",
+      "page_count": 280,
+      "isbn": "9780224044059",
+      "description": "A collection of three dark novellas exploring obsession, revenge, and desire. Includes \"Lorraine Goes to Livingston,\" \"Fortune's Always Hiding,\" and \"The Undefeated\"—each blending Welsh's trademark transgressive style with examinations of love, violence, and contemporary Scotland.",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780224044059-M.jpg",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "",
+      "end_date": "1997-10-12T00:00:00.000Z",
+      "rating": "",
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2022-12-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
+    }
+  },
+  {
     "filename": "You Can't Stop Me - Max Allan Collins & Matthew Clemens.md",
     "path": "src/Books/You Can't Stop Me - Max Allan Collins & Matthew Clemens.md",
     "slug": "You Can't Stop Me - Max Allan Collins & Matthew Clemens",
@@ -1563,6 +1600,43 @@
     }
   },
   {
+    "filename": "Trainspotting - Irvine Welsh.md",
+    "path": "src/Books/Trainspotting - Irvine Welsh.md",
+    "slug": "Trainspotting - Irvine Welsh",
+    "frontmatter": {
+      "tags": [
+        "Scottish Literature",
+        "Dark Comedy",
+        "Addiction",
+        "Transgressive Fiction",
+        "Working Class"
+      ],
+      "title": "Trainspotting",
+      "subtitle": "",
+      "author": [
+        "Irvine Welsh"
+      ],
+      "publisher": "Secker & Warburg",
+      "published": "1993-01-01T00:00:00.000Z",
+      "page_count": 344,
+      "isbn": "9780436201178",
+      "description": "A raw, darkly comic portrayal of heroin addiction and working-class life in 1980s Edinburgh, told through the voices of Mark Renton and his friends as they navigate drug culture, friendship, and survival in Leith.",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780436201178-M.jpg",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "",
+      "end_date": "1996-09-26T00:00:00.000Z",
+      "rating": "",
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2022-12-18T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
+    }
+  },
+  {
     "filename": "Tomorrow and tomorrow and tomorrow - Gabrielle Zevin.md",
     "path": "src/Books/Tomorrow and tomorrow and tomorrow - Gabrielle Zevin.md",
     "slug": "Tomorrow and tomorrow and tomorrow - Gabrielle Zevin",
@@ -2019,6 +2093,39 @@
       "created": null,
       "reviewUrl": null,
       "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "The damnation game - Clive Barker.md",
+    "path": "src/Books/The damnation game - Clive Barker.md",
+    "slug": "The damnation game - Clive Barker",
+    "frontmatter": {
+      "tags": [
+        "horror"
+      ],
+      "title": "The Damnation Game",
+      "subtitle": "",
+      "author": [
+        "Clive Barker"
+      ],
+      "publisher": "Weidenfeld & Nicolson",
+      "published": 1985,
+      "page_count": 374,
+      "isbn": 9780722114162,
+      "description": "There are things worse than death. There are games so seductively evil, so wondrously vile, no gambler can resist. Amid the shadow-scarred rubble of World War II, Joseph Whitehead dared to challenge the dark champion of life's ultimate game. Now a millionaire, locked in a terror-shrouded fortress of his own design, Joseph Whitehead has hell to pay. And no soul is safe from this ravaging fear, the resurrected fury, the unspeakable desire of...",
+      "coverUrl": "https://www.murrayewing.co.uk/mewsings/wp-content/uploads/2024/02/Barker_DamnationGame_Sphere_1988_SteveCrisp.jpg",
+      "shelf": "read",
+      "owned": true,
+      "start_date": "1995-08-03T00:00:00.000Z",
+      "end_date": "1995-08-12T00:00:00.000Z",
+      "rating": 0,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.barnesandnoble.com/w/the-damnation-game-clive-barker/1101324242?ean=2940149730599",
+      "created": "2015-10-06T00:00:00.000Z"
     }
   },
   {
@@ -5335,6 +5442,39 @@
     }
   },
   {
+    "filename": "The Lancashire Witches - William Harrison Ainsworth.md",
+    "path": "src/Books/The Lancashire Witches - William Harrison Ainsworth.md",
+    "slug": "The Lancashire Witches - William Harrison Ainsworth",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Lancashire Witches",
+      "subtitle": "Enriched edition. A Romance of Pendle Forest",
+      "author": [
+        "William Harrison Ainsworth"
+      ],
+      "publisher": "Good Press",
+      "published": "2019-11-20T00:00:00.000Z",
+      "page_count": 695,
+      "isbn": "EAN:4057664096197",
+      "description": "William Harrison Ainsworth's \"The Lancashire Witches\" delves into the historical period of the witch trials in 17th-century England, presenting a blend of romance and gothic intrigue. Written in a rich, evocative style, Ainsworth employs vivid descriptions and dramatic dialogue to immerse the reader in the tumultuous lives of his characters. Set against the backdrop of social upheaval and superstition, the novel explores themes of injustice, betrayal, and the struggle for identity, all while reflecting the romantic sensibilities of its time, which sought to illuminate the tyranny of false beliefs and societal panic. Born in 1805, Ainsworth was a prominent figure in Victorian literature, known for his extensive research and dedication to historical accuracy. His early experiences growing up in Manchester, a region rife with folklore and industrial change, undoubtedly influenced his portrayal of the dark human emotions and societal issues present in \"The Lancashire Witches.\" Ainsworth's fascination with history and the supernatural provided a fertile ground for crafting this compelling narrative, as he sought to reconcile the grim realities of the past with the complexities of human experience. For readers drawn to historical fiction intertwined with themes of superstition and societal critique, \"The Lancashire Witches\" serves as an essential exploration of a dark chapter in English history. Ainsworth's masterful storytelling and rich character development invite readers to engage with the moral complexities and emotional depths of those accused of witchcraft. This novel is not only a reflection on the past but also a poignant reminder of the fragility of truth and the resilience of the human spirit. In this enriched edition, we have carefully created added value for your reading experience: - A succinct Introduction situates the work's timeless appeal and themes. - The Synopsis outlines the central plot, highlighting key developments without spoiling critical twists. - A detailed Historical Context immerses you in the era's events and influences that shaped the writing. - A thorough Analysis dissects symbols, motifs, and character arcs to unearth underlying meanings. - Reflection questions prompt you to engage personally with the work's messages, connecting them to modern life. - Hand‐picked Memorable Quotes shine a spotlight on moments of literary brilliance. - Interactive footnotes clarify unusual references, historical allusions, and archaic phrases for an effortless, more informed read.",
+      "coverUrl": "http://books.google.com/books/content?id=OvzCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2025-10-22T15:54:24.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
+    }
+  },
+  {
     "filename": "The Lancashire Witches - Philip C Almond.md",
     "path": "src/Books/The Lancashire Witches - Philip C Almond.md",
     "slug": "The Lancashire Witches - Philip C Almond",
@@ -5625,6 +5765,39 @@
       "created": "2023-12-21T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "The Invisible Library - Genevieve Cogman.md",
+    "path": "src/Books/The Invisible Library - Genevieve Cogman.md",
+    "slug": "The Invisible Library - Genevieve Cogman",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Invisible Library",
+      "subtitle": "",
+      "author": [
+        "Genevieve Cogman"
+      ],
+      "publisher": "Pan Macmillan",
+      "published": "2014-12-15T00:00:00.000Z",
+      "page_count": 337,
+      "isbn": 9781447256243,
+      "description": "One spy. One dangerous book. One deadly mission. Discover the first book in this gripping fantasy mystery series – The Invisible Library is the astounding debut from bestselling author Genevieve Cogman. Perfect for fans of Mr Penumbra's 24-Hour Bookstore by Robin Sloan, Jasper Fforde's The Eyre Affair or Ben Aaronovitch's Rivers of London. 'I absolutely loved this' – N.K. Jemisin, author of The Fifth Season Irene is a professional spy for the mysterious Library, whose staff are sent to different realities to harvest dangerous and mystical fiction. Irene has been posted to an alternative steampunk London along with her enigmatic new assistant, Kai. Their mission: to retrieve a dangerous edition of Grimms' Fairy Tales. But it has already been stolen. In London's underground, the laws of nature have been bent – supernatural creatures and unpredictable magic stalk the land. The city is home to vampires, werewolves – factions that are all prepared to fight to the death for this book. Irene must face a web of deadly danger, deception and secret societies. Her new assistant is hiding secrets of his own. Yet failure is not an option – the nature of reality itself is at stake . . . Continue the journey with the adventurous second title in the Invisible Library series, The Masked City. Praise for the series: 'I absolutely loved this' – N. K. Jemisin, author of The Fifth Season 'Irene is a great heroine: fiery, resourceful and no one's fool' – The Guardian 'Cogman keeps upping the ante on this delightful series!' – Charles Stross, author of the Merchant Princes series",
+      "coverUrl": "http://books.google.com/books/content?id=52J-BAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": null,
+      "bookshopUrl": null,
+      "created": "2025-10-25T06:53:55.000Z"
     }
   },
   {
@@ -7648,6 +7821,40 @@
       "created": "2015-10-06T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "The Blacktongue Thief - Christopher Buehlman.md",
+    "path": "src/Books/The Blacktongue Thief - Christopher Buehlman.md",
+    "slug": "The Blacktongue Thief - Christopher Buehlman",
+    "frontmatter": {
+      "tags": [
+        "fantasy",
+        "goblins"
+      ],
+      "title": "The Blacktongue Thief",
+      "subtitle": "",
+      "author": [
+        "Christopher Buehlman"
+      ],
+      "publisher": "Hachette UK",
+      "published": "2021-05-27T00:00:00.000Z",
+      "page_count": 380,
+      "isbn": 9781473231184,
+      "description": "Kinch Na Shannack owes the Takers Guild a small fortune for his education as a thief, which includes (but is not limited to) lock-picking, knife-fighting, wall-scaling, fall-breaking, lie-weaving, trap-making, plus a few small magics. His debt has driven him to lie in wait by the old forest road, planning to rob the next traveler that crosses his path. But today, Kinch Na Shannack has picked the wrong mark. Galva is a knight, a survivor of the brutal goblin wars, and handmaiden of the goddess of death. She is searching for her queen, missing since a distant northern city fell to giants. Unsuccessful in his robbery and lucky to escape with his life, Kinch now finds his fate entangled with Galva's. Common enemies and uncommon dangers force thief and knight on an epic journey where goblins hunger for human flesh, krakens hunt in dark waters, and honor is a luxury few can afford.",
+      "coverUrl": "http://books.google.com/books/content?id=ixPoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": "Justin",
+        "url": "https://www.justinthestacks.com/book-review-the-blackfire-blade/"
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781473231184",
+      "created": "2025-11-03T10:45:44.000Z"
     }
   },
   {
@@ -14269,6 +14476,44 @@
     }
   },
   {
+    "filename": "Imajica - Clive Barker.md",
+    "path": "src/Books/Imajica - Clive Barker.md",
+    "slug": "Imajica - Clive Barker",
+    "frontmatter": {
+      "tags": [
+        "fantasy",
+        "magic",
+        "Religion",
+        "horror",
+        "ParallelWorlds",
+        "DarkFantasy"
+      ],
+      "title": "Imajica",
+      "subtitle": "",
+      "author": [
+        "Clive Barker"
+      ],
+      "publisher": "HarperCollins",
+      "published": 1991,
+      "page_count": 872,
+      "isbn": 36105041128385,
+      "description": "Imajica is a 1991 dark fantasy horror novel by English author Clive Barker. Set within a multiverse of parallel dimensions, the narrative weaves together themes of reality, magic, and the cosmic forces that shape existence. The story follows John Furie Zacharias, also known as Gentle, as he becomes embroiled in a multidimensional conflict involving parallel universes, powerful beings, and the mysteries of creation.",
+      "coverUrl": "https://prodimage.images-bn.com/pimages/9780060937263_p0_v2_s1200x630.jpg",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "1995-10-10T00:00:00.000Z",
+      "end_date": "1995-10-16T00:00:00.000Z",
+      "rating": 4,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/book/1231779/imajica/clive-barker/",
+      "created": "2025-10-27T17:58:24.000Z"
+    }
+  },
+  {
     "filename": "If Cats Disappeared from the World - Genki Kawamura.md",
     "path": "src/Books/If Cats Disappeared from the World - Genki Kawamura.md",
     "slug": "If Cats Disappeared from the World - Genki Kawamura",
@@ -14326,6 +14571,71 @@
         "url": null
       },
       "created": "2024-11-28T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "I Want to Go Home but I'm Already There - Róisín Lanigan.md",
+    "path": "src/Books/I Want to Go Home but I'm Already There - Róisín Lanigan.md",
+    "slug": "I Want to Go Home but I'm Already There - Róisín Lanigan",
+    "frontmatter": {
+      "tags": [
+        "supernatural",
+        "ghosts"
+      ],
+      "title": "I Want to Go Home but I'm Already There",
+      "subtitle": " ",
+      "author": [
+        "Róisín Lanigan"
+      ],
+      "publisher": null,
+      "published": null,
+      "page_count": null,
+      "isbn": null,
+      "description": "",
+      "coverUrl": "https://m.media-amazon.com/images/I/71aDqGUdHKL._SL1500_.jpg",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2025-03-19T00:00:00.000Z",
+      "reviewUrl": null,
+      "bookshopUrl": "https://www.ebooks.com/en-gb/book/211390646/i-want-to-go-home-but-i-m-already-there/r-is-n-lanigan/"
+    }
+  },
+  {
+    "filename": "I Want to Go Home but I'm Already There - Risn Lanigan.md",
+    "path": "src/Books/I Want to Go Home but I'm Already There - Risn Lanigan.md",
+    "slug": "I Want to Go Home but I'm Already There - Risn Lanigan",
+    "frontmatter": {
+      "tags": [],
+      "title": "I Want to Go Home but I'm Already There",
+      "subtitle": " ",
+      "author": [
+        "Risn Lanigan"
+      ],
+      "publisher": null,
+      "published": null,
+      "page_count": null,
+      "isbn": null,
+      "description": "",
+      "coverUrl": "https://covers.openlibrary.org/b/olid/OL57516780M-M.jpg",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": null,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2025-03-19T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
     }
@@ -16184,6 +16494,42 @@
       "created": "2023-03-14T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "Dregs - Jørn Lier Horst.md",
+    "path": "src/Books/Dregs - Jørn Lier Horst.md",
+    "slug": "Dregs - Jørn Lier Horst",
+    "frontmatter": {
+      "tags": [
+        "crime",
+        "police",
+        "scandinoir",
+        "norway"
+      ],
+      "title": "Dregs",
+      "subtitle": "",
+      "author": [
+        "Jørn Lier Horst"
+      ],
+      "publisher": null,
+      "published": "2014-01-12T00:00:00.000Z",
+      "page_count": 406,
+      "isbn": 9781471276408,
+      "description": "In Stavern around midsummer a severed left foot in a training shoe is washed up on the shore. Then another, and yet another. Altogether four left feet in the course of one week. Police Inspector William Wisting has many years of murder experience behind him, but he has never examined evidence like this.",
+      "coverUrl": "http://books.google.com/books/content?id=_gYVogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": "2021-01-15T00:00:00.000Z",
+      "end_date": "2021-01-21T00:00:00.000Z",
+      "rating": 3,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781471276408",
+      "created": "2021-01-15T00:00:00.000Z"
     }
   },
   {
