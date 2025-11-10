@@ -11,7 +11,7 @@ subtitle: The Reykjavik Noir 01
 author:
   - Lilja Sigurðardóttir
 publisher:
-published:
+published: 2015-12-31
 page_count:
 isbn:
 description: ""

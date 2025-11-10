@@ -10,7 +10,7 @@ subtitle: " "
 author:
   - Sally Gardner
 publisher:
-published:
+published: 2021-10-31
 page_count:
 isbn:
 description: ""

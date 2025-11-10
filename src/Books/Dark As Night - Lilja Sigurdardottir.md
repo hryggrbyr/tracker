@@ -8,7 +8,7 @@ subtitle: An Áróra Investigation 04
 author:
   - Lilja Sigurðardóttir
 publisher:
-published:
+published: 2024-10-10
 page_count:
 isbn:
 description: ""

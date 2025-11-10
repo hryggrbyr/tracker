@@ -11,7 +11,7 @@ subtitle: Legend of the Gods 2
 author:
   - Aaron Hodges
 publisher: Aaron Hodges
-published: 2018
+published: 2018-06-22
 page_count: 285
 isbn: 9780995105683
 description: Alana has been captured. She expected an agonizing death to follow, but instead, she now finds herself a guest of the Tsar. Locked away amidst untold wealth and luxury, it isn’t long before she learns the reason she was spared – her entire life has been a lie. Her true identity lurks within, chained by magic, but with promises of untold power. It terrifies her, and yet…she must know the truth. Meanwhile, ex-soldier Devon plans a fresh rebellion in Trola. But after carving his legend in the blood of their people, he’s a marked man. He’ll have to watch his step if he’s to successfully negotiate the shifting tides of the Trolan cause – and not get himself killed in the process. Either way, failure is not an option, because without an uprising, Alana will be lost to him forever… An original epic fantasy book with dragons, gods and magic, packed with action, adventure, swords and sorcery, by New York Times Bestselling Author Aaron Hodges.

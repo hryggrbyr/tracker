@@ -12,10 +12,10 @@ title: The Toymakers
 subtitle: " "
 author:
   - Robert Dinsdale
-publisher:
-published:
-page_count:
-isbn:
+publisher: Del Rey
+published: 2018-09-20
+page_count: 480
+isbn: 9781785036354
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL30547213M-M.jpg
 shelf: read
