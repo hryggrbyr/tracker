@@ -2,8 +2,8 @@
 type: series
 country: United Kingdom
 title: The Woman in the Wall
-year: 2023–2024
-director: N/A
+year: 2023
+director: Harry Wootliff, Rachna Suri
 actors:
   - Ruth Wilson
   - Daryl McCormack
@@ -12,14 +12,13 @@ genre:
   - Drama
   - Mystery
   - Thriller
-length: N/A
+length: 6 episodes, 57 minutes
 shelf: watchlist
 owned: false
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BNjE1NDk0NmYtM2FiNS00MDkwLWI4NTgtNTNjY2YyOWYyMzgxXkEyXkFqcGc@._V1_SX300.jpg
-url:
-  "{ Website }":
+url: https://en.wikipedia.org/wiki/The_Woman_in_the_Wall
 ---
 
 # The Woman in the Wall (2023–2024)
