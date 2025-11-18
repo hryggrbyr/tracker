@@ -21,7 +21,7 @@ poster: https://m.media-amazon.com/images/M/MV5BNjE1NDk0NmYtM2FiNS00MDkwLWI4NTgt
 url: https://en.wikipedia.org/wiki/The_Woman_in_the_Wall
 ---
 
-# The Woman in the Wall (2023–2024)
+# The Woman in the Wall (2023)
 
 ![](https://m.media-amazon.com/images/M/MV5BNjE1NDk0NmYtM2FiNS00MDkwLWI4NTgtNTNjY2YyOWYyMzgxXkEyXkFqcGc@._V1_SX300.jpg)
 
