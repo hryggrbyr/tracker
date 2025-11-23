@@ -17,7 +17,7 @@ genre:
   - Thriller
 length: 1h 34m
 shelf: watched
-owned: false
+owned: true
 rating: 4
 watched: 2025-11-22
 poster: https://image.tmdb.org/t/p/w500/9pCoqX24a6rE981fY1O3PmhiwrB.jpg
