@@ -18,7 +18,7 @@ genre:
   - Romance
 length: 1h 39m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1987-09-25
 poster: https://image.tmdb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg
