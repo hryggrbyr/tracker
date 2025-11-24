@@ -19,6 +19,7 @@ owned: false
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/yjw2KjAFnqPzCNOYgh3yiLQOZl5.jpg
+created: 2024-12-31
 ---
 
 # Douglas Is Cancelled (2024)
