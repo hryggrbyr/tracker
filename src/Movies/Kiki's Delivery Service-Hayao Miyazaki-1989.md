@@ -16,7 +16,7 @@ genre:
   - Fantasy
 length: 1h 43m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1989-07-29
 poster: https://image.tmdb.org/t/p/w500/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg
