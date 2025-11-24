@@ -15,7 +15,7 @@ genre:
   - Thriller
 length: 1h 33m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1995-01-06
 poster: https://image.tmdb.org/t/p/w500/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg
