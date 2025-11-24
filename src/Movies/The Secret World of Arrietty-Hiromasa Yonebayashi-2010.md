@@ -14,7 +14,7 @@ genre:
   - Drama
 length: 94
 shelf: watched
-owned: false
+owned: true
 rating: 4
 watched: 2025-10-15
 poster: https://m.media-amazon.com/images/M/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@._V1_SX300.jpg

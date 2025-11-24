@@ -16,7 +16,7 @@ genre:
   - Adventure
 length: 1h 59m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2004-11-19
 poster: https://image.tmdb.org/t/p/w500/TkTPELv4kC3u1lkloush8skOjE.jpg

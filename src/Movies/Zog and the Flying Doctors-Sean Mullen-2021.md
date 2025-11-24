@@ -16,8 +16,8 @@ genre:
   - TV Movie
 length: 25m
 shelf: watched
-owned: false
-rating:
+owned: true
+rating: 3
 watched: 2024-07-15
 poster: https://image.tmdb.org/t/p/w500/aow2SrU1nKY1onSTjHhhLW8Ndd6.jpg
 ---

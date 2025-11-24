@@ -22,6 +22,7 @@ owned: false
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg
+created: 2023-10-19
 ---
 
 # Avatar: The Last Airbender (2024)

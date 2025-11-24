@@ -15,7 +15,7 @@ genre:
   - Crime
 length: 1h 58m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1944-09-01
 poster: https://image.tmdb.org/t/p/w500/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg

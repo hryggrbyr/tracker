@@ -18,6 +18,7 @@ owned: false
 rating:
 poster: https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_SX300.jpg
 url: N/A
+created: 2021-12-31
 ---
 
 # Don't Look Up (2021)

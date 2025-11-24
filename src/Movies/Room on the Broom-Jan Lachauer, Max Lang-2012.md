@@ -15,8 +15,8 @@ genre:
   - Animation
 length: 25m
 shelf: watched
-owned: false
-rating:
+owned: true
+rating: 4
 watched: 2024-08-10
 poster: https://image.tmdb.org/t/p/w500/9qAL19JR0oJ7ZlVpUE1Os2P6XXp.jpg
 ---

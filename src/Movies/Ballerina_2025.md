@@ -20,6 +20,7 @@ owned: false
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg
+created: 2025-11-01
 ---
 
 # Ballerina (2025)

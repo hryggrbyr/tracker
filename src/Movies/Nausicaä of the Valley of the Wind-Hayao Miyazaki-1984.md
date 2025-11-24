@@ -14,8 +14,8 @@ genre:
   - Sci-Fi
 length: 117
 shelf: watched
-owned: false
-rating: 6
+owned: true
+rating: 3
 watched: 2025-10-20
 poster: https://m.media-amazon.com/images/M/MV5BODBhMTI3YzMtNTRjYS00OTFkLWJmODUtNjJiNzcwYTVkNDhiXkEyXkFqcGc@._V1_SX300.jpg
 ---

@@ -18,6 +18,7 @@ owned: false
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BZWMzZDUzZmQtM2VjMy00YTMzLWE5YTktZmIzMTljNDc3MWQ1XkEyXkFqcGc@._V1_SX300.jpg
+created: 2025-09-11
 ---
 
 # Better (2023)

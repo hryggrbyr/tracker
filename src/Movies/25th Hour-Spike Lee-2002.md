@@ -15,7 +15,7 @@ genre:
   - Drama
 length: 2h 15m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2002-12-19
 poster: https://image.tmdb.org/t/p/w500/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg

@@ -18,6 +18,7 @@ owned: false
 rating:
 poster: https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_SX300.jpg
 url: N/A
+created: 2025-03-21
 ---
 
 # Anora (2024)

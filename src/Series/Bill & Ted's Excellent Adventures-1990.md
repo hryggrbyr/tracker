@@ -17,7 +17,7 @@ genre:
   - Action & Adventure
 length: 2 seasons (21 episodes)
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1991-11-16
 poster: https://image.tmdb.org/t/p/w500/oN9qQv593rlN9qpRNF2sATtyOFg.jpg

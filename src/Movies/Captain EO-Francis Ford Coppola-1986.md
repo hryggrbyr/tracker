@@ -18,6 +18,7 @@ owned: true
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BNjE3Yjc5MmQtMzk5Ny00MGMyLWIwMTktNGUxODlmMzkwNTEwXkEyXkFqcGc@._V1_SX300.jpg
+created: 2021-11-30
 ---
 
 # Captain EO (1986)

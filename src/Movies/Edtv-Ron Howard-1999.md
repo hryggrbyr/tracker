@@ -17,6 +17,7 @@ owned: false
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BN2UzMzljOGEtZjYzZS00ZmNmLTg4NzctYWI2NDI4NjEwOGEwXkEyXkFqcGc@._V1_SX300.jpg
+created: 2013-08-25
 ---
 
 # Edtv (1999)

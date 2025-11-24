@@ -18,6 +18,7 @@ owned: false
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BZDJmMjBiYTItOGUwMC00M2U2LWI3NTMtMDkzYTgzZGUzODAyXkEyXkFqcGc@._V1_SX300.jpg
+created: 2021-12-31
 ---
 
 # Jolt (2021)

@@ -20,6 +20,7 @@ owned: false
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg
+created: 2025-08-25
 ---
 
 # In the Lost Lands (2025)

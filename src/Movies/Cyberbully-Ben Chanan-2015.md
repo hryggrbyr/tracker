@@ -18,6 +18,7 @@ owned: true
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BMWEzOGNjY2ItYmZhZC00OWQ3LTk1OTQtMDBiMWU0MTk2ODI3XkEyXkFqcGc@._V1_SX300.jpg
+created: 2015-12-31
 ---
 
 # Cyberbully (2015)

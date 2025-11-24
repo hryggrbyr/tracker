@@ -12,7 +12,7 @@ genre:
   - Family
 length: 30m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2024-01-01
 poster: https://image.tmdb.org/t/p/w500/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg

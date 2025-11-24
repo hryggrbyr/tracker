@@ -18,6 +18,7 @@ owned: false
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BMTkwODMzNDc5OV5BMl5BanBnXkFtZTcwNjc4NDQzMQ@@._V1_SX300.jpg
+created: 2013-08-25
 ---
 
 # Dark Season (1991)

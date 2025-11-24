@@ -18,6 +18,7 @@ owned: true
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BZTU5NWRkNmEtZmY4Yi00ZTIzLWIxNjUtMzM3ODM2ZTdiOWNhXkEyXkFqcGc@._V1_SX300.jpg
+created: 2025-09-28
 ---
 
 # Bill & Ted Face the Music (2020)

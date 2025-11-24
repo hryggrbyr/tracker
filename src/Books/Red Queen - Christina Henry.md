@@ -2,7 +2,7 @@
 tags:
   - Fiction
 title: Red Queen
-subtitle: ""
+subtitle: The Chronicles of Alice 2
 author:
   - Christina Henry
 publisher: Penguin
@@ -28,7 +28,7 @@ created: 2025-11-21 06:02:47
 
 ![Book Cover Art](http://books.google.com/books/content?id=tXvHCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
-__
+_The Chronicles of Alice 2_
 
 | &nbsp; | to-read | 
 | --- | --- |

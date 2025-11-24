@@ -18,8 +18,8 @@ genre:
   - Sci-Fi & Fantasy
 length: 1 season (13 episodes)
 shelf: watched
-owned: false
-rating:
+owned: true
+rating: 4
 watched: 2004-10-17
 poster: https://image.tmdb.org/t/p/w500/uPAti8dD5sQNTgL1g5R8PceUS2H.jpg
 ---
