@@ -19,6 +19,7 @@ owned: false
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/nMSkzU1yWltiqY1cqMgJDWFmWkc.jpg
+created: 2025-02-02
 ---
 
 # A Touch of Cloth (2012)
