@@ -15,7 +15,7 @@ genre:
   - Mystery
 length: 2h 5m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2006-04-21
 poster: https://image.tmdb.org/t/p/w500/r0bEDWO2w4a43K2xTNSF284qOsc.jpg
