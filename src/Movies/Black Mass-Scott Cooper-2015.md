@@ -18,6 +18,7 @@ owned: true
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BNzg0ODI3NDQxNF5BMl5BanBnXkFtZTgwMzgzNDA0NjE@._V1_SX300.jpg
+created: 2015-12-31
 ---
 
 # Black Mass (2015)
