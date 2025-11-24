@@ -18,6 +18,7 @@ owned: false
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BODBhNTFiYzAtYWUzMy00YjZjLWEzMDItNzQyNDUyZjdiMjZhXkEyXkFqcGc@._V1_SX300.jpg
+created: 2025-04-28
 ---
 
 # Humanist Vampire Seeking Consenting Suicidal Person (2023)
