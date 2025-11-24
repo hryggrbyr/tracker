@@ -16,7 +16,7 @@ genre:
   - Family
 length: 1h 26m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1988-04-16
 poster: https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
