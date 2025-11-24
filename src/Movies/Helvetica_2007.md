@@ -18,6 +18,7 @@ owned: false
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/s47TOnvnwfSnAflQvsBxJbOLnmP.jpg
+created: 2018-12-31
 ---
 
 # Helvetica (2007)
