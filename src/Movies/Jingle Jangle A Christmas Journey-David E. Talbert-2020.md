@@ -1,7 +1,7 @@
 ---
 type: movie
 country: United States
-title: Jingle Jangle A Christmas Journey
+title: "Jingle Jangle: A Christmas Journey"
 year: 2020
 director: David E. Talbert
 actors:
