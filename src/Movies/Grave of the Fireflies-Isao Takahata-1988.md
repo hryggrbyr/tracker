@@ -18,6 +18,7 @@ owned: true
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_SX300.jpg
+created: 2025-11-18
 ---
 
 # Grave of the Fireflies (1988)
