@@ -19,6 +19,7 @@ owned: false
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/hDHXTbLW6psmfo1HI5rImQ1Jh6e.jpg
+created: 2023-12-02
 ---
 
 # Automata (2018)
