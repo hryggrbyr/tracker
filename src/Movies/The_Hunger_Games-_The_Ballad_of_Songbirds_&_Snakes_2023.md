@@ -17,7 +17,7 @@ genre:
   - Action
 length: 2h 37m
 shelf: watchlist
-owned: false
+owned: true
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg
