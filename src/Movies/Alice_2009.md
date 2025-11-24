@@ -15,7 +15,7 @@ genre:
   - Comedy
 length: 1 season (2 episodes)
 shelf: watchlist
-owned: false
+owned: true
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/2lvWLSOPtsqkgVIfEz9ai7D6TUr.jpg
