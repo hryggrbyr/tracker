@@ -18,6 +18,7 @@ owned: false
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BMTUxNzYwMTE3NV5BMl5BanBnXkFtZTcwMDY2NzU4Ng@@._V1_SX300.jpg
+created: 2011-12-31
 ---
 
 # Extremely Loud & Incredibly Close (2011)
