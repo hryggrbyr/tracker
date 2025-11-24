@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Alice
-subtitle: " "
+subtitle: The Chronicles of Alice 1
 author:
   - Christina Henry
 publisher:
@@ -27,7 +27,7 @@ bookshopUrl:
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL27097554M-M.jpg)
 
-_ _
+_The Chronicles of Alice 1_
 
 | Shelf | to-read |
 | --- | --- |
