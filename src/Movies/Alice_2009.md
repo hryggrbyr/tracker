@@ -3,7 +3,7 @@ type: series
 country: CA
 title: Alice
 year: 2009
-director: Unknown
+director: Nick Willing
 actors:
   - Caterina Scorsone
   - Andrew-Lee Potts
