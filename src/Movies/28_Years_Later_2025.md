@@ -20,6 +20,7 @@ owned: false
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg
+created: 2025-01-01
 ---
 
 # 28 Years Later (2025)
