@@ -16,7 +16,7 @@ genre:
   - Science Fiction
 length: 1h 33m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1991-07-19
 poster: https://image.tmdb.org/t/p/w500/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg
