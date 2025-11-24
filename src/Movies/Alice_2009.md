@@ -19,6 +19,7 @@ owned: true
 rating:
 watched:
 poster: https://image.tmdb.org/t/p/w500/2lvWLSOPtsqkgVIfEz9ai7D6TUr.jpg
+created: 2025-11-20
 ---
 
 # Alice (2009)
