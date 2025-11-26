@@ -10,8 +10,10 @@ actors:
   - Simon Greenall
 genre:
   - Animation
-  - Adventure
-  - Comedy
+  - family
+  - adventure
+  - sea
+  - TalkingAnimals
 length: 72
 shelf: watched
 owned: false
