@@ -1,7 +1,7 @@
 ---
 type: movie
 country: China, United Kingdom
-title: Octonauts The Ring of Fire
+title: "Octonauts: The Ring of Fire"
 year: 2021
 director: Blair Simmons, Qin Zhou
 actors:
@@ -10,6 +10,10 @@ actors:
   - Michael Murphy
 genre:
   - Animation
+  - family
+  - adventure
+  - sea
+  - TalkingAnimals
 length: 72
 shelf: watched
 owned: false
