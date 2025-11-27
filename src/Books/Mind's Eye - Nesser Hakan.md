@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Mind's Eye
-subtitle: " "
+subtitle: 
 author:
   - Nesser Hakan
 publisher:
