@@ -17,11 +17,11 @@ page_count:
 isbn:
 description: "In their desperate quest to find the grail, stolen by the forces of the Dark, the Drew children have returned to Trewissick. One night, in a strange ceremony, Jane watches the village women construct the Greenwitch: an ancient offering to the sea. Overcome by the Greenwitch's power, Jane makes a perilous wish - one that will tip the balance in the ongoing struggle between good and evil. The third haunting, magical book in the highly acclaimed _Dark is Rising_ sequence."
 coverUrl: https://upload.wikimedia.org/wikipedia/en/c/ca/Greenwitch.png
-shelf: reading
+shelf: read
 owned: true
 start_date: 2025-10-24
-end_date:
-rating:
+end_date: 2025-11-27
+rating: 3
 recommended_by:
   name:
   url:
@@ -36,12 +36,12 @@ bookshopUrl: https://www.ebooks.com/en-gb/book/211346491/greenwitch/susan-cooper
 
 _The Dark is Rising Sequence 3_
 
-| Shelf | reading |
+| Shelf | read |
 | --- | --- |
 | Genre | JuvenileFiction,fantasy,mythology,UrbanFantasy,folklore,magic,wizards |
 | Started | 2025-10-24T00:00:00.000+01:00 |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2025-11-27T00:00:00.000+00:00 |
+| Rating | 3/5 |
 
 In their desperate quest to find the grail, stolen by the forces of the Dark, the Drew children have returned to Trewissick. One night, in a strange ceremony, Jane watches the village women construct the Greenwitch: an ancient offering to the sea. Overcome by the Greenwitch's power, Jane makes a perilous wish - one that will tip the balance in the ongoing struggle between good and evil.  
   
