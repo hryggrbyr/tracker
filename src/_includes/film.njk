@@ -39,8 +39,9 @@ tags:
  - review
  - entertainment
  - tv
- {%- for tag in tags %}- {{ tag }}{% endfor %}
-description: "One of my sporadic telly reviews"
+ {%- for tag in tags %}- {{ tag }}
+ {% endfor %}
+description: "One of my sporadic film reviews"
 layout: "review"
 rating: "{{ rating or "0" }}"
 ---
