@@ -1,5 +1,12 @@
 ---
-tags: []
+tags:
+  - JuvenileFiction
+  - fantasy
+  - mythology
+  - UrbanFantasy
+  - folklore
+  - magic
+  - wizards
 title: The Grey King
 subtitle: The Dark is Rising Sequence 4
 author:
@@ -10,15 +17,15 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
-shelf: to-read
+shelf: reading
 owned: true
-start_date:
+start_date: 2025-11-27
 end_date:
 rating:
 recommended_by:
   name:
   url:
-created:
+created: 2012-11-27
 reviewUrl:
 bookshopUrl:
 ---
@@ -29,10 +36,10 @@ bookshopUrl:
 
 _The Dark is Rising Sequence 4_
 
-| Shelf | to-read |
+| Shelf | reading |
 | --- | --- |
-| Genre |  |
-| Started |  |
+| Genre | JuvenileFiction,fantasy,mythology,UrbanFantasy,folklore,magic,wizards |
+| Started | 2025-11-27T00:00:00.000+00:00 |
 | Finished |  |
 | Rating | /5 |
 
