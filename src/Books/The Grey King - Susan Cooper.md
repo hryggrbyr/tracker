@@ -16,7 +16,7 @@ published:
 page_count:
 isbn:
 description: ""
-coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
+coverUrl: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390358853i/222576.jpg
 shelf: reading
 owned: true
 start_date: 2025-11-27
@@ -42,4 +42,3 @@ _The Dark is Rising Sequence 4_
 | Started | 2025-11-27T00:00:00.000+00:00 |
 | Finished |  |
 | Rating | /5 |
-

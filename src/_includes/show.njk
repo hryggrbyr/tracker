@@ -1,0 +1,50 @@
+---
+layout: base.njk
+---
+
+<h1>{{ title }} ({{ director }}, {{ year }})</h1>
+
+<div class="grid">
+  <!-- First tab: set to open -->
+  <details class="item" name="alpha" open style="--n: 1;">
+    <summary class="subitem">Meta Data</summary>
+    <div class="details-content">
+      <div class="card">
+        <figure class="card-image"><img src="{{ poster }}"></figure>
+        <div class="card-title flow">
+          <p class="title"><strong>{{ title }}</strong></p>
+          {% if subtitle %}<p class="card-subtitle"></p>{% endif %}
+          <p>Director: {{ director }}</p>
+          <p>Released: {{ year }}</p>
+          <p>Starring: {{ actors | join(', ') }}</p>
+        </div>
+        <div class="card-author" style="padding: 1ch;">
+            {% if rating %}<p>{{ rating }}/5</p>{% endif %}
+            {% if watched %}<p>{{ watched | humanReadableDate }}</p>{% endif %}
+        </div>
+      </div>
+    </div>
+  </details>
+
+  <details class="item" name="alpha" style="--n: 2;">
+    <summary class="subitem">Review YAML</summary>
+    <div class="details-content">
+      <h2>YAML for Review</h2>
+      <pre>
+---
+public: false
+title: "Review {{ title }} {{ director }} {{ year }}"
+date:
+tags:
+ - review
+ - entertainment
+ - tv
+ {%- for tag in tags %}- {{ tag }}{% endfor %}
+description: "One of my sporadic telly reviews"
+layout: "review"
+rating: "{{ rating or "0" }}"
+---
+      </pre>
+    </div>
+  </details>
+</div>

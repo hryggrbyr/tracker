@@ -9,22 +9,27 @@ layout: "base.njk"
     <ul>
     {% for book in Books | reverse %}
         {% if book.frontmatter.shelf == "reading" %}
-        <li><em><strong>&ldquo;{{ book.frontmatter.title }}&rdquo;</strong></em> by <strong>{{ book.frontmatter.author }}</strong></li>
+        {% set slug = book.slug | slugify %}
+        {% set permalink = "books/" ~ slug %}
+        <li><a href="{{ permalink | url }}"><em><strong>&ldquo;{{ book.frontmatter.title }}&rdquo;</strong></em></a> by <strong>{{ book.frontmatter.author }}</strong></li>
         {% endif %}
     {% endfor %}
     </ul>
     <h3>Films</h3>
     <ul>
-
     {% for film in Movies | watched %}
-        <li><em><strong>&ldquo;{{ film.frontmatter.title }}&rdquo;</strong></em> (Dir. <strong>{{ film.frontmatter.director }}</strong>, {{ film.frontmatter.year }})</li>
+    {% set slug = film.slug | slugify %}
+    {% set permalink = "movies/" ~ slug %}
+        <li><a href="{{ permalink | url }}"><em><strong>&ldquo;{{ film.frontmatter.title }}&rdquo;</strong></em></a> (Dir. <strong>{{ film.frontmatter.director }}</strong>, {{ film.frontmatter.year }})</li>
     {% endfor %}
     </ul>
     <h3>Television</h3>
     <ul>
 
     {% for show in Series | watched %}
-        <li><em><strong>&ldquo;{{ show.frontmatter.title }}&rdquo;</strong></em> (Dir. <strong>{{ show.frontmatter.director }}</strong>, {{ show.frontmatter.year }})</li>
+    {% set slug = show.slug | slugify %}
+    {% set permalink = "series/" ~ slug %}
+        <li><a href="{{ permalink | url }}"><em><strong>&ldquo;{{ show.frontmatter.title }}&rdquo;</strong></em></a> (Dir. <strong>{{ show.frontmatter.director }}</strong>, {{ show.frontmatter.year }})</li>
     {% endfor %}
     </ul>
 </section>

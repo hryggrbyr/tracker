@@ -2,7 +2,7 @@
 layout: base.njk
 ---
 
-<h1>{{ title }} ({{ subtitle }}) by {{ author }}</h1>
+<h1>{{ title }}{% if subtitle %} ({{ subtitle }}){% endif %} by {{ author }}</h1>
 
 <div class="grid">
   <!-- First tab: set to open -->
@@ -15,9 +15,12 @@ layout: base.njk
           <p class="title"><strong>{{ title }}</strong></p>
           {% if subtitle %}<p class="card-subtitle"></p>{% endif %}
           <p>{{ author }}</p>
+          <p>Published: {{ published | humanReadableDate }}</p>
+          <p><em>{{ description | truncate(140, true, '…') }}</em></p>
         </div>
-        <div class="card-author">
-          {{ rating }}/5 @ {{ finished_date }}
+        <div class="card-author" style="padding: 1ch;">
+            {% if rating %}<p>{{ rating }}/5</p>{% endif %}
+            {% if end_date %}<p>{{ end_date | humanReadableDate }}</p>{% endif %}
         </div>
       </div>
     </div>
@@ -36,8 +39,7 @@ tags:
   - entertainment
   - books
   - review
-{% for tag in tags %}  - {{ tag }}
-{% endfor %}
+{%- for tag in tags %}  - {{ tag }}{% endfor %}
 description: "One of my sporadic book reviews"
 layout: "book-review"
 hero: "/images/book-review.jpg"

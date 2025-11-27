@@ -179,8 +179,8 @@
       "author": [
         "R. F. Kuang"
       ],
-      "publisher": null,
-      "published": null,
+      "publisher": "Harper Collins",
+      "published": "2023-05-16T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -1547,7 +1547,7 @@
         "Lilja Sigurðardóttir"
       ],
       "publisher": "Orenda Books",
-      "published": "2018-04-14T23:00:00.000Z",
+      "published": "2016-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -2473,10 +2473,10 @@
       "author": [
         "Robert Dinsdale"
       ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
+      "publisher": "Del Rey",
+      "published": "2018-09-20T00:00:00.000Z",
+      "page_count": 480,
+      "isbn": 9781785036354,
       "description": "",
       "coverUrl": "https://covers.openlibrary.org/b/olid/OL30547213M-M.jpg",
       "shelf": "read",
@@ -2886,6 +2886,39 @@
     }
   },
   {
+    "filename": "The Society of Unknowable Objects - Gareth Brown.md",
+    "path": "src/Books/The Society of Unknowable Objects - Gareth Brown.md",
+    "slug": "The Society of Unknowable Objects - Gareth Brown",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "The Society of Unknowable Objects",
+      "subtitle": "The fantastical new adventure from the bestselling author of The Book of Doors",
+      "author": [
+        "Gareth Brown"
+      ],
+      "publisher": "Random House",
+      "published": "2025-08-07T00:00:00.000Z",
+      "page_count": 346,
+      "isbn": 9781529908794,
+      "description": "Get ready to be spellbound by the new, fantastical novel from the Sunday Times bestselling author of fantasy sensation The Book of Doors. The world of unknowable objects - magical items that most people have no idea possess powers - has been quiet for decades . . . But three current members of a secret society have remained watchful, meeting every six months in the basement of a bookshop in London. They are pledged to protect their archive of magical items hidden away, safe from the outside world - and keep the world safe from them. But when Frank Simpson, the longest-standing member of the Society of Unknowable Objects, hears of a new artefact coming to light in Hong Kong, he sends the Society's newest member, author Magda Sparks, to investigate. Within hours of arriving in Hong Kong, Magda is facing death and danger, confronted by a professional killer who seems to know all about unknowable objects, specifically one that was stolen from him a decade before. Magda is forced to flee, using an artefact that not even the rest of the Society knows about. Returning to London, Magda learns hers is not the only secret being kept from the other two members. And that the most pernicious secret is about the nature of the Society’s mission. Her discoveries will lead her on a perilous journey, across the Atlantic to the deep south of the United States - not in pursuit of an unknowable object, but an unknowable person: the killer she first faced in Hong Kong. In doing so, Magda begins to understand that there are even more in the world who are chasing these magical items, and that her own family’s legacy is tied up in keeping all these secrets under wraps. Magic has always been too powerful to reveal to the world. But Magda will learn there might be something even more powerful: the truth. Praise for Gareth Brown's The Book of Doors: 'Joyful, exuberant, and crackling with adventure. This book is as magical as those it celebrates.' STUART TURTON, author of The Seven Deaths of Evelyn Hardcastle 'A stunning fever dream of a story that feels completely real – don't miss this fantastic thriller debut.' LEE CHILD 'A real page-turner - incredibly ambitious and inventive, The Book of Doors is a great read.' ROSIE ANDREWS, author of The Leviathan",
+      "coverUrl": "http://books.google.com/books/content?id=dUMuEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/book/211492517/the-society-of-unknowable-objects/gareth-brown/",
+      "created": "2025-06-19T00:00:00.000Z"
+    }
+  },
+  {
     "filename": "The Snow Song - Sally Gardner.md",
     "path": "src/Books/The Snow Song - Sally Gardner.md",
     "slug": "The Snow Song - Sally Gardner",
@@ -2903,7 +2936,7 @@
         "Sally Gardner"
       ],
       "publisher": null,
-      "published": null,
+      "published": "2021-10-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -5201,44 +5234,6 @@
     }
   },
   {
-    "filename": "The Legend of the Gods - Aaron Hodges.md",
-    "path": "src/Books/The Legend of the Gods - Aaron Hodges.md",
-    "slug": "The Legend of the Gods - Aaron Hodges",
-    "frontmatter": {
-      "tags": [
-        "fantasy",
-        "SwordAndSorcery",
-        "magic",
-        "wizards",
-        "dragons",
-        "war"
-      ],
-      "title": "Dawn of War",
-      "subtitle": "Legend of the Gods 3",
-      "author": [
-        "Aaron Hodges"
-      ],
-      "publisher": null,
-      "published": null,
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL32602020M-M.jpg",
-      "shelf": "read",
-      "owned": true,
-      "start_date": "2025-03-18T00:00:00.000Z",
-      "end_date": "2025-04-18T00:00:00.000Z",
-      "rating": 4,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "created": "2025-04-19T00:00:00.000Z",
-      "reviewUrl": "/posts/book-review-dawn-of-war-aaron-hodges",
-      "bookshopUrl": null
-    }
-  },
-  {
     "filename": "The Legend of Luke - Brian Jacques.md",
     "path": "src/Books/The Legend of Luke - Brian Jacques.md",
     "slug": "The Legend of Luke - Brian Jacques",
@@ -6252,7 +6247,15 @@
     "path": "src/Books/The Grey King - Susan Cooper.md",
     "slug": "The Grey King - Susan Cooper",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "JuvenileFiction",
+        "fantasy",
+        "mythology",
+        "UrbanFantasy",
+        "folklore",
+        "magic",
+        "wizards"
+      ],
       "title": "The Grey King",
       "subtitle": "The Dark is Rising Sequence 4",
       "author": [
@@ -6263,17 +6266,17 @@
       "page_count": null,
       "isbn": null,
       "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-      "shelf": "to-read",
+      "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390358853i/222576.jpg",
+      "shelf": "reading",
       "owned": true,
-      "start_date": null,
+      "start_date": "2025-11-27T00:00:00.000Z",
       "end_date": null,
       "rating": null,
       "recommended_by": {
         "name": null,
         "url": null
       },
-      "created": null,
+      "created": "2012-11-27T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
     }
@@ -7469,7 +7472,7 @@
         "Haruki Murakami"
       ],
       "publisher": null,
-      "published": null,
+      "published": "2023-04-13T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -9127,7 +9130,7 @@
         "Lilja Sigurðardóttir"
       ],
       "publisher": null,
-      "published": null,
+      "published": "2015-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -9581,7 +9584,7 @@
         "Aaron Hodges"
       ],
       "publisher": "Aaron Hodges",
-      "published": 2018,
+      "published": "2018-06-22T00:00:00.000Z",
       "page_count": 285,
       "isbn": 9780995105683,
       "description": "Alana has been captured. She expected an agonizing death to follow, but instead, she now finds herself a guest of the Tsar. Locked away amidst untold wealth and luxury, it isn’t long before she learns the reason she was spared – her entire life has been a lie. Her true identity lurks within, chained by magic, but with promises of untold power. It terrifies her, and yet…she must know the truth. Meanwhile, ex-soldier Devon plans a fresh rebellion in Trola. But after carving his legend in the blood of their people, he’s a marked man. He’ll have to watch his step if he’s to successfully negotiate the shifting tides of the Trolan cause – and not get himself killed in the process. Either way, failure is not an option, because without an uprising, Alana will be lost to him forever… An original epic fantasy book with dragons, gods and magic, packed with action, adventure, swords and sorcery, by New York Times Bestselling Author Aaron Hodges.",
@@ -10591,6 +10594,39 @@
       "created": "2015-11-16T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "Red Queen - Christina Henry.md",
+    "path": "src/Books/Red Queen - Christina Henry.md",
+    "slug": "Red Queen - Christina Henry",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Red Queen",
+      "subtitle": "The Chronicles of Alice 2",
+      "author": [
+        "Christina Henry"
+      ],
+      "publisher": "Penguin",
+      "published": "2016-07-12T00:00:00.000Z",
+      "page_count": 305,
+      "isbn": 9781101618196,
+      "description": "The author of Alice takes readers back down the rabbit hole to a dark, twisted, and fascinating world based on the works of Lewis Carroll... The land outside of the Old City was supposed to be green, lush, hopeful. A place where Alice could finally rest, no longer the plaything of the Rabbit, the pawn of Cheshire, or the prey of the Jabberwocky. But the verdant fields are nothing but ash—and hope is nowhere to be found. Still, Alice and Hatcher are on a mission to find his daughter, a quest they will not forsake even as it takes them deep into the clutches of the mad White Queen and her goblin or into the realm of the twisted and cruel Black King. The pieces are set and the game has already begun. Each move brings Alice closer to her destiny. But, to win, she will need to harness her newfound abilities and ally herself with someone even more powerful—the mysterious and vengeful Red Queen...",
+      "coverUrl": "http://books.google.com/books/content?id=tXvHCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": true,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781101618196",
+      "created": "2025-11-21T06:02:47.000Z"
     }
   },
   {
@@ -11729,7 +11765,7 @@
         "Susan Cooper"
       ],
       "publisher": "Random House",
-      "published": "2024-05-23T00:00:00.000Z",
+      "published": "1965-05-23T00:00:00.000Z",
       "page_count": 228,
       "isbn": 9780241724019,
       "description": "“A perfect coming-of-age story” – The Guardian, praise for The Dark is Rising Three siblings embark on an epic quest for a mythic grail in this first installment of Susan Cooper's award-winning The Dark Is Rising Sequence, now with a brand-new look! All through time, Light and Dark have battled for control of the world. Now, after centuries of balance, the Dark is summoning its terrifying forces to rise once more...and three children find themselves caught in the conflict. The Drew siblings – Simon, Jane, and Barney – are on a family holiday in Cornwall when they discover an ancient map. But, they have no idea how special the map is. Together, the three siblings have to take on a quest. They need to band together and discover the secret weapon that can end the war between Dark and Light. But, will they be able to do it in time? And, will they be able to make it out alive?",
@@ -12075,7 +12111,7 @@
         "Aaron Hodges"
       ],
       "publisher": null,
-      "published": null,
+      "published": "2018-03-18T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -13190,37 +13226,7 @@
     "filename": "Lord Brocktree - Brian Jacques.md",
     "path": "src/Books/Lord Brocktree - Brian Jacques.md",
     "slug": "Lord Brocktree - Brian Jacques",
-    "frontmatter": {
-      "tags": [
-        "fantasy",
-        "TalkingAnimals",
-        "drama",
-        "JuvenileFiction"
-      ],
-      "title": "Lord Brocktree",
-      "subtitle": "Redwall 13",
-      "author": [
-        "Brian Jacques"
-      ],
-      "publisher": "Ace Books",
-      "published": "2000-12-31T00:00:00.000Z",
-      "page_count": null,
-      "isbn": null,
-      "description": "",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-      "shelf": "read",
-      "owned": true,
-      "start_date": null,
-      "end_date": "2000-12-31T00:00:00.000Z",
-      "rating": null,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "created": null,
-      "reviewUrl": null,
-      "bookshopUrl": null
-    }
+    "frontmatter": {}
   },
   {
     "filename": "Looking for Alaska - John Green.md",
@@ -13251,6 +13257,39 @@
       "created": "2016-05-06T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "Looking Glass - Christina Henry.md",
+    "path": "src/Books/Looking Glass - Christina Henry.md",
+    "slug": "Looking Glass - Christina Henry",
+    "frontmatter": {
+      "tags": [
+        "Fiction"
+      ],
+      "title": "Looking Glass",
+      "subtitle": "The Chronicles of Alice 3",
+      "author": [
+        "Christina Henry"
+      ],
+      "publisher": "Titan Books",
+      "published": "2020-04-21T00:00:00.000Z",
+      "page_count": 244,
+      "isbn": 9781789092875,
+      "description": "Collection of four dark novellas set in the Alice series universe. Lovely Creature In the New City lives a girl with a secret: Elizabeth can do magic. But someone knows her secret--someone who has a secret of his own. That secret is a butterfly that lives in a jar, a butterfly that was supposed to be gone forever, a butterfly that used to be called the Jabberwock... Girl in Amber Alice and Hatcher are just looking for a place to rest. Alice has been dreaming of a cottage by a lake and a field of wildflowers, but while walking blind in a snowstorm she stumbles into a house that only seems empty and abandoned... When I First Came to Town Hatcher wasn't always Hatcher. Once, he was a boy called Nicholas, and Nicholas fancied himself the best fighter in the Old City. No matter who fought him he always won. Then his boss tells him he's going to battle the fearsome Grinder, a man who never leaves his opponents alive... The Mercy Seat There is a place hidden in the mountains, where all the people hate and fear magic and Magicians. It is the Village of the Pure, and though Alice and Hatcher would do anything to avoid it, it lies directly in their path...",
+      "coverUrl": "http://books.google.com/books/content?id=I2LdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "to-read",
+      "owned": false,
+      "start_date": null,
+      "end_date": null,
+      "rating": 0,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781789092875",
+      "created": "2025-11-21T06:05:19.000Z"
     }
   },
   {
@@ -13972,7 +14011,7 @@
         "Colin Walsh"
       ],
       "publisher": null,
-      "published": null,
+      "published": "2024-07-04T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -15478,11 +15517,11 @@
       "isbn": null,
       "description": "In their desperate quest to find the grail, stolen by the forces of the Dark, the Drew children have returned to Trewissick. One night, in a strange ceremony, Jane watches the village women construct the Greenwitch: an ancient offering to the sea. Overcome by the Greenwitch's power, Jane makes a perilous wish - one that will tip the balance in the ongoing struggle between good and evil. The third haunting, magical book in the highly acclaimed _Dark is Rising_ sequence.",
       "coverUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Greenwitch.png",
-      "shelf": "reading",
+      "shelf": "read",
       "owned": true,
       "start_date": "2025-10-24T00:00:00.000Z",
-      "end_date": null,
-      "rating": null,
+      "end_date": "2025-11-27T00:00:00.000Z",
+      "rating": 3,
       "recommended_by": {
         "name": null,
         "url": null
@@ -16960,6 +16999,44 @@
     }
   },
   {
+    "filename": "Dawn of War - Aaron Hodges.md",
+    "path": "src/Books/Dawn of War - Aaron Hodges.md",
+    "slug": "Dawn of War - Aaron Hodges",
+    "frontmatter": {
+      "tags": [
+        "fantasy",
+        "SwordAndSorcery",
+        "magic",
+        "wizards",
+        "dragons",
+        "war"
+      ],
+      "title": "Dawn of War",
+      "subtitle": "Legend of the Gods 3",
+      "author": [
+        "Aaron Hodges"
+      ],
+      "publisher": null,
+      "published": "2018-10-04T00:00:00.000Z",
+      "page_count": null,
+      "isbn": null,
+      "description": "",
+      "coverUrl": "https://covers.openlibrary.org/b/olid/OL32602020M-M.jpg",
+      "shelf": "read",
+      "owned": true,
+      "start_date": "2025-03-18T00:00:00.000Z",
+      "end_date": "2025-04-18T00:00:00.000Z",
+      "rating": 4,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "created": "2025-04-19T00:00:00.000Z",
+      "reviewUrl": "/posts/book-review-dawn-of-war-aaron-hodges",
+      "bookshopUrl": null
+    }
+  },
+  {
     "filename": "Darkness - Tanith Lee.md",
     "path": "src/Books/Darkness - Tanith Lee.md",
     "slug": "Darkness - Tanith Lee",
@@ -17042,7 +17119,7 @@
         "Lilja Sigurðardóttir"
       ],
       "publisher": null,
-      "published": null,
+      "published": "2024-10-10T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -17908,7 +17985,7 @@
         "Lilja Sigurðardóttir"
       ],
       "publisher": null,
-      "published": 2019,
+      "published": "2017-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -18308,7 +18385,7 @@
         "Holly Black"
       ],
       "publisher": null,
-      "published": null,
+      "published": "2022-05-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -18674,7 +18751,7 @@
         "Nicholas Binge"
       ],
       "publisher": null,
-      "published": null,
+      "published": "2023-12-31T00:00:00.000Z",
       "page_count": null,
       "isbn": null,
       "description": "",
@@ -19069,7 +19146,7 @@
     "frontmatter": {
       "tags": [],
       "title": "Alice",
-      "subtitle": " ",
+      "subtitle": "The Chronicles of Alice 1",
       "author": [
         "Christina Henry"
       ],
@@ -19080,7 +19157,7 @@
       "description": "",
       "coverUrl": "https://covers.openlibrary.org/b/olid/OL27097554M-M.jpg",
       "shelf": "to-read",
-      "owned": false,
+      "owned": true,
       "start_date": null,
       "end_date": null,
       "rating": null,

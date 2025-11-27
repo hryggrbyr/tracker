@@ -1,6 +1,6 @@
 {
   "Books": {
-    "count": 604,
+    "count": 607,
     "items": [
       {
         "filename": "ecstasy three tales of chemical romance - irvine welsh.md",
@@ -182,8 +182,8 @@
           "author": [
             "R. F. Kuang"
           ],
-          "publisher": null,
-          "published": null,
+          "publisher": "Harper Collins",
+          "published": "2023-05-16T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -1550,7 +1550,7 @@
             "Lilja Sigurðardóttir"
           ],
           "publisher": "Orenda Books",
-          "published": "2018-04-14T23:00:00.000Z",
+          "published": "2016-12-31T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -2476,10 +2476,10 @@
           "author": [
             "Robert Dinsdale"
           ],
-          "publisher": null,
-          "published": null,
-          "page_count": null,
-          "isbn": null,
+          "publisher": "Del Rey",
+          "published": "2018-09-20T00:00:00.000Z",
+          "page_count": 480,
+          "isbn": 9781785036354,
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/OL30547213M-M.jpg",
           "shelf": "read",
@@ -2889,6 +2889,39 @@
         }
       },
       {
+        "filename": "The Society of Unknowable Objects - Gareth Brown.md",
+        "path": "src/Books/The Society of Unknowable Objects - Gareth Brown.md",
+        "slug": "The Society of Unknowable Objects - Gareth Brown",
+        "frontmatter": {
+          "tags": [
+            "Fiction"
+          ],
+          "title": "The Society of Unknowable Objects",
+          "subtitle": "The fantastical new adventure from the bestselling author of The Book of Doors",
+          "author": [
+            "Gareth Brown"
+          ],
+          "publisher": "Random House",
+          "published": "2025-08-07T00:00:00.000Z",
+          "page_count": 346,
+          "isbn": 9781529908794,
+          "description": "Get ready to be spellbound by the new, fantastical novel from the Sunday Times bestselling author of fantasy sensation The Book of Doors. The world of unknowable objects - magical items that most people have no idea possess powers - has been quiet for decades . . . But three current members of a secret society have remained watchful, meeting every six months in the basement of a bookshop in London. They are pledged to protect their archive of magical items hidden away, safe from the outside world - and keep the world safe from them. But when Frank Simpson, the longest-standing member of the Society of Unknowable Objects, hears of a new artefact coming to light in Hong Kong, he sends the Society's newest member, author Magda Sparks, to investigate. Within hours of arriving in Hong Kong, Magda is facing death and danger, confronted by a professional killer who seems to know all about unknowable objects, specifically one that was stolen from him a decade before. Magda is forced to flee, using an artefact that not even the rest of the Society knows about. Returning to London, Magda learns hers is not the only secret being kept from the other two members. And that the most pernicious secret is about the nature of the Society’s mission. Her discoveries will lead her on a perilous journey, across the Atlantic to the deep south of the United States - not in pursuit of an unknowable object, but an unknowable person: the killer she first faced in Hong Kong. In doing so, Magda begins to understand that there are even more in the world who are chasing these magical items, and that her own family’s legacy is tied up in keeping all these secrets under wraps. Magic has always been too powerful to reveal to the world. But Magda will learn there might be something even more powerful: the truth. Praise for Gareth Brown's The Book of Doors: 'Joyful, exuberant, and crackling with adventure. This book is as magical as those it celebrates.' STUART TURTON, author of The Seven Deaths of Evelyn Hardcastle 'A stunning fever dream of a story that feels completely real – don't miss this fantastic thriller debut.' LEE CHILD 'A real page-turner - incredibly ambitious and inventive, The Book of Doors is a great read.' ROSIE ANDREWS, author of The Leviathan",
+          "coverUrl": "http://books.google.com/books/content?id=dUMuEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": false,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/book/211492517/the-society-of-unknowable-objects/gareth-brown/",
+          "created": "2025-06-19T00:00:00.000Z"
+        }
+      },
+      {
         "filename": "The Snow Song - Sally Gardner.md",
         "path": "src/Books/The Snow Song - Sally Gardner.md",
         "slug": "The Snow Song - Sally Gardner",
@@ -2906,7 +2939,7 @@
             "Sally Gardner"
           ],
           "publisher": null,
-          "published": null,
+          "published": "2021-10-31T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -5204,44 +5237,6 @@
         }
       },
       {
-        "filename": "The Legend of the Gods - Aaron Hodges.md",
-        "path": "src/Books/The Legend of the Gods - Aaron Hodges.md",
-        "slug": "The Legend of the Gods - Aaron Hodges",
-        "frontmatter": {
-          "tags": [
-            "fantasy",
-            "SwordAndSorcery",
-            "magic",
-            "wizards",
-            "dragons",
-            "war"
-          ],
-          "title": "Dawn of War",
-          "subtitle": "Legend of the Gods 3",
-          "author": [
-            "Aaron Hodges"
-          ],
-          "publisher": null,
-          "published": null,
-          "page_count": null,
-          "isbn": null,
-          "description": "",
-          "coverUrl": "https://covers.openlibrary.org/b/olid/OL32602020M-M.jpg",
-          "shelf": "read",
-          "owned": true,
-          "start_date": "2025-03-18T00:00:00.000Z",
-          "end_date": "2025-04-18T00:00:00.000Z",
-          "rating": 4,
-          "recommended_by": {
-            "name": null,
-            "url": null
-          },
-          "created": "2025-04-19T00:00:00.000Z",
-          "reviewUrl": "/posts/book-review-dawn-of-war-aaron-hodges",
-          "bookshopUrl": null
-        }
-      },
-      {
         "filename": "The Legend of Luke - Brian Jacques.md",
         "path": "src/Books/The Legend of Luke - Brian Jacques.md",
         "slug": "The Legend of Luke - Brian Jacques",
@@ -6255,7 +6250,15 @@
         "path": "src/Books/The Grey King - Susan Cooper.md",
         "slug": "The Grey King - Susan Cooper",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "JuvenileFiction",
+            "fantasy",
+            "mythology",
+            "UrbanFantasy",
+            "folklore",
+            "magic",
+            "wizards"
+          ],
           "title": "The Grey King",
           "subtitle": "The Dark is Rising Sequence 4",
           "author": [
@@ -6266,17 +6269,17 @@
           "page_count": null,
           "isbn": null,
           "description": "",
-          "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-          "shelf": "to-read",
+          "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390358853i/222576.jpg",
+          "shelf": "reading",
           "owned": true,
-          "start_date": null,
+          "start_date": "2025-11-27T00:00:00.000Z",
           "end_date": null,
           "rating": null,
           "recommended_by": {
             "name": null,
             "url": null
           },
-          "created": null,
+          "created": "2012-11-27T00:00:00.000Z",
           "reviewUrl": null,
           "bookshopUrl": null
         }
@@ -7472,7 +7475,7 @@
             "Haruki Murakami"
           ],
           "publisher": null,
-          "published": null,
+          "published": "2023-04-13T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -9130,7 +9133,7 @@
             "Lilja Sigurðardóttir"
           ],
           "publisher": null,
-          "published": null,
+          "published": "2015-12-31T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -9584,7 +9587,7 @@
             "Aaron Hodges"
           ],
           "publisher": "Aaron Hodges",
-          "published": 2018,
+          "published": "2018-06-22T00:00:00.000Z",
           "page_count": 285,
           "isbn": 9780995105683,
           "description": "Alana has been captured. She expected an agonizing death to follow, but instead, she now finds herself a guest of the Tsar. Locked away amidst untold wealth and luxury, it isn’t long before she learns the reason she was spared – her entire life has been a lie. Her true identity lurks within, chained by magic, but with promises of untold power. It terrifies her, and yet…she must know the truth. Meanwhile, ex-soldier Devon plans a fresh rebellion in Trola. But after carving his legend in the blood of their people, he’s a marked man. He’ll have to watch his step if he’s to successfully negotiate the shifting tides of the Trolan cause – and not get himself killed in the process. Either way, failure is not an option, because without an uprising, Alana will be lost to him forever… An original epic fantasy book with dragons, gods and magic, packed with action, adventure, swords and sorcery, by New York Times Bestselling Author Aaron Hodges.",
@@ -10594,6 +10597,39 @@
           "created": "2015-11-16T00:00:00.000Z",
           "reviewUrl": null,
           "bookshopUrl": null
+        }
+      },
+      {
+        "filename": "Red Queen - Christina Henry.md",
+        "path": "src/Books/Red Queen - Christina Henry.md",
+        "slug": "Red Queen - Christina Henry",
+        "frontmatter": {
+          "tags": [
+            "Fiction"
+          ],
+          "title": "Red Queen",
+          "subtitle": "The Chronicles of Alice 2",
+          "author": [
+            "Christina Henry"
+          ],
+          "publisher": "Penguin",
+          "published": "2016-07-12T00:00:00.000Z",
+          "page_count": 305,
+          "isbn": 9781101618196,
+          "description": "The author of Alice takes readers back down the rabbit hole to a dark, twisted, and fascinating world based on the works of Lewis Carroll... The land outside of the Old City was supposed to be green, lush, hopeful. A place where Alice could finally rest, no longer the plaything of the Rabbit, the pawn of Cheshire, or the prey of the Jabberwocky. But the verdant fields are nothing but ash—and hope is nowhere to be found. Still, Alice and Hatcher are on a mission to find his daughter, a quest they will not forsake even as it takes them deep into the clutches of the mad White Queen and her goblin or into the realm of the twisted and cruel Black King. The pieces are set and the game has already begun. Each move brings Alice closer to her destiny. But, to win, she will need to harness her newfound abilities and ally herself with someone even more powerful—the mysterious and vengeful Red Queen...",
+          "coverUrl": "http://books.google.com/books/content?id=tXvHCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": true,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781101618196",
+          "created": "2025-11-21T06:02:47.000Z"
         }
       },
       {
@@ -11732,7 +11768,7 @@
             "Susan Cooper"
           ],
           "publisher": "Random House",
-          "published": "2024-05-23T00:00:00.000Z",
+          "published": "1965-05-23T00:00:00.000Z",
           "page_count": 228,
           "isbn": 9780241724019,
           "description": "“A perfect coming-of-age story” – The Guardian, praise for The Dark is Rising Three siblings embark on an epic quest for a mythic grail in this first installment of Susan Cooper's award-winning The Dark Is Rising Sequence, now with a brand-new look! All through time, Light and Dark have battled for control of the world. Now, after centuries of balance, the Dark is summoning its terrifying forces to rise once more...and three children find themselves caught in the conflict. The Drew siblings – Simon, Jane, and Barney – are on a family holiday in Cornwall when they discover an ancient map. But, they have no idea how special the map is. Together, the three siblings have to take on a quest. They need to band together and discover the secret weapon that can end the war between Dark and Light. But, will they be able to do it in time? And, will they be able to make it out alive?",
@@ -12078,7 +12114,7 @@
             "Aaron Hodges"
           ],
           "publisher": null,
-          "published": null,
+          "published": "2018-03-18T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -13193,37 +13229,7 @@
         "filename": "Lord Brocktree - Brian Jacques.md",
         "path": "src/Books/Lord Brocktree - Brian Jacques.md",
         "slug": "Lord Brocktree - Brian Jacques",
-        "frontmatter": {
-          "tags": [
-            "fantasy",
-            "TalkingAnimals",
-            "drama",
-            "JuvenileFiction"
-          ],
-          "title": "Lord Brocktree",
-          "subtitle": "Redwall 13",
-          "author": [
-            "Brian Jacques"
-          ],
-          "publisher": "Ace Books",
-          "published": "2000-12-31T00:00:00.000Z",
-          "page_count": null,
-          "isbn": null,
-          "description": "",
-          "coverUrl": "https://covers.openlibrary.org/b/olid/-M.jpg",
-          "shelf": "read",
-          "owned": true,
-          "start_date": null,
-          "end_date": "2000-12-31T00:00:00.000Z",
-          "rating": null,
-          "recommended_by": {
-            "name": null,
-            "url": null
-          },
-          "created": null,
-          "reviewUrl": null,
-          "bookshopUrl": null
-        }
+        "frontmatter": {}
       },
       {
         "filename": "Looking for Alaska - John Green.md",
@@ -13254,6 +13260,39 @@
           "created": "2016-05-06T00:00:00.000Z",
           "reviewUrl": null,
           "bookshopUrl": null
+        }
+      },
+      {
+        "filename": "Looking Glass - Christina Henry.md",
+        "path": "src/Books/Looking Glass - Christina Henry.md",
+        "slug": "Looking Glass - Christina Henry",
+        "frontmatter": {
+          "tags": [
+            "Fiction"
+          ],
+          "title": "Looking Glass",
+          "subtitle": "The Chronicles of Alice 3",
+          "author": [
+            "Christina Henry"
+          ],
+          "publisher": "Titan Books",
+          "published": "2020-04-21T00:00:00.000Z",
+          "page_count": 244,
+          "isbn": 9781789092875,
+          "description": "Collection of four dark novellas set in the Alice series universe. Lovely Creature In the New City lives a girl with a secret: Elizabeth can do magic. But someone knows her secret--someone who has a secret of his own. That secret is a butterfly that lives in a jar, a butterfly that was supposed to be gone forever, a butterfly that used to be called the Jabberwock... Girl in Amber Alice and Hatcher are just looking for a place to rest. Alice has been dreaming of a cottage by a lake and a field of wildflowers, but while walking blind in a snowstorm she stumbles into a house that only seems empty and abandoned... When I First Came to Town Hatcher wasn't always Hatcher. Once, he was a boy called Nicholas, and Nicholas fancied himself the best fighter in the Old City. No matter who fought him he always won. Then his boss tells him he's going to battle the fearsome Grinder, a man who never leaves his opponents alive... The Mercy Seat There is a place hidden in the mountains, where all the people hate and fear magic and Magicians. It is the Village of the Pure, and though Alice and Hatcher would do anything to avoid it, it lies directly in their path...",
+          "coverUrl": "http://books.google.com/books/content?id=I2LdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": false,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781789092875",
+          "created": "2025-11-21T06:05:19.000Z"
         }
       },
       {
@@ -13975,7 +14014,7 @@
             "Colin Walsh"
           ],
           "publisher": null,
-          "published": null,
+          "published": "2024-07-04T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -15481,11 +15520,11 @@
           "isbn": null,
           "description": "In their desperate quest to find the grail, stolen by the forces of the Dark, the Drew children have returned to Trewissick. One night, in a strange ceremony, Jane watches the village women construct the Greenwitch: an ancient offering to the sea. Overcome by the Greenwitch's power, Jane makes a perilous wish - one that will tip the balance in the ongoing struggle between good and evil. The third haunting, magical book in the highly acclaimed _Dark is Rising_ sequence.",
           "coverUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Greenwitch.png",
-          "shelf": "reading",
+          "shelf": "read",
           "owned": true,
           "start_date": "2025-10-24T00:00:00.000Z",
-          "end_date": null,
-          "rating": null,
+          "end_date": "2025-11-27T00:00:00.000Z",
+          "rating": 3,
           "recommended_by": {
             "name": null,
             "url": null
@@ -16963,6 +17002,44 @@
         }
       },
       {
+        "filename": "Dawn of War - Aaron Hodges.md",
+        "path": "src/Books/Dawn of War - Aaron Hodges.md",
+        "slug": "Dawn of War - Aaron Hodges",
+        "frontmatter": {
+          "tags": [
+            "fantasy",
+            "SwordAndSorcery",
+            "magic",
+            "wizards",
+            "dragons",
+            "war"
+          ],
+          "title": "Dawn of War",
+          "subtitle": "Legend of the Gods 3",
+          "author": [
+            "Aaron Hodges"
+          ],
+          "publisher": null,
+          "published": "2018-10-04T00:00:00.000Z",
+          "page_count": null,
+          "isbn": null,
+          "description": "",
+          "coverUrl": "https://covers.openlibrary.org/b/olid/OL32602020M-M.jpg",
+          "shelf": "read",
+          "owned": true,
+          "start_date": "2025-03-18T00:00:00.000Z",
+          "end_date": "2025-04-18T00:00:00.000Z",
+          "rating": 4,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "created": "2025-04-19T00:00:00.000Z",
+          "reviewUrl": "/posts/book-review-dawn-of-war-aaron-hodges",
+          "bookshopUrl": null
+        }
+      },
+      {
         "filename": "Darkness - Tanith Lee.md",
         "path": "src/Books/Darkness - Tanith Lee.md",
         "slug": "Darkness - Tanith Lee",
@@ -17045,7 +17122,7 @@
             "Lilja Sigurðardóttir"
           ],
           "publisher": null,
-          "published": null,
+          "published": "2024-10-10T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -17911,7 +17988,7 @@
             "Lilja Sigurðardóttir"
           ],
           "publisher": null,
-          "published": 2019,
+          "published": "2017-12-31T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -18311,7 +18388,7 @@
             "Holly Black"
           ],
           "publisher": null,
-          "published": null,
+          "published": "2022-05-31T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -18677,7 +18754,7 @@
             "Nicholas Binge"
           ],
           "publisher": null,
-          "published": null,
+          "published": "2023-12-31T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
           "description": "",
@@ -19072,7 +19149,7 @@
         "frontmatter": {
           "tags": [],
           "title": "Alice",
-          "subtitle": " ",
+          "subtitle": "The Chronicles of Alice 1",
           "author": [
             "Christina Henry"
           ],
@@ -19083,7 +19160,7 @@
           "description": "",
           "coverUrl": "https://covers.openlibrary.org/b/olid/OL27097554M-M.jpg",
           "shelf": "to-read",
-          "owned": false,
+          "owned": true,
           "start_date": null,
           "end_date": null,
           "rating": null,
@@ -19979,7 +20056,7 @@
     ]
   },
   "Movies": {
-    "count": 948,
+    "count": 980,
     "items": [
       {
         "filename": "eXistenZ-David Cronenberg-1999.md",
@@ -20152,8 +20229,8 @@
           ],
           "length": "27m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 3,
           "watched": "2024-07-15T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/ko3AtKUsMK27LMJqpyW5uJk4FZh.jpg"
         }
@@ -20182,8 +20259,8 @@
           ],
           "length": "25m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 3,
           "watched": "2024-07-15T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/aow2SrU1nKY1onSTjHhhLW8Ndd6.jpg"
         }
@@ -21063,6 +21140,34 @@
         }
       },
       {
+        "filename": "Wasteland-Rowan Athale-2012.md",
+        "path": "src/Movies/Wasteland-Rowan Athale-2012.md",
+        "slug": "Wasteland-Rowan Athale-2012",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom",
+          "title": "Wasteland",
+          "year": 2012,
+          "director": "Rowan Athale",
+          "actors": [
+            "Iwan Rheon",
+            "Luke Treadaway",
+            "Gerard Kearns"
+          ],
+          "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+          ],
+          "length": 108,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMjE2ODYyNDM5OV5BMl5BanBnXkFtZTcwNDMyODk3OQ@@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "WarGames-John Badham-1983.md",
         "path": "src/Movies/WarGames-John Badham-1983.md",
         "slug": "WarGames-John Badham-1983",
@@ -21147,8 +21252,8 @@
           ],
           "length": "1h 19m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 4,
           "watched": "2024-12-27T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg"
         }
@@ -21182,6 +21287,32 @@
           "rating": null,
           "watched": "2005-10-07T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg"
+        }
+      },
+      {
+        "filename": "Wallace & Gromit A Grand Day Out-Nick Park-1989.md",
+        "path": "src/Movies/Wallace & Gromit A Grand Day Out-Nick Park-1989.md",
+        "slug": "Wallace & Gromit A Grand Day Out-Nick Park-1989",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom",
+          "title": "Wallace & Gromit A Grand Day Out",
+          "year": 1989,
+          "director": "Nick Park",
+          "actors": [
+            "Peter Sallis"
+          ],
+          "genre": [
+            "Animation",
+            "Short",
+            "Adventure"
+          ],
+          "length": 23,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "1989-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNmY3MDYwMDAtMmYwZS00NzZlLWIyMDAtYWYyMGQxZTdkYmJhXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -22328,6 +22459,33 @@
         }
       },
       {
+        "filename": "Thir13en Ghosts-Steve Beck-2001.md",
+        "path": "src/Movies/Thir13en Ghosts-Steve Beck-2001.md",
+        "slug": "Thir13en Ghosts-Steve Beck-2001",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Canada, United States",
+          "title": "Thir13en Ghosts",
+          "year": 2001,
+          "director": "Steve Beck",
+          "actors": [
+            "Tony Shalhoub",
+            "Shannon Elizabeth",
+            "Embeth Davidtz"
+          ],
+          "genre": [
+            "Fantasy",
+            "Horror"
+          ],
+          "length": 91,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "2001-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNmFjMzZkODQtYmEwNS00MzIwLThhNmMtNjRiMmRjNjQ3MzQwXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Thelma the Unicorn-Lynn Wang, Jared Hess-2024.md",
         "path": "src/Movies/Thelma the Unicorn-Lynn Wang, Jared Hess-2024.md",
         "slug": "Thelma the Unicorn-Lynn Wang, Jared Hess-2024",
@@ -22351,7 +22509,7 @@
           ],
           "length": "1h 38m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2024-12-01T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg"
@@ -22386,64 +22544,6 @@
           "rating": null,
           "watched": "1991-05-24T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg"
-        }
-      },
-      {
-        "filename": "The_Woman_in_the_Wall_2023.md",
-        "path": "src/Movies/The_Woman_in_the_Wall_2023.md",
-        "slug": "The_Woman_in_the_Wall_2023",
-        "frontmatter": {
-          "type": "series",
-          "country": "GB",
-          "title": "The Woman in the Wall",
-          "year": 2023,
-          "director": "Unknown",
-          "actors": [
-            "Ruth Wilson",
-            "Daryl McCormack",
-            "Abby Fitz",
-            "Mark Huberman",
-            "Hilda Fay"
-          ],
-          "genre": [
-            "Crime",
-            "Mystery"
-          ],
-          "length": "1 season (6 episodes)",
-          "shelf": "watchlist",
-          "owned": false,
-          "rating": null,
-          "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/tnqCuFq0RNBCdI8Tl3nFD0WLlis.jpg"
-        }
-      },
-      {
-        "filename": "The_White_Princess_2017.md",
-        "path": "src/Movies/The_White_Princess_2017.md",
-        "slug": "The_White_Princess_2017",
-        "frontmatter": {
-          "type": "series",
-          "country": "US",
-          "title": "The White Princess",
-          "year": 2017,
-          "director": "Unknown",
-          "actors": [
-            "Jodie Comer",
-            "Rebecca Benson",
-            "Jacob Collins-Levy",
-            "Kenneth Cranham",
-            "Essie Davis"
-          ],
-          "genre": [
-            "Drama",
-            "War & Politics"
-          ],
-          "length": "1 season (8 episodes)",
-          "shelf": "watchlist",
-          "owned": false,
-          "rating": null,
-          "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/8urYFWrEd8ue94Fm4JpHccQg3M7.jpg"
         }
       },
       {
@@ -22495,13 +22595,15 @@
           ],
           "genre": [
             "Action",
-            "Fantasy"
+            "Fantasy",
+            "Comedy",
+            "Thriller"
           ],
           "length": "1h 34m",
-          "shelf": "watchlist",
-          "owned": false,
-          "rating": null,
-          "watched": null,
+          "shelf": "watched",
+          "owned": true,
+          "rating": 4,
+          "watched": "2025-11-22T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/9pCoqX24a6rE981fY1O3PmhiwrB.jpg"
         }
       },
@@ -22588,7 +22690,7 @@
           ],
           "length": "2h 37m",
           "shelf": "watchlist",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": null,
           "poster": "https://image.tmdb.org/t/p/w500/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg"
@@ -22704,7 +22806,7 @@
           ],
           "length": "30m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2024-01-01T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg"
@@ -22769,6 +22871,34 @@
           "rating": null,
           "watched": "2004-12-24T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/4fDgLcc35A0IpxhMyJMP33bSDXj.jpg"
+        }
+      },
+      {
+        "filename": "The Wonderful Wizard of Oz-Otis Turner-1910.md",
+        "path": "src/Movies/The Wonderful Wizard of Oz-Otis Turner-1910.md",
+        "slug": "The Wonderful Wizard of Oz-Otis Turner-1910",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "The Wonderful Wizard of Oz",
+          "year": 1910,
+          "director": "Otis Turner",
+          "actors": [
+            "Bebe Daniels",
+            "Hobart Bosworth",
+            "Eugenie Besserer"
+          ],
+          "genre": [
+            "Adventure",
+            "Fantasy",
+            "Short"
+          ],
+          "length": 13,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYzc4YjYxNzEtZjJhNi00ZWRjLTk1MDgtMjMwY2U5MTc3ZDdhXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SX300.jpg"
         }
       },
       {
@@ -23000,6 +23130,34 @@
           "rating": null,
           "watched": "1998-11-06T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg"
+        }
+      },
+      {
+        "filename": "The Warriors-Walter Hill-1979.md",
+        "path": "src/Movies/The Warriors-Walter Hill-1979.md",
+        "slug": "The Warriors-Walter Hill-1979",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "The Warriors",
+          "year": 1979,
+          "director": "Walter Hill",
+          "actors": [
+            "Michael Beck",
+            "James Remar",
+            "Dorsey Wright"
+          ],
+          "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+          ],
+          "length": 93,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjAzNTNlMTgtYzdlYi00NGViLWIwNzUtNjc3MDg1ZTAxNjc3XkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -23679,7 +23837,7 @@
           ],
           "length": 94,
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": 4,
           "watched": "2025-10-15T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@._V1_SX300.jpg"
@@ -24117,7 +24275,7 @@
           ],
           "length": "1h 39m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "1987-09-25T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg"
@@ -24507,6 +24665,62 @@
         }
       },
       {
+        "filename": "The Mortal Instruments City of Bones-Harald Zwart-2013.md",
+        "path": "src/Movies/The Mortal Instruments City of Bones-Harald Zwart-2013.md",
+        "slug": "The Mortal Instruments City of Bones-Harald Zwart-2013",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States, Germany, Canada, United Kingdom",
+          "title": "The Mortal Instruments: City of Bones",
+          "year": 2013,
+          "director": "Harald Zwart",
+          "actors": [
+            "Lily Collins",
+            "Jamie Campbell Bower",
+            "Robert Sheehan"
+          ],
+          "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "length": 130,
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NzAyOTQyNF5BMl5BanBnXkFtZTcwNzQ1MDc4OQ@@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "The Mitchells vs. the Machines-Michael Rianda, Jeff Rowe-2021.md",
+        "path": "src/Movies/The Mitchells vs. the Machines-Michael Rianda, Jeff Rowe-2021.md",
+        "slug": "The Mitchells vs. the Machines-Michael Rianda, Jeff Rowe-2021",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Hong Kong, Canada, United States",
+          "title": "The Mitchells vs. the Machines",
+          "year": 2021,
+          "director": "Michael Rianda, Jeff Rowe",
+          "actors": [
+            "Abbi Jacobson",
+            "Danny McBride",
+            "Maya Rudolph"
+          ],
+          "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "length": 114,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "2025-11-16T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzAyOWNiMjAtNWUzMi00ZDk1LWE5NzYtNDUzMWE1Y2M0NDM2XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "The Merry Gentlemen-Peter Sullivan-2024.md",
         "path": "src/Movies/The Merry Gentlemen-Peter Sullivan-2024.md",
         "slug": "The Merry Gentlemen-Peter Sullivan-2024",
@@ -24655,6 +24869,34 @@
           "rating": null,
           "watched": "2015-10-02T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg"
+        }
+      },
+      {
+        "filename": "The Marine-John Bonito-2006.md",
+        "path": "src/Movies/The Marine-John Bonito-2006.md",
+        "slug": "The Marine-John Bonito-2006",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "The Marine",
+          "year": 2006,
+          "director": "John Bonito",
+          "actors": [
+            "John Cena",
+            "Kelly Carlson",
+            "Robert Patrick"
+          ],
+          "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+          ],
+          "length": 92,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "2006-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTU4NjQwMl5BMl5BanBnXkFtZTcwODI1ODYzMQ@@._V1_SX300.jpg"
         }
       },
       {
@@ -25209,9 +25451,9 @@
           ],
           "length": "1h 35m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
-          "watched": "2002-01-10T00:00:00.000Z",
+          "watched": "2014-01-10T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/9Aj4DdvSZp7XRpIVbBXN3EccDwX.jpg"
         }
       },
@@ -25920,8 +26162,8 @@
           ],
           "length": "25m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 3,
           "watched": "2024-06-15T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/dxNKtY0e5pm6BFCdDMP3riRVBTb.jpg"
         }
@@ -27116,6 +27358,34 @@
         }
       },
       {
+        "filename": "The Commitments-Alan Parker-1991.md",
+        "path": "src/Movies/The Commitments-Alan Parker-1991.md",
+        "slug": "The Commitments-Alan Parker-1991",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Ireland, United Kingdom, United States",
+          "title": "The Commitments",
+          "year": 1991,
+          "director": "Alan Parker",
+          "actors": [
+            "Robert Arkins",
+            "Michael Aherne",
+            "Angeline Ball"
+          ],
+          "genre": [
+            "Comedy",
+            "Drama",
+            "Music"
+          ],
+          "length": 118,
+          "shelf": "watched",
+          "owned": true,
+          "rating": 5,
+          "watched": "2017-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BM2Y0NGI0NDctYTEwOS00OTliLThhNDktZGMyMDg4ZTI0NWI0XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "The Cloverfield Paradox-Julius Onah-2018.md",
         "path": "src/Movies/The Cloverfield Paradox-Julius Onah-2018.md",
         "slug": "The Cloverfield Paradox-Julius Onah-2018",
@@ -27351,9 +27621,9 @@
           ],
           "length": "1h 15m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
-          "watched": "2002-07-19T00:00:00.000Z",
+          "owned": true,
+          "rating": 4,
+          "watched": "2025-11-20T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg"
         }
       },
@@ -28420,6 +28690,34 @@
         }
       },
       {
+        "filename": "Sucker Punch-Zack Snyder-2011.md",
+        "path": "src/Movies/Sucker Punch-Zack Snyder-2011.md",
+        "slug": "Sucker Punch-Zack Snyder-2011",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States, Canada",
+          "title": "Sucker Punch",
+          "year": 2011,
+          "director": "Zack Snyder",
+          "actors": [
+            "Emily Browning",
+            "Vanessa Hudgens",
+            "Abbie Cornish"
+          ],
+          "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "length": 110,
+          "shelf": "watched",
+          "owned": true,
+          "rating": 5,
+          "watched": "2011-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDE1YWZiMzItZGEzOC00MTYyLWFiYWYtNGNlMmM0ZjAxM2RmXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Straw Dogs-Sam Peckinpah-1971.md",
         "path": "src/Movies/Straw Dogs-Sam Peckinpah-1971.md",
         "slug": "Straw Dogs-Sam Peckinpah-1971",
@@ -28591,36 +28889,6 @@
           "rating": null,
           "watched": "2007-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_SX300.jpg"
-        }
-      },
-      {
-        "filename": "Star Wars-George Lucas-1977.md",
-        "path": "src/Movies/Star Wars-George Lucas-1977.md",
-        "slug": "Star Wars-George Lucas-1977",
-        "frontmatter": {
-          "type": "movie",
-          "country": "US",
-          "title": "Star Wars",
-          "year": 1977,
-          "director": "George Lucas",
-          "actors": [
-            "Mark Hamill",
-            "Harrison Ford",
-            "Carrie Fisher",
-            "Peter Cushing",
-            "Alec Guinness"
-          ],
-          "genre": [
-            "Adventure",
-            "Action",
-            "Science Fiction"
-          ],
-          "length": "2h 1m",
-          "shelf": "watched",
-          "owned": false,
-          "rating": null,
-          "watched": "1999-01-29T00:00:00.000Z",
-          "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
         }
       },
       {
@@ -28880,6 +29148,34 @@
         }
       },
       {
+        "filename": "Spooky Buddies-Robert Vince-2011.md",
+        "path": "src/Movies/Spooky Buddies-Robert Vince-2011.md",
+        "slug": "Spooky Buddies-Robert Vince-2011",
+        "frontmatter": {
+          "type": "movie",
+          "country": "USA, Canada",
+          "title": "Spooky Buddies",
+          "year": 2011,
+          "director": "Robert Vince",
+          "actors": [
+            "Tucker Albrizzi",
+            "Diedrich Bader",
+            "Ameko Eks Mass Carroll",
+            "Max Charles"
+          ],
+          "genre": [
+            "Family",
+            "Fantasy"
+          ],
+          "length": 88,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "2025-10-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzkyNjM3MV5BMl5BanBnXkFtZTcwNTY4NzgxNQ@@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Splash-Ron Howard-1984.md",
         "path": "src/Movies/Splash-Ron Howard-1984.md",
         "slug": "Splash-Ron Howard-1984",
@@ -28933,8 +29229,8 @@
           ],
           "length": "2h 5m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 4,
           "watched": "2001-01-29T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
         }
@@ -29272,6 +29568,36 @@
         }
       },
       {
+        "filename": "Space Buddies-Robert Vince-2009.md",
+        "path": "src/Movies/Space Buddies-Robert Vince-2009.md",
+        "slug": "Space Buddies-Robert Vince-2009",
+        "frontmatter": {
+          "type": "movie",
+          "country": "USA, Canada",
+          "title": "Space Buddies",
+          "year": 2009,
+          "director": "Robert Vince",
+          "actors": [
+            "F.T. Anderson",
+            "Diedrich Bader",
+            "Field Cate",
+            "Kendall Cross"
+          ],
+          "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "length": 84,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "2025-09-30T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTMyMDYyODI2NF5BMl5BanBnXkFtZTcwMjg3OTQyMg@@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "South Park- Bigger, Longer & Uncut-Trey Parker-1999.md",
         "path": "src/Movies/South Park- Bigger, Longer & Uncut-Trey Parker-1999.md",
         "slug": "South Park- Bigger, Longer & Uncut-Trey Parker-1999",
@@ -29599,6 +29925,34 @@
         }
       },
       {
+        "filename": "Singles-Cameron Crowe-1992.md",
+        "path": "src/Movies/Singles-Cameron Crowe-1992.md",
+        "slug": "Singles-Cameron Crowe-1992",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Singles",
+          "year": 1992,
+          "director": "Cameron Crowe",
+          "actors": [
+            "Bridget Fonda",
+            "Campbell Scott",
+            "Kyra Sedgwick"
+          ],
+          "genre": [
+            "Comedy",
+            "Drama",
+            "Music"
+          ],
+          "length": 99,
+          "shelf": "watched",
+          "owned": false,
+          "rating": 3,
+          "watched": "1992-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjhhZDYwYjAtMTZjZi00YjUyLTg5NmEtZjFiZmM2NDkzMzZjXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Sing-Garth Jennings-2016.md",
         "path": "src/Movies/Sing-Garth Jennings-2016.md",
         "slug": "Sing-Garth Jennings-2016",
@@ -29623,10 +29977,38 @@
           ],
           "length": "1h 47m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 3,
           "watched": "2024-12-08T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg"
+        }
+      },
+      {
+        "filename": "Sing 2-Garth Jennings, Christophe Lourdelet-2021.md",
+        "path": "src/Movies/Sing 2-Garth Jennings, Christophe Lourdelet-2021.md",
+        "slug": "Sing 2-Garth Jennings, Christophe Lourdelet-2021",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Japan, United States",
+          "title": "Sing 2",
+          "year": 2021,
+          "director": "Garth Jennings, Christophe Lourdelet",
+          "actors": [
+            "Tori Kelly",
+            "Reese Witherspoon",
+            "Taron Egerton"
+          ],
+          "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "length": 110,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzZkZmMzNzItYzBhOS00ZGEwLWFiNWYtMWRjNzM4MjRjZTRjXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -29708,7 +30090,7 @@
           ],
           "length": "2h 5m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2006-04-21T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/r0bEDWO2w4a43K2xTNSF284qOsc.jpg"
@@ -30037,7 +30419,7 @@
           ],
           "length": "1h 33m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "1995-01-06T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg"
@@ -30216,6 +30598,31 @@
           "rating": 7,
           "watched": "2025-10-04T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMzFmMTAwNjQtMTcwMC00Nzg4LTg2MzMtNGU3ZGEzYWRlMGU1XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "Sea Wall-Andrew Porter, Simon Stephens-2012.md",
+        "path": "src/Movies/Sea Wall-Andrew Porter, Simon Stephens-2012.md",
+        "slug": "Sea Wall-Andrew Porter, Simon Stephens-2012",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom",
+          "title": "Sea Wall",
+          "year": 2012,
+          "director": "Andrew Porter, Simon Stephens",
+          "actors": [
+            "Andrew Scott"
+          ],
+          "genre": [
+            "Short",
+            "Drama"
+          ],
+          "length": 33,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "2012-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMTA1NDEtYTBhOC00ODlhLWFiY2EtM2QyYjkxZDg3N2U0XkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -31005,8 +31412,8 @@
           ],
           "length": "25m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 4,
           "watched": "2024-08-10T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/9qAL19JR0oJ7ZlVpUE1Os2P6XXp.jpg"
         }
@@ -31774,6 +32181,32 @@
         }
       },
       {
+        "filename": "Project Nim-James Marsh-2011.md",
+        "path": "src/Movies/Project Nim-James Marsh-2011.md",
+        "slug": "Project Nim-James Marsh-2011",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom, United States",
+          "title": "Project Nim",
+          "year": 2011,
+          "director": "James Marsh",
+          "actors": [
+            "Nim Chimpsky",
+            "Stephanie LaFarge",
+            "Herbert Terrace"
+          ],
+          "genre": [
+            "Documentary"
+          ],
+          "length": 93,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNjc1NTIzMV5BMl5BanBnXkFtZTcwMzY2MDI2NQ@@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Prisoners-Denis Villeneuve-2013.md",
         "path": "src/Movies/Prisoners-Denis Villeneuve-2013.md",
         "slug": "Prisoners-Denis Villeneuve-2013",
@@ -31827,8 +32260,8 @@
           ],
           "length": "2h 14m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 3,
           "watched": "1997-07-12T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg"
         }
@@ -32038,7 +32471,7 @@
           ],
           "length": "1h 40m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": 4,
           "watched": "2025-11-03T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/yp8vEZflGynlEylxEesbYasc06i.jpg"
@@ -32581,10 +33014,38 @@
           ],
           "length": 84,
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
-          "watched": "1974-12-31T00:00:00.000Z",
+          "watched": "1995-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BNDI5ZTExZjgtODY3MS00ZmU1LTlmMGQtOTE5YTkxN2Q4N2E0XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "Pets United-Reinhard Klooss-2019.md",
+        "path": "src/Movies/Pets United-Reinhard Klooss-2019.md",
+        "slug": "Pets United-Reinhard Klooss-2019",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Germany, China, United Kingdom",
+          "title": "Pets United",
+          "year": 2019,
+          "director": "Reinhard Klooss",
+          "actors": [
+            "Patrick Roche",
+            "Natalie Dormer",
+            "Felix Auer"
+          ],
+          "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "length": 89,
+          "shelf": "watched",
+          "owned": false,
+          "rating": 2,
+          "watched": "2025-11-24T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYTg1YTQwYWEtOWE4NS00ZDFiLWE5NjUtM2FjMjVkYWIzMTQxXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -33406,6 +33867,94 @@
         }
       },
       {
+        "filename": "Octonauts and the Caves of Sac Actun-Blair Simmons-2020.md",
+        "path": "src/Movies/Octonauts and the Caves of Sac Actun-Blair Simmons-2020.md",
+        "slug": "Octonauts and the Caves of Sac Actun-Blair Simmons-2020",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom, United States, Canada",
+          "title": "Octonauts and the Caves of Sac Actun",
+          "year": 2020,
+          "director": "Blair Simmons",
+          "actors": [
+            "Teresa Gallagher",
+            "Wayne Grayson",
+            "Simon Greenall"
+          ],
+          "genre": [
+            "Animation",
+            "family",
+            "adventure",
+            "sea",
+            "TalkingAnimals"
+          ],
+          "length": 72,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2025-11-25T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYmZmMGI0YzAtYTM5Zi00MzM1LThkODYtZDI3Y2FkZDQ1NTQxXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "Octonauts The Ring of Fire-Blair Simmons, Qin Zhou-2021.md",
+        "path": "src/Movies/Octonauts The Ring of Fire-Blair Simmons, Qin Zhou-2021.md",
+        "slug": "Octonauts The Ring of Fire-Blair Simmons, Qin Zhou-2021",
+        "frontmatter": {
+          "type": "movie",
+          "country": "China, United Kingdom",
+          "title": "Octonauts: The Ring of Fire",
+          "year": 2021,
+          "director": "Blair Simmons, Qin Zhou",
+          "actors": [
+            "Teresa Gallagher",
+            "Simon Greenall",
+            "Michael Murphy"
+          ],
+          "genre": [
+            "Animation",
+            "family",
+            "adventure",
+            "sea",
+            "TalkingAnimals"
+          ],
+          "length": 72,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2025-11-26T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDg2OGU5NTYtZjJhNi00OWRjLWE1OGUtODIxYjBkOTc1ODg1XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "Octonauts & the Great Barrier Reef-Blair Simmons-2020.md",
+        "path": "src/Movies/Octonauts & the Great Barrier Reef-Blair Simmons-2020.md",
+        "slug": "Octonauts & the Great Barrier Reef-Blair Simmons-2020",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom",
+          "title": "Octonauts & the Great Barrier Reef",
+          "year": 2020,
+          "director": "Blair Simmons",
+          "actors": [
+            "Paul Buckley",
+            "Simon Foster",
+            "Teresa Gallagher"
+          ],
+          "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "length": 47,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2025-11-26T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMmQ3Mjc5NmItN2VhMy00YTQzLWFhN2ItYjNjNjc3OGZjNDY1XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "O Brother, Where Art Thou--Joel Coen-2000.md",
         "path": "src/Movies/O Brother, Where Art Thou--Joel Coen-2000.md",
         "slug": "O Brother, Where Art Thou--Joel Coen-2000",
@@ -33611,6 +34160,34 @@
         }
       },
       {
+        "filename": "Nimona-Nick Bruno, Troy Quane-2023.md",
+        "path": "src/Movies/Nimona-Nick Bruno, Troy Quane-2023.md",
+        "slug": "Nimona-Nick Bruno, Troy Quane-2023",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States, United Kingdom, France",
+          "title": "Nimona",
+          "year": 2023,
+          "director": "Nick Bruno, Troy Quane",
+          "actors": [
+            "Chloë Grace Moretz",
+            "Riz Ahmed",
+            "Eugene Lee Yang"
+          ],
+          "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "length": 101,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMmY0MWYtZGRkMC00MjhhLTgwNGUtYWVjZmQ4YjhjZWRmXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Nightcrawler-Dan Gilroy-2014.md",
         "path": "src/Movies/Nightcrawler-Dan Gilroy-2014.md",
         "slug": "Nightcrawler-Dan Gilroy-2014",
@@ -33779,8 +34356,8 @@
           ],
           "length": 117,
           "shelf": "watched",
-          "owned": false,
-          "rating": 6,
+          "owned": true,
+          "rating": 3,
           "watched": "2025-10-20T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BODBhMTI3YzMtNTRjYS00OTFkLWJmODUtNjJiNzcwYTVkNDhiXkEyXkFqcGc@._V1_SX300.jpg"
         }
@@ -33813,6 +34390,34 @@
           "rating": null,
           "watched": "1994-08-25T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg"
+        }
+      },
+      {
+        "filename": "National Velvet-Clarence Brown-1944.md",
+        "path": "src/Movies/National Velvet-Clarence Brown-1944.md",
+        "slug": "National Velvet-Clarence Brown-1944",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "National Velvet",
+          "year": 1944,
+          "director": "Clarence Brown",
+          "actors": [
+            "Mickey Rooney",
+            "Elizabeth Taylor",
+            "Donald Crisp"
+          ],
+          "genre": [
+            "Drama",
+            "Family",
+            "Sport"
+          ],
+          "length": 123,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "2013-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNWY0MGFkMzItNjc5MS00ZjhmLThlY2UtMWRiNjkxZTJjNjA2XkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -33983,7 +34588,7 @@
           ],
           "length": "1h 26m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "1988-04-16T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg"
@@ -35303,8 +35908,8 @@
           ],
           "length": "1h 26m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 2,
           "watched": "2024-12-01T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg"
         }
@@ -35546,6 +36151,32 @@
           "rating": null,
           "watched": "2003-12-03T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg"
+        }
+      },
+      {
+        "filename": "Louis Theroux The Settlers-Joshua Baker-2025.md",
+        "path": "src/Movies/Louis Theroux The Settlers-Joshua Baker-2025.md",
+        "slug": "Louis Theroux The Settlers-Joshua Baker-2025",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom",
+          "title": "Louis Theroux The Settlers",
+          "year": 2025,
+          "director": "Joshua Baker",
+          "actors": [
+            "Louis Theroux",
+            "Matan Cohen",
+            "Ari Abramowitz"
+          ],
+          "genre": [
+            "Documentary"
+          ],
+          "length": 62,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMjBiMzU1NGItNzA0YS00MzY1LThkOGMtMDI5NzFkOWZkNzFhXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -36393,7 +37024,7 @@
           ],
           "length": "1h 43m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "1989-07-29T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg"
@@ -36714,7 +37345,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZDJmMjBiYTItOGUwMC00M2U2LWI3NTMtMDkzYTgzZGUzODAyXkEyXkFqcGc@._V1_SX300.jpg"
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDJmMjBiYTItOGUwMC00M2U2LWI3NTMtMDkzYTgzZGUzODAyXkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2021-12-31T00:00:00.000Z"
         }
       },
       {
@@ -36861,7 +37493,37 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNDY5MDk2YmEtMWYxYy00Nzc2LTgzZmItMGYxMjk0NTI1MTczXkEyXkFqcGc@._V1_SX300.jpg"
+          "poster": "https://m.media-amazon.com/images/M/MV5BNDY5MDk2YmEtMWYxYy00Nzc2LTgzZmItMGYxMjk0NTI1MTczXkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2020-12-31T00:00:00.000Z"
+        }
+      },
+      {
+        "filename": "Jingle Jangle A Christmas Journey-David E. Talbert-2020.md",
+        "path": "src/Movies/Jingle Jangle A Christmas Journey-David E. Talbert-2020.md",
+        "slug": "Jingle Jangle A Christmas Journey-David E. Talbert-2020",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Jingle Jangle: A Christmas Journey",
+          "year": 2020,
+          "director": "David E. Talbert",
+          "actors": [
+            "Forest Whitaker",
+            "Keegan-Michael Key",
+            "Hugh Bonneville"
+          ],
+          "genre": [
+            "Family",
+            "Fantasy",
+            "Musical",
+            "Christmas"
+          ],
+          "length": 122,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2025-11-24T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZmI4MDQ0ZDQtMTRhOC00ZDU4LTg5MTItZTZmOTU4ZDE1YTUzXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -37011,7 +37673,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/m3OwT2vQ468E6b05pNCcCKY0Q7u.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/m3OwT2vQ468E6b05pNCcCKY0Q7u.jpg",
+          "created": "2024-12-31T00:00:00.000Z"
         }
       },
       {
@@ -37221,6 +37884,34 @@
           "rating": null,
           "watched": "2014-01-29T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+        }
+      },
+      {
+        "filename": "International Velvet-Bryan Forbes-1978.md",
+        "path": "src/Movies/International Velvet-Bryan Forbes-1978.md",
+        "slug": "International Velvet-Bryan Forbes-1978",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "International Velvet",
+          "year": 1978,
+          "director": "Bryan Forbes",
+          "actors": [
+            "Tatum O'Neal",
+            "Christopher Plummer",
+            "Anthony Hopkins"
+          ],
+          "genre": [
+            "Drama",
+            "Family",
+            "Sport"
+          ],
+          "length": 127,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "2013-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOGVkYjhiZDEtNjU3My00OGZhLTllNTQtMDE4NGQ4Mzc1ZWVkXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg"
         }
       },
       {
@@ -37573,7 +38264,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+          "created": "2025-08-25T00:00:00.000Z"
         }
       },
       {
@@ -37751,7 +38443,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://m.media-amazon.com/images/M/MV5BODBhNTFiYzAtYWUzMy00YjZjLWEzMDItNzQyNDUyZjdiMjZhXkEyXkFqcGc@._V1_SX300.jpg"
+          "poster": "https://m.media-amazon.com/images/M/MV5BODBhNTFiYzAtYWUzMy00YjZjLWEzMDItNzQyNDUyZjdiMjZhXkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2025-04-28T00:00:00.000Z"
         }
       },
       {
@@ -37808,7 +38501,7 @@
           ],
           "length": "1h 59m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2004-11-19T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/TkTPELv4kC3u1lkloush8skOjE.jpg"
@@ -38192,7 +38885,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/s47TOnvnwfSnAflQvsBxJbOLnmP.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/s47TOnvnwfSnAflQvsBxJbOLnmP.jpg",
+          "created": "2018-12-31T00:00:00.000Z"
         }
       },
       {
@@ -39114,6 +39808,35 @@
         }
       },
       {
+        "filename": "Grave of the Fireflies-Isao Takahata-1988.md",
+        "path": "src/Movies/Grave of the Fireflies-Isao Takahata-1988.md",
+        "slug": "Grave of the Fireflies-Isao Takahata-1988",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Japan",
+          "title": "Grave of the Fireflies",
+          "year": 1988,
+          "director": "Isao Takahata",
+          "actors": [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Akemi Yamaguchi"
+          ],
+          "genre": [
+            "Animation",
+            "Drama",
+            "War"
+          ],
+          "length": 88,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2025-11-18T00:00:00.000Z"
+        }
+      },
+      {
         "filename": "Gosford Park-Robert Altman-2001.md",
         "path": "src/Movies/Gosford Park-Robert Altman-2001.md",
         "slug": "Gosford Park-Robert Altman-2001",
@@ -39349,6 +40072,32 @@
         }
       },
       {
+        "filename": "Going Clear Scientology & the Prison of Belief-Alex Gibney-2015.md",
+        "path": "src/Movies/Going Clear Scientology & the Prison of Belief-Alex Gibney-2015.md",
+        "slug": "Going Clear Scientology & the Prison of Belief-Alex Gibney-2015",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Going Clear Scientology & the Prison of Belief",
+          "year": 2015,
+          "director": "Alex Gibney",
+          "actors": [
+            "Paul Haggis",
+            "Jason Beghe",
+            "Spanky Taylor"
+          ],
+          "genre": [
+            "Documentary"
+          ],
+          "length": 119,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "2015-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZjY4NmM1YTgtMzVlZi00YTA3LTg5MGQtMDllNGU0OWUxZTdkXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Gladiator-Ridley Scott-2000.md",
         "path": "src/Movies/Gladiator-Ridley Scott-2000.md",
         "slug": "Gladiator-Ridley Scott-2000",
@@ -39433,6 +40182,89 @@
           "rating": null,
           "watched": "2019-10-25T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/gm5JXIMPxRMFNeEtzso3VUDXQSs.jpg"
+        }
+      },
+      {
+        "filename": "Ginger Snaps-John Fawcett-2000.md",
+        "path": "src/Movies/Ginger Snaps-John Fawcett-2000.md",
+        "slug": "Ginger Snaps-John Fawcett-2000",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Canada",
+          "title": "Ginger Snaps",
+          "year": 2000,
+          "director": "John Fawcett",
+          "actors": [
+            "Emily Perkins",
+            "Katharine Isabelle",
+            "Kris Lemche"
+          ],
+          "genre": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+          ],
+          "length": 108,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2000-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYWVhNDMxOTUtNmMxOC00YmNiLWIxYjMtMDRmZDVkODAyZGU5XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "Ginger Snaps Back The Beginning-Grant Harvey-2004.md",
+        "path": "src/Movies/Ginger Snaps Back The Beginning-Grant Harvey-2004.md",
+        "slug": "Ginger Snaps Back The Beginning-Grant Harvey-2004",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Canada",
+          "title": "Ginger Snaps Back The Beginning",
+          "year": 2004,
+          "director": "Grant Harvey",
+          "actors": [
+            "Katharine Isabelle",
+            "Emily Perkins",
+            "Nathaniel Arcand"
+          ],
+          "genre": [
+            "Drama",
+            "Horror",
+            "Thriller"
+          ],
+          "length": 94,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2004-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NTg3OTI4N15BMl5BanBnXkFtZTcwNDAxNDYwNQ@@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "Ginger Snaps 2 Unleashed-Brett Sullivan-2004.md",
+        "path": "src/Movies/Ginger Snaps 2 Unleashed-Brett Sullivan-2004.md",
+        "slug": "Ginger Snaps 2 Unleashed-Brett Sullivan-2004",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Canada",
+          "title": "Ginger Snaps 2 Unleashed",
+          "year": 2004,
+          "director": "Brett Sullivan",
+          "actors": [
+            "Emily Perkins",
+            "Brendan Fletcher",
+            "Katharine Isabelle"
+          ],
+          "genre": [
+            "Horror",
+            "Thriller"
+          ],
+          "length": 94,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2004-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTgxNjI0MzQzOF5BMl5BanBnXkFtZTYwOTA3NDY3._V1_SX300.jpg"
         }
       },
       {
@@ -40196,7 +41028,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/imKSymKBK7o73sajciEmndJoVkR.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/imKSymKBK7o73sajciEmndJoVkR.jpg",
+          "created": "2024-12-31T00:00:00.000Z"
         }
       },
       {
@@ -40492,6 +41325,33 @@
           "rating": null,
           "watched": "1992-04-10T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/xkJxdeaibcrcsi1XHvT0IuOjdzB.jpg"
+        }
+      },
+      {
+        "filename": "Fear-James Foley-1996.md",
+        "path": "src/Movies/Fear-James Foley-1996.md",
+        "slug": "Fear-James Foley-1996",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States, Canada",
+          "title": "Fear",
+          "year": 1996,
+          "director": "James Foley",
+          "actors": [
+            "Mark Wahlberg",
+            "Reese Witherspoon",
+            "William Petersen"
+          ],
+          "genre": [
+            "Drama",
+            "Thriller"
+          ],
+          "length": 97,
+          "shelf": "watched",
+          "owned": true,
+          "rating": null,
+          "watched": "1996-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMmNiNDEyYjUtN2YzYi00MTBlLWIzNzYtOGM2YWUzNTY4ZDNlXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -40903,7 +41763,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzYwMTE3NV5BMl5BanBnXkFtZTcwMDY2NzU4Ng@@._V1_SX300.jpg"
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzYwMTE3NV5BMl5BanBnXkFtZTcwMDY2NzU4Ng@@._V1_SX300.jpg",
+          "created": "2011-12-31T00:00:00.000Z"
         }
       },
       {
@@ -41287,7 +42148,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://m.media-amazon.com/images/M/MV5BN2UzMzljOGEtZjYzZS00ZmNmLTg4NzctYWI2NDI4NjEwOGEwXkEyXkFqcGc@._V1_SX300.jpg"
+          "poster": "https://m.media-amazon.com/images/M/MV5BN2UzMzljOGEtZjYzZS00ZmNmLTg4NzctYWI2NDI4NjEwOGEwXkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2013-08-25T00:00:00.000Z"
         }
       },
       {
@@ -41491,7 +42353,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/yjw2KjAFnqPzCNOYgh3yiLQOZl5.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/yjw2KjAFnqPzCNOYgh3yiLQOZl5.jpg",
+          "created": "2024-12-31T00:00:00.000Z"
         }
       },
       {
@@ -41579,7 +42442,8 @@
           "owned": false,
           "rating": null,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_SX300.jpg",
-          "url": "N/A"
+          "url": "N/A",
+          "created": "2021-12-31T00:00:00.000Z"
         }
       },
       {
@@ -41869,7 +42733,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/piGTxfUy1S1yrS5ZjwXfo0Uolrl.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/piGTxfUy1S1yrS5ZjwXfo0Uolrl.jpg",
+          "created": "2015-12-31T00:00:00.000Z"
         }
       },
       {
@@ -42456,6 +43321,35 @@
           "rating": null,
           "watched": "1985-06-14T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/87huhTOQijJy0pLhusZfest1MoZ.jpg"
+        }
+      },
+      {
+        "filename": "Cyberbully-Ben Chanan-2015.md",
+        "path": "src/Movies/Cyberbully-Ben Chanan-2015.md",
+        "slug": "Cyberbully-Ben Chanan-2015",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom",
+          "title": "Cyberbully",
+          "year": 2015,
+          "director": "Ben Chanan",
+          "actors": [
+            "Maisie Williams",
+            "Ella Purnell",
+            "Wilson Haagens"
+          ],
+          "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+          ],
+          "length": 62,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMWEzOGNjY2ItYmZhZC00OWQ3LTk1OTQtMDBiMWU0MTk2ODI3XkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2015-12-31T00:00:00.000Z"
         }
       },
       {
@@ -43125,6 +44019,33 @@
         }
       },
       {
+        "filename": "Christmas Bounty-Gil Junger-2013.md",
+        "path": "src/Movies/Christmas Bounty-Gil Junger-2013.md",
+        "slug": "Christmas Bounty-Gil Junger-2013",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Christmas Bounty",
+          "year": 2013,
+          "director": "Gil Junger",
+          "actors": [
+            "Francia Raisa",
+            "Mike 'The Miz' Mizanin",
+            "Will Greenberg"
+          ],
+          "genre": [
+            "Action",
+            "Comedy"
+          ],
+          "length": 90,
+          "shelf": "watched",
+          "owned": "owned",
+          "rating": null,
+          "watched": "2013-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQ1NjQ5Ml5BMl5BanBnXkFtZTgwMTQwNjU0MDE@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Christine-John Carpenter-1983.md",
         "path": "src/Movies/Christine-John Carpenter-1983.md",
         "slug": "Christine-John Carpenter-1983",
@@ -43591,8 +44512,8 @@
           ],
           "length": 124,
           "shelf": "watched",
-          "owned": false,
-          "rating": 7,
+          "owned": true,
+          "rating": 4,
           "watched": "2025-10-06T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BZjcyMjg2MzktNjg4YS00MjQzLTg0YWQtMjUyZDk2Y2Y0YzZjXkEyXkFqcGc@._V1_SX300.jpg",
           "url": "N/A"
@@ -43803,6 +44724,35 @@
           "rating": null,
           "watched": "2013-10-11T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/2x8ida0rHokUv80Ah4eBNb2eXas.jpg"
+        }
+      },
+      {
+        "filename": "Captain EO-Francis Ford Coppola-1986.md",
+        "path": "src/Movies/Captain EO-Francis Ford Coppola-1986.md",
+        "slug": "Captain EO-Francis Ford Coppola-1986",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Captain EO",
+          "year": 1986,
+          "director": "Francis Ford Coppola",
+          "actors": [
+            "Michael Jackson",
+            "Anjelica Huston",
+            "Dick Shawn"
+          ],
+          "genre": [
+            "Short",
+            "Adventure",
+            "Fantasy"
+          ],
+          "length": 17,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNjE3Yjc5MmQtMzk5Ny00MGMyLWIwMTktNGUxODlmMzkwNTEwXkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2021-11-30T00:00:00.000Z"
         }
       },
       {
@@ -44746,7 +45696,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYjRkNTM4NjktYjY4MS00MDdmLTk0YTItMzU0OTViMTUyYTE3XkEyXkFqcGc@._V1_SX300.jpg"
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjRkNTM4NjktYjY4MS00MDdmLTk0YTItMzU0OTViMTUyYTE3XkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2025-10-31T00:00:00.000Z"
         }
       },
       {
@@ -45045,6 +45996,35 @@
         }
       },
       {
+        "filename": "Black Mass-Scott Cooper-2015.md",
+        "path": "src/Movies/Black Mass-Scott Cooper-2015.md",
+        "slug": "Black Mass-Scott Cooper-2015",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States, United Kingdom",
+          "title": "Black Mass",
+          "year": 2015,
+          "director": "Scott Cooper",
+          "actors": [
+            "Johnny Depp",
+            "Joel Edgerton",
+            "Benedict Cumberbatch"
+          ],
+          "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+          ],
+          "length": 123,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzg0ODI3NDQxNF5BMl5BanBnXkFtZTgwMzgzNDA0NjE@._V1_SX300.jpg",
+          "created": "2015-12-31T00:00:00.000Z"
+        }
+      },
+      {
         "filename": "Birdman or (The Unexpected Virtue of Ignorance)-Alejandro González Iñárritu-2014.md",
         "path": "src/Movies/Birdman or (The Unexpected Virtue of Ignorance)-Alejandro González Iñárritu-2014.md",
         "slug": "Birdman or (The Unexpected Virtue of Ignorance)-Alejandro González Iñárritu-2014",
@@ -45185,7 +46165,7 @@
           ],
           "length": "1h 33m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "1991-07-19T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg"
@@ -45216,7 +46196,8 @@
           "owned": true,
           "rating": null,
           "watched": null,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZTU5NWRkNmEtZmY4Yi00ZTIzLWIxNjUtMzM3ODM2ZTdiOWNhXkEyXkFqcGc@._V1_SX300.jpg"
+          "poster": "https://m.media-amazon.com/images/M/MV5BZTU5NWRkNmEtZmY4Yi00ZTIzLWIxNjUtMzM3ODM2ZTdiOWNhXkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2025-09-28T00:00:00.000Z"
         }
       },
       {
@@ -45782,7 +46763,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+          "created": "2025-11-01T00:00:00.000Z"
         }
       },
       {
@@ -46059,7 +47041,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+          "created": "2023-10-19T00:00:00.000Z"
         }
       },
       {
@@ -46088,7 +47071,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/hDHXTbLW6psmfo1HI5rImQ1Jh6e.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/hDHXTbLW6psmfo1HI5rImQ1Jh6e.jpg",
+          "created": "2023-12-02T00:00:00.000Z"
         }
       },
       {
@@ -46288,7 +47272,7 @@
           ],
           "length": "1h 58m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "1944-09-01T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg"
@@ -46496,7 +47480,8 @@
           "owned": false,
           "rating": null,
           "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_SX300.jpg",
-          "url": "N/A"
+          "url": "N/A",
+          "created": "2025-03-21T00:00:00.000Z"
         }
       },
       {
@@ -46919,7 +47904,7 @@
           "country": "CA",
           "title": "Alice",
           "year": 2009,
-          "director": "Unknown",
+          "director": "Nick Willing",
           "actors": [
             "Caterina Scorsone",
             "Andrew-Lee Potts",
@@ -46933,10 +47918,11 @@
           ],
           "length": "1 season (2 episodes)",
           "shelf": "watchlist",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/2lvWLSOPtsqkgVIfEz9ai7D6TUr.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/2lvWLSOPtsqkgVIfEz9ai7D6TUr.jpg",
+          "created": "2025-11-20T00:00:00.000Z"
         }
       },
       {
@@ -47203,7 +48189,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/nMSkzU1yWltiqY1cqMgJDWFmWkc.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/nMSkzU1yWltiqY1cqMgJDWFmWkc.jpg",
+          "created": "2025-02-02T00:00:00.000Z"
         }
       },
       {
@@ -47612,7 +48599,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://image.tmdb.org/t/p/w500/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg"
+          "poster": "https://image.tmdb.org/t/p/w500/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg",
+          "created": "2025-01-01T00:00:00.000Z"
         }
       },
       {
@@ -47668,7 +48656,7 @@
           ],
           "length": "2h 15m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2002-12-19T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg"
@@ -47890,7 +48878,7 @@
     ]
   },
   "Series": {
-    "count": 252,
+    "count": 253,
     "items": [
       {
         "filename": "Zom 100 Bucket List of the Dead-2023.md",
@@ -48568,15 +49556,15 @@
         }
       },
       {
-        "filename": "The Woman in the Wall-2023–2024.md",
-        "path": "src/Series/The Woman in the Wall-2023–2024.md",
-        "slug": "The Woman in the Wall-2023–2024",
+        "filename": "The Woman in the Wall-2023.md",
+        "path": "src/Series/The Woman in the Wall-2023.md",
+        "slug": "The Woman in the Wall-2023",
         "frontmatter": {
           "type": "series",
           "country": "United Kingdom",
           "title": "The Woman in the Wall",
-          "year": "2023–2024",
-          "director": "N/A",
+          "year": 2023,
+          "director": "Harry Wootliff, Rachna Suri",
           "actors": [
             "Ruth Wilson",
             "Daryl McCormack",
@@ -48587,15 +49575,13 @@
             "Mystery",
             "Thriller"
           ],
-          "length": "N/A",
+          "length": "6 episodes, 57 minutes",
           "shelf": "watchlist",
           "owned": false,
           "rating": null,
           "watched": null,
           "poster": "https://m.media-amazon.com/images/M/MV5BNjE1NDk0NmYtM2FiNS00MDkwLWI4NTgtNTNjY2YyOWYyMzgxXkEyXkFqcGc@._V1_SX300.jpg",
-          "url": {
-            "{ Website }": null
-          }
+          "url": "https://en.wikipedia.org/wiki/The_Woman_in_the_Wall"
         }
       },
       {
@@ -51033,7 +52019,7 @@
           "shelf": "watched",
           "owned": false,
           "rating": 4,
-          "watched": "2025-08-29T00:00:00.000Z",
+          "watched": "2025-11-20T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BY2VmNmY2YTctYzAyYy00YmRiLTg2NjYtMzQ2MmMwMTQ3N2NkXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
@@ -52591,6 +53577,35 @@
         }
       },
       {
+        "filename": "Hilda-2018–2023.md",
+        "path": "src/Series/Hilda-2018–2023.md",
+        "slug": "Hilda-2018–2023",
+        "frontmatter": {
+          "type": "series",
+          "country": "United Kingdom, Canada, United States",
+          "title": "Hilda",
+          "year": "2018–2023",
+          "director": "N/A",
+          "actors": [
+            "Bella Ramsey",
+            "Ameerah Falzon",
+            "Oliver Nelson"
+          ],
+          "genre": [
+            "Animation",
+            "Adventure",
+            "Drama",
+            "urban fantasy"
+          ],
+          "length": 1,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2025-11-14T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYmI2ZGE3ODQtYzk1ZC00ZDY3LWI3YzItNjhiOGE2OTM3NjVhXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "High School D×D-2012.md",
         "path": "src/Series/High School D×D-2012.md",
         "slug": "High School D×D-2012",
@@ -53233,8 +54248,8 @@
           ],
           "length": "1 season (13 episodes)",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 4,
           "watched": "2004-10-17T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/uPAti8dD5sQNTgL1g5R8PceUS2H.jpg"
         }
@@ -53694,7 +54709,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMTkwODMzNDc5OV5BMl5BanBnXkFtZTcwNjc4NDQzMQ@@._V1_SX300.jpg"
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTkwODMzNDc5OV5BMl5BanBnXkFtZTcwNjc4NDQzMQ@@._V1_SX300.jpg",
+          "created": "2013-08-25T00:00:00.000Z"
         }
       },
       {
@@ -54268,7 +55284,7 @@
           ],
           "length": "2 seasons (21 episodes)",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "1991-11-16T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/oN9qQv593rlN9qpRNF2sATtyOFg.jpg"
@@ -54329,7 +55345,8 @@
           "owned": false,
           "rating": null,
           "watched": null,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZWMzZDUzZmQtM2VjMy00YTMzLWE5YTktZmIzMTljNDc3MWQ1XkEyXkFqcGc@._V1_SX300.jpg"
+          "poster": "https://m.media-amazon.com/images/M/MV5BZWMzZDUzZmQtM2VjMy00YTMzLWE5YTktZmIzMTljNDc3MWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+          "created": "2025-09-11T00:00:00.000Z"
         }
       },
       {

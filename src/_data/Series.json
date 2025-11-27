@@ -675,15 +675,15 @@
     }
   },
   {
-    "filename": "The Woman in the Wall-2023–2024.md",
-    "path": "src/Series/The Woman in the Wall-2023–2024.md",
-    "slug": "The Woman in the Wall-2023–2024",
+    "filename": "The Woman in the Wall-2023.md",
+    "path": "src/Series/The Woman in the Wall-2023.md",
+    "slug": "The Woman in the Wall-2023",
     "frontmatter": {
       "type": "series",
       "country": "United Kingdom",
       "title": "The Woman in the Wall",
-      "year": "2023–2024",
-      "director": "N/A",
+      "year": 2023,
+      "director": "Harry Wootliff, Rachna Suri",
       "actors": [
         "Ruth Wilson",
         "Daryl McCormack",
@@ -694,15 +694,13 @@
         "Mystery",
         "Thriller"
       ],
-      "length": "N/A",
+      "length": "6 episodes, 57 minutes",
       "shelf": "watchlist",
       "owned": false,
       "rating": null,
       "watched": null,
       "poster": "https://m.media-amazon.com/images/M/MV5BNjE1NDk0NmYtM2FiNS00MDkwLWI4NTgtNTNjY2YyOWYyMzgxXkEyXkFqcGc@._V1_SX300.jpg",
-      "url": {
-        "{ Website }": null
-      }
+      "url": "https://en.wikipedia.org/wiki/The_Woman_in_the_Wall"
     }
   },
   {
@@ -3140,7 +3138,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": 4,
-      "watched": "2025-08-29T00:00:00.000Z",
+      "watched": "2025-11-20T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BY2VmNmY2YTctYzAyYy00YmRiLTg2NjYtMzQ2MmMwMTQ3N2NkXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
@@ -4698,6 +4696,35 @@
     }
   },
   {
+    "filename": "Hilda-2018–2023.md",
+    "path": "src/Series/Hilda-2018–2023.md",
+    "slug": "Hilda-2018–2023",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom, Canada, United States",
+      "title": "Hilda",
+      "year": "2018–2023",
+      "director": "N/A",
+      "actors": [
+        "Bella Ramsey",
+        "Ameerah Falzon",
+        "Oliver Nelson"
+      ],
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "urban fantasy"
+      ],
+      "length": 1,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2025-11-14T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmI2ZGE3ODQtYzk1ZC00ZDY3LWI3YzItNjhiOGE2OTM3NjVhXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "High School D×D-2012.md",
     "path": "src/Series/High School D×D-2012.md",
     "slug": "High School D×D-2012",
@@ -5340,8 +5367,8 @@
       ],
       "length": "1 season (13 episodes)",
       "shelf": "watched",
-      "owned": false,
-      "rating": null,
+      "owned": true,
+      "rating": 4,
       "watched": "2004-10-17T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/uPAti8dD5sQNTgL1g5R8PceUS2H.jpg"
     }
@@ -5801,7 +5828,8 @@
       "owned": false,
       "rating": null,
       "watched": null,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTkwODMzNDc5OV5BMl5BanBnXkFtZTcwNjc4NDQzMQ@@._V1_SX300.jpg"
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkwODMzNDc5OV5BMl5BanBnXkFtZTcwNjc4NDQzMQ@@._V1_SX300.jpg",
+      "created": "2013-08-25T00:00:00.000Z"
     }
   },
   {
@@ -6375,7 +6403,7 @@
       ],
       "length": "2 seasons (21 episodes)",
       "shelf": "watched",
-      "owned": false,
+      "owned": true,
       "rating": null,
       "watched": "1991-11-16T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/oN9qQv593rlN9qpRNF2sATtyOFg.jpg"
@@ -6436,7 +6464,8 @@
       "owned": false,
       "rating": null,
       "watched": null,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZWMzZDUzZmQtM2VjMy00YTMzLWE5YTktZmIzMTljNDc3MWQ1XkEyXkFqcGc@._V1_SX300.jpg"
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWMzZDUzZmQtM2VjMy00YTMzLWE5YTktZmIzMTljNDc3MWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "created": "2025-09-11T00:00:00.000Z"
     }
   },
   {
