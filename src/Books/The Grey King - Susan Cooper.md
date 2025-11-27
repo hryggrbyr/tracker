@@ -1,9 +1,9 @@
 ---
 tags:
-  - JuvenileFiction
+  - juvenile fiction
   - fantasy
   - mythology
-  - UrbanFantasy
+  - urban fantasy
   - folklore
   - magic
   - wizards
@@ -12,11 +12,11 @@ subtitle: The Dark is Rising Sequence 4
 author:
   - Susan Cooper
 publisher: Simon & Schuster Children's Publishing
-published:
+published: 1975
 page_count:
 isbn:
 description: ""
-coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
+coverUrl: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390358853i/222576.jpg
 shelf: reading
 owned: true
 start_date: 2025-11-27
@@ -32,13 +32,13 @@ bookshopUrl:
 
 # The Grey King by Susan Cooper
 
-![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
+![Book Cover Art](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390358853i/222576.jpg)
 
 _The Dark is Rising Sequence 4_
 
 | Shelf | reading |
 | --- | --- |
-| Genre | JuvenileFiction,fantasy,mythology,UrbanFantasy,folklore,magic,wizards |
+| Genre | juvenile fiction,fantasy,mythology,urban fantasy,folklore,magic,wizards |
 | Started | 2025-11-27T00:00:00.000+00:00 |
 | Finished |  |
 | Rating | /5 |
