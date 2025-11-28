@@ -43,7 +43,9 @@
             {% endif %}
         </div>
         <div class="link-wrapper">
+            {% if medium.self != true %}
             <a class="border" href="{{ path | url }}">View details</a>
+            {% endif %}
             {% if medium.author %}
                 {% if medium.bookshopUrl %}
                     {% set bookshopUrl = medium.bookshopUrl %}

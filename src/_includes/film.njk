@@ -28,7 +28,8 @@ layout: base.njk
           start_date: start_date,
           end_date: end_date,
           rating: rating,
-          watched: watched
+          watched: watched,
+          self: true
         } %}
         {% set slug = slug | slugify %}
         {% set path = "/movies/" ~ slug %}
