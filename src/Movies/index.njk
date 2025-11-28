@@ -6,6 +6,8 @@
     <h2>🍿 All Films</h2>
     {% for film in Movies | reverse %}
         {% set medium = film.frontmatter %}
+        {% set slug = film.slug | slugify %}
+        {% set path = "/movies/" ~ slug %}
         {% include "card.njk" %}
     {% endfor %}
 </section>
