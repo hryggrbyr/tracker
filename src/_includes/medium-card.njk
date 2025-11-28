@@ -1,0 +1,49 @@
+<article class="txb-card border">
+    <div class="column">
+        <figure class="flow">
+        {% if medium.coverUrl %}
+            <img src="{{ medium.coverUrl }}" alt="Book cover art for {{ medium.title }}" loading="lazy">
+            <figcaption>Book cover art for {{ medium.title }} by {{ medium.author }}</figcaption>
+        {% elif medium.poster %}
+            <img src="{{ medium.poster }}" alt="Poster for {{ medium.title }}" loading="lazy">
+            <figcaption>Poster for {{ medium.title }}</figcaption>
+        {% endif %}
+        </figure>
+    </div>
+    <div class="column">
+        <div class="book-meta flow">
+            <h3>
+                <span>{{ medium.title }}</span>
+     			{% if medium.subtitle %}
+    			<br /><em>{{ medium.subtitle }}</em>
+    			{% endif %}
+            </h3>
+            <p>{{ medium.author }}</p>
+            {% if medium.published %}
+            <p>
+                <time datetime="{{ medium.published }}">{{ medium.published | humanReadableDate }}</time>
+            </p>
+            {% elif medium.year %}
+            <p>
+                <time datetime="{{ medium.year }}">{{ medium.year }}</time>
+            </p>
+            {% endif %}
+            {% if medium.description %}
+            <details>
+                <summary>{{ medium.description | truncate(140, true, '…') }}</summary>
+                {{ medium.description }}
+            </details>
+            {% endif %}
+        </div>
+        <div class="link-wrapper">
+            <a class="border" href="{{ path | url }}">View details</a>
+            {% if medium.type == "book" %}
+            <a class="border" href="https://www.ebooks.com/en-gb/searchapp/searchresults.net?term={{ medium.isbn or (medium.title | urlEncode ~ '%20' ~ medium.author | urlEncode) }}">Buy a copy</a>
+            {% endif %}
+			{% if medium.reviewUrl %}
+            <a class="border" href="{{ medium.reviewUrl }}">Read a review</a>
+            {% endif %}
+        </div>
+    </div>
+    <div class="column">3</div>
+</article>

@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/victormono@1.5.6/dist/index.min.css">
+  <style>
+:root {
+    color-scheme: light dark;
+    font-family: "Victor Mono", system-ui, sans-serif;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+header .wrapper {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 1rem;
+}
+header nav {
+    margin-inline-start: auto;
+}
+header a[rel="home"] {
+    font-size: 4em;
+    font-weight: bold;
+    font-style: italic;
+    display: block;
+    text-align: center;
+    margin-inline: auto;
+    text-decoration: none;
+    color: canvasText;
+    text-shadow: 0 0 4px light-dark(teal, goldenrod);
+}
+.wrapper {
+    width: 100%;
+    max-width: 80vw;
+    margin-inline: auto;
+}
+.gutters {
+    padding-inline: 1rem;
+}
+.spacing {
+    padding-block: 1lh;
+}
+.flow >*+* {
+    margin-block-start: 1lh;
+}
+a {
+    color: light-dark(teal, goldenrod);
+}
+
+.card {
+  display: flex;
+  gap: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-image {
+  margin: 0;
+  flex-shrink: 0;
+  width: 150px; /* adjust as needed */
+}
+
+.card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.card-title {
+  flex: 1;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-title p {
+  margin: 0 0 0.5rem 0;
+}
+
+.card-title p:last-child {
+  margin-top: auto;
+}
+
+.title {
+  font-size: 1.25rem;
+}
+
+.card-title a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.card-title a:hover {
+  text-decoration: underline;
+}
+
+.card-author {
+  /* appears to be empty in your example */
+}
+
+.card img {
+    max-width: 100%;
+}
+
+pre {
+    width: 100%;
+    overflow: auto;
+}
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+nav > div {
+    flex-grow: 1;
+}
+nav .conjoined {
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    justify-content: stretch;
+}
+nav .conjoined a {
+    flex-grow: 1;
+    text-transform: none;
+    text-align: center;
+    text-decoration: none;
+    line-height: 1.1;
+    padding-inline: 2ch;
+    padding-block: 0.25lh;
+    background-color: light-dark(teal, goldenrod);
+    color: light-dark(canvas, canvas);
+}
+nav .conjoined a+a {
+    border-left: 1px solid currentColor;
+}
+nav .conjoined a:first-of-type {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+nav .conjoined a:last-of-type {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+</style>
+
+</head>
+<body>
+    <header>
+        <div class="wrapper spacing gutters">
+            <a rel="home" href="/">Tracker</a>
+        </div>
+    </header>
+    <nav class="wrapper spacing gutters">
+
+        <div>
+            <p>My Year in Lists</p>
+            <div class="conjoined"><a href="/this-year/2025">2025</a><a href="/this-year/2024">2024</a><a href="/this-year/2023">2023</a><a href="/this-year/2022">2022</a><a href="/this-year/2021">2021</a><a href="/this-year/2020">2020</a><a href="/this-year/2019">2019</a><a href="/this-year/2018">2018</a><a href="/this-year/2017">2017</a><a href="/this-year/2016">2016</a><a href="/this-year/2015">2015</a><a href="/this-year/2014">2014</a><a href="/this-year/2013">2013</a><a href="/this-year/2012">2012</a><a href="/this-year/2011">2011</a><a href="/this-year/2010">2010</a><a href="/this-year/2009">2009</a><a href="/this-year/2008">2008</a><a href="/this-year/2007">2007</a><a href="/this-year/2006">2006</a><a href="/this-year/2005">2005</a><a href="/this-year/2004">2004</a><a href="/this-year/2003">2003</a><a href="/this-year/2002">2002</a><a href="/this-year/2001">2001</a><a href="/this-year/2000">2000</a><a href="/this-year/1999">1999</a><a href="/this-year/1998">1998</a><a href="/this-year/1997">1997</a><a href="/this-year/1996">1996</a><a href="/this-year/1995">1995</a><a href="/this-year/1994">1994</a><a href="/this-year/1993">1993</a><a href="/this-year/1992">1992</a><a href="/this-year/1991">1991</a><a href="/this-year/1990">1990</a><a href="/this-year/1989">1989</a><a href="/this-year/1988">1988</a><a href="/this-year/1987">1987</a><a href="/this-year/1986">1986</a></div>
+        </div>
+
+    </nav>
+    <main class="wrapper gutters spacing">
+         <h1>Media from 2020</h1>
+
+<table><tr>
+    <td>December</td>
+    <td>House of Many Ways</td>
+    <td>Diana Wynne Jones</td>
+    <td><a href="/books/house-of-many-ways-diana-wynne-jones/">View</a></td>
+  </li><tr>
+    <td>December</td>
+    <td>Castle in the Air</td>
+    <td>Diana Wynne Jones</td>
+    <td><a href="/books/castle-in-the-air-diana-wynne-jones/">View</a></td>
+  </li><tr>
+    <td>December</td>
+    <td>The Ocean at the End of the Lane</td>
+    <td>Neil Gaiman</td>
+    <td><a href="/books/the-ocean-at-the-end-of-the-lane-neil-gaiman/">View</a></td>
+  </li><tr>
+    <td>December</td>
+    <td>Firewall</td>
+    <td>Henning Mankell</td>
+    <td><a href="/books/firewall-henning-mankell/">View</a></td>
+  </li><tr>
+    <td>July</td>
+    <td>Alice in DemonLand</td>
+    <td>RaShelle Workman</td>
+    <td><a href="/books/alice-in-demonland-rashelle-workman/">View</a></td>
+  </li><tr>
+    <td>April</td>
+    <td>Hainish Novels and Stories Vol. 2</td>
+    <td>Ursula K. Le Guin</td>
+    <td><a href="/books/hainish-novels-and-stories-vol-2-ursula-k-leguin/">View</a></td>
+  </li><tr>
+    <td>April</td>
+    <td>Tales from Earthsea</td>
+    <td>Ursula K. Le Guin</td>
+    <td><a href="/books/tales-from-earthsea-ursula-k-le-guin/">View</a></td>
+  </li><tr>
+    <td>April</td>
+    <td>Changing Planes</td>
+    <td>Ursula K. Le Guin</td>
+    <td><a href="/books/changing-planes-ursula-k-le-guin/">View</a></td>
+  </li><tr>
+    <td>April</td>
+    <td>Fahrenheit 451</td>
+    <td>Ray Bradbury</td>
+    <td><a href="/books/fahrenheit-451-ray-bradbury/">View</a></td>
+  </li><tr>
+    <td>April</td>
+    <td>No Middle Name</td>
+    <td>Lee Child</td>
+    <td><a href="/books/no-middle-name-lee-child/">View</a></td>
+  </li><tr>
+    <td>April</td>
+    <td>Howl’s Moving Castle</td>
+    <td>Diana Wynne Jones</td>
+    <td><a href="/books/howls-moving-castle-diana-wynne-jones/">View</a></td>
+  </li><tr>
+    <td>April</td>
+    <td>The Sin Eater</td>
+    <td>Megan Campisi</td>
+    <td><a href="/books/the-sin-eater-megan-campisi/">View</a></td>
+  </li><tr>
+    <td>March</td>
+    <td>The Other Wind</td>
+    <td>Ursula K. Le Guin</td>
+    <td><a href="/books/the-other-wind-ursula-k-le-guin/">View</a></td>
+  </li><tr>
+    <td>February</td>
+    <td>Tehanu</td>
+    <td>Ursula K. Le Guin</td>
+    <td><a href="/books/tehanu-ursula-k-le-guin/">View</a></td>
+  </li><tr>
+    <td>February</td>
+    <td>The Farthest Shore</td>
+    <td>Ursula K. Le Guin</td>
+    <td><a href="/books/the-farthest-shore-ursula-k-le-guin/">View</a></td>
+  </li><tr>
+    <td>January</td>
+    <td>A Grave for Two</td>
+    <td>Anne Holt</td>
+    <td><a href="/books/grave-for-two-anne-holt/">View</a></td>
+  </li><tr>
+    <td>January</td>
+    <td>Last Wish</td>
+    <td>Andrzej Sapkowski</td>
+    <td><a href="/books/last-wish-andrzej-sapkowski/">View</a></td>
+  </li></table>
+    </main>
+    <footer class="flow">
+        <div class="wrapper spacing gutters">
+                    <div>
+            <p>API</p>
+            <div class="conjoined">
+                <a href="/api/Books.json">Books</a>
+                <a href="//api/Movies.json">Films</a>
+                <a href="/api/Series.json">TV</a>
+            </div>
+        </div>
+                <div>
+            <p>Collections</p>
+            <div class="conjoined">
+                <a href="/books">📚 All books</a>
+                <a href="/wishlist">🎁 Wishlist</a>
+            </div>
+        </div>
+        </div>
+        <div class="wrapper spacing gutters">
+            <p>
+                &copy; 2025 <a href="https://thomasrigby.com">Thomas Rigby</a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

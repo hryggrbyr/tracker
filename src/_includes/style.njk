@@ -205,6 +205,11 @@ nav .conjoined a {
     color: light-dark(canvas, canvas);
     font-weight: bold;
 }
+nav .conjoined.ghost a {
+    background: none;
+    font-size: 2em;
+    border: 1px solid light-dark(teal, goldenrod);
+}
 nav .conjoined a+a {
     border-left: 1px solid currentColor;
 }
@@ -333,5 +338,64 @@ table tr:has(th) {
 }
 .card details[open] summary {
     opacity: 0.5;
+}
+
+.txb-card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1lh;
+    padding: 1lh;
+}
+.txb-card .column {
+    flex-basis: 30%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    min-width: 300px;
+}
+.column:has(figure) img {
+    display: block;
+    margin-inline: auto;
+    max-width: 100%;
+    object-fit: contain;
+}
+.column:has(figure) figcaption {
+    font-size: 0.8em;
+    text-align: center;
+    line-height: 1.1;
+}
+.column:has(.book-meta) {
+    display: flex;
+    flex-direction: column;
+}
+.column:has(.book-meta) h3 {
+    font-size: 1.8em;
+}
+.column:has(.book-meta) h3 em {
+    font-size: 0.6em;
+}
+.column:has(.book-meta) .link-wrapper {
+    padding-block-start: 2lh;
+    margin-block-start: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.column:has(.book-meta) .link-wrapper a {
+    --border-color: currentColor;
+    flex-grow: 1;
+    text-decoration: none;
+    padding-block: 0.5lh;
+    padding-inline: 0.5em;
+    text-align: center;
+}
+.column .reading-meta  {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.column .reading-meta :first-child {
+    margin-block-start: auto;
 }
 </style>

@@ -1,0 +1,11 @@
+---
+  layout: "base.njk"
+---
+
+<section class="flow">
+    <h2>📺 All Telly</h2>
+    {% for show in Series | reverse %}
+        {% set medium = show.frontmatter %}
+        {% include "card.njk" %}
+    {% endfor %}
+</section>

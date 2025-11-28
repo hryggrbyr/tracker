@@ -5,6 +5,9 @@
 <section class="flow">
     <h2>All Books</h2>
 {% for book in Books | reverse %}
-    {% include "card.njk" %}
+{% set medium = book.frontmatter %}
+{% set slug = book.slug | slugify %}
+{% set path = "/books/" ~ slug %}
+{% include "card.njk" %}
 {% endfor %}
 </section>

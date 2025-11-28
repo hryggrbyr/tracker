@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Star Wars</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/victormono@1.5.6/dist/index.min.css">
+  <style>
+:root {
+    color-scheme: light dark;
+    font-family: "Victor Mono", system-ui, sans-serif;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+header .wrapper {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 1rem;
+}
+header nav {
+    margin-inline-start: auto;
+}
+header a[rel="home"] {
+    font-size: 4em;
+    font-weight: bold;
+    font-style: italic;
+    display: block;
+    text-align: center;
+    margin-inline: auto;
+    text-decoration: none;
+    color: canvasText;
+    text-shadow: 0 0 4px light-dark(teal, goldenrod);
+}
+.wrapper {
+    width: 100%;
+    max-width: 80vw;
+    margin-inline: auto;
+}
+.gutters {
+    padding-inline: 1rem;
+}
+.spacing {
+    padding-block: 1lh;
+}
+.flow >*+* {
+    margin-block-start: 1lh;
+}
+a {
+    color: light-dark(teal, goldenrod);
+}
+
+.card {
+  display: flex;
+  gap: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-image {
+  margin: 0;
+  flex-shrink: 0;
+  width: 150px; /* adjust as needed */
+}
+
+.card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.card-title {
+  flex: 1;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-title p {
+  margin: 0 0 0.5rem 0;
+}
+
+.card-title p:last-child {
+  margin-top: auto;
+}
+
+.title {
+  font-size: 1.25rem;
+}
+
+.card-title a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.card-title a:hover {
+  text-decoration: underline;
+}
+
+.card-author {
+  /* appears to be empty in your example */
+}
+
+.card img {
+    max-width: 100%;
+}
+
+pre {
+    width: 100%;
+    overflow: auto;
+}
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+nav > div {
+    flex-grow: 1;
+}
+nav .conjoined {
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    justify-content: stretch;
+}
+nav .conjoined a {
+    flex-grow: 1;
+    text-transform: none;
+    text-align: center;
+    text-decoration: none;
+    line-height: 1.1;
+    padding-inline: 2ch;
+    padding-block: 0.25lh;
+    background-color: light-dark(teal, goldenrod);
+    color: light-dark(canvas, canvas);
+}
+nav .conjoined a+a {
+    border-left: 1px solid currentColor;
+}
+nav .conjoined a:first-of-type {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+nav .conjoined a:last-of-type {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+table {
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    font-variant-numeric: slashed-zero tabular-nums;
+}
+
+table tbody {
+    display: inline-table;
+    width: 100%;
+}
+
+table tr :is(th, td) {
+    padding-inline: 2ch;
+    padding-block: 0.25lh;
+}
+
+table tr:nth-child(odd):not(:has(th)) {
+    background: rgb(from canvasText r g b/.05);
+}
+
+table tr:has(th) {
+    background: rgb(from canvasText r g b/.5);
+    color: canvas;
+    text-align: left;
+    font-size: 1.1em;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Adjust based on number of tabs */
+  grid-template-rows: auto 1fr;
+}
+
+.item {
+	display: contents;
+}
+
+/* Make summaries look like tabs */
+.item summary {
+  grid-row: 1;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  list-style: none; /* Hide marker */
+  border: 1px solid transparent;
+  border-bottom-color: light-dark(teal, goldenrod);
+  grid-column: var(--n);
+}
+
+/* Hide the default marker in all browsers */
+.item summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Position each tab based on --n variable */
+.item summary {
+}
+
+/* Active tab styling */
+.item[open] summary {
+  border-color: light-dark(teal, goldenrod);
+  border-bottom-color: transparent;
+  position: relative;
+  z-index: 1;
+}
+
+/* All content areas occupy the same grid cell */
+.details-content {
+	max-width: 100%;
+	overflow-x: auto;
+  grid-row: 2;
+  grid-column: 1 / -1; /* Span all columns */
+  padding-block: 1lh;
+  padding-inline: 2ch;
+  border-left: 1px solid light-dark(teal, goldenrod);
+  border-right: 1px solid light-dark(teal, goldenrod);
+  border-bottom: 1px solid light-dark(teal, goldenrod);
+    min-height: 0;
+  contain: layout;
+}
+
+/* Hide content when details is not open */
+.item:not([open]) .details-content {
+  display: none;
+}
+
+/* Show content only for open details */
+.item[open] .details-content {
+  display: block;
+}
+</style>
+
+</head>
+<body>
+    <header>
+        <div class="wrapper spacing gutters">
+            <a rel="home" href="/">Tracker</a>
+        </div>
+    </header>
+    <nav class="wrapper spacing gutters">
+
+        <div>
+            <p>My Year in Lists</p>
+            <div class="conjoined"><a href="/this-year/2025">2025</a><a href="/this-year/2024">2024</a><a href="/this-year/2023">2023</a><a href="/this-year/2022">2022</a><a href="/this-year/2021">2021</a></div>
+        </div>
+
+    </nav>
+    <main class="wrapper gutters spacing">
+         <h1>Star Wars (1977)</h1>
+<p><img src="https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg" alt=""></p>
+<p>Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.</p>
+
+    </main>
+    <footer class="flow">
+        <div class="wrapper spacing gutters">
+                    <div>
+            <p>API</p>
+            <div class="conjoined">
+                <a href="/api/Books.json">Books</a>
+                <a href="//api/Movies.json">Films</a>
+                <a href="/api/Series.json">TV</a>
+            </div>
+        </div>
+                <div>
+            <p>Collections</p>
+            <div class="conjoined">
+                <a href="/books">📚 All books</a>
+                <a href="/wishlist">🎁 Wishlist</a>
+            </div>
+        </div>
+        </div>
+        <div class="wrapper spacing gutters">
+            <p>
+                &copy; 2025 <a href="https://thomasrigby.com">Thomas Rigby</a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

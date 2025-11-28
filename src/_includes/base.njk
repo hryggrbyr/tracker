@@ -14,16 +14,12 @@
         </div>
     </header>
     <nav class="wrapper spacing gutters">
-
-        <div>
-            <p>My Year in Lists</p>
-            <div class="conjoined">
-                {%- for year, posts in collections.mediaByYear -%}
-                    <a href="{{ ('/this-year/' + year) | url }}">{{ year }}</a>
-                {%- endfor -%}
-            </div>
+        <div class="conjoined ghost">
+            <a href="{{ '/books' | url }}">📚</a>
+            <a href="{{ '/movies' | url }}">🍿</a>
+            <a href="{{ '/series' | url }}">📺</a>
+            <a href="{{ '/wishlist' | url }}">🎁</a>
         </div>
-
     </nav>
     <main class="wrapper gutters spacing">
          {{ content | safe }}
@@ -38,10 +34,18 @@
                 <a href="{{ '/api/Series.json' | url }}">TV</a>
             </div>
         </div>
+        <p>My Year in Lists</p>
+        <div class="conjoined">
+            {%- for year, posts in collections.mediaByYear -%}
+                <a href="{{ ('/this-year/' + year) | url }}">{{ year }}</a>
+            {%- endfor -%}
+        </div>
                 <div>
             <p>Collections</p>
             <div class="conjoined">
                 <a href="{{ '/books' | url }}">📚 All books</a>
+                <a href="{{ '/movies' | url }}">🍿 All films</a>
+                <a href="{{ '/series' | url }}">📺 All telly</a>
                 <a href="{{ '/wishlist' | url }}">🎁 Wishlist</a>
             </div>
         </div>

@@ -3,11 +3,14 @@
 ---
 
 <section class="flow">
-    <h2>My wishlist</h2>
+    <h2>🎁 My wishlist</h2>
     <p>Books I want to read but do not yet own.</p>
-{% for book in Books | reverse %}
-    {% if book.frontmatter.shelf == 'to-read' and not book.frontmatter.owned %}
-    {% include "card.njk" %}
-    {% endif %}
-{% endfor %}
+    {% for book in Books | reverse %}
+        {% if book.frontmatter.shelf == 'to-read' and not book.frontmatter.owned %}
+            {% set medium = book.frontmatter %}
+            {% set slug = book.slug | slugify %}
+            {% set path = "/books/" ~ slug %}
+            {% include "card.njk" %}
+        {% endif %}
+    {% endfor %}
 </section>

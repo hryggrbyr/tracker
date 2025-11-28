@@ -1,0 +1,1047 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/victormono@1.5.6/dist/index.min.css">
+  <style>
+:root {
+    color-scheme: light dark;
+    font-family: system-ui, sans-serif;
+    line-height: 160%;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    overflow-x: hidden;
+
+    background:
+        radial-gradient(
+          circle at calc(75% - 150px) calc(100% - 150px),
+          rgb(from canvasText r g b/0.01625) 40%,
+          transparent 40%
+        ),
+        radial-gradient(
+          circle at calc(100% - 100px) calc(100% - 100px),
+          rgb(from canvasText r g b/0.01625) 20%,
+          transparent 20%
+        ),
+        radial-gradient(
+          circle at calc(100% - 200px) calc(50% - 100px),
+          rgb(from canvasText r g b/0.01625) 20%,
+          transparent 20%
+        );
+      background-attachment: fixed;
+
+
+}
+body > header .wrapper {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 1rem;
+}
+body > header nav {
+    margin-inline-start: auto;
+}
+body > header a[rel="home"] {
+    font-size: 4em;
+    font-weight: bold;
+    font-style: italic;
+    display: grid;
+    place-items: center center;
+    margin-inline: auto;
+    text-decoration: none;
+    color: canvasText;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    aspect-ratio: 1/1;
+}
+body > header a[rel="home"] i {
+    grid-area: 1 / 1;
+}
+
+body > header a[rel="home"]:before {
+    content: "";
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 100%;
+  grid-area: 1 / 1;
+  display: block;
+    background:
+      conic-gradient(
+        from 0deg,
+        transparent 0deg,
+        light-dark(rgb(from #004444 r g b/0.25), rgb(from darkgoldenrod r g b/0.25)) 60deg,
+        light-dark(rgb(from #00aaaa r g b/0.85), rgb(from goldenrod r g b/0.85)) 90deg,
+        transparent 120deg
+      );
+    animation: radarSweep 3s linear infinite;
+    z-index: 0;
+  }
+
+  @keyframes radarSweep {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+.site-footer {
+    border-top: 1px solid rgb(from canvasText r g b/0.5);
+}
+
+.wrapper {
+    width: 100%;
+    margin-inline: auto;
+}
+@media screen and (min-width: 1280px) {
+    .wrapper {
+        max-width: 1280px;
+    }
+}
+.gutters {
+    padding-inline: 1rem;
+}
+.spacing {
+    padding-block: 1lh;
+}
+.flow >*+* {
+    margin-block-start: 1lh;
+}
+a {
+    color: light-dark(teal, goldenrod);
+}
+p {
+    max-width: 67ch;
+}
+
+.card {
+  display: flex;
+  gap: 1rem;
+  border: 1px solid light-dark(#0e0e0e, #e0e0e0);
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-image {
+    display: grid;
+    place-items: center;
+  margin: 0;
+  flex-shrink: 0;
+  width: 15vw; /* adjust as needed */
+  padding: 1rem;
+}
+
+.card-image img {
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+
+}
+
+.card-title {
+  flex: 1;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-title p {
+  margin: 0 0 0.5rem 0;
+}
+
+.card-title p:last-child {
+  margin-top: auto;
+}
+
+.title {
+  font-size: 1.25rem;
+}
+
+.card-title a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.card-title a:hover {
+  text-decoration: underline;
+}
+
+.card-author {
+}
+
+.card img {
+    max-width: 100%;
+}
+
+pre {
+    width: 100%;
+    overflow: auto;
+}
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+nav > div {
+    flex-grow: 1;
+}
+nav .conjoined {
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    justify-content: stretch;
+}
+nav .conjoined a {
+    flex-grow: 1;
+    text-transform: none;
+    text-align: center;
+    text-decoration: none;
+    line-height: 1.1;
+    padding-inline: 2ch;
+    padding-block: 0.25lh;
+    background-color: light-dark(teal, goldenrod);
+    color: light-dark(canvas, canvas);
+    font-weight: bold;
+}
+nav .conjoined a+a {
+    border-left: 1px solid currentColor;
+}
+nav .conjoined a:first-of-type {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+nav .conjoined a:last-of-type {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+table {
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    font-variant-numeric: slashed-zero tabular-nums;
+}
+
+table tbody {
+    display: inline-table;
+    width: 100%;
+}
+
+table tr :is(th, td) {
+    padding-inline: 2ch;
+    padding-block: 0.25lh;
+}
+
+table tr:nth-child(odd):not(:has(th)) {
+    background: rgb(from canvasText r g b/.05);
+}
+
+table tr:has(th) {
+    background: rgb(from canvasText r g b/.5);
+    color: canvas;
+    text-align: left;
+    font-size: 1.1em;
+}
+
+.border {
+    border: 1px solid var(--border-color, canvasText);
+    border-top-right-radius: 1lh;
+    border-bottom-left-radius: 1lh;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Adjust based on number of tabs */
+  grid-template-rows: auto 1fr;
+}
+
+.item {
+	display: contents;
+	--border-color: light-dark(teal, goldenrod);
+}
+
+/* Make summaries look like tabs */
+.item .subitem {
+  grid-row: 1;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  list-style: none; /* Hide marker */
+  grid-column: var(--n);
+  border: 1px solid transparent;
+  transition: border-color ease-in 250ms;
+  margin-block-end: 1lh;
+  text-align: center;
+  position: relative;
+}
+
+.item .subitem:hover {
+    text-shadow: 0 0 8px canvasText;
+    /*background-color: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.1));*/
+}
+
+.item + .item .subitem {
+    margin-inline-end: 1rem;
+}
+
+/* Hide the default marker in all browsers */
+.item .subitem::-webkit-details-marker {
+  display: none;
+}
+
+/* Active tab styling */
+.item[open] .subitem {
+
+  color: light-dark(teal, goldenrod);
+  border-color: currentColor;
+  position: relative;
+  z-index: 1;
+}
+
+/* All content areas occupy the same grid cell */
+.details-content {
+	max-width: 100%;
+	overflow-x: auto;
+  grid-row: 2;
+  grid-column: 1 / -1; /* Span all columns */
+  padding-block: 1lh;
+  padding-inline: 2ch;
+  min-height: 0;
+  contain: layout;
+}
+
+/* Hide content when details is not open */
+.item:not([open]) .details-content {
+  display: none;
+}
+
+/* Show content only for open details */
+.item[open] .details-content {
+  display: block;
+}
+.details-content .card {
+    border: none;
+}
+
+.card details summary {
+    margin-block-end: 1lh;
+    font-style: italics;
+}
+.card details[open] summary {
+    opacity: 0.5;
+}
+</style>
+
+</head>
+<body>
+    <header>
+        <div class="wrapper spacing gutters">
+            <a class="radar-text" rel="home" href="/"><i>Tracker</i></a>
+        </div>
+    </header>
+    <nav class="wrapper spacing gutters">
+
+        <div>
+            <p>My Year in Lists</p>
+            <div class="conjoined"><a href="/this-year/2025">2025</a><a href="/this-year/2024">2024</a><a href="/this-year/2023">2023</a><a href="/this-year/2022">2022</a><a href="/this-year/2021">2021</a></div>
+        </div>
+
+    </nav>
+    <main class="wrapper gutters spacing">
+         <h1>Media from 2023</h1>
+
+<div class="grid">
+  <!-- First tab: set to open -->
+  <details class="item" name="alpha" open style="--n: 1;">
+    <summary class="subitem border">📚 Books</summary>
+    <div class="details-content border">
+        <table>
+          <tr>
+            <th>Month completed</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Published</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr>
+            <td>January</td>
+            <td>The Fox&#39;s Curse</td>
+            <td>Sarah Painter</td>
+            <td>2025</td>
+            <td><a href="/books/the-foxs-curse-sarah-painter/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>January</td>
+            <td>The Pearl King</td>
+            <td>Sarah Painter</td>
+            <td>2025</td>
+            <td><a href="/books/the-pearl-king-sarah-painter/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>February</td>
+            <td>The Copper Heart</td>
+            <td>Sarah Painter</td>
+            <td>2025</td>
+            <td><a href="/books/the-copper-heart-sarah-painter/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>March</td>
+            <td>The Shadow Wing</td>
+            <td>Sarah Painter</td>
+            <td>2025</td>
+            <td><a href="/books/the-shadow-wing-sarah-painter/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>April</td>
+            <td>The Broken Cage</td>
+            <td>Sarah Painter</td>
+            <td>2025</td>
+            <td><a href="/books/the-broken-cage-sarah-painter/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>April</td>
+            <td>The Magpie Key</td>
+            <td>Sarah Painter</td>
+            <td>2025</td>
+            <td><a href="/books/the-magpie-key-sarah-painter/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>July</td>
+            <td>The Absolute Book</td>
+            <td>Elizabeth Knox</td>
+            <td>2025</td>
+            <td><a href="/books/the-absolute-book-elizabeth-knox/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>August</td>
+            <td>Red As Blood</td>
+            <td>Lilja Sigurðardóttir</td>
+            <td>2025</td>
+            <td><a href="/books/red-as-blood-lilja-sigurdardottir/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>September</td>
+            <td>Shield-Maiden: Under The Howling Moon</td>
+            <td>Melanie Karsak</td>
+            <td>2025</td>
+            <td><a href="/books/shield-maiden-under-the-howling-moon-melanie-karsak/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>September</td>
+            <td>The Princess of Burundi</td>
+            <td>Kjell Eriksson</td>
+            <td>2025</td>
+            <td><a href="/books/the-princess-of-burundi-kjell-eriksson/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>October</td>
+            <td>All The Pretty Dead Girls</td>
+            <td>John Manning</td>
+            <td>2025</td>
+            <td><a href="/books/all-the-pretty-dead-girls-john-manning/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>November</td>
+            <td>Packing for Mars</td>
+            <td>Mary Roach</td>
+            <td>2025</td>
+            <td><a href="/books/packing-for-mars-mary-roach/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>The Green Man&#39;s Heir</td>
+            <td>Juliet E. McKenna</td>
+            <td>2025</td>
+            <td><a href="/books/the-green-mans-heir-juliet-e-mckenna/">View</a></td>
+          </li>
+          </table>
+    </div>
+  </details>
+  <details class="item" name="alpha" style="--n: 2;">
+    <summary class="subitem border">📺 Telly</summary>
+    <div class="details-content border">
+        <table>
+          <tr>
+            <th>Month completed</th>
+            <th>Title</th>
+            <th>Director</th>
+            <th>Released</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr>
+            <td>January</td>
+            <td>RuPaul&#39;s Drag Race</td>
+            <td>Unknown</td>
+            <td>2009</td>
+            <td><a href="/series/rupauls-drag-race-2009/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>January</td>
+            <td>Physical: 100</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/physical-100-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>February</td>
+            <td>Gunther&#39;s Millions</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/gunthers-millions-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>March</td>
+            <td>Interior Design Masters with Alan Carr</td>
+            <td>Unknown</td>
+            <td>2019</td>
+            <td><a href="/series/interior-design-masters-with-alan-carr-2019/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>March</td>
+            <td>Next in Fashion</td>
+            <td>Unknown</td>
+            <td>2020</td>
+            <td><a href="/series/next-in-fashion-2020/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>April</td>
+            <td>Great Expectations</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/great-expectations-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>April</td>
+            <td>American Manhunt: The Boston Marathon Bombing</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/american-manhunt-the-boston-marathon-bombing-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>April</td>
+            <td>Magpie Murders</td>
+            <td>Peter Cattaneo</td>
+            <td>2022</td>
+            <td><a href="/series/magpie-murders-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>May</td>
+            <td>Andrew: The Problem Prince</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/andrew-the-problem-prince-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>May</td>
+            <td>Will Trent</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/will-trent-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>May</td>
+            <td>Waterloo Road</td>
+            <td>Unknown</td>
+            <td>2006</td>
+            <td><a href="/series/waterloo-road-2006/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>May</td>
+            <td>Project Icon: The UK&#39;s Next Music Star</td>
+            <td>Roman Green</td>
+            <td>2023</td>
+            <td><a href="/series/project-icon-the-uks-next-music-star-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>May</td>
+            <td>Rillington Place</td>
+            <td>Craig Viveiros</td>
+            <td>2016</td>
+            <td><a href="/series/rillington-place-2016/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>June</td>
+            <td>Glow Up: Britain&#39;s Next Make-Up Star</td>
+            <td>Unknown</td>
+            <td>2019</td>
+            <td><a href="/series/glow-up-britains-next-make-up-star-2019/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>June</td>
+            <td>I Kissed a Boy</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/i-kissed-a-boy-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>June</td>
+            <td>The Ultimatum: Queer Love</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/the-ultimatum-queer-love-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>July</td>
+            <td>The Diplomat</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/the-diplomat-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>August</td>
+            <td>Litvinenko</td>
+            <td>Jim Field Smith</td>
+            <td>2022</td>
+            <td><a href="/series/litvinenko-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>August</td>
+            <td>Below Deck Down Under</td>
+            <td>Unknown</td>
+            <td>2022</td>
+            <td><a href="/series/below-deck-down-under-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>September</td>
+            <td>Love Island USA</td>
+            <td>Unknown</td>
+            <td>2019</td>
+            <td><a href="/series/love-island-usa-2019/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>October</td>
+            <td>FBOY Island NZ</td>
+            <td>Unknown</td>
+            <td>2022</td>
+            <td><a href="/series/fboy-island-nz-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>October</td>
+            <td>Veronica Mars</td>
+            <td>Unknown</td>
+            <td>2004</td>
+            <td><a href="/series/veronica-mars-2004/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>October</td>
+            <td>The Reckoning</td>
+            <td>Sandra Goldbacher, David Blair</td>
+            <td>2023</td>
+            <td><a href="/series/the-reckoning-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>October</td>
+            <td>RuPaul&#39;s Drag Race UK</td>
+            <td>Unknown</td>
+            <td>2019</td>
+            <td><a href="/series/rupauls-drag-race-uk-2019/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>October</td>
+            <td>Maxine</td>
+            <td>Unknown</td>
+            <td>2022</td>
+            <td><a href="/series/maxine-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>November</td>
+            <td>Unicorn Academy</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/unicorn-academy-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>November</td>
+            <td>Surviving Paradise</td>
+            <td>Unknown</td>
+            <td>2023</td>
+            <td><a href="/series/surviving-paradise-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>Marcella</td>
+            <td>Unknown</td>
+            <td>2016</td>
+            <td><a href="/series/marcella-2016/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>Zom 100 Bucket List of the Dead</td>
+            <td>N/A</td>
+            <td>2023</td>
+            <td><a href="/series/zom-100-bucket-list-of-the-dead-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>The Sixth Commandment</td>
+            <td>N/A</td>
+            <td>2023</td>
+            <td><a href="/series/the-sixth-commandment-2023/">View</a></td>
+          </li>
+          </table>
+    </div>
+  </details>
+  <details class="item" name="alpha" style="--n: 3;">
+    <summary class="subitem border">🍿 Films</summary>
+    <div class="details-content border">
+        <table>
+          <tr>
+            <th>Month completed</th>
+            <th>Title</th>
+            <th>Director</th>
+            <th>Released</th>
+            <th>&nbsp;</th>
+          </tr>
+          <tr>
+            <td>January</td>
+            <td>The Hatchet Wielding Hitchhiker</td>
+            <td>Colette Camden</td>
+            <td>2023</td>
+            <td><a href="/movies/the-hatchet-wielding-hitchhiker-colette-camden-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>March</td>
+            <td>Luther: The Fallen Sun</td>
+            <td>Jamie Payne</td>
+            <td>2023</td>
+            <td><a href="/movies/luther-the-fallen-sun-jamie-payne-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>April</td>
+            <td>Mindcage</td>
+            <td>Mauro Borrelli</td>
+            <td>2022</td>
+            <td><a href="/movies/mindcage-mauro-borrelli-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>April</td>
+            <td>Fantastic Beasts: The Secrets of Dumbledore</td>
+            <td>David Yates</td>
+            <td>2022</td>
+            <td><a href="/movies/fantastic-beasts-the-secrets-of-dumbledore-david-yates-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>May</td>
+            <td>Longest Third Date</td>
+            <td>Brent Hodge</td>
+            <td>2023</td>
+            <td><a href="/movies/longest-third-date-brent-hodge-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>June</td>
+            <td>Virupaksha</td>
+            <td>Karthik Varma Dandu</td>
+            <td>2023</td>
+            <td><a href="/movies/virupaksha-karthik-varma-dandu-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>June</td>
+            <td>Costco: Is It Really Worth It?</td>
+            <td>Nick Webb, Joshua Good</td>
+            <td>2022</td>
+            <td><a href="/movies/costco-is-it-really-worth-it-nick-webb-joshua-good-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>July</td>
+            <td>Raiders of the Lost Ark</td>
+            <td>Steven Spielberg</td>
+            <td>1981</td>
+            <td><a href="/movies/raiders-of-the-lost-ark-steven-spielberg-1981/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>July</td>
+            <td>Titanic</td>
+            <td>James Cameron</td>
+            <td>1997</td>
+            <td><a href="/movies/titanic-james-cameron-1997/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>July</td>
+            <td>Harry Potter and the Goblet of Fire</td>
+            <td>Mike Newell</td>
+            <td>2005</td>
+            <td><a href="/movies/harry-potter-and-the-goblet-of-fire-mike-newell-2005/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>August</td>
+            <td>Chicago</td>
+            <td>Rob Marshall</td>
+            <td>2002</td>
+            <td><a href="/movies/chicago-rob-marshall-2002/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>August</td>
+            <td>Mean Girls</td>
+            <td>Mark Waters</td>
+            <td>2004</td>
+            <td><a href="/movies/mean-girls-mark-waters-2004/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>September</td>
+            <td>The Poughkeepsie Tapes</td>
+            <td>John Erick Dowdle</td>
+            <td>2007</td>
+            <td><a href="/movies/the-poughkeepsie-tapes-john-erick-dowdle-2007/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>September</td>
+            <td>Russell Brand: In Plain Sight: Dispatches</td>
+            <td>Unknown</td>
+            <td>Unknown</td>
+            <td><a href="/movies/russell-brand-in-plain-sight-dispatches-unknown-unknown/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>November</td>
+            <td>Aladdin</td>
+            <td>Ron Clements, John Musker</td>
+            <td>1992</td>
+            <td><a href="/movies/aladdin-ron-clements-john-musker-1992/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>November</td>
+            <td>Pretty Woman</td>
+            <td>Garry Marshall</td>
+            <td>1990</td>
+            <td><a href="/movies/pretty-woman-garry-marshall-1990/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>November</td>
+            <td>Christmas on Mistletoe Farm</td>
+            <td>Debbie Isitt</td>
+            <td>2022</td>
+            <td><a href="/movies/christmas-on-mistletoe-farm-debbie-isitt-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>November</td>
+            <td>The Christmas Chronicles</td>
+            <td>Clay Kaytis</td>
+            <td>2018</td>
+            <td><a href="/movies/the-christmas-chronicles-clay-kaytis-2018/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>Best. Christmas. Ever!</td>
+            <td>Mary Lambert</td>
+            <td>2023</td>
+            <td><a href="/movies/best-christmas-ever-mary-lambert-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>Family Switch</td>
+            <td>McG</td>
+            <td>2023</td>
+            <td><a href="/movies/family-switch-mcg-2023/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>Catering Christmas</td>
+            <td>T.W. Peacocke</td>
+            <td>2022</td>
+            <td><a href="/movies/catering-christmas-tw-peacocke-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>The Princess Switch</td>
+            <td>Mike Rohl</td>
+            <td>2018</td>
+            <td><a href="/movies/the-princess-switch-mike-rohl-2018/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>B&amp;B Merry</td>
+            <td>Paula Elle</td>
+            <td>2022</td>
+            <td><a href="/movies/bandb-merry-paula-elle-2022/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>Oliver!</td>
+            <td>Carol Reed</td>
+            <td>1968</td>
+            <td><a href="/movies/oliver-carol-reed-1968/">View</a></td>
+          </li>
+          
+          <tr>
+            <td>December</td>
+            <td>CBeebies Panto 2023 Robin Hood</td>
+            <td>Geoff Coward</td>
+            <td>2023</td>
+            <td><a href="/movies/cbeebies-panto-2023-robin-hood-geoff-coward-2023/">View</a></td>
+          </li>
+          </table>
+    </div>
+  </details>
+  <details class="item" name="alpha" style="--n: 4;">
+    <summary class="subitem border">🎄 Christmas Films Endured</summary>
+    <div class="details-content border">
+        <table>
+          <tr>
+            <th>Month completed</th>
+            <th>Title</th>
+            <th>Director</th>
+            <th>Released</th>
+            <th>&nbsp;</th>
+          </tr>
+            <tr>
+              <td>November</td>
+              <td>Christmas on Mistletoe Farm</td>
+              <td>Debbie Isitt</td>
+              <td>2022</td>
+              <td><a href="/movies/christmas-on-mistletoe-farm-debbie-isitt-2022/">View</a></td>
+            </tr>
+            
+            <tr>
+              <td>November</td>
+              <td>The Christmas Chronicles</td>
+              <td>Clay Kaytis</td>
+              <td>2018</td>
+              <td><a href="/movies/the-christmas-chronicles-clay-kaytis-2018/">View</a></td>
+            </tr>
+            
+            <tr>
+              <td>December</td>
+              <td>Best. Christmas. Ever!</td>
+              <td>Mary Lambert</td>
+              <td>2023</td>
+              <td><a href="/movies/best-christmas-ever-mary-lambert-2023/">View</a></td>
+            </tr>
+            
+            <tr>
+              <td>December</td>
+              <td>Family Switch</td>
+              <td>McG</td>
+              <td>2023</td>
+              <td><a href="/movies/family-switch-mcg-2023/">View</a></td>
+            </tr>
+            
+            <tr>
+              <td>December</td>
+              <td>Catering Christmas</td>
+              <td>T.W. Peacocke</td>
+              <td>2022</td>
+              <td><a href="/movies/catering-christmas-tw-peacocke-2022/">View</a></td>
+            </tr>
+            
+            <tr>
+              <td>December</td>
+              <td>B&amp;B Merry</td>
+              <td>Paula Elle</td>
+              <td>2022</td>
+              <td><a href="/movies/bandb-merry-paula-elle-2022/">View</a></td>
+            </tr>
+            
+            <tr>
+              <td>December</td>
+              <td>CBeebies Panto 2023 Robin Hood</td>
+              <td>Geoff Coward</td>
+              <td>2023</td>
+              <td><a href="/movies/cbeebies-panto-2023-robin-hood-geoff-coward-2023/">View</a></td>
+            </tr>
+            </table>
+    </div>
+  </details>
+</div>
+
+    </main>
+    <footer class="site-footer flow">
+        <div class="wrapper spacing gutters">
+                    <div>
+            <p>API</p>
+            <div class="conjoined">
+                <a href="/api/Books.json">Books</a>
+                <a href="/api/Movies.json">Films</a>
+                <a href="/api/Series.json">TV</a>
+            </div>
+        </div>
+                <div>
+            <p>Collections</p>
+            <div class="conjoined">
+                <a href="/books">📚 All books</a>
+                <a href="/movies">🍿 All films</a>
+                <a href="/wishlist">🎁 Wishlist</a>
+            </div>
+        </div>
+        </div>
+        <div class="wrapper spacing gutters">
+            <p>
+                &copy; 2025 <a href="https://thomasrigby.com">Thomas Rigby</a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

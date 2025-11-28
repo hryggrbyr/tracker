@@ -1,0 +1,11 @@
+---
+  layout: "base.njk"
+---
+
+<section class="flow">
+    <h2>🍿 All Films</h2>
+    {% for film in Movies | reverse %}
+        {% set medium = film.frontmatter %}
+        {% include "card.njk" %}
+    {% endfor %}
+</section>
