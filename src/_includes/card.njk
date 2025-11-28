@@ -1,0 +1,121 @@
+<style>
+    .txb-card {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 1lh;
+        padding: 1lh;
+        border: 1px solid canvasText;
+    }
+    .txb-card .column {
+        flex-basis: 30%;
+        flex-grow: 1;
+        flex-shrink: 1;
+        min-width: 300px;
+    }
+    .column:has(figure) {
+        /*background-color: rgba(255,0,0,0.1);*/
+    }
+    .column:has(figure) img {
+        display: block;
+        margin-inline: auto;
+        max-width: 100%;
+        object-fit: contain;
+    }
+    .column:has(figure) figcaption {
+        font-size: 0.8em;
+        text-align: center;
+        line-height: 1.1;
+    }
+    .column:has(.book-meta) {
+        /*background-color: rgba(0, 255,0,0.1);*/
+        display: flex;
+        flex-direction: column;
+    }
+    .column:has(.book-meta) h3 {
+        font-size: 1.8em;
+    }
+    .column:has(.book-meta) h3 em {
+        font-size: 0.6em;
+    }
+    .column:has(.book-meta) .link-wrapper {
+        padding-block-start: 2lh;
+        margin-block-start: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+    .column:has(.book-meta) .link-wrapper a {
+        --border-color: currentColor;
+        flex-grow: 1;
+        text-decoration: none;
+        padding-block: 0.5lh;
+        padding-inline: 0.5em;
+        text-align: center;
+    }
+    .column:has(.reading-meta) {
+        /*background-color: rgba(0,0,255,0.1);*/
+    }
+</style>
+
+<article class="txb-card border">
+    <!--3 columns that stack nicely-->
+    <div class="column">
+        {% if book.frontmatter.coverUrl %}
+        <figure class="flow">
+            <img src="{{ book.frontmatter.coverUrl }}" alt="Book cover art for Book cover art for {{ book.frontmatter.title }}{{ book.frontmatter.title }}" loading="lazy">
+            <figcaption>Book cover art for {{ book.frontmatter.title }} by {{ book.frontmatter.author }}</figcaption>
+        </figure>
+        {% endif %}
+    </div>
+    <div class="column">
+        <div class="book-meta flow">
+        <h3>
+            <span>{{ book.frontmatter.title }}</span>
+ 			{% if book.frontmatter.subtitle %}
+			<br /><em>{{ book.frontmatter.subtitle }}</em>
+			{% endif %}
+        </h3>
+        <p>{{ book.frontmatter.author }}</p>
+        {% if book.frontmatter.published %}
+        <p>
+            <time datetime="{{ book.frontmatter.published }}">{{ book.frontmatter.published | humanReadableDate }}</time>
+        </p>
+        {% endif %}
+        {% if book.frontmatter.description %}
+        <details>
+            <summary>{{ book.frontmatter.description | truncate(140, true, '…') }}</summary>
+            {{ book.frontmatter.description }}
+        </details>
+        {% endif %}
+        </div>
+        <div class="link-wrapper">
+            {% set slug = book.slug | slugify %}
+            {% set path = "/books/" ~ slug %}
+            <a class="border" href="{{ path | url }}">View details</a>
+			<a class="border" href="https://www.ebooks.com/en-gb/searchapp/searchresults.net?term={{ book.frontmatter.isbn or (book.frontmatter.title | urlEncode ~ '%20' ~book.frontmatter.author | urlEncode) }}">Buy a copy</a>
+            {% if book.frontmatter.reviewUrl %}
+            <a class="border" href="{{ book.frontmatter.reviewUrl }}">Read a review</a>
+            {% endif %}
+        </div>
+    </div>
+    <div class="column">
+        <div class="reading-meta flow">
+            {% if book.frontmatter.owned == true %}
+			<p>I own this!</p>
+		{% endif %}
+		{% if book.frontmatter.shelf == 'reading' and book.frontmatter.start_date %}
+			<p>I started reading this on {{ book.frontmatter.start_date | humanReadableDate }}</p>
+		{% endif %}
+		{% if book.frontmatter.shelf == 'read' and book.frontmatter.end_date %}
+			<p>
+				I last read this on {{ book.frontmatter.end_date | humanReadableDate }}
+				{% if book.frontmatter.rating %}
+					and I gave it {{ book.frontmatter.rating }} stars out of 5
+				{% endif %}
+			</p>
+		{% endif %}
+        </div>
+    </div>
+</article>

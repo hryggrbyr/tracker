@@ -1,44 +1,94 @@
 <style>
 :root {
     color-scheme: light dark;
-    font-family: "Victor Mono", system-ui, sans-serif;
+    font-family: system-ui, sans-serif;
+    line-height: 160%;
 }
 * {
     box-sizing: border-box;
 }
 body {
     overflow-x: hidden;
+
+    background:
+        radial-gradient(
+          circle at calc(75% - 150px) calc(100% - 150px),
+          rgb(from canvasText r g b/0.01625) 40%,
+          transparent 40%
+        ),
+        radial-gradient(
+          circle at calc(100% - 100px) calc(100% - 100px),
+          rgb(from canvasText r g b/0.01625) 20%,
+          transparent 20%
+        ),
+        radial-gradient(
+          circle at calc(100% - 200px) calc(50% - 100px),
+          rgb(from canvasText r g b/0.01625) 20%,
+          transparent 20%
+        );
+      background-attachment: fixed;
+
+
 }
-header .wrapper {
+body > header .wrapper {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	gap: 1rem;
 }
-header nav {
+body > header nav {
     margin-inline-start: auto;
 }
-header a[rel="home"] {
+body > header a[rel="home"] {
     font-size: 4em;
     font-weight: bold;
     font-style: italic;
-    display: block;
-    text-align: center;
+    display: grid;
+    place-items: center center;
     margin-inline: auto;
     text-decoration: none;
     color: canvasText;
-    animation: pulse 500ms infinite alternate ease-in;
-    text-shadow: 0 0 4px light-dark(teal, goldenrod);
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    aspect-ratio: 1/1;
+}
+body > header a[rel="home"] i {
+    grid-area: 1 / 1;
 }
 
-@keyframes pulse {
+body > header a[rel="home"]:before {
+    content: "";
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 100%;
+  grid-area: 1 / 1;
+  display: block;
+    background:
+      conic-gradient(
+        from 0deg,
+        transparent 0deg,
+        light-dark(rgb(from #004444 r g b/0.25), rgb(from darkgoldenrod r g b/0.25)) 60deg,
+        light-dark(rgb(from #00aaaa r g b/0.85), rgb(from goldenrod r g b/0.85)) 90deg,
+        transparent 120deg
+      );
+    animation: radarSweep 3s linear infinite;
+    z-index: 0;
+  }
+
+  @keyframes radarSweep {
     from {
-        text-shadow: 0 0 4px light-dark(teal, goldenrod);
+      transform: rotate(0deg);
     }
     to {
-        text-shadow: 0 0 16px light-dark(teal, goldenrod);
+      transform: rotate(360deg);
     }
+  }
+
+.site-footer {
+    border-top: 1px solid rgb(from canvasText r g b/0.5);
 }
+
 .wrapper {
     width: 100%;
     margin-inline: auto;
@@ -67,8 +117,7 @@ p {
 .card {
   display: flex;
   gap: 1rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
+  border: 1px solid light-dark(#0e0e0e, #e0e0e0);
   overflow: hidden;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -78,15 +127,16 @@ p {
     place-items: center;
   margin: 0;
   flex-shrink: 0;
-  width: 150px; /* adjust as needed */
+  width: 15vw; /* adjust as needed */
+  padding: 1rem;
 }
 
 .card-image img {
   width: auto;
   height: auto;
   object-fit: contain;
-  object-fit: cover;
   display: block;
+
 }
 
 .card-title {
@@ -119,7 +169,6 @@ p {
 }
 
 .card-author {
-  /* appears to be empty in your example */
 }
 
 .card img {
@@ -197,6 +246,14 @@ table tr:has(th) {
     font-size: 1.1em;
 }
 
+.border {
+    border: 1px solid var(--border-color, canvasText);
+    border-top-right-radius: 1lh;
+    border-bottom-left-radius: 1lh;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* Adjust based on number of tabs */
@@ -205,32 +262,42 @@ table tr:has(th) {
 
 .item {
 	display: contents;
+	--border-color: light-dark(teal, goldenrod);
 }
 
 /* Make summaries look like tabs */
-.item summary {
+.item .subitem {
   grid-row: 1;
   cursor: pointer;
   padding: 0.5rem 1rem;
   list-style: none; /* Hide marker */
-  border: 1px solid transparent;
-  border-bottom-color: light-dark(teal, goldenrod);
   grid-column: var(--n);
+  border: 1px solid transparent;
+  transition: border-color ease-in 250ms;
+  margin-block-end: 1lh;
+  text-align: center;
+  position: relative;
+}
+
+.item .subitem:hover {
+    text-shadow: 0 0 8px canvasText;
+    /*background-color: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.1));*/
+}
+
+.item + .item .subitem {
+    margin-inline-end: 1rem;
 }
 
 /* Hide the default marker in all browsers */
-.item summary::-webkit-details-marker {
+.item .subitem::-webkit-details-marker {
   display: none;
 }
 
-/* Position each tab based on --n variable */
-.item summary {
-}
-
 /* Active tab styling */
-.item[open] summary {
-  border-color: light-dark(teal, goldenrod);
-  border-bottom-color: transparent;
+.item[open] .subitem {
+
+  color: light-dark(teal, goldenrod);
+  border-color: currentColor;
   position: relative;
   z-index: 1;
 }
@@ -243,10 +310,7 @@ table tr:has(th) {
   grid-column: 1 / -1; /* Span all columns */
   padding-block: 1lh;
   padding-inline: 2ch;
-  border-left: 1px solid light-dark(teal, goldenrod);
-  border-right: 1px solid light-dark(teal, goldenrod);
-  border-bottom: 1px solid light-dark(teal, goldenrod);
-    min-height: 0;
+  min-height: 0;
   contain: layout;
 }
 
@@ -258,5 +322,16 @@ table tr:has(th) {
 /* Show content only for open details */
 .item[open] .details-content {
   display: block;
+}
+.details-content .card {
+    border: none;
+}
+
+.card details summary {
+    margin-block-end: 1lh;
+    font-style: italics;
+}
+.card details[open] summary {
+    opacity: 0.5;
 }
 </style>

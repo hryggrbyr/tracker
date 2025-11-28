@@ -7,7 +7,7 @@
     <p>Books I want to read but do not yet own.</p>
 {% for book in Books | reverse %}
     {% if book.frontmatter.shelf == 'to-read' and not book.frontmatter.owned %}
-    {% include "book-card.njk" %}
+    {% include "card.njk" %}
     {% endif %}
 {% endfor %}
 </section>

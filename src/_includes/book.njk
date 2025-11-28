@@ -7,8 +7,8 @@ layout: base.njk
 <div class="grid">
   <!-- First tab: set to open -->
   <details class="item" name="alpha" open style="--n: 1;">
-    <summary class="subitem">Meta Data</summary>
-    <div class="details-content">
+    <summary class="subitem border">Meta Data</summary>
+    <div class="details-content border">
       <div class="card">
         <figure class="card-image"><img src="{{ coverUrl }}"></figure>
         <div class="card-title flow">
@@ -16,7 +16,12 @@ layout: base.njk
           {% if subtitle %}<p class="card-subtitle"></p>{% endif %}
           <p>{{ author }}</p>
           <p>Published: {{ published | humanReadableDate }}</p>
-          <p><em>{{ description | truncate(140, true, '…') }}</em></p>
+          {% if description %}
+          <details>
+              <summary>{{ description | truncate(140, true, '…') }}</summary>
+              {{ description }}
+          </details>
+          {% endif %}
         </div>
         <div class="card-author" style="padding: 1ch;">
             {% if rating %}<p>{{ rating }}/5</p>{% endif %}
@@ -27,8 +32,8 @@ layout: base.njk
   </details>
 
   <details class="item" name="alpha" style="--n: 2;">
-    <summary class="subitem">Review YAML</summary>
-    <div class="details-content">
+    <summary class="subitem border">Review YAML</summary>
+    <div class="details-content border">
       <h2>YAML for Review</h2>
       <pre>
 ---
