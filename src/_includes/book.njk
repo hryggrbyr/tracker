@@ -2,7 +2,7 @@
 layout: base.njk
 ---
 
-<h1>{{ title }}{% if subtitle %} ({{ subtitle }}){% endif %} by {{ author }}</h1>
+<h1>{{ title }}<span class="meta">{% if subtitle %}<br/><em>{{ subtitle }}</em>{% endif %}<br />{{ author }}</span></h1>
 
 <div class="grid">
   <!-- First tab: set to open -->
