@@ -26,29 +26,33 @@
     </main>
     <footer class="site-footer flow">
         <div class="wrapper spacing gutters">
-                    <div>
-            <p>API</p>
-            <div class="conjoined">
-                <a href="{{ '/api/Books.json' | url }}">Books</a>
-                <a href="{{ '/api/Movies.json' | url }}">Films</a>
-                <a href="{{ '/api/Series.json' | url }}">TV</a>
+            <div class="footer-grid">
+                <div class="column">
+                    <p>API</p>
+                    <div class="conjoined">
+                        <a href="{{ '/api/Books.json' | url }}">Books</a>
+                        <a href="{{ '/api/Movies.json' | url }}">Films</a>
+                        <a href="{{ '/api/Series.json' | url }}">TV</a>
+                    </div>
+                </div>
+                <div class="column">
+                    <p>My Year in Lists</p>
+                    <div class="conjoined">
+                        {%- for year, posts in collections.mediaByYear -%}
+                            <a href="{{ ('/this-year/' + year) | url }}">{{ year }}</a>
+                        {%- endfor -%}
+                    </div>
+                </div>
+                <div class="column">
+                    <p>Collections</p>
+                    <div class="conjoined">
+                        <a href="{{ '/books' | url }}">📚 All books</a>
+                        <a href="{{ '/movies' | url }}">🍿 All films</a>
+                        <a href="{{ '/series' | url }}">📺 All telly</a>
+                        <a href="{{ '/wishlist' | url }}">🎁 Wishlist</a>
+                    </div>
+                </div>
             </div>
-        </div>
-        <p>My Year in Lists</p>
-        <div class="conjoined">
-            {%- for year, posts in collections.mediaByYear -%}
-                <a href="{{ ('/this-year/' + year) | url }}">{{ year }}</a>
-            {%- endfor -%}
-        </div>
-                <div>
-            <p>Collections</p>
-            <div class="conjoined">
-                <a href="{{ '/books' | url }}">📚 All books</a>
-                <a href="{{ '/movies' | url }}">🍿 All films</a>
-                <a href="{{ '/series' | url }}">📺 All telly</a>
-                <a href="{{ '/wishlist' | url }}">🎁 Wishlist</a>
-            </div>
-        </div>
         </div>
         <div class="wrapper spacing gutters">
             <p>

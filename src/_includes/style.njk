@@ -89,6 +89,20 @@ body > header a[rel="home"]:before {
     border-top: 1px solid rgb(from canvasText r g b/0.5);
 }
 
+.site-footer .footer-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.site-footer .footer-grid .column {
+    flex-basis: 30%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    min-width: max-content;
+}
+
 .wrapper {
     width: 100%;
     margin-inline: auto;
@@ -187,13 +201,13 @@ nav {
 nav > div {
     flex-grow: 1;
 }
-nav .conjoined {
+.conjoined {
     display: flex;
     flex-direction: row;
     gap: 0;
     justify-content: stretch;
 }
-nav .conjoined a {
+.conjoined a {
     flex-grow: 1;
     text-transform: none;
     text-align: center;
@@ -205,19 +219,19 @@ nav .conjoined a {
     color: light-dark(canvas, canvas);
     font-weight: bold;
 }
-nav .conjoined.ghost a {
+.conjoined.ghost a {
     background: none;
     font-size: 2em;
     border: 1px solid light-dark(teal, goldenrod);
 }
-nav .conjoined a+a {
+.conjoined a+a {
     border-left: 1px solid currentColor;
 }
-nav .conjoined a:first-of-type {
+.conjoined a:first-of-type {
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
 }
-nav .conjoined a:last-of-type {
+.conjoined a:last-of-type {
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
 }
@@ -341,6 +355,7 @@ table tr:has(th) {
 }
 
 .txb-card {
+    --border-color: light-dark(teal, goldenrod);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

@@ -9,25 +9,30 @@ layout: base.njk
   <details class="item" name="alpha" open style="--n: 1;">
     <summary class="subitem border">Meta Data</summary>
     <div class="details-content border">
-      <div class="card">
-        <figure class="card-image"><img src="{{ coverUrl }}"></figure>
-        <div class="card-title flow">
-          <p class="title"><strong>{{ title }}</strong></p>
-          {% if subtitle %}<p class="card-subtitle"></p>{% endif %}
-          <p>{{ author }}</p>
-          <p>Published: {{ published | humanReadableDate }}</p>
-          {% if description %}
-          <details>
-              <summary>{{ description | truncate(140, true, '…') }}</summary>
-              {{ description }}
-          </details>
-          {% endif %}
-        </div>
-        <div class="card-author" style="padding: 1ch;">
-            {% if rating %}<p>{{ rating }}/5</p>{% endif %}
-            {% if end_date %}<p>{{ end_date | humanReadableDate }}</p>{% endif %}
-        </div>
-      </div>
+        {% set medium = {
+          title: title,
+          subtitle: subtitle,
+          author: author,
+          director: director,
+          actors: actors,
+          coverUrl: coverUrl,
+          poster: poster,
+          description: description,
+          published: published,
+          year: year,
+          isbn: isbn,
+          bookshopUrl: bookshopUrl,
+          reviewUrl: reviewUrl,
+          owned: owned,
+          shelf: shelf,
+          start_date: start_date,
+          end_date: end_date,
+          rating: rating,
+          watched: watched
+        } %}
+        {% set slug = slug | slugify %}
+        {% set path = "/books/" ~ slug %}
+        {% include "card.njk" %}
     </div>
   </details>
 

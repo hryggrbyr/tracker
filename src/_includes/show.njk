@@ -7,22 +7,32 @@ layout: base.njk
 <div class="grid">
   <!-- First tab: set to open -->
   <details class="item" name="alpha" open style="--n: 1;">
-    <summary class="subitem">Meta Data</summary>
-    <div class="details-content">
-      <div class="card">
-        <figure class="card-image"><img src="{{ poster }}"></figure>
-        <div class="card-title flow">
-          <p class="title"><strong>{{ title }}</strong></p>
-          {% if subtitle %}<p class="card-subtitle"></p>{% endif %}
-          <p>Director: {{ director }}</p>
-          <p>Released: {{ year }}</p>
-          <p>Starring: {{ actors | join(', ') }}</p>
-        </div>
-        <div class="card-author" style="padding: 1ch;">
-            {% if rating %}<p>{{ rating }}/5</p>{% endif %}
-            {% if watched %}<p>{{ watched | humanReadableDate }}</p>{% endif %}
-        </div>
-      </div>
+    <summary class="subitem border">Meta Data</summary>
+    <div class="details-content border">
+        {% set medium = {
+          title: title,
+          subtitle: subtitle,
+          author: author,
+          director: director,
+          actors: actors,
+          coverUrl: coverUrl,
+          poster: poster,
+          description: description,
+          published: published,
+          year: year,
+          isbn: isbn,
+          bookshopUrl: bookshopUrl,
+          reviewUrl: reviewUrl,
+          owned: owned,
+          shelf: shelf,
+          start_date: start_date,
+          end_date: end_date,
+          rating: rating,
+          watched: watched
+        } %}
+        {% set slug = slug | slugify %}
+        {% set path = "/series/" ~ slug %}
+        {% include "card.njk" %}
     </div>
   </details>
 
