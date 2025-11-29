@@ -1,8 +1,13 @@
 <style>
+
 :root {
     color-scheme: light dark;
-    font-family: system-ui, sans-serif;
+    font-family: 'Atkinson Hyperlegible Next Variable', system-ui, sans-serif;
+    font-weight: 300;
     line-height: 1.6;
+}
+:is(h1, h2, h3, h4, h5, h6, strong) {
+    font-weight: 500;
 }
 * {
     box-sizing: border-box;
@@ -42,7 +47,6 @@ body > header nav {
 body > header a[rel="home"] {
     font-size: 4em;
     font-weight: bold;
-    font-style: italic;
     display: grid;
     place-items: center center;
     margin-inline: auto;
