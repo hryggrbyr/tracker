@@ -10,10 +10,11 @@ actors:
   - Rubi Tupper
 genre:
   - Romance
+  - Christmas
 length: 85
 shelf: watched
 owned: false
-rating:
+rating: 3
 watched: 2025-11-29
 poster: https://m.media-amazon.com/images/M/MV5BZTllOWFiODgtOWExMy00YTRjLWIwZWQtMGUwY2NlYTQ1ZDIzXkEyXkFqcGc@._V1_SX300.jpg
 ---
