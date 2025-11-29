@@ -38,13 +38,13 @@ layout: base.njk
   </details>
 
   <details class="item" name="alpha" style="--n: 2;">
-    <summary class="subitem">Review YAML</summary>
-    <div class="details-content">
+    <summary class="subitem border">Review YAML</summary>
+    <div class="details-content border">
       <h2>YAML for Review</h2>
       <pre>
 ---
 public: false
-title: "Review — {{ title }} {{ director }} {{ year }}"
+title: "Review — {{ title }} ({{ director }}, {{ year }})"
 date:
 tags:
  - review
@@ -54,6 +54,7 @@ tags:
 description: "One of my sporadic telly reviews"
 layout: "review"
 rating: "{{ rating or "0" }}"
+permalink: /posts/review-{{ title | slugify }}-{{ director | slugify }}-{{ year }}
 ---
       </pre>
     </div>

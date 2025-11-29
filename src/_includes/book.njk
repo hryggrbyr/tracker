@@ -55,6 +55,7 @@ description: "One of my sporadic book reviews"
 layout: "book-review"
 hero: "/images/book-review.jpg"
 teaserImage: true
+permalink: /posts/book-review-{{ title | slugify }}-{{ author | slugify }}
 book:
   title: "{{ title }}"
   author: "{{ author }}"
