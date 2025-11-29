@@ -44,14 +44,14 @@ layout: base.njk
       <pre>
 ---
 public: false
-title: "Review {{ title }} {{ director }} {{ year }}"
+title: "Review — {{ title }} {{ director }} {{ year }}"
 date:
 tags:
  - review
  - entertainment
- - tv
- {%- for tag in tags %}- {{ tag }}
- {% endfor %}
+ - films
+{% for tag in genre %} - {{ tag }}
+{% endfor -%}
 description: "One of my sporadic film reviews"
 layout: "review"
 rating: "{{ rating or "0" }}"

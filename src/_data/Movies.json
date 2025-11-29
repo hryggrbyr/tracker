@@ -28423,6 +28423,33 @@
     }
   },
   {
+    "filename": "A Christmas Miracle for Daisy-Mike Rohl-2021.md",
+    "path": "src/Movies/A Christmas Miracle for Daisy-Mike Rohl-2021.md",
+    "slug": "A Christmas Miracle for Daisy-Mike Rohl-2021",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States",
+      "title": "A Christmas Miracle for Daisy",
+      "year": 2021,
+      "director": "Mike Rohl",
+      "actors": [
+        "Jill Wagner",
+        "Nick Bateman",
+        "Rubi Tupper"
+      ],
+      "genre": [
+        "Romance",
+        "Christmas"
+      ],
+      "length": 85,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 3,
+      "watched": "2025-11-29T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTllOWFiODgtOWExMy00YTRjLWIwZWQtMGUwY2NlYTQ1ZDIzXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "9-Shane Acker-2009.md",
     "path": "src/Movies/9-Shane Acker-2009.md",
     "slug": "9-Shane Acker-2009",
