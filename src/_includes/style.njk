@@ -108,6 +108,7 @@ body > header a[rel="home"]:before {
 }
 
 .wrapper {
+     container-type: inline-size;
     width: 100%;
     margin-inline: auto;
 }
@@ -253,9 +254,8 @@ table tr:has(th) {
   position: relative;
 }
 
-.item .subitem:hover {
+:is(.item .subitem, a.border):hover {
     text-shadow: 0 0 8px canvasText;
-    /*background-color: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.1));*/
 }
 
 .item + .item .subitem {
@@ -301,11 +301,14 @@ table tr:has(th) {
     border: none;
 }
 
-.card details summary {
+:is(.card, .book-meta) details summary {
     margin-block-end: 1lh;
-    font-style: italics;
+    font-style: italic;
 }
-.card details[open] summary {
+details summary:hover {
+    cursor: pointer;
+}
+:is(.card, .book-meta) details[open] summary {
     opacity: 0.5;
 }
 
@@ -321,12 +324,16 @@ table tr:has(th) {
     flex-basis: 30%;
     flex-grow: 1;
     flex-shrink: 1;
-    min-width: 10rem;
+    min-width: 240px;
+}
+.column:has(figure) {
+    min-width: min-content;
 }
 .column:has(figure) img {
     display: block;
     margin-inline: auto;
-    max-width: 100%;
+    width: 100%;
+    max-width: 30rem;
     object-fit: contain;
 }
 .column:has(figure) figcaption {
