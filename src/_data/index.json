@@ -20056,7 +20056,7 @@
     ]
   },
   "Movies": {
-    "count": 982,
+    "count": 983,
     "items": [
       {
         "filename": "eXistenZ-David Cronenberg-1999.md",
@@ -37802,6 +37802,34 @@
         }
       },
       {
+        "filename": "Irish Wish-Janeen Damian-2024.md",
+        "path": "src/Movies/Irish Wish-Janeen Damian-2024.md",
+        "slug": "Irish Wish-Janeen Damian-2024",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Ireland, United States",
+          "title": "Irish Wish",
+          "year": 2024,
+          "director": "Janeen Damian",
+          "actors": [
+            "Lindsay Lohan",
+            "Ed Speleers",
+            "Alexander Vlahos"
+          ],
+          "genre": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "length": 93,
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMDIwMDAxODQtNTg1Mi00YjRmLTliZmMtNDc3OWQ3NWMzNTllXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Invasion of the Body Snatchers-Philip Kaufman-1978.md",
         "path": "src/Movies/Invasion of the Body Snatchers-Philip Kaufman-1978.md",
         "slug": "Invasion of the Body Snatchers-Philip Kaufman-1978",
@@ -40532,7 +40560,7 @@
           ],
           "length": "1h 47m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "1997-01-29T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg"
@@ -48307,7 +48335,7 @@
           ],
           "length": 108,
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2004-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMjE3MDM4NTg0NV5BMl5BanBnXkFtZTcwNjI4MTczMw@@._V1_SX300.jpg"
