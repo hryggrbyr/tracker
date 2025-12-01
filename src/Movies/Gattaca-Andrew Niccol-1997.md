@@ -17,7 +17,7 @@ genre:
   - Romance
 length: 1h 47m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1997-01-29
 poster: https://image.tmdb.org/t/p/w500/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg
