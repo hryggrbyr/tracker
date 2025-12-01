@@ -3,33 +3,45 @@ title: Tracker by Thomas Rigby
 layout: "base.njk"
 ---
 
-<section class="flow">
+<section class="flow" style="--flow-gap: 2lh;">
     <h2>Latest</h2>
+    <section class="flow" style="--flow-gap: 1lh;">
     <h3>Books</h3>
-    <ul>
+    <div class="grid">
     {% for book in Books | reverse %}
         {% if book.frontmatter.shelf == "reading" %}
+        {% set medium = book.frontmatter %}
         {% set slug = book.slug | slugify %}
-        {% set permalink = "books/" ~ slug %}
-        <li><a class="{{ 'current' if book.frontmatter.shelf == 'reading' }}" href="{{ permalink | url }}"><em><strong>&ldquo;{{ book.frontmatter.title }}&rdquo;</strong></em></a> by <strong>{{ book.frontmatter.author }}</strong></li>
+        {% set path = "/books/" ~ slug %}
+        {% include "shelf-cover.njk" %}
         {% endif %}
     {% endfor %}
-    </ul>
+    </div>
+    </section>
+    <section class="section">
+
     <h3>Films</h3>
-    <ul>
+    <div class="grid">
     {% for film in Movies | watched %}
+    {% set medium = film.frontmatter %}
     {% set slug = film.slug | slugify %}
-    {% set permalink = "movies/" ~ slug %}
-        <li><a href="{{ permalink | url }}"><em><strong>&ldquo;{{ film.frontmatter.title }}&rdquo;</strong></em></a> (Dir. <strong>{{ film.frontmatter.director }}</strong>, {{ film.frontmatter.year }})</li>
+    {% set path = "/movies/" ~ slug %}
+    {% include "shelf-cover.njk" %}
     {% endfor %}
-    </ul>
+    </div>
+    </section>
+
+    <section class="section">
+
     <h3>Television</h3>
-    <ul>
+    <div class="grid">
 
     {% for show in Series | watched %}
+    {% set medium = show.frontmatter %}
     {% set slug = show.slug | slugify %}
-    {% set permalink = "series/" ~ slug %}
-        <li><a href="{{ permalink | url }}"><em><strong>&ldquo;{{ show.frontmatter.title }}&rdquo;</strong></em></a> (Dir. <strong>{{ show.frontmatter.director }}</strong>, {{ show.frontmatter.year }})</li>
+    {% set path = "/series/" ~ slug %}
+    {% include "shelf-cover.njk" %}
     {% endfor %}
-    </ul>
+    </div>
+    </section>
 </section>

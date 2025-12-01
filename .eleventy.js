@@ -40,7 +40,7 @@ module.exports = function (eleventyConfig) {
         (a, b) =>
           new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched),
       )
-      .slice(0, 5),
+      .slice(0, 8),
   );
   eleventyConfig.addFilter("urlEncode", function (value) {
     return encodeURIComponent(value);

@@ -232,6 +232,12 @@ table tr:has(th) {
     border-top-left-radius: 8px;
 }
 
+a.border {
+  text-decoration: none;
+  text-align: center;
+    padding-block: 0.5lh;
+    padding-inline: 0.5em;
+}
 a.border:hover {
     text-shadow: 0 0 8px canvasText;
 }
@@ -309,5 +315,11 @@ details summary:hover {
 }
 .column .reading-meta :first-child {
     margin-block-start: auto;
+}
+
+.grid {
+  display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr));
+    gap: 1rem; /* or 2rem, whatever spacing you want */
 }
 </style>
