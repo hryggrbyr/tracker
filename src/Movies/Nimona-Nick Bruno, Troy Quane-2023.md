@@ -8,15 +8,19 @@ actors:
   - Chloë Grace Moretz
   - Riz Ahmed
   - Eugene Lee Yang
+  - Frances Conroy
 genre:
   - Animation
   - Action
   - Adventure
+  - sci-fi
+  - fantasy
+  - lgbt
 length: 101
-shelf: watchlist
+shelf: watched
 owned: true
 rating:
-watched:
+watched: 2025-12-01
 poster: https://m.media-amazon.com/images/M/MV5BMjIyMmY0MWYtZGRkMC00MjhhLTgwNGUtYWVjZmQ4YjhjZWRmXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
