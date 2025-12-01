@@ -17,10 +17,10 @@ genre:
   - fantasy
   - lgbt
 length: 101
-shelf: watched
+shelf: watchlist
 owned: true
 rating:
-watched: 2025-12-01
+watched:
 poster: https://m.media-amazon.com/images/M/MV5BMjIyMmY0MWYtZGRkMC00MjhhLTgwNGUtYWVjZmQ4YjhjZWRmXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
