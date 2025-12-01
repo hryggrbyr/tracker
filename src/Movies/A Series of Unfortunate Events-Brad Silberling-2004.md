@@ -14,7 +14,7 @@ genre:
   - Family
 length: 108
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2004-12-31
 poster: https://m.media-amazon.com/images/M/MV5BMjE3MDM4NTg0NV5BMl5BanBnXkFtZTcwNjI4MTczMw@@._V1_SX300.jpg
