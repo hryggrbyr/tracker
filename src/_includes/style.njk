@@ -124,7 +124,7 @@ body > header a[rel="home"]:before {
     padding-block: 1lh;
 }
 .flow >*+* {
-    margin-block-start: 1lh;
+    margin-block-start: var(--flow-gap, 1lh);
 }
 a {
     color: light-dark(teal, goldenrod);
@@ -148,6 +148,9 @@ h1 .meta {
 pre {
     width: 100%;
     overflow: auto;
+    background: rgb(from canvasText r g b/0.01);
+    border: 1px solid rgb(from canvasText r g b/0.6);
+    padding: 2ch;
 }
 nav {
     display: flex;
@@ -229,84 +232,16 @@ table tr:has(th) {
     border-top-left-radius: 8px;
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr); /* Adjust based on number of tabs */
-  grid-template-rows: auto 1fr;
-}
-
-.item {
-	display: contents;
-	--border-color: light-dark(teal, goldenrod);
-}
-
-/* Make summaries look like tabs */
-.item .subitem {
-  grid-row: 1;
-  cursor: pointer;
-  padding: 0.5rem 1rem;
-  list-style: none; /* Hide marker */
-  grid-column: var(--n);
-  border: 1px solid transparent;
-  transition: border-color ease-in 250ms;
-  margin-block-end: 1lh;
-  text-align: center;
-  position: relative;
-}
-
-:is(.item .subitem, a.border):hover {
+a.border:hover {
     text-shadow: 0 0 8px canvasText;
 }
 
-.item + .item .subitem {
-    margin-inline-end: 1rem;
+details summary:hover {
+    cursor: pointer;
 }
-
-/* Hide the default marker in all browsers */
-.item .subitem::-webkit-details-marker {
-  display: none;
-}
-
-/* Active tab styling */
-.item[open] .subitem {
-
-  color: light-dark(teal, goldenrod);
-  border-color: currentColor;
-  position: relative;
-  z-index: 1;
-}
-
-/* All content areas occupy the same grid cell */
-.details-content {
-	max-width: 100%;
-	overflow-x: auto;
-  grid-row: 2;
-  grid-column: 1 / -1; /* Span all columns */
-  padding-block: 1lh;
-  padding-inline: 2ch;
-  min-height: 0;
-  contain: layout;
-}
-
-/* Hide content when details is not open */
-.item:not([open]) .details-content {
-  display: none;
-}
-
-/* Show content only for open details */
-.item[open] .details-content {
-  display: block;
-}
-.details-content .card {
-    border: none;
-}
-
 :is(.card, .book-meta) details summary {
     margin-block-end: 1lh;
     font-style: italic;
-}
-details summary:hover {
-    cursor: pointer;
 }
 :is(.card, .book-meta) details[open] summary {
     opacity: 0.5;

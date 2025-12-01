@@ -2,62 +2,54 @@
 layout: base.njk
 ---
 
-<h1>{{ title }}<br /><span class="meta">({{ director }}, {{ year }})</span></h1>
+<h1>{{ title }}<span class="meta"><br />({{ director }}, {{ year }})</span></h1>
 
-<div class="grid">
-  <!-- First tab: set to open -->
-  <details class="item" name="alpha" open style="--n: 1;">
-    <summary class="subitem border">Meta Data</summary>
-    <div class="details-content border">
-        {% set medium = {
-          title: title,
-          subtitle: subtitle,
-          author: author,
-          director: director,
-          actors: actors,
-          coverUrl: coverUrl,
-          poster: poster,
-          description: description,
-          published: published,
-          year: year,
-          isbn: isbn,
-          bookshopUrl: bookshopUrl,
-          reviewUrl: reviewUrl,
-          owned: owned,
-          shelf: shelf,
-          start_date: start_date,
-          end_date: end_date,
-          rating: rating,
-          watched: watched,
-          self: true
-        } %}
-        {% set slug = slug | slugify %}
-        {% set path = "/movies/" ~ slug %}
-        {% include "card.njk" %}
-    </div>
-  </details>
-
-  <details class="item" name="alpha" style="--n: 2;">
-    <summary class="subitem border">Review YAML</summary>
-    <div class="details-content border">
-      <h2>YAML for Review</h2>
-      <pre>
+<div class="flow" style="--flow-gap: 2lh;">
+<section>
+{% set medium = {
+    title: title,
+    subtitle: subtitle,
+    author: author,
+    director: director,
+    actors: actors,
+    coverUrl: coverUrl,
+    poster: poster,
+    description: description,
+    published: published,
+    year: year,
+    isbn: isbn,
+    bookshopUrl: bookshopUrl,
+    reviewUrl: reviewUrl,
+    owned: owned,
+    shelf: shelf,
+    start_date: start_date,
+    end_date: end_date,
+    rating: rating,
+    watched: watched,
+    self: true
+} %}
+{% set slug = slug | slugify %}
+{% set path = "/movies/" ~ slug %}
+{% include "card.njk" %}
+</section>
+<section>
+<h2>YAML for Review</h2>
+<pre>
 ---
 public: false
 title: "Review — {{ title }} ({{ director }}, {{ year }})"
 date:
 tags:
- - review
- - entertainment
- - films
-{% for tag in genre %} - {{ tag }}
+  - review
+  - entertainment
+  - films
+{% for tag in genre %}  - {{ tag }}
 {% endfor -%}
 description: "One of my sporadic film reviews"
 layout: "review"
 rating: "{{ rating or "0" }}"
 permalink: /posts/review-{{ title | slugify }}-{{ director | slugify }}-{{ year }}
 ---
-      </pre>
-    </div>
-  </details>
+</pre>
+</section>
 </div>

@@ -14113,12 +14113,16 @@
       "actors": [
         "Chloë Grace Moretz",
         "Riz Ahmed",
-        "Eugene Lee Yang"
+        "Eugene Lee Yang",
+        "Frances Conroy"
       ],
       "genre": [
         "Animation",
         "Action",
-        "Adventure"
+        "Adventure",
+        "sci-fi",
+        "fantasy",
+        "lgbt"
       ],
       "length": 101,
       "shelf": "watchlist",
@@ -23957,6 +23961,34 @@
       "rating": null,
       "watched": "2023-11-26T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/rGCwI76dylPViDF9VXFY0ORRhls.jpg"
+    }
+  },
+  {
+    "filename": "Christmas Inheritance-Ernie Barbarash-2017.md",
+    "path": "src/Movies/Christmas Inheritance-Ernie Barbarash-2017.md",
+    "slug": "Christmas Inheritance-Ernie Barbarash-2017",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United States, Canada, Germany",
+      "title": "Christmas Inheritance",
+      "year": 2017,
+      "director": "Ernie Barbarash",
+      "actors": [
+        "Eliza Taylor",
+        "Jake Lacy",
+        "Andie MacDowell"
+      ],
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "length": 104,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2025-11-30T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTdkYjE4MGMtYTliMS00ZTdhLTg3NmEtOWUyY2YzZjZiYTJiXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
