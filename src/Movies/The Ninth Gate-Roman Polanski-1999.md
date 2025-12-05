@@ -16,7 +16,7 @@ genre:
   - Horror
 length: 2h 13m
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 1999-08-27
 poster: https://image.tmdb.org/t/p/w500/iFDtmA8Bg9zE4NcsjcmGfqFN01H.jpg

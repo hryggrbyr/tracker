@@ -14,7 +14,7 @@ genre:
   - Fantasy
 length: 136
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2011-12-31
 poster: https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SX300.jpg

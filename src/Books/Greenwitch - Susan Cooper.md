@@ -1,9 +1,9 @@
 ---
 tags:
-  - JuvenileFiction
+  - juvenile fiction
   - fantasy
   - mythology
-  - UrbanFantasy
+  - urban fantasy
   - folklore
   - magic
   - wizards
@@ -26,7 +26,7 @@ recommended_by:
   name:
   url:
 created: 2022-12-18
-reviewUrl:
+reviewUrl: https://thomasrigby.com/posts/book-review-greenwitch-susan-cooper/
 bookshopUrl: https://www.ebooks.com/en-gb/book/211346491/greenwitch/susan-cooper/
 ---
 
@@ -38,7 +38,7 @@ _The Dark is Rising Sequence 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre | JuvenileFiction,fantasy,mythology,UrbanFantasy,folklore,magic,wizards |
+| Genre | juvenile fiction,fantasy,mythology,urban fantasy,folklore,magic,wizards |
 | Started | 2025-10-24T00:00:00.000+01:00 |
 | Finished | 2025-11-27T00:00:00.000+00:00 |
 | Rating | 3/5 |

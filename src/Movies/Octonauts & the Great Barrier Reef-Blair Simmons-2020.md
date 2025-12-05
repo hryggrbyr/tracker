@@ -10,8 +10,11 @@ actors:
   - Teresa Gallagher
 genre:
   - Animation
-  - Action
-  - Adventure
+  - family
+  - adventure
+  - sea
+  - TalkingAnimals
+  - musical
 length: 47
 shelf: watched
 owned: false
