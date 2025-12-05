@@ -29,7 +29,7 @@ history:
   - start_date: 2025-10-05
     end_date: 2025-10-24
     rating: 4
-reviewUrl: /posts/book-review-the-dark-is-rising-susan-cooper/
+reviewUrl: https://thomasrigby.com/posts/book-review-the-dark-is-rising-susan-cooper/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780689303173
 recommended_by:
   name:
@@ -51,4 +51,4 @@ _The Dark is Rising Sequence 2_
 | Rating | 4/5 |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780689303173
-READ REVIEW: /posts/book-review-the-dark-is-rising-susan-cooper/
+READ REVIEW: https://thomasrigby.com/posts/book-review-the-dark-is-rising-susan-cooper/
