@@ -4,10 +4,12 @@
 
 <section class="flow">
     <h2>📺 All Telly</h2>
+    <div class="grid">
     {% for show in Series | reverse %}
         {% set medium = show.frontmatter %}
         {% set slug = show.slug | slugify %}
         {% set path = "/series/" ~ slug %}
-        {% include "card.njk" %}
+        {% include "shelf-cover.njk" %}
     {% endfor %}
+</div>
 </section>

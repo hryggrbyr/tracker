@@ -361,5 +361,17 @@ details summary:hover {
     position: absolute;
     inset: 0;
   }
-
+[class*="-indicator"] {
+  text-transform: uppercase;
+  padding: 0.25lh 1ch;
+  font-weight: bold;
+}
+[class*="-indicator"]:is(.shelf-watched, .shelf-read) {
+  background-color: canvas;
+  color: canvasText;
+}
+[class*="-indicator"]:is(.shelf-watchlist, .shelf-to-read) {
+  background-color: light-dark(teal, goldenrod);
+  color: canvas;
+}
 </style>

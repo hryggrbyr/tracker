@@ -10,8 +10,9 @@
     </div>
     <div class="column-last" style="padding: 1ch; margin-inline-start: auto;">
       {% if medium.owned %}
-        <span class="owned-indicator">Owned</span>
+        <span class="owned-indicator border">Owned</span>
       {% endif %}
+      <span class="shelf-indicator shelf-{{medium.shelf}} border">{{ medium.shelf }}</span>
     </div>
   </div>
   <div class="content">

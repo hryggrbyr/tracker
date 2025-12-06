@@ -47,6 +47,11 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addNunjucksFilter("asStars", (x) => {
     const rating = Math.round(parseInt(x, 10));
+
+    if (rating < 0 || rating > 5 || isNaN(rating)) {
+      return "Not rated";
+    }
+
     const filled = "★";
     const outline = "☆";
     return filled.repeat(rating) + outline.repeat(5 - rating);
