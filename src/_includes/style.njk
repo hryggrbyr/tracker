@@ -329,11 +329,20 @@ details summary:hover {
   width: 100%;
   max-width: 300px;
   aspect-ratio: 3/4;
-  padding: 2rem;
   overflow: clip;
   background-size: cover;
   background-attachment: scroll;
   background-position: center center;
+}
+.shelf-cover .content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  padding: 2rem;
+  margin-block-start: auto;
+  background: rgba(0,0,0,0.125);
+  backdrop-filter: blur(4px);
 }
 .shelf-cover h4 {
   margin-block-start: auto;
@@ -352,4 +361,5 @@ details summary:hover {
     position: absolute;
     inset: 0;
   }
+
 </style>

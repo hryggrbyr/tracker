@@ -4,22 +4,24 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url({% if medium.coverUrl %}{{ medium.coverUrl }}{% elif medium.poster %}{{ medium.poster }}{% endif %});
   "
 >
-  <h4>
-    {{ medium.title }}
-    <span class="meta">
-    {% if medium.type == 'movie' %}
-    <br />({{ medium.director }}, {{ medium.year }})</span>
-    {% elif medium.type == 'series' %}
-    <br />({{ medium.director }}, {{ medium.year }})</span>
-    {% elif medium.author %}
-    <span class="meta">
-      {% if medium.subtitle %}
-      <br/><em>{{ medium.subtitle }}</em>{% endif %}
-      <br /><i>{{ medium.author }}</i>
-    {% else %}
-     yer da wears crocs
-    {% endif %}
-    </span>
-  </h4>
-  <a class="border" href="{{ path | url }}">View details</a>
+  <div class="content">
+    <h4>
+      {{ medium.title }}
+      <span class="meta">
+      {% if medium.type == 'movie' %}
+      <br />({{ medium.director }}, {{ medium.year }})</span>
+      {% elif medium.type == 'series' %}
+      <br />({{ medium.director }}, {{ medium.year }})</span>
+      {% elif medium.author %}
+      <span class="meta">
+        {% if medium.subtitle %}
+        <br/><em>{{ medium.subtitle }}</em>{% endif %}
+        <br /><i>{{ medium.author }}</i>
+      {% else %}
+      yer da wears crocs
+      {% endif %}
+      </span>
+    </h4>
+    <a class="border" href="{{ path | url }}">View details</a>
+  </div>
 </article>
