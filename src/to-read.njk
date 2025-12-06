@@ -1,0 +1,19 @@
+---
+  layout: "base.njk"
+  title: "To read"
+---
+
+<section class="flow">
+    <h2>📚 To Read</h2>
+    <p>The never-decreasing list of books I want to read.</p>
+    <div class="grid">
+    {% for book in Books | reverse %}
+        {% if book.frontmatter.shelf == 'to-read' %}
+            {% set medium = book.frontmatter %}
+            {% set slug = book.slug | slugify %}
+            {% set path = "/books/" ~ slug %}
+            {% include "shelf-cover.njk" %}
+        {% endif %}
+    {% endfor %}
+    </div>
+</section>

@@ -45,6 +45,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("urlEncode", function (value) {
     return encodeURIComponent(value);
   });
+  eleventyConfig.addNunjucksFilter("asStars", (x) => {
+    const rating = Math.round(parseInt(x, 10));
+    const filled = "★";
+    const outline = "☆";
+    return filled.repeat(rating) + outline.repeat(5 - rating);
+  });
 
   eleventyConfig.addPassthroughCopy({
     "./_data/*.json": "api",

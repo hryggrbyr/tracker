@@ -1,13 +1,16 @@
 ---
   layout: "base.njk"
+  title: "All Books"
 ---
 
 <section class="flow">
     <h2>All Books</h2>
-{% for book in Books | reverse %}
-{% set medium = book.frontmatter %}
-{% set slug = book.slug | slugify %}
-{% set path = "/books/" ~ slug %}
-{% include "card.njk" %}
-{% endfor %}
+    <div class="grid">
+      {% for book in Books | reverse %}
+        {% set medium = book.frontmatter %}
+        {% set slug = book.slug | slugify %}
+        {% set path = "/books/" ~ slug %}
+        {% include "shelf-cover.njk" %}
+      {% endfor %}
+    </div>
 </section>

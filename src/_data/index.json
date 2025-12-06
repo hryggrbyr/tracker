@@ -1,6 +1,6 @@
 {
   "Books": {
-    "count": 607,
+    "count": 610,
     "items": [
       {
         "filename": "ecstasy three tales of chemical romance - irvine welsh.md",
@@ -2164,6 +2164,39 @@
           "created": "2025-08-06T08:33:24.000Z",
           "reviewUrl": null,
           "bookshopUrl": null
+        }
+      },
+      {
+        "filename": "The Winter Killer (DI James Walker series Book 3) - Alex Pine.md",
+        "path": "src/Books/The Winter Killer (DI James Walker series Book 3) - Alex Pine.md",
+        "slug": "The Winter Killer (DI James Walker series Book 3) - Alex Pine",
+        "frontmatter": {
+          "tags": [
+            "Fiction"
+          ],
+          "title": "The Winter Killer",
+          "subtitle": "The DI James Walker Series 3",
+          "author": [
+            "Alex Pine"
+          ],
+          "publisher": "HarperCollins UK",
+          "published": "2022-10-13T00:00:00.000Z",
+          "page_count": 338,
+          "isbn": 9780008520274,
+          "description": "‘HELP! I am addicted to this series! Unputdownable’ NetGalley reviewer, ⭐⭐⭐⭐⭐ ‘Alex Pine has done it again! Another excellent crime thriller... I was hooked from the first page. Read it – you won’t be disappointed’ NetGalley reviewer, ⭐⭐⭐⭐⭐ ‘Absolutely gripping... I was on the edge of my seat’ NetGalley reviewer, ⭐⭐⭐⭐⭐",
+          "coverUrl": "http://books.google.com/books/content?id=Z-JjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": true,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": "my mum",
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780008520274",
+          "created": "2025-12-05T20:29:38.000Z"
         }
       },
       {
@@ -5542,6 +5575,39 @@
         }
       },
       {
+        "filename": "The Killer in the Cold (DI James Walker series Book 5) - Alex Pine.md",
+        "path": "src/Books/The Killer in the Cold (DI James Walker series Book 5) - Alex Pine.md",
+        "slug": "The Killer in the Cold (DI James Walker series Book 5) - Alex Pine",
+        "frontmatter": {
+          "tags": [
+            "Fiction"
+          ],
+          "title": "The Killer in the Cold",
+          "subtitle": "DI James Walker series 5",
+          "author": [
+            "Alex Pine"
+          ],
+          "publisher": "HarperCollins UK",
+          "published": "2024-11-07T00:00:00.000Z",
+          "page_count": 360,
+          "isbn": 9780008706821,
+          "description": "‘HELP! I am addicted to this series! Unputdownable’ NetGalley reviewer ⭐⭐⭐⭐⭐",
+          "coverUrl": "http://books.google.com/books/content?id=Pv__EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": true,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": "my mum",
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780008706821",
+          "created": "2025-12-03T07:28:12.000Z"
+        }
+      },
+      {
         "filename": "The Killer Book of Cold Cases - Tom Philbin.md",
         "path": "src/Books/The Killer Book of Cold Cases - Tom Philbin.md",
         "slug": "The Killer Book of Cold Cases - Tom Philbin",
@@ -7212,7 +7278,7 @@
               "rating": 4
             }
           ],
-          "reviewUrl": "/posts/book-review-the-dark-is-rising-susan-cooper/",
+          "reviewUrl": "https://thomasrigby.com/posts/book-review-the-dark-is-rising-susan-cooper/",
           "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780689303173",
           "recommended_by": {
             "name": null,
@@ -7523,6 +7589,39 @@
           "created": "2022-12-26T00:00:00.000Z",
           "reviewUrl": null,
           "bookshopUrl": null
+        }
+      },
+      {
+        "filename": "The Christmas Killer (DI James Walker series Book 1) - Alex Pine.md",
+        "path": "src/Books/The Christmas Killer (DI James Walker series Book 1) - Alex Pine.md",
+        "slug": "The Christmas Killer (DI James Walker series Book 1) - Alex Pine",
+        "frontmatter": {
+          "tags": [
+            "Fiction"
+          ],
+          "title": "The Christmas Killer",
+          "subtitle": "The DI James Walker Series 1",
+          "author": [
+            "Alex Pine"
+          ],
+          "publisher": "HarperCollins UK",
+          "published": "2020-10-29T00:00:00.000Z",
+          "page_count": 367,
+          "isbn": 9780008402655,
+          "description": "The most chilling read of the Christmas season.",
+          "coverUrl": "http://books.google.com/books/content?id=UgHdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "to-read",
+          "owned": true,
+          "start_date": null,
+          "end_date": null,
+          "rating": 0,
+          "recommended_by": {
+            "name": "my mum",
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780008402655",
+          "created": "2025-12-05T20:28:58.000Z"
         }
       },
       {
@@ -15501,10 +15600,10 @@
         "slug": "Greenwitch - Susan Cooper",
         "frontmatter": {
           "tags": [
-            "JuvenileFiction",
+            "juvenile fiction",
             "fantasy",
             "mythology",
-            "UrbanFantasy",
+            "urban fantasy",
             "folklore",
             "magic",
             "wizards"
@@ -15530,7 +15629,7 @@
             "url": null
           },
           "created": "2022-12-18T00:00:00.000Z",
-          "reviewUrl": null,
+          "reviewUrl": "https://thomasrigby.com/posts/book-review-greenwitch-susan-cooper/",
           "bookshopUrl": "https://www.ebooks.com/en-gb/book/211346491/greenwitch/susan-cooper/"
         }
       },
@@ -20056,7 +20155,7 @@
     ]
   },
   "Movies": {
-    "count": 983,
+    "count": 991,
     "items": [
       {
         "filename": "eXistenZ-David Cronenberg-1999.md",
@@ -22931,6 +23030,34 @@
         }
       },
       {
+        "filename": "The Woman in the Window-Joe Wright-2021.md",
+        "path": "src/Movies/The Woman in the Window-Joe Wright-2021.md",
+        "slug": "The Woman in the Window-Joe Wright-2021",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "The Woman in the Window",
+          "year": 2021,
+          "director": "Joe Wright",
+          "actors": [
+            "Amy Adams",
+            "Gary Oldman",
+            "Anthony Mackie"
+          ],
+          "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+          ],
+          "length": 100,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2021-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BODI1YzhlZTMtZDNkYy00NDdhLWJiMDctYjU4YjZiYTM2YzRkXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "The Wolf of Wall Street-Martin Scorsese-2013.md",
         "path": "src/Movies/The Wolf of Wall Street-Martin Scorsese-2013.md",
         "slug": "The Wolf of Wall Street-Martin Scorsese-2013",
@@ -24513,7 +24640,7 @@
           ],
           "length": "2h 13m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "1999-08-27T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/iFDtmA8Bg9zE4NcsjcmGfqFN01H.jpg"
@@ -27589,8 +27716,8 @@
           ],
           "length": 107,
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
+          "owned": true,
+          "rating": 4,
           "watched": "2000-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BOWMyN2RjZTgtOGFlMi00ZWIyLWFlNzktM2U1OTkxNWU0NzBhXkEyXkFqcGc@._V1_SX300.jpg"
         }
@@ -30566,9 +30693,9 @@
           ],
           "length": "1h 36m",
           "shelf": "watched",
-          "owned": false,
-          "rating": null,
-          "watched": "2004-03-12T00:00:00.000Z",
+          "owned": true,
+          "rating": 3,
+          "watched": "2025-12-05T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg"
         }
       },
@@ -32387,6 +32514,33 @@
         }
       },
       {
+        "filename": "Preaching to the Perverted-Stuart Urban-1997.md",
+        "path": "src/Movies/Preaching to the Perverted-Stuart Urban-1997.md",
+        "slug": "Preaching to the Perverted-Stuart Urban-1997",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom",
+          "title": "Preaching to the Perverted",
+          "year": 1997,
+          "director": "Stuart Urban",
+          "actors": [
+            "Guinevere Turner",
+            "Christien Anholt",
+            "Tom Bell"
+          ],
+          "genre": [
+            "Comedy",
+            "Drama"
+          ],
+          "length": 100,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "1997-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMDJjODI2NDktMjNlMy00MTg3LWI3YTctMjZjNTRhMWY4NmRlXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Practical Magic-Griffin Dunne-1998.md",
         "path": "src/Movies/Practical Magic-Griffin Dunne-1998.md",
         "slug": "Practical Magic-Griffin Dunne-1998",
@@ -32703,7 +32857,7 @@
           ],
           "length": 143,
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2003-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_SX300.jpg"
@@ -32731,10 +32885,38 @@
           ],
           "length": 136,
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2011-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "Pirates of the Caribbean Dead Men Tell No Tales-Joachim Rønning, Espen Sandberg-2017.md",
+        "path": "src/Movies/Pirates of the Caribbean Dead Men Tell No Tales-Joachim Rønning, Espen Sandberg-2017.md",
+        "slug": "Pirates of the Caribbean Dead Men Tell No Tales-Joachim Rønning, Espen Sandberg-2017",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States, Australia, United Kingdom, Canada",
+          "title": "Pirates of the Caribbean Dead Men Tell No Tales",
+          "year": 2017,
+          "director": "Joachim Rønning, Espen Sandberg",
+          "actors": [
+            "Johnny Depp",
+            "Javier Bardem",
+            "Geoffrey Rush"
+          ],
+          "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "length": 129,
+          "shelf": "watchlist",
+          "owned": true,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg"
         }
       },
       {
@@ -32759,7 +32941,7 @@
           ],
           "length": 151,
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2006-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_SX300.jpg"
@@ -32787,7 +32969,7 @@
           ],
           "length": 169,
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2007-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX300.jpg"
@@ -33943,8 +34125,11 @@
           ],
           "genre": [
             "Animation",
-            "Action",
-            "Adventure"
+            "family",
+            "adventure",
+            "sea",
+            "TalkingAnimals",
+            "musical"
           ],
           "length": 47,
           "shelf": "watched",
@@ -34187,7 +34372,7 @@
           "shelf": "watchlist",
           "owned": true,
           "rating": null,
-          "watched": null,
+          "watched": "l",
           "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMmY0MWYtZGRkMC00MjhhLTgwNGUtYWVjZmQ4YjhjZWRmXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
@@ -36127,6 +36312,33 @@
         }
       },
       {
+        "filename": "Love Hard-Hernán Jiménez-2021.md",
+        "path": "src/Movies/Love Hard-Hernán Jiménez-2021.md",
+        "slug": "Love Hard-Hernán Jiménez-2021",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Love Hard",
+          "year": 2021,
+          "director": "Hernán Jiménez",
+          "actors": [
+            "Nina Dobrev",
+            "Jimmy O. Yang",
+            "Darren Barnet"
+          ],
+          "genre": [
+            "Comedy",
+            "Romance"
+          ],
+          "length": 104,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2021-12-25T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMmI5OWQ3MGMtMTVlNy00YzE5LThmYzgtYzI2MzNjYjg1ZWRjXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Love Actually-Richard Curtis-2003.md",
         "path": "src/Movies/Love Actually-Richard Curtis-2003.md",
         "slug": "Love Actually-Richard Curtis-2003",
@@ -36617,6 +36829,36 @@
           "rating": null,
           "watched": "1995-10-27T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg"
+        }
+      },
+      {
+        "filename": "Last Christmas-Paul Feig-2019.md",
+        "path": "src/Movies/Last Christmas-Paul Feig-2019.md",
+        "slug": "Last Christmas-Paul Feig-2019",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom, China, United States",
+          "title": "Last Christmas",
+          "year": 2019,
+          "director": "Paul Feig",
+          "actors": [
+            "Emilia Clarke",
+            "Henry Golding",
+            "Emma Thompson",
+            "Boris Isakovic",
+            "Michelle Yeoh"
+          ],
+          "genre": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+          ],
+          "length": 103,
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BY2NlNTMwYzgtZjI2Ny00ZWExLWE2NDUtNzFlYTQyMmY1NjkwXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -37531,6 +37773,33 @@
         }
       },
       {
+        "filename": "Jingle Bell Heist-Michael Fimognari-2025.md",
+        "path": "src/Movies/Jingle Bell Heist-Michael Fimognari-2025.md",
+        "slug": "Jingle Bell Heist-Michael Fimognari-2025",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States, United Kingdom",
+          "title": "Jingle Bell Heist",
+          "year": 2025,
+          "director": "Michael Fimognari",
+          "actors": [
+            "Olivia Holt",
+            "Connor Swindells",
+            "Lucy Punch"
+          ],
+          "genre": [
+            "Comedy",
+            "Romance"
+          ],
+          "length": 96,
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BM2JiNjdiN2QtNjlmMS00NzExLTlmZTEtOTVmNzNmYzhmZTc3XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Jay and Silent Bob Strike Back-Kevin Smith-2001.md",
         "path": "src/Movies/Jay and Silent Bob Strike Back-Kevin Smith-2001.md",
         "slug": "Jay and Silent Bob Strike Back-Kevin Smith-2001",
@@ -37822,10 +38091,10 @@
             "Romance"
           ],
           "length": 93,
-          "shelf": "watchlist",
+          "shelf": "watched",
           "owned": false,
-          "rating": null,
-          "watched": null,
+          "rating": 2,
+          "watched": "2025-12-01T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMDIwMDAxODQtNTg1Mi00YjRmLTliZmMtNDc3OWQ3NWMzNTllXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
@@ -39185,6 +39454,34 @@
           "rating": null,
           "watched": "1991-02-22T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/5uYv11zTTa83WMWwI3B6EOZtI0Z.jpg"
+        }
+      },
+      {
+        "filename": "Haul Out the Holly-Maclain Nelson-2022.md",
+        "path": "src/Movies/Haul Out the Holly-Maclain Nelson-2022.md",
+        "slug": "Haul Out the Holly-Maclain Nelson-2022",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Haul Out the Holly",
+          "year": 2022,
+          "director": "Maclain Nelson",
+          "actors": [
+            "Lacey Chabert",
+            "Wes Brown",
+            "Stephen Tobolowsky"
+          ],
+          "genre": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+          ],
+          "length": 84,
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MTdhYjctNDY5ZC00NzE1LTgzYzUtZWU3YTIzY2Y4NmU1XkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -40736,7 +41033,7 @@
           ],
           "length": "2h 2m",
           "shelf": "watched",
-          "owned": false,
+          "owned": true,
           "rating": null,
           "watched": "2001-10-19T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/t2WpWM8nBO4sULXr2bDfNEt4qgr.jpg"
@@ -48569,6 +48866,34 @@
         }
       },
       {
+        "filename": "A Castle for Christmas-Mary Lambert-2021.md",
+        "path": "src/Movies/A Castle for Christmas-Mary Lambert-2021.md",
+        "slug": "A Castle for Christmas-Mary Lambert-2021",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom, United States",
+          "title": "A Castle for Christmas",
+          "year": 2021,
+          "director": "Mary Lambert",
+          "actors": [
+            "Brooke Shields",
+            "Cary Elwes",
+            "Lee Ross"
+          ],
+          "genre": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+          ],
+          "length": 98,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2021-12-25T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzExYmJjNTUtZWFmMi00MzYzLTkxNGEtYzZhNzQ5OWYwZjQ2XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "9-Shane Acker-2009.md",
         "path": "src/Movies/9-Shane Acker-2009.md",
         "slug": "9-Shane Acker-2009",
@@ -51182,7 +51507,7 @@
           "shelf": "watched",
           "owned": false,
           "rating": null,
-          "watched": "2016-07-15T00:00:00.000Z",
+          "watched": "2025-12-04T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
         }
       },

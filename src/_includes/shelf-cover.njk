@@ -4,6 +4,16 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url({% if medium.coverUrl %}{{ medium.coverUrl }}{% elif medium.poster %}{{ medium.poster }}{% endif %});
   "
 >
+  <div class="top-meta" style="display: flex; flex-direxction: row; gap: 1ch;">
+    <div class="column-first" style="padding: 1ch;">
+  		{% if medium.rating %}{{ medium.rating | asStars }}{% endif %}
+    </div>
+    <div class="column-last" style="padding: 1ch; margin-inline-start: auto;">
+      {% if medium.owned %}
+        <span class="owned-indicator">Owned</span>
+      {% endif %}
+    </div>
+  </div>
   <div class="content">
     <h4>
       {{ medium.title }}
