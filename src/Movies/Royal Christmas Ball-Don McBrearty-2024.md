@@ -10,6 +10,8 @@ actors:
   - Hailey Summer
 genre:
   - Family
+  - christmas
+  - Romance
 length: N/A
 shelf: watchlist
 owned: false
