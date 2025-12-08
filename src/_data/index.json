@@ -2266,30 +2266,36 @@
         "path": "src/Books/The Weirdstone of Brisingamen - Alan Garner.md",
         "slug": "The Weirdstone of Brisingamen - Alan Garner",
         "frontmatter": {
-          "tags": [],
+          "tags": [
+            "Juvenile Fiction",
+            "fantasy",
+            "urban fantasy",
+            "folklore",
+            "england"
+          ],
           "title": "The Weirdstone of Brisingamen",
-          "subtitle": " ",
+          "subtitle": "A Tale of Alderley",
           "author": [
             "Alan Garner"
           ],
-          "publisher": null,
-          "published": null,
-          "page_count": null,
-          "isbn": null,
-          "description": "",
-          "coverUrl": "https://covers.openlibrary.org/b/olid/OL692255M-M.jpg",
+          "publisher": "HMH Books For Young Readers",
+          "published": 1998,
+          "page_count": 292,
+          "isbn": 9780152017668,
+          "description": "A young girl and her brother are catapulted into a battle between good and evil for possession of a magical stone of great power that is contained in her bracelet.",
+          "coverUrl": "http://books.google.com/books/content?id=FFKnF565aAwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
           "shelf": "to-read",
           "owned": true,
           "start_date": null,
           "end_date": null,
-          "rating": null,
+          "rating": 0,
           "recommended_by": {
             "name": null,
             "url": null
           },
-          "created": "2021-07-19T00:00:00.000Z",
-          "reviewUrl": null,
-          "bookshopUrl": null
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780152017668",
+          "created": "2021-07-19T00:00:00.000Z"
         }
       },
       {
@@ -21934,7 +21940,7 @@
           "length": 83,
           "shelf": "watched",
           "owned": false,
-          "rating": 6,
+          "rating": 3,
           "watched": "2025-09-06T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BZWFhOTdmMzItYjUxYy00NjkyLTllMmItNmUyYjcwYzVjNzU4XkEyXkFqcGc@._V1_SX300.jpg"
         }
@@ -30722,7 +30728,7 @@
           "length": 101,
           "shelf": "watched",
           "owned": false,
-          "rating": 7,
+          "rating": 3,
           "watched": "2025-10-04T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMzFmMTAwNjQtMTcwMC00Nzg4LTg2MzMtNGU3ZGEzYWRlMGU1XkEyXkFqcGc@._V1_SX300.jpg"
         }
@@ -37384,7 +37390,7 @@
           "length": 85,
           "shelf": "watched",
           "owned": false,
-          "rating": 7,
+          "rating": 3,
           "watched": "2025-09-22T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNjQ4NDYtM2I3NC00YWJmLTkwODYtYTk5NGIyMjJlYzQ2XkEyXkFqcGc@._V1_SX300.jpg"
         }
@@ -41736,7 +41742,7 @@
           "length": 89,
           "shelf": "watched",
           "owned": false,
-          "rating": 9,
+          "rating": 4,
           "watched": "2014-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BNzgzODQ2OTI0NF5BMl5BanBnXkFtZTgwMzQxNjE0NDE@._V1_SX300.jpg"
         }
@@ -44365,7 +44371,8 @@
           "genre": [
             "Comedy",
             "Drama",
-            "Romance"
+            "Romance",
+            "christmas"
           ],
           "length": 104,
           "shelf": "watched",

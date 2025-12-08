@@ -1776,7 +1776,7 @@
       "length": 83,
       "shelf": "watched",
       "owned": false,
-      "rating": 6,
+      "rating": 3,
       "watched": "2025-09-06T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BZWFhOTdmMzItYjUxYy00NjkyLTllMmItNmUyYjcwYzVjNzU4XkEyXkFqcGc@._V1_SX300.jpg"
     }
@@ -10564,7 +10564,7 @@
       "length": 101,
       "shelf": "watched",
       "owned": false,
-      "rating": 7,
+      "rating": 3,
       "watched": "2025-10-04T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BMzFmMTAwNjQtMTcwMC00Nzg4LTg2MzMtNGU3ZGEzYWRlMGU1XkEyXkFqcGc@._V1_SX300.jpg"
     }
@@ -17226,7 +17226,7 @@
       "length": 85,
       "shelf": "watched",
       "owned": false,
-      "rating": 7,
+      "rating": 3,
       "watched": "2025-09-22T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNjQ4NDYtM2I3NC00YWJmLTkwODYtYTk5NGIyMjJlYzQ2XkEyXkFqcGc@._V1_SX300.jpg"
     }
@@ -21578,7 +21578,7 @@
       "length": 89,
       "shelf": "watched",
       "owned": false,
-      "rating": 9,
+      "rating": 4,
       "watched": "2014-12-31T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BNzgzODQ2OTI0NF5BMl5BanBnXkFtZTgwMzQxNjE0NDE@._V1_SX300.jpg"
     }
@@ -24207,7 +24207,8 @@
       "genre": [
         "Comedy",
         "Drama",
-        "Romance"
+        "Romance",
+        "christmas"
       ],
       "length": 104,
       "shelf": "watched",
