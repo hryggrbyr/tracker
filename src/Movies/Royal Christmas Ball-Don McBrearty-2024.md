@@ -1,7 +1,7 @@
 ---
 type: movie
 country: United States
-title: Royal Christmas Ball
+title: A Cinderella Christmas Ball
 year: 2024
 director: Don McBrearty
 actors:
@@ -18,7 +18,7 @@ watched:
 poster: https://m.media-amazon.com/images/M/MV5BNWFjYjYyYjUtZWFiMC00YmM2LWI1NzgtNzc0NDU3ODg2OWQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
 ---
 
-# Royal Christmas Ball (2024)
+# A Cinderella Christmas Ball (2024)
 
 ![](https://m.media-amazon.com/images/M/MV5BNWFjYjYyYjUtZWFiMC00YmM2LWI1NzgtNzc0NDU3ODg2OWQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
