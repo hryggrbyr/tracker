@@ -11,7 +11,7 @@ actors:
 genre:
   - Comedy
   - Drama
-  - Fantasy
+  - christmas
 length: 84
 shelf: watched
 owned: false
