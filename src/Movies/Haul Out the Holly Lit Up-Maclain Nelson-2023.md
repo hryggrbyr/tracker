@@ -1,7 +1,7 @@
 ---
 type: movie
 country: United States
-title: Haul Out the Holly Lit Up
+title: "Haul Out the Holly: Lit Up"
 year: 2023
 director: Maclain Nelson
 actors:
@@ -20,7 +20,7 @@ watched: 2025-12-08
 poster: https://m.media-amazon.com/images/M/MV5BNGZlYmE2ZTYtMGMzMi00NDM5LTgwNTMtNGJjNDcxYTc5ODM0XkEyXkFqcGc@._V1_SX300.jpg
 ---
 
-# Haul Out the Holly Lit Up (2023)
+# Haul Out the Holly: Lit Up (2023)
 
 ![](https://m.media-amazon.com/images/M/MV5BNGZlYmE2ZTYtMGMzMi00NDM5LTgwNTMtNGJjNDcxYTc5ODM0XkEyXkFqcGc@._V1_SX300.jpg)
 
