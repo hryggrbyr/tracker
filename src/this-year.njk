@@ -101,7 +101,7 @@ eleventyComputed:
         <th>&nbsp;</th>
       </tr>
       {%- for item in yearData[1] -%}
-        {% if item.data.type == 'movie' and item.data.genre and item.data.genre | lower contains 'christmas' %}
+        {% if item.data.type == 'movie' and item.data.genre and ('Christmas' in item.data.genre or 'christmas' in item.data.genre) %}
       <tr>
         <td>{{ item.data.watched | getMonthName }}</td>
         <td>{{ item.data.title }}</td>
@@ -109,7 +109,7 @@ eleventyComputed:
         <td>{{ item.data.year }}</td>
         <td><a href="{{ item.url | url }}">View</a></td>
       </tr>
-      {% endif %}
+{% endif %}
       {%- endfor -%}
     </table>
   </section>
