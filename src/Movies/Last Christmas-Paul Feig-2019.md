@@ -15,10 +15,10 @@ genre:
   - Drama
   - Fantasy
 length: 103
-shelf: watchlist
+shelf: watched
 owned: false
-rating:
-watched:
+rating: 5
+watched: 2025-12-10
 poster: https://m.media-amazon.com/images/M/MV5BY2NlNTMwYzgtZjI2Ny00ZWExLWE2NDUtNzFlYTQyMmY1NjkwXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
