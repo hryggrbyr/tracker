@@ -1,13 +1,16 @@
 ---
 type: movie
-country: Unknown
+country: UKp
 title: "Russell Brand: In Plain Sight: Dispatches"
-year: Unknown
-director: Unknown
+year: 2023-09-16
+director: Alice MacShane, Imogen Wynell-Mayow
 actors:
-  - Unknown
+  - Georgia Landers
+  - Russell Brand
+  - Helen Berger
 genre:
-  - Unknown
+  - documentary
+  - abuse
 length: Unknown
 shelf: watched
 owned: false
