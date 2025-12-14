@@ -1554,6 +1554,34 @@
     }
   },
   {
+    "filename": "The Lost Room-2006.md",
+    "path": "src/Series/The Lost Room-2006.md",
+    "slug": "The Lost Room-2006",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "The Lost Room",
+      "year": 2006,
+      "director": "N/A",
+      "actors": [
+        "Peter Krause",
+        "Julianna Margulies",
+        "Peter Jacobson"
+      ],
+      "genre": [
+        "Action",
+        "Fantasy",
+        "Mystery"
+      ],
+      "length": "51S",
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2014-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmU3YzhkY2MtMmM1Yy00Zjg0LWJhZTgtODM2MWVlYTM0YzljXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "The Lost Honour of Christopher Jefferies-2014.md",
     "path": "src/Series/The Lost Honour of Christopher Jefferies-2014.md",
     "slug": "The Lost Honour of Christopher Jefferies-2014",

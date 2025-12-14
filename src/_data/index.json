@@ -20161,7 +20161,7 @@
     ]
   },
   "Movies": {
-    "count": 991,
+    "count": 997,
     "items": [
       {
         "filename": "eXistenZ-David Cronenberg-1999.md",
@@ -31465,6 +31465,34 @@
         }
       },
       {
+        "filename": "Royal Christmas Ball-Don McBrearty-2024.md",
+        "path": "src/Movies/Royal Christmas Ball-Don McBrearty-2024.md",
+        "slug": "Royal Christmas Ball-Don McBrearty-2024",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "A Cinderella Christmas Ball",
+          "year": 2024,
+          "director": "Don McBrearty",
+          "actors": [
+            "Danica McKellar",
+            "Oliver Rice",
+            "Hailey Summer"
+          ],
+          "genre": [
+            "Family",
+            "christmas",
+            "Romance"
+          ],
+          "length": "N/A",
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNWFjYjYyYjUtZWFiMC00YmM2LWI1NzgtNzc0NDU3ODg2OWQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        }
+      },
+      {
         "filename": "Rosencrantz & Guildenstern Are Dead-Tom Stoppard-1990.md",
         "path": "src/Movies/Rosencrantz & Guildenstern Are Dead-Tom Stoppard-1990.md",
         "slug": "Rosencrantz & Guildenstern Are Dead-Tom Stoppard-1990",
@@ -33905,6 +33933,33 @@
           "rating": null,
           "watched": "1997-09-06T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/irvFBOc33CHsioU6hqcu8ExymEa.jpg"
+        }
+      },
+      {
+        "filename": "Operation Mistletoe-Bradley Walsh-2024.md",
+        "path": "src/Movies/Operation Mistletoe-Bradley Walsh-2024.md",
+        "slug": "Operation Mistletoe-Bradley Walsh-2024",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Operation Mistletoe",
+          "year": 2024,
+          "director": "Bradley Walsh",
+          "actors": [
+            "Jen Lilley",
+            "Nick Bateman",
+            "Steve Belford"
+          ],
+          "genre": [
+            "Family",
+            "christmas"
+          ],
+          "length": 86,
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMDUwNDIyOGEtNmU5NC00YmI4LTgwYzktMmU4ODEwYTk0ZDdmXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -39480,14 +39535,42 @@
           "genre": [
             "Comedy",
             "Drama",
-            "Fantasy"
+            "christmas"
           ],
           "length": 84,
-          "shelf": "watchlist",
+          "shelf": "watched",
           "owned": false,
           "rating": null,
-          "watched": null,
+          "watched": "2025-12-08T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MTdhYjctNDY5ZC00NzE1LTgzYzUtZWU3YTIzY2Y4NmU1XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "Haul Out the Holly Lit Up-Maclain Nelson-2023.md",
+        "path": "src/Movies/Haul Out the Holly Lit Up-Maclain Nelson-2023.md",
+        "slug": "Haul Out the Holly Lit Up-Maclain Nelson-2023",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United States",
+          "title": "Haul Out the Holly: Lit Up",
+          "year": 2023,
+          "director": "Maclain Nelson",
+          "actors": [
+            "Lacey Chabert",
+            "Wes Brown",
+            "Stephen Tobolowsky"
+          ],
+          "genre": [
+            "Comedy",
+            "Romance",
+            "christmas"
+          ],
+          "length": 84,
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2025-12-08T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNGZlYmE2ZTYtMGMzMi00NDM5LTgwNTMtNGJjNDcxYTc5ODM0XkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -40048,6 +40131,34 @@
           "rating": null,
           "watched": "1997-04-11T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/7lQ0MSNQqBTYpXTTZL82u1n95Z3.jpg"
+        }
+      },
+      {
+        "filename": "Grimaldi The Funniest Man in the World-Jon Conway-2017.md",
+        "path": "src/Movies/Grimaldi The Funniest Man in the World-Jon Conway-2017.md",
+        "slug": "Grimaldi The Funniest Man in the World-Jon Conway-2017",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom",
+          "title": "Grimaldi The Funniest Man in the World",
+          "year": 2017,
+          "director": "Jon Conway",
+          "actors": [
+            "Barry Chuckle",
+            "Paul Chuckle",
+            "David Essex"
+          ],
+          "genre": [
+            "Short",
+            "Comedy",
+            "Drama"
+          ],
+          "length": 23,
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3BJuvS7XsBuu89kAMnWPgG0jP4s.jpg"
         }
       },
       {
@@ -44324,6 +44435,32 @@
         }
       },
       {
+        "filename": "Christmas on Windmill Way-Don McBrearty-2023.md",
+        "path": "src/Movies/Christmas on Windmill Way-Don McBrearty-2023.md",
+        "slug": "Christmas on Windmill Way-Don McBrearty-2023",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Canada, United States",
+          "title": "Christmas on Windmill Way",
+          "year": 2023,
+          "director": "Don McBrearty",
+          "actors": [
+            "Chad Michael Murray",
+            "Christa Taylor Brown",
+            "Marcia Bennett"
+          ],
+          "genre": [
+            "Romance"
+          ],
+          "length": 85,
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTMzMzU0ZTEtNDk5Zi00NTgxLWIxODgtMjc0MTMwYWFmZmRkXkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
         "filename": "Christmas on Mistletoe Farm-Debbie Isitt-2022.md",
         "path": "src/Movies/Christmas on Mistletoe Farm-Debbie Isitt-2022.md",
         "slug": "Christmas on Mistletoe Farm-Debbie Isitt-2022",
@@ -44351,6 +44488,32 @@
           "rating": null,
           "watched": "2023-11-26T00:00:00.000Z",
           "poster": "https://image.tmdb.org/t/p/w500/rGCwI76dylPViDF9VXFY0ORRhls.jpg"
+        }
+      },
+      {
+        "filename": "Christmas Under the Northern Lights-Ernie Barbarash-2024.md",
+        "path": "src/Movies/Christmas Under the Northern Lights-Ernie Barbarash-2024.md",
+        "slug": "Christmas Under the Northern Lights-Ernie Barbarash-2024",
+        "frontmatter": {
+          "type": "movie",
+          "country": "Canada",
+          "title": "Christmas Under the Northern Lights",
+          "year": 2024,
+          "director": "Ernie Barbarash",
+          "actors": [
+            "Lauren Holly",
+            "Jill Wagner",
+            "Jesse Hutch"
+          ],
+          "genre": [
+            "Drama"
+          ],
+          "length": "N/A",
+          "shelf": "watchlist",
+          "owned": false,
+          "rating": null,
+          "watched": null,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZWE5NTg2MTEtOWYxYi00ZWRmLWFkZTgtM2QxMzMzMWYxZTk4XkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {
@@ -49297,7 +49460,7 @@
     ]
   },
   "Series": {
-    "count": 253,
+    "count": 254,
     "items": [
       {
         "filename": "Zom 100 Bucket List of the Dead-2023.md",
@@ -50851,6 +51014,34 @@
           "rating": null,
           "watched": "2007-12-31T00:00:00.000Z",
           "poster": "https://m.media-amazon.com/images/M/MV5BZmZkNzgxNDYtOTI0NS00YmFjLWI3ODktNTQ5MmI0NzViZjM1XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "The Lost Room-2006.md",
+        "path": "src/Series/The Lost Room-2006.md",
+        "slug": "The Lost Room-2006",
+        "frontmatter": {
+          "type": "series",
+          "country": "United States",
+          "title": "The Lost Room",
+          "year": 2006,
+          "director": "N/A",
+          "actors": [
+            "Peter Krause",
+            "Julianna Margulies",
+            "Peter Jacobson"
+          ],
+          "genre": [
+            "Action",
+            "Fantasy",
+            "Mystery"
+          ],
+          "length": "51S",
+          "shelf": "watched",
+          "owned": false,
+          "rating": null,
+          "watched": "2014-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYmU3YzhkY2MtMmM1Yy00Zjg0LWJhZTgtODM2MWVlYTM0YzljXkEyXkFqcGc@._V1_SX300.jpg"
         }
       },
       {

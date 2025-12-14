@@ -1,38 +1,49 @@
-<article
-  class="shelf-cover border"
-  style="
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url({% if medium.coverUrl %}{{ medium.coverUrl }}{% elif medium.poster %}{{ medium.poster }}{% endif %});
-  "
->
-  <div class="top-meta" style="display: flex; flex-direxction: row; gap: 1ch;">
-    <div class="column-first" style="padding: 1ch;">
-  		{% if medium.rating %}{{ medium.rating | asStars }}{% endif %}
+<article class="shelf-cover border">
+
+    {% set coverUrl = medium.coverUrl or medium.poster %}
+
+    {# New: Insert the lazy-loading <img> tag #}
+    {% if coverUrl %}
+    <img
+        class="shelf-cover-image"
+        src="{{ coverUrl }}"
+        alt="Cover image for {{ medium.title }}"
+        loading="lazy"
+    >
+    {% endif %}
+
+    {# New: Add a content overlay wrapper to handle the linear gradient #}
+    <div class="shelf-cover-overlay">
+        <div class="top-meta" style="display: flex; flex-direxction: row; gap: 1ch;">
+            <div class="column-first" style="padding: 1ch;">
+                {% if medium.rating %}{{ medium.rating | asStars }}{% endif %}
+            </div>
+            <div class="column-last" style="padding: 1ch; margin-inline-start: auto;">
+                {% if medium.owned %}
+                    <span class="owned-indicator border">Owned</span>
+                {% endif %}
+                <span class="shelf-indicator shelf-{{medium.shelf}} border">{{ medium.shelf }}</span>
+            </div>
+        </div>
+        <div class="content">
+            <h4>
+                {{ medium.title }}
+                <span class="meta">
+                {% if medium.type == 'movie' %}
+                <br />({{ medium.director }}, {{ medium.year }})</span>
+                {% elif medium.type == 'series' %}
+                <br />({{ medium.director }}, {{ medium.year }})</span>
+                {% elif medium.author %}
+                <span class="meta">
+                    {% if medium.subtitle %}
+                    <br/><em>{{ medium.subtitle }}</em>{% endif %}
+                    <br /><i>{{ medium.author }}</i>
+                {% else %}
+                yer da wears crocs
+                {% endif %}
+                </span>
+            </h4>
+            <a class="border" href="{{ path | url }}">View details</a>
+        </div>
     </div>
-    <div class="column-last" style="padding: 1ch; margin-inline-start: auto;">
-      {% if medium.owned %}
-        <span class="owned-indicator border">Owned</span>
-      {% endif %}
-      <span class="shelf-indicator shelf-{{medium.shelf}} border">{{ medium.shelf }}</span>
-    </div>
-  </div>
-  <div class="content">
-    <h4>
-      {{ medium.title }}
-      <span class="meta">
-      {% if medium.type == 'movie' %}
-      <br />({{ medium.director }}, {{ medium.year }})</span>
-      {% elif medium.type == 'series' %}
-      <br />({{ medium.director }}, {{ medium.year }})</span>
-      {% elif medium.author %}
-      <span class="meta">
-        {% if medium.subtitle %}
-        <br/><em>{{ medium.subtitle }}</em>{% endif %}
-        <br /><i>{{ medium.author }}</i>
-      {% else %}
-      yer da wears crocs
-      {% endif %}
-      </span>
-    </h4>
-    <a class="border" href="{{ path | url }}">View details</a>
-  </div>
 </article>

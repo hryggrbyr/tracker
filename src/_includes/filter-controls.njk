@@ -1,0 +1,59 @@
+{% set genres = config.genres or [
+    { filterClass: 'owned-indicator', buttonText: 'Owned' },
+    { filterClass: 'shelf-read', buttonText: 'Read' },
+    { filterClass: 'shelf-reading', buttonText: 'Reading' },
+    { filterClass: 'shelf-to-read', buttonText: 'To Read' }
+] %}
+
+<style>
+  .filter-button.active {
+    background-color: canvasText;
+    color: canvas;
+  }
+</style>
+
+<div class="filter-controls conjoined" id="filterControls">
+    <button
+        class="filter-button active"
+        data-filter-class="all"
+    >
+      All
+    </button>
+    {% for genre in genres %}
+        <button
+            class="filter-button"
+            data-filter-class="{{ genre.filterClass }}"
+        >
+            {{ genre.buttonText }}
+        </button>
+    {% endfor %}
+</div>
+
+<script>
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const controlsContainer = document.getElementById('filterControls');
+        const filterButtons = document.querySelectorAll('.filter-button');
+
+        const filterContent = (filterClass) => [...document.querySelectorAll(`.shelf-cover:not(:has(.${filterClass}))`)].forEach(x => x.hidden = true) ;
+        const undoFilter = () => [...document.querySelectorAll('.shelf-cover')].forEach(x => x.removeAttribute('hidden'))
+
+        controlsContainer.addEventListener('click', (event) => {
+            const target = event.target;
+
+            // Check if the clicked element is a filter button
+            if (target.classList.contains('filter-button')) {
+                const filterClass = target.getAttribute('data-filter-class');
+
+                // Update active button state
+                filterButtons.forEach(btn => btn.classList.remove('active'));
+                target.classList.add('active');
+
+                // Apply the filter
+                undoFilter();
+                if (filterClass !== 'all') filterContent(filterClass);
+            }
+        });
+    });
+
+</script>
