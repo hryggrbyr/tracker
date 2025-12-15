@@ -18,7 +18,7 @@ length: 5 seasons (42 episodes)
 shelf: watched
 owned: false
 rating: 3
-watched: 2025-12-11
+watched: 2025-12-14
 poster: https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg
 ---
 
