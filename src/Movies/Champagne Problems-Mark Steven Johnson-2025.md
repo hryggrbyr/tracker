@@ -13,10 +13,10 @@ genre:
   - romance
   - christmas
 length: N/A
-shelf: watched
+shelf: watchlist
 owned: false
 rating:
-watched: 2025-12-16
+watched:
 poster: https://m.media-amazon.com/images/M/MV5BYmZiMTZlMzktOGMxYi00MGJhLWI4YTUtYTAwNTU5Y2UyMGNlXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
