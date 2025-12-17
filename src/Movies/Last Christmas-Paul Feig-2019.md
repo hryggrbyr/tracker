@@ -11,9 +11,10 @@ actors:
   - Boris Isakovic
   - Michelle Yeoh
 genre:
-  - Comedy
-  - Drama
-  - Fantasy
+  - comedy
+  - drama
+  - fantasy
+  - christmas
 length: 103
 shelf: watched
 owned: false
