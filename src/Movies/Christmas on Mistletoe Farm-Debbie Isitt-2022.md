@@ -11,9 +11,9 @@ actors:
   - Sydney Isitt-Ager
   - Ashley Jensen
 genre:
-  - Family
-  - Comedy
-  - Christmas
+  - family
+  - comedy
+  - christmas
 length: 1h 44m
 shelf: watched
 owned: false
