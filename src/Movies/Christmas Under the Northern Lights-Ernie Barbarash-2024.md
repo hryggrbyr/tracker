@@ -11,10 +11,10 @@ actors:
 genre:
   - Drama
 length: N/A
-shelf: watchlist
+shelf: watched
 owned: false
 rating:
-watched:
+watched: 2025-12-24
 poster: https://m.media-amazon.com/images/M/MV5BZWE5NTg2MTEtOWYxYi00ZWRmLWFkZTgtM2QxMzMzMWYxZTk4XkEyXkFqcGc@._V1_SX300.jpg
 ---
 
