@@ -3,9 +3,11 @@ type: movie
 country: United Kingdom
 title: The Scarecrows' Wedding
 year: 2025
-director: N/A
+director: Samantha Cutler, Jeroen Jaspaert
 actors:
-  - N/A
+  - Sophie Okenedo
+  - Jessie Buckley
+  - Domhnall Gleeson
 genre:
   - Animation
   - Family
@@ -15,7 +17,7 @@ shelf: watched
 owned: false
 rating:
 watched: 2025-12-26
-poster: N/A
+poster: https://media.themoviedb.org/t/p/w220_and_h330_face/fADwSvRNxppiQnViNYAflk0CF7Q.jpg
 ---
 
 # The Scarecrows' Wedding (2025)
