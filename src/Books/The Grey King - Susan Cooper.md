@@ -20,8 +20,8 @@ coverUrl: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.good
 shelf: reading
 owned: true
 start_date: 2025-11-27
-end_date:
-rating:
+end_date: 2026-01-02
+rating: 3
 recommended_by:
   name:
   url:
@@ -40,7 +40,7 @@ _The Dark is Rising Sequence 4_
 | --- | --- |
 | Genre | juvenile fiction,fantasy,mythology,urban fantasy,folklore,magic,wizards |
 | Started | 2025-11-27T00:00:00.000+00:00 |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2026-01-02T00:00:00.000+00:00 |
+| Rating | 3/5 |
 
 Following a serious illness, Will is sent to stay with his uncle in the wild, bleak mountains of Tywyd. He is troubled by vague memories until he meets the mysterious Bran - and suddenly Will knows the task that lies ahead. With Bran's help, Will set outs to find the golden harp and awaken the six sleepers who must join the final battle between the Dark and the Light. But Will is about to encounter his most terrifying opponent yet: the Grey King.
