@@ -12,11 +12,11 @@ subtitle: The Dark is Rising Sequence 5
 author:
   - Susan Cooper
 publisher: Margaret K. McElderry Books
-published: 2010-05-11T00:00:00+01:00
+published: 1977-12-31T00:00:00+01:00
 page_count:
 isbn:
 description: ""
-coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
+coverUrl: https://pics.cdn.librarything.com/picsizes/50/76/5076660-c-h0-w540-pv25_593752325451416341674141_v5.jpg
 shelf: reading
 owned: true
 start_date: 2026-01-02
@@ -32,7 +32,7 @@ bookshopUrl:
 
 # Silver on the Tree by Susan Cooper
 
-![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
+![Book Cover Art](https://pics.cdn.librarything.com/picsizes/50/76/5076660-c-h0-w540-pv25_593752325451416341674141_v5.jpg)
 
 _The Dark is Rising Sequence 5_
 
