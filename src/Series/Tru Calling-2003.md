@@ -15,7 +15,7 @@ genre:
   - Mystery
 length: 2 seasons (26 episodes)
 shelf: watched
-owned: false
+owned: true
 rating: 3
 watched: 2026-01-14
 poster: https://image.tmdb.org/t/p/w500/jOqsAwPucH96rUQxZiRNwxd90Yu.jpg
