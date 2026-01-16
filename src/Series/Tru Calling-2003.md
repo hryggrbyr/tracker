@@ -3,7 +3,7 @@ type: series
 country: US
 title: Tru Calling
 year: 2003
-director: Jon Harman Feldman
+director: Jon Harmon Feldman
 actors:
   - Eliza Dushku
   - Zach Galifianakis
