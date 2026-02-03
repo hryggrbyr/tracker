@@ -17,16 +17,16 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://pics.cdn.librarything.com/picsizes/50/76/5076660-c-h0-w540-pv25_593752325451416341674141_v5.jpg
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-01-02
-end_date:
-rating:
+end_date: 2026-02-03
+rating: 3
 recommended_by:
   name:
   url:
 created: 2022-12-31
-reviewUrl:
+reviewUrl: https://thomasrigby.com/posts/book-review-silver-on-the-tree-by-susan-cooper/
 bookshopUrl:
 ---
 
@@ -36,10 +36,10 @@ bookshopUrl:
 
 _The Dark is Rising Sequence 5_
 
-| Shelf | reading |
+| Shelf | read |
 | --- | --- |
 | Genre | juvenile fiction,fantasy,mythology,urban fantasy,folklore,magic,wizards |
 | Started | 2026-01-02T00:00:00.000+00:00 |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2026-02-03T00:00:00.000+00:00 |
+| Rating | 3/5 |
 
