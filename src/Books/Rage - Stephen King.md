@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - thriller
+  - ComingOfAge
+  - psychology
 title: Rage
 subtitle: ""
 author:
@@ -10,15 +13,15 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-02-03
-end_date:
-rating:
+end_date: 2026-02-07
+rating: 5
 recommended_by:
   name:
   url:
-created:
+created: 2011-02-03
 reviewUrl:
 bookshopUrl:
 ---
@@ -29,10 +32,10 @@ bookshopUrl:
 
 __
 
-| Shelf | reading |
+| Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | thriller,ComingOfAge,psychology |
 | Started | 2026-02-03T00:00:00.000+00:00 |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2026-02-07T00:00:00.000+00:00 |
+| Rating | 5/5 |
 
