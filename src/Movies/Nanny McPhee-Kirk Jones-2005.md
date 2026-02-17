@@ -8,6 +8,7 @@ actors:
   - Emma Thompson
   - Colin Firth
   - Angela Lansbury
+  - Kelly MacDonald
 genre:
   - Comedy
   - Family
