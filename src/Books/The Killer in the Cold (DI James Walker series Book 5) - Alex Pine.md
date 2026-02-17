@@ -2,7 +2,7 @@
 tags:
   - Fiction
 title: The Killer in the Cold
-subtitle: DI James Walker series 5
+subtitle: The DI James Walker Series 5
 author:
   - Alex Pine
 publisher: HarperCollins UK
@@ -24,11 +24,11 @@ bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=97800
 created: 2025-12-03 07:28:12
 ---
 
-# The Killer in the Cold (DI James Walker series, Book 5) by Alex Pine
+# The Killer in the Cold (The DI James Walker Series 5) by Alex Pine
 
 ![Book Cover Art](http://books.google.com/books/content?id=Pv__EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
-_DI James Walker series 5_
+_The DI James Walker Series 5_
 
 | &nbsp; | to-read | 
 | --- | --- |
