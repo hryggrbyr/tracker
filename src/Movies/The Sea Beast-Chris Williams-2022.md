@@ -3,7 +3,8 @@ type: movie
 country: United States
 title: The Sea Beast
 year: 2022
-director: Chris Williams
+director:
+  - Chris Williams
 actors:
   - Karl Urban
   - Zaris-Angel Hator
