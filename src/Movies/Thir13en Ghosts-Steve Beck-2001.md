@@ -14,8 +14,8 @@ genre:
 length: 91
 shelf: watched
 owned: true
-rating:
-watched: 2001-12-31
+rating: 4
+watched: 2026-03-05
 poster: https://m.media-amazon.com/images/M/MV5BNmFjMzZkODQtYmEwNS00MzIwLThhNmMtNjRiMmRjNjQ3MzQwXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
