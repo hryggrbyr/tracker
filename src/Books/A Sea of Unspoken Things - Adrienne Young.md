@@ -1,6 +1,8 @@
 ---
 tags:
-  - Fiction
+  - crime
+  - thriller
+  - mystery
 title: A Sea of Unspoken Things
 subtitle: A Novel
 author:
@@ -32,7 +34,7 @@ _A Novel_
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre | crime,thriller,mystery |
 | Started | 2026-03-05T00:00:00.000+00:00 |
 | Finished | 2026-03-09T00:00:00.000+00:00 |
 | Rating | 4/5 |
