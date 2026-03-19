@@ -13,10 +13,10 @@ genre:
   - Mystery
   - Thriller
 length: 115
-shelf: watchlist
+shelf: watched
 owned: false
-rating:
-watched:
+rating: 3
+watched: 2026-03-19
 poster: https://m.media-amazon.com/images/M/MV5BMTI4MDA5NjIwM15BMl5BanBnXkFtZTcwNTA2MjY0Mg@@._V1_SX300.jpg
 ---
 
