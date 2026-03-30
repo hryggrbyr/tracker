@@ -19,9 +19,9 @@ genre:
   - Fantasy
 length: 1h 33m
 shelf: watched
-owned: false
-rating:
-watched: 2012-06-22
+owned: true
+rating: 5
+watched: 2026-03-30
 poster: https://image.tmdb.org/t/p/w500/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg
 ---
 
