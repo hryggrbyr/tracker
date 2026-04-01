@@ -11,7 +11,7 @@ isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
-owned: false
+owned: true
 start_date:
 end_date:
 rating:
