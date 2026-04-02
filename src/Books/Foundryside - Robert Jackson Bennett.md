@@ -12,7 +12,7 @@ isbn: 9781786487865
 description: The city of Tevanne runs on scrivings, industrialised magical inscriptions that make inanimate objects sentient; they power everything, from walls to wheels to weapons. Scrivings have brought enormous progress and enormous wealth - but only to the four merchant Houses who control them. Everyone else is a servant or slave
 coverUrl: http://books.google.com/books/content?id=GNcutAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: to-read
-owned: false
+owned: true
 start_date:
 end_date:
 rating: 0
