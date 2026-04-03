@@ -13,8 +13,8 @@ description: In this electrifying autobiography, Rik stands naked in front of hi
 coverUrl: http://books.google.com/books/content?id=I8SYswvVe-YC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
 owned: false
-start_date: 2006-04-03
-end_date: 2006-04-11
+start_date: 2005-09-03
+end_date: 2005-09-11
 rating: 5
 recommended_by:
   name:
@@ -33,8 +33,8 @@ __
 | &nbsp; | read | 
 | --- | --- |
 | Genre | Biography & Autobiography |
-| Started | 2006-04-03T00:00:00.000+01:00 |
-| Finished | 2006-04-11T00:00:00.000+01:00 |
+| Started | 2005-09-03T00:00:00.000+01:00 |
+| Finished | 2005-09-11T00:00:00.000+01:00 |
 | Rating | 5/5 |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780007375431
