@@ -12,7 +12,7 @@ isbn: 9780007375431
 description: In this electrifying autobiography, Rik stands naked in front of his vast legions of fans and disciples and invites them to take communion with the blood he has spilled for them during his thirty year war on show business.
 coverUrl: http://books.google.com/books/content?id=I8SYswvVe-YC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
-owned: false
+owned: true
 start_date: 2005-09-03
 end_date: 2005-09-11
 rating: 5
