@@ -17,7 +17,7 @@ end_date:
 rating:
 recommended_by:
   name: Alice at Wallflower Digest"
-  url:
+  url: https://thewallflowerdigest.co.uk/books/book-reviews/4-star-books/gideon-the-ninth-the-locked-tomb-1-by-tamsyn-muir/
 created: 2022-12-19
 reviewUrl:
 bookshopUrl:
