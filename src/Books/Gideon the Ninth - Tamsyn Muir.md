@@ -16,7 +16,7 @@ start_date:
 end_date:
 rating:
 recommended_by:
-  name:
+  name: Alice at Wallflower Digest"
   url:
 created: 2022-12-19
 reviewUrl:
