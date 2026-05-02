@@ -11,9 +11,9 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL28719876M-M.jpg
-shelf: to-read
-owned: false
-start_date:
+shelf: reading
+owned: true
+start_date: 2026-05-02
 end_date:
 rating:
 recommended_by:
@@ -30,9 +30,9 @@ bookshopUrl:
 
 _ _
 
-| Shelf | to-read |
+| Shelf | reading |
 | --- | --- |
 | Genre |  |
-| Started |  |
+| Started | 2026-05-02T00:00:00.000+01:00 |
 | Finished |  |
 | Rating | /5 |
