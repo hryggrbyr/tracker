@@ -1,6 +1,7 @@
 ---
 tags:
-  - Science fiction.
+  - sci-fi
+  - JuvenileFiction
 title: Escape to Witch Mountain
 subtitle: ""
 author:
@@ -11,9 +12,9 @@ page_count: 192
 isbn: 9780671545574
 description: Tony and Tia knew they were different from other people and with Father O'Day's help they searched for their home.
 coverUrl:
-shelf: to-read
+shelf: reading
 owned: true
-start_date:
+start_date: 2026-05-06
 end_date:
 rating: 0
 recommended_by:
@@ -30,10 +31,10 @@ No cover image
 
 __
 
-| &nbsp; | to-read | 
+| &nbsp; | reading | 
 | --- | --- |
-| Genre | Science fiction. |
-| Started |  |
+| Genre | sci-fi,JuvenileFiction |
+| Started | 2026-05-06T00:00:00.000+01:00 |
 | Finished |  |
 | Rating | /5 |
 
