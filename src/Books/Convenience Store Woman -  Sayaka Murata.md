@@ -1,21 +1,27 @@
 ---
-tags: []
+tags:
+  - gentle
+  - charming
+  - odd
+  - Japan
+  - SliceOfLife
+  - philosophy
 title: Convenience Store Woman
 subtitle: " "
 author:
   - Sayaka Murata
   - Ginny Tapley Takemori
 publisher:
-published:
-page_count:
+published: 2016-07-27
+page_count: 160
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL28719876M-M.jpg
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-05-02
-end_date:
-rating:
+end_date: 2026-05-06
+rating: 5
 recommended_by:
   name: Alice at Wallflower Digest
   url:
@@ -30,9 +36,9 @@ bookshopUrl:
 
 _ _
 
-| Shelf | reading |
+| Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | gentle,charming,odd,Japan,SliceOfLife,philosophy |
 | Started | 2026-05-02T00:00:00.000+01:00 |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2026-05-06T00:00:00.000+01:00 |
+| Rating | 5/5 |
