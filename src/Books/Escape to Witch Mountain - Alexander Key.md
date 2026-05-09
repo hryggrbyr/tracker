@@ -7,7 +7,7 @@ subtitle: ""
 author:
   - Alexander Key
 publisher: Pocket Books
-published: 1984-11-01
+published: 1968-11-01
 page_count: 192
 isbn: 9780671545574
 description: Tony and Tia knew they were different from other people and with Father O'Day's help they searched for their home.
