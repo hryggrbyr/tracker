@@ -16,9 +16,9 @@ genre:
   - Drama
 length: 2 seasons (25 episodes)
 shelf: watched
-owned: false
-rating:
-watched: 2010-01-30
+owned: true
+rating: 4
+watched: 2026-04-16
 poster: https://image.tmdb.org/t/p/w500/oq5WPzUn7R0YcIk7QGwpXqvgSWO.jpg
 ---
 
