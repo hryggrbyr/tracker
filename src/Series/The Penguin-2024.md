@@ -13,7 +13,7 @@ genre:
   - Drama
 length: N/A
 shelf: watchlist
-owned: false
+owned: true
 rating:
 watched:
 poster: https://m.media-amazon.com/images/M/MV5BYmU3MzYzOWEtOTdkZi00YzA1LTliMzQtNDdiZDBjY2FiNmFlXkEyXkFqcGc@._V1_SX300.jpg
