@@ -11,9 +11,9 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL28423696M-M.jpg
-shelf: to-read
+shelf: reading
 owned: true
-start_date:
+start_date: 2026-05-23
 end_date:
 rating:
 recommended_by:
@@ -30,9 +30,9 @@ bookshopUrl:
 
 __
 
-| Shelf | to-read |
+| Shelf | reading |
 | --- | --- |
 | Genre | Fiction |
-| Started |  |
+| Started | 2026-05-23T00:00:00.000+02:00 |
 | Finished |  |
 | Rating | /5 |
