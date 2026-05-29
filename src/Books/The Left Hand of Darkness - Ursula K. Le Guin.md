@@ -11,7 +11,7 @@ page_count: 371
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
-shelf: to-read
+shelf: reading
 owned: true
 start_date: 2026-05-09
 end_date:
@@ -30,9 +30,9 @@ bookshopUrl:
 
 _Ekumen 4_
 
-| Shelf | to-read |
+| Shelf | reading |
 | --- | --- |
 | Genre | Fiction |
-| Started | 2026-05-09T00:00:00.000+02:00 |
+| Started | 2026-05-09T00:00:00.000+01:00 |
 | Finished |  |
 | Rating | /5 |
