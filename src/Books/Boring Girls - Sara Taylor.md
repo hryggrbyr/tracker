@@ -11,16 +11,16 @@ page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL28423696M-M.jpg
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-05-23
-end_date:
-rating:
+end_date: 2026-05-29
+rating: 3
 recommended_by:
   name:
   url:
 created: 2025-06-25
-reviewUrl:
+reviewUrl: https://thomasrigby.com/posts/book-review-boring-girls-by-sara-taylor/
 bookshopUrl:
 ---
 
@@ -30,9 +30,9 @@ bookshopUrl:
 
 __
 
-| Shelf | reading |
+| Shelf | read |
 | --- | --- |
 | Genre | Fiction |
-| Started | 2026-05-23T00:00:00.000+02:00 |
-| Finished |  |
-| Rating | /5 |
+| Started | 2026-05-23T00:00:00.000+01:00 |
+| Finished | 2026-05-29T00:00:00.000+01:00 |
+| Rating | 3/5 |
