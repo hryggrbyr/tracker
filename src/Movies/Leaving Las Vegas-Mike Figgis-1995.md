@@ -15,8 +15,8 @@ genre:
   - Romance
 length: 1h 51m
 shelf: watched
-owned: false
-rating:
+owned: true
+rating: 5
 watched: 1995-10-27
 poster: https://image.tmdb.org/t/p/w500/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg
 ---
