@@ -17,7 +17,7 @@ length: 12 seasons (620 episodes)
 shelf: watched
 owned: false
 rating:
-watched: 2026-01-22
+watched: 2026-06-05
 poster: https://image.tmdb.org/t/p/w500/8lkytocF9AzcCQlCq58sK4ogP0X.jpg
 ---
 
