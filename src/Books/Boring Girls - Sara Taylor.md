@@ -1,6 +1,8 @@
 ---
 tags:
-  - Fiction
+  - crime
+  - music
+  - ComingOfAge
 title: Boring Girls
 subtitle: ""
 author:
@@ -32,7 +34,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | crime,music,ComingOfAge |
 | Started | 2026-05-23T00:00:00.000+01:00 |
 | Finished | 2026-05-29T00:00:00.000+01:00 |
 | Rating | 3/5 |
