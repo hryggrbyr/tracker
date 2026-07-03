@@ -16,7 +16,7 @@ coverUrl: http://books.google.com/books/content?id=uUqlDwAAQBAJ&printsec=frontco
 shelf: read
 owned: true
 start_date: 2026-06-23
-end_date:
+end_date: 2026-07-03
 rating: 4
 recommended_by:
   name:
@@ -36,7 +36,7 @@ __
 | --- | --- |
 | Genre | fantasy,UrbanFantasy,ParallelWorlds |
 | Started | 2026-06-23T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 2026-07-03T00:00:00.000+01:00 |
 | Rating | 4/5 |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781786453600
