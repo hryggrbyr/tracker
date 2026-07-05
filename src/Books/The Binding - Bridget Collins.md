@@ -15,7 +15,7 @@ shelf: reading
 owned: true
 start_date: 2026-07-04
 end_date:
-rating: 0
+rating:
 recommended_by:
   name:
   url:
