@@ -11,7 +11,7 @@ page_count: 188
 isbn: UCAL:$B399347
 description: ""
 coverUrl: http://books.google.com/books/content?id=CalAAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-shelf: reading
+shelf: to-read
 owned: true
 start_date:
 end_date:
@@ -30,7 +30,7 @@ created: 2026-07-03 22:42:31
 
 __
 
-| &nbsp; | reading | 
+| &nbsp; | to-read | 
 | --- | --- |
 | Genre | Castles |
 | Started |  |
