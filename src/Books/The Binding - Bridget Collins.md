@@ -16,10 +16,10 @@ page_count: 481
 isbn: 9780008272135
 description: "*PRE-ORDER YOUR COPY OF BRIDGET COLLINS' STUNNING NEW NOVEL, THE NAKED LIGHT* LOSE YOURSELF IN THE BREAKOUT SENSATION OF THE YEAR SHORTLISTED FOR WATERSTONES BOOK OF THE YEAR 2019 ‘Spellbinding’ Guardian ‘Magic’ Erin Kelly ‘Immersive’ Sunday Times ‘Astounding’ Anna Mazzola"
 coverUrl: http://books.google.com/books/content?id=XgRYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-07-04
-end_date:
+end_date: 2026-07-23
 rating:
 recommended_by:
   name:
@@ -35,11 +35,11 @@ bookshopUrl:
 
 __
 
-| &nbsp; | reading |
+| &nbsp; | read |
 | --- | --- |
 | Genre | fantasy,HistoricalFantasy,HistoricalFiction,magic,queer,romance |
 | Started | 2026-07-04T00:00:00.000+01:00 |
-| Finished |  |
+| Finished | 2026-07-23T00:00:00.000+01:00 |
 | Rating | /5 |
 
 *PRE-ORDER YOUR COPY OF BRIDGET COLLINS' STUNNING NEW NOVEL, THE NAKED LIGHT* LOSE YOURSELF IN THE BREAKOUT SENSATION OF THE YEAR SHORTLISTED FOR WATERSTONES BOOK OF THE YEAR 2019 ‘Spellbinding’ Guardian ‘Magic’ Erin Kelly ‘Immersive’ Sunday Times ‘Astounding’ Anna Mazzola
