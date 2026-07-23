@@ -1,6 +1,11 @@
 ---
 tags:
-  - Fiction
+  - fantasy
+  - HistoricalFantasy
+  - HistoricalFiction
+  - magic
+  - queer
+  - romance
 title: The Binding
 subtitle: ""
 author:
@@ -32,7 +37,7 @@ __
 
 | &nbsp; | reading |
 | --- | --- |
-| Genre | Fiction |
+| Genre | fantasy,HistoricalFantasy,HistoricalFiction,magic,queer,romance |
 | Started | 2026-07-04T00:00:00.000+01:00 |
 | Finished |  |
 | Rating | /5 |
