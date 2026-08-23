@@ -11,11 +11,11 @@ page_count:
 isbn: 1635421691, 9781635421699
 description: ""
 coverUrl:
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-08-10
-end_date:
-rating:
+end_date: 2026-08-22
+rating: 5
 recommended_by:
   name:
   url:
@@ -30,9 +30,9 @@ No cover image
 
 __
 
-| Shelf | reading |
+| Shelf | read |
 | --- | --- |
 | Genre | Fiction |
 | Started | 2026-08-10T00:00:00.000+01:00 |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2026-08-22T00:00:00.000+01:00 |
+| Rating | 5/5 |
