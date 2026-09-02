@@ -1,6 +1,8 @@
 ---
 tags:
-  - Fiction
+  - SpeculativeFiction
+  - sci-fi
+  - LiteraryFictiom
 title: The Anomaly
 subtitle: ""
 author:
@@ -19,8 +21,8 @@ rating: 5
 recommended_by:
   name:
   url:
-created:
-reviewUrl:
+created: 2025-09-02
+reviewUrl: https://thomasrigby.com/posts/book-review-the-anomaly-herv%C3%A9-le-tellier/
 bookshopUrl:
 ---
 
@@ -32,7 +34,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre | SpeculativeFiction,sci-fi,LiteraryFictiom |
 | Started | 2026-08-10T00:00:00.000+01:00 |
 | Finished | 2026-08-22T00:00:00.000+01:00 |
 | Rating | 5/5 |
