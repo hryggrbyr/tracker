@@ -14,7 +14,7 @@ page_count: 352
 isbn: 9780008759773
 description: The first time, Yrsa doesn't intend to kill. But the Cambridge professor sitting opposite has manipulated her friend and stolen her research. When she flicks a bee into his drink, she thinks he'll get a nasty sting. Then he's dead. And Yrsa, who's been bored for a while, feels alive. Comic, sexy, addictive and unpredictable, Honey follows the not-always-righteous path of taking justice into your own hands.
 coverUrl: http://books.google.com/books/content?id=t4xg0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-08-22
 end_date: 2026-09-01
