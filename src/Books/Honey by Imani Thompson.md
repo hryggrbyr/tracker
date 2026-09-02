@@ -1,7 +1,9 @@
 ---
 tags:
-  - Fiction
-  - Thriller & Suspense
+  - thriller
+  - suspense
+  - crime
+  - BritishLiterature
 title: Honey
 subtitle: ""
 author:
@@ -15,8 +17,8 @@ coverUrl: http://books.google.com/books/content?id=t4xg0QEACAAJ&printsec=frontco
 shelf: reading
 owned: true
 start_date: 2026-08-22
-end_date:
-rating: 0
+end_date: 2026-09-01
+rating: 4
 recommended_by:
   name:
   url:
