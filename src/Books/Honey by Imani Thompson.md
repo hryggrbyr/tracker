@@ -22,7 +22,7 @@ rating: 4
 recommended_by:
   name:
   url:
-reviewUrl: ""
+reviewUrl: https://thomasrigby.com/posts/book-review-honey-imani-thompson/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780008759773
 created: 2026-08-23 00:00:00
 ---
