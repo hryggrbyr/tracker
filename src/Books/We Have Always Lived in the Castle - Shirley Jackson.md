@@ -20,7 +20,7 @@ rating: 5
 recommended_by:
   name:
   url:
-reviewUrl: ""
+reviewUrl: https://thomasrigby.com/posts/book-review-we-have-always-lived-in-the-castle-shirley-jackson/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=UCAL:$B399347
 created: 2026-07-03 22:42:31
 ---
@@ -39,4 +39,4 @@ __
 | Rating | 5/5 |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=UCAL:$B399347
-READ REVIEW: 
+READ REVIEW: https://thomasrigby.com/posts/book-review-we-have-always-lived-in-the-castle-shirley-jackson/
