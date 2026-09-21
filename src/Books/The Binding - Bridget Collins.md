@@ -20,12 +20,12 @@ shelf: read
 owned: true
 start_date: 2026-07-04
 end_date: 2026-07-23
-rating:
+rating: 5
 recommended_by:
   name:
   url:
 created: 2025-08-11 21:31:52
-reviewUrl:
+reviewUrl: https://thomasrigby.com/posts/book-review-the-binding-bridget-collins/
 bookshopUrl:
 ---
 
@@ -40,6 +40,6 @@ __
 | Genre | fantasy,HistoricalFantasy,HistoricalFiction,magic,queer,romance |
 | Started | 2026-07-04T00:00:00.000+01:00 |
 | Finished | 2026-07-23T00:00:00.000+01:00 |
-| Rating | /5 |
+| Rating | 5/5 |
 
 *PRE-ORDER YOUR COPY OF BRIDGET COLLINS' STUNNING NEW NOVEL, THE NAKED LIGHT* LOSE YOURSELF IN THE BREAKOUT SENSATION OF THE YEAR SHORTLISTED FOR WATERSTONES BOOK OF THE YEAR 2019 ‘Spellbinding’ Guardian ‘Magic’ Erin Kelly ‘Immersive’ Sunday Times ‘Astounding’ Anna Mazzola
