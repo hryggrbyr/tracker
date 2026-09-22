@@ -26,7 +26,7 @@ recommended_by:
   name: Alice at Wallflower Digest
   url:
 created: 2024-08-27
-reviewUrl:
+reviewUrl: https://thomasrigby.com/posts/book-review-convenience-store-woman-sayaka-murata/
 bookshopUrl:
 ---
 
@@ -36,9 +36,9 @@ bookshopUrl:
 
 _ _
 
-| Shelf | read |
-| --- | --- |
-| Genre | gentle,charming,odd,Japan,SliceOfLife,philosophy |
-| Started | 2026-05-02T00:00:00.000+01:00 |
-| Finished | 2026-05-06T00:00:00.000+01:00 |
-| Rating | 5/5 |
+| Shelf    | read                                             |
+| -------- | ------------------------------------------------ |
+| Genre    | gentle,charming,odd,Japan,SliceOfLife,philosophy |
+| Started  | 2026-05-02T00:00:00.000+01:00                    |
+| Finished | 2026-05-06T00:00:00.000+01:00                    |
+| Rating   | 5/5                                              |

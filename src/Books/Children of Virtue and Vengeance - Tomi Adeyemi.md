@@ -19,7 +19,7 @@ rating: 4
 recommended_by:
   name:
   url:
-reviewUrl: ""
+reviewUrl: https://thomasrigby.com/posts/book-review-children-of-virtue-and-vengeance-by-tomi-adeyemi/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781509899463
 created: 2026-03-20 21:51:54
 ---
@@ -30,14 +30,14 @@ created: 2026-03-20 21:51:54
 
 _A West African-inspired YA Fantasy, Filled with Danger and Magic_
 
-| &nbsp; | read | 
-| --- | --- |
-| Genre | Young Adult Fiction |
-| Started | 2026-03-20T00:00:00.000+00:00 |
+| &nbsp;   | read                          |
+| -------- | ----------------------------- |
+| Genre    | Young Adult Fiction           |
+| Started  | 2026-03-20T00:00:00.000+00:00 |
 | Finished | 2026-03-31T00:00:00.000+01:00 |
-| Rating | 4/5 |
+| Rating   | 4/5                           |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781509899463
-READ REVIEW: 
+READ REVIEW:
 
 Full of magic and danger, Children of Virtue and Vengeance is the breathtaking sequel to Tomi Adeyemi's ground-breaking, bestselling West African-inspired fantasy Children of Blood and Bone. After battling the impossible, Zélie and Amari have finally succeeded in bringing magic back to the land of Orïsha. But the ritual was more powerful than they could've imagined, reigniting the powers of not only the maji, but of nobles with magic ancestry, too. Now, Zélie struggles to unite the maji in an Orïsha where the enemy is just as powerful as they are. But with civil war looming on the horizon, Zélie finds herself at a breaking point: she must discover a way to bring the kingdom together or watch as Orïsha tears itself apart . . . Continue the mythical magic with the last in the trilogy, Children of Anguish and Anarchy.

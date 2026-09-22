@@ -21,7 +21,7 @@ rating: 3
 recommended_by:
   name:
   url:
-reviewUrl: ""
+reviewUrl: https://thomasrigby.com/posts/book-review-the-mermaid-by-christina-henry/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781785655715
 created: 2024-11-11
 ---
@@ -32,14 +32,14 @@ created: 2024-11-11
 
 __
 
-| &nbsp; | read | 
-| --- | --- |
-| Genre | fantasy,UrbanFantasy,HistoricalFantasy |
-| Started | 2026-02-25T00:00:00.000+00:00 |
-| Finished | 2026-03-05T00:00:00.000+00:00 |
-| Rating | 3/5 |
+| &nbsp;   | read                                   |
+| -------- | -------------------------------------- |
+| Genre    | fantasy,UrbanFantasy,HistoricalFantasy |
+| Started  | 2026-02-25T00:00:00.000+00:00          |
+| Finished | 2026-03-05T00:00:00.000+00:00          |
+| Rating   | 3/5                                    |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781785655715
-READ REVIEW: 
+READ REVIEW:
 
 Once there was a fisherman who lived on a cold and rocky coast and was never able to convince any woman to come away and live in that forbidding place with him. One evening he pulled up his net and found a woman in it. A woman with black hair and eyes as grey as a stormy sea and a gleaming fish's tail instead of legs.The storm in her eyes rolled into his heart. She stopped her thrashing and crashing at his voice, though she did not understand his words. But her eyes had seen inside of him, and his loneliness caught her more surely than the net. So she stayed with him, and loved him, though he grew old, and she did not.Remarks of this strange and unusual woman travelled from village to village and town to town, until they reached the ears of a man whose business was in the selling of the strange and unusual.His name was P.T. Barnum, and he'd been looking for a mermaid.

@@ -20,7 +20,7 @@ rating: 3
 recommended_by:
   name:
   url:
-reviewUrl: ""
+reviewUrl: https://thomasrigby.com/posts/book-review-escape-to-witch-mountain-alexander-key/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780671545574
 created: 2026-03-06 21:53:12
 ---
@@ -31,14 +31,14 @@ No cover image
 
 __
 
-| &nbsp; | read | 
-| --- | --- |
-| Genre | sci-fi,JuvenileFiction |
-| Started | 2026-05-06T00:00:00.000+01:00 |
+| &nbsp;   | read                          |
+| -------- | ----------------------------- |
+| Genre    | sci-fi,JuvenileFiction        |
+| Started  | 2026-05-06T00:00:00.000+01:00 |
 | Finished | 2026-05-09T00:00:00.000+01:00 |
-| Rating | 3/5 |
+| Rating   | 3/5                           |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780671545574
-READ REVIEW: 
+READ REVIEW:
 
 Tony and Tia knew they were different from other people and with Father O'Day's help they searched for their home.
