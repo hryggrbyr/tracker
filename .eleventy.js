@@ -137,6 +137,13 @@ module.exports = function (eleventyConfig) {
       output: "public",
     },
     eleventyComputed: {
+      // YAML parses year-only values (e.g. `published: 2019`) as numbers, and
+      // new Date(2019) means 2019ms after the Unix epoch. Normalize to 1 Jan
+      // of that year so templates and date filters behave.
+      published: (data) =>
+        typeof data.published === "number"
+          ? new Date(data.published, 0, 1)
+          : data.published,
       permalink: (data) => {
         const pathParts = data.page.filePathStem.split("/");
         const slugifiedParts = pathParts.map((part) =>
