@@ -7,7 +7,7 @@ subtitle: ""
 author:
   - Shirley Jackson
 publisher:
-published: 1962
+published: 1962-10-04
 page_count: 188
 isbn: UCAL:$B399347
 description: ""
