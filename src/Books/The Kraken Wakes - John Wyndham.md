@@ -13,11 +13,11 @@ page_count: 288
 isbn: 9780141032993
 description: It started with red fireballs plunging into the oceans, followed by terrifying underwater activity. Soon, the mysterious sea-dwellers begin melting the polar ice caps, threatening humanity with catastrophic flooding.
 coverUrl: http://books.google.com/books/content?id=02Y_AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-09-15
-end_date:
-rating: 0
+end_date: 2026-10-04
+rating: 3
 recommended_by:
   name:
   url:
@@ -33,9 +33,9 @@ created: 2006-08-13 22:42:31
 __
 It started with red fireballs plunging into the oceans, followed by terrifying underwater activity. Soon, the mysterious sea-dwellers begin melting the polar ice caps, threatening humanity with catastrophic flooding.
 
-| Shelf | reading |
+| Shelf | read |
 | --- | --- |
 | Genre | SciFi,PostApocalypse,Thriller |
 | Started | 2026-09-15T00:00:00.000+01:00 |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2026-10-04T00:00:00.000+01:00 |
+| Rating | 3/5 |
