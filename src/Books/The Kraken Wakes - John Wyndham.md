@@ -8,7 +8,7 @@ subtitle: ""
 author:
   - John Wyndham
 publisher: Michael Joseph
-published: 1953
+published: 1953-04-16
 page_count: 288
 isbn: 9780141032993
 description: It started with red fireballs plunging into the oceans, followed by terrifying underwater activity. Soon, the mysterious sea-dwellers begin melting the polar ice caps, threatening humanity with catastrophic flooding.
