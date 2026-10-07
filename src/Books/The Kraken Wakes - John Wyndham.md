@@ -22,7 +22,7 @@ rating: 3
 recommended_by:
   name:
   url:
-reviewUrl: ""
+reviewUrl: https://thomasrigby.com/posts/book-review-the-kraken-wakes-john-wyndham/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780141032993
 created: 2006-08-13 22:42:31
 ---
