@@ -1,8 +1,9 @@
 ---
 tags:
-  - SciFi
+  - sci-fi
   - PostApocalypse
   - Thriller
+  - SpeculativeFiction
 title: The Kraken Wakes
 subtitle: ""
 author:
@@ -35,7 +36,7 @@ It started with red fireballs plunging into the oceans, followed by terrifying u
 
 | Shelf | read |
 | --- | --- |
-| Genre | SciFi,PostApocalypse,Thriller |
+| Genre | sci-fi,PostApocalypse,Thriller,SpeculativeFiction |
 | Started | 2026-09-15T00:00:00.000+01:00 |
 | Finished | 2026-10-04T00:00:00.000+01:00 |
 | Rating | 3/5 |
