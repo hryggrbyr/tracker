@@ -15,7 +15,7 @@ length: N/A
 shelf: watched
 owned: true
 rating: 3
-watched: 2026-10-15
+watched: 2026-10-16
 poster: https://m.media-amazon.com/images/M/MV5BODdkNmZlMjQtZjVmZC00Yzk1LWFkNzMtZjVkNDkyZDJkZDY2XkEyXkFqcGc@._V1_QL75_UX380_CR0, 4, 380, 562_.jpg
 ---
 
