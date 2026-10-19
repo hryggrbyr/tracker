@@ -1,6 +1,6 @@
 ---
 tags: []
-title: The Roanoke girls
+title: The Roanoke Girls
 subtitle: " "
 author:
   - Amy Engel
@@ -14,7 +14,7 @@ shelf: read
 owned: true
 start_date: 2017-11-02
 end_date: 2018-02-08
-rating:
+rating: 3
 recommended_by:
   name:
   url:
@@ -34,4 +34,4 @@ _ _
 | Genre |  |
 | Started | 2017-11-02T00:00:00.000+00:00 |
 | Finished | 2018-02-08T00:00:00.000+00:00 |
-| Rating | /5 |
+| Rating | 3/5 |
