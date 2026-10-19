@@ -23,7 +23,7 @@ recommended_by:
   name: Sofia Coppola
   url:
 created: 2025-08-17 06:42:41
-reviewUrl:
+reviewUrl: https://thomasrigby.com/posts/book-review-the-virgin-suicides-jeffrey-eugenides/
 bookshopUrl:
 ---
 
