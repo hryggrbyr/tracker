@@ -24,6 +24,7 @@ recommended_by:
 created: 2025-02-13
 reviewUrl: /posts/book-review-the-book-of-night-holly-black
 bookshopUrl:
+calibre_uuid: e3e39f4f-403a-4a86-bbd8-b91db75fa5b5
 ---
 
 # Book of Night by Holly Black
