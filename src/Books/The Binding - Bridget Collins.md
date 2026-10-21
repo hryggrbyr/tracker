@@ -10,8 +10,8 @@ title: The Binding
 subtitle: ""
 author:
   - Bridget Collins
-publisher: HarperCollins UK
-published: 2019-01-07
+publisher: HarperCollinsPublishers
+published: 2019-11-01
 page_count: 481
 isbn: 9780008272135
 description: "*PRE-ORDER YOUR COPY OF BRIDGET COLLINS' STUNNING NEW NOVEL, THE NAKED LIGHT* LOSE YOURSELF IN THE BREAKOUT SENSATION OF THE YEAR SHORTLISTED FOR WATERSTONES BOOK OF THE YEAR 2019 ‘Spellbinding’ Guardian ‘Magic’ Erin Kelly ‘Immersive’ Sunday Times ‘Astounding’ Anna Mazzola"
@@ -27,6 +27,7 @@ recommended_by:
 created: 2025-08-11 21:31:52
 reviewUrl: https://thomasrigby.com/posts/book-review-the-binding-bridget-collins/
 bookshopUrl:
+calibre_uuid: 92c5977a-ac4b-4175-bec0-209306fa9594
 ---
 
 # The Binding by Bridget Collins
