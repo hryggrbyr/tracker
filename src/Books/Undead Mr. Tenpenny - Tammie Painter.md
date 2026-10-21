@@ -21,6 +21,7 @@ recommended_by:
 created: 2025-02-19
 reviewUrl:
 bookshopUrl:
+calibre_uuid: e328fe54-9598-423e-aed2-8f465a9c601d
 ---
 
 # Undead Mr. Tenpenny by Tammie Painter
