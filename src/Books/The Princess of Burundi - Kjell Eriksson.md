@@ -4,8 +4,8 @@ title: The Princess of Burundi
 subtitle: " "
 author:
   - Kjell Eriksson
-publisher:
-published:
+publisher: Allison & Busby
+published: 2011-10-14
 page_count:
 isbn:
 description: ""
@@ -21,6 +21,7 @@ recommended_by:
 created: 2023-09-29
 reviewUrl:
 bookshopUrl:
+calibre_uuid: f3d93b40-d52a-4b27-8baf-4d817956ac83
 ---
 
 # The Princess of Burundi by Kjell Eriksson
