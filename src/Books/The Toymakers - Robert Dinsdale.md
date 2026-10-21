@@ -12,7 +12,7 @@ title: The Toymakers
 subtitle: " "
 author:
   - Robert Dinsdale
-publisher: Del Rey
+publisher: Cornerstone Digital
 published: 2018-09-20
 page_count: 480
 isbn: 9781785036354
@@ -29,6 +29,7 @@ recommended_by:
 created: 2025-01-09
 reviewUrl: /posts/book-review-the-toymakers-robert-dinsdale
 bookshopUrl:
+calibre_uuid: 21004e72-2e7a-4126-9539-6d1c7c3affe4
 ---
 
 # The Toymakers by Robert Dinsdale
