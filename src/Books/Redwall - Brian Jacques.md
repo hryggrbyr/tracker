@@ -9,10 +9,10 @@ subtitle: Redwall 1
 author:
   - Brian Jacques
 publisher: Penguin Young Readers Group
-published: 1986-12-31
+published: 2002-09-30
 page_count:
 isbn:
-description: ""
+description: When the peaceful life of ancient Redwall Abbey is shattered by the arrival of the evil rat Cluny and his villainous hordes, Matthias, a young mouse, determines to find the legendary sword of Martin the Warrior which, he is convinced, will help Redwall's inhabitants destroy the enemy.
 coverUrl: https://covers.openlibrary.org/b/olid/OL8632903M-M.jpg
 shelf: read
 owned: true
@@ -25,6 +25,8 @@ recommended_by:
 created: 2015-10-06
 reviewUrl:
 bookshopUrl:
+calibre_uuid: aebc0d14-bdd0-4c7d-afd3-3181d5010f3c
+series: Redwall
 ---
 
 # Redwall by Brian Jacques
