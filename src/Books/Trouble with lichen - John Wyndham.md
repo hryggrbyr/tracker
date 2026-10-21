@@ -1,11 +1,11 @@
 ---
 tags: []
-title: Trouble with lichen
+title: Trouble with Lichen
 subtitle: " "
 author:
   - John Wyndham
-publisher:
-published:
+publisher: Penguin Books Ltd
+published: 2013-03-04
 page_count:
 isbn:
 description: ""
@@ -21,6 +21,7 @@ recommended_by:
 created: 2024-03-01
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 7c95d8c6-ecd3-4cb2-983d-157dae399281
 ---
 
 # Trouble with lichen by John Wyndham
