@@ -24,6 +24,7 @@ recommended_by:
 created: 2024-12-22
 reviewUrl:
 bookshopUrl:
+calibre_uuid: df335b4e-2345-46bd-9e4b-703f99ed6c13
 ---
 
 # Bound in Blood by Tarah Benner
