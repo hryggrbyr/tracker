@@ -9,7 +9,7 @@ title: Hokey Pokey
 subtitle: ""
 author:
   - Kate Mascarenhas
-publisher: Bloomsbury Publishing
+publisher: Head of Zeus
 published: 2023-06-08
 page_count: 288
 isbn: 9781789543841
@@ -26,6 +26,7 @@ recommended_by:
 created: 2025-01-01
 reviewUrl: /posts/book-review-hokey-pokey-kate-mascarenhas
 bookshopUrl:
+calibre_uuid: 0cfbfb91-6f36-47f2-96ad-fc3f698c88af
 ---
 
 # Hokey Pokey by Kate Mascarenhas
