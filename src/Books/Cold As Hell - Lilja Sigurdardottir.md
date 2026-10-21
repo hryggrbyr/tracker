@@ -21,6 +21,7 @@ recommended_by:
 created: 2022-09-04
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 29ba6048-ea18-4df1-804e-fbeeb8129696
 ---
 
 # Cold As Hell by Lilja Sigurðardóttir
