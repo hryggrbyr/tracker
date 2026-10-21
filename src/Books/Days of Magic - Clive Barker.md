@@ -21,6 +21,7 @@ recommended_by:
 created: 2025-04-26
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 88b97db6-8286-41f6-9b36-414e11982fbb
 ---
 
 # Days of Magic by Clive Barker
