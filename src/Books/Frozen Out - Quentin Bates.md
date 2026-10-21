@@ -4,14 +4,14 @@ title: Frozen Out
 subtitle: " "
 author:
   - Quentin Bates
-publisher:
-published:
+publisher: Constable & Robinson Ltd
+published: 2010-10-14
 page_count:
 isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL33447235M-M.jpg
 shelf: read
-owned: false
+owned: true
 start_date: 2022-09-10
 end_date: 2022-10-18
 rating: 4
@@ -21,6 +21,7 @@ recommended_by:
 created: 2022-09-10
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 8b0833a4-f4ed-4a8a-b659-28fefff3a403
 ---
 
 # Frozen Out by Quentin Bates
