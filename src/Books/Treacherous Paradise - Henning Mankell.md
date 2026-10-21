@@ -21,6 +21,7 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 31bfd558-a4aa-4bea-bceb-a6e314a68afd
 ---
 
 # Treacherous Paradise (9780307961235) by Henning Mankell
