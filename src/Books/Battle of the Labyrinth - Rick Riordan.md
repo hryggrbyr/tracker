@@ -26,6 +26,7 @@ recommended_by:
 created: 2015-10-06
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 2c553d67-0591-4315-88c3-185f77b3f0ef
 ---
 
 # Battle of the Labyrinth by Rick Riordan
