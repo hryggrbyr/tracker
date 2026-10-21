@@ -11,7 +11,7 @@ genre:
   - Horror
   - Thriller
 length: N/A
-shelf: watchlistf
+shelf: watchlist
 owned: false
 rating:
 watched: 2025–-12-31

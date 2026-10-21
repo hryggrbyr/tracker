@@ -4,6 +4,8 @@
 
 <section class="flow">
     <h2>📺 All Telly</h2>
+    {% set shelfBase = "series" %}
+    {% include "shelf-nav.njk" %}
     <div class="grid">
     {% for show in Series | reverse %}
         {% set medium = show.frontmatter %}

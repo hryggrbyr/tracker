@@ -5,7 +5,9 @@
 
 <section class="flow">
     <h2>All Books</h2>
-    {% include 'filter-controls.njk' %}
+    {% set shelfBase = "books" %}
+    {% include "shelf-nav.njk" %}
+
     <div class="grid">
       {% for book in Books | reverse %}
         {% set medium = book.frontmatter %}

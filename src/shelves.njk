@@ -1,0 +1,36 @@
+---
+layout: "base.njk"
+pagination:
+  data: shelves
+  size: 1
+  alias: shelf
+eleventyComputed:
+  title: "{{ shelf.title }}"
+  permalink: "{{ shelf.path }}/index.html"
+---
+
+{# Pick the data set for this shelf (Books, Movies or Series) #}
+{% if shelf.data == "Books" %}
+    {% set items = Books %}
+{% elif shelf.data == "Movies" %}
+    {% set items = Movies %}
+{% else %}
+    {% set items = Series %}
+{% endif %}
+
+<section class="flow">
+    <h2>{{ shelf.heading }}</h2>
+    <p>{{ shelf.blurb }}</p>
+    {% include "shelf-nav.njk" %}
+    <div class="grid">
+    {% for item in items | reverse %}
+        {% set isOwned = item.frontmatter.owned == true %}
+        {% if item.frontmatter.shelf == shelf.shelf and (not shelf.ownedFilter or (shelf.ownedFilter == "owned") == isOwned) %}
+            {% set medium = item.frontmatter %}
+            {% set slug = item.slug | slugify %}
+            {% set path = "/" ~ shelf.base ~ "/" ~ slug %}
+            {% include "shelf-cover.njk" %}
+        {% endif %}
+    {% endfor %}
+    </div>
+</section>

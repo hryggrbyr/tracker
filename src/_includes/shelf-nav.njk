@@ -1,0 +1,21 @@
+{#- Sub-navigation for a medium.
+    Expects `shelfBase` (e.g. "movies") on "All" pages, or `shelf` on shelf pages.
+    Row 1: All + each shelf. Row 2 (shelf pages only): that shelf's owned cuts. -#}
+{% set navBase = shelfBase or shelf.base %}
+<div class="conjoined">
+    <a href="{{ ('/' ~ navBase) | url }}"{% if not shelf %} aria-current="page"{% endif %}>All</a>
+    {% for s in shelves %}
+        {% if s.base == navBase and not s.ownedFilter %}
+            <a href="{{ s.path | url }}"{% if shelf and shelf.base == s.base and shelf.shelf == s.shelf %} aria-current="page"{% endif %}>{{ s.title }}</a>
+        {% endif %}
+    {% endfor %}
+</div>
+{% if shelf %}
+<div class="conjoined">
+    {% for s in shelves %}
+        {% if s.base == shelf.base and s.shelf == shelf.shelf %}
+            <a href="{{ s.path | url }}"{% if s.ownedFilter == shelf.ownedFilter %} aria-current="page"{% endif %}>{{ s.ownedLabel or "All" }}</a>
+        {% endif %}
+    {% endfor %}
+</div>
+{% endif %}
