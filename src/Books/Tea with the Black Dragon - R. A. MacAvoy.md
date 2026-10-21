@@ -1,11 +1,11 @@
 ---
 tags: []
-title: Tea with the Black Dragon
+title: Tea With the Black Dragon
 subtitle: " "
 author:
-  - R. A. MacAvoy
-publisher:
-published:
+  - R.A. MacAvoy
+publisher: Open Road Media
+published: 1982-12-31
 page_count:
 isbn:
 description: ""
@@ -21,6 +21,7 @@ recommended_by:
 created: 2023-10-18
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 594430c8-de85-47e2-8be3-facfeaa36878
 ---
 
 # Tea with the Black Dragon by R. A. MacAvoy
