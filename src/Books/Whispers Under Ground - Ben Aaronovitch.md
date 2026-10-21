@@ -8,8 +8,8 @@ title: Whispers Under Ground
 subtitle: Rivers of London 3
 author:
   - Ben Aaronovitch
-publisher:
-published:
+publisher: Gollancz
+published: 2020-11-29
 page_count:
 isbn:
 description: ""
@@ -25,6 +25,8 @@ recommended_by:
 created: 2021-04-22
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 529ceb80-ce64-435e-9f9e-5358b7d644a2
+series: Rivers of London
 ---
 
 # Whispers Under Ground by Ben Aaronovitch

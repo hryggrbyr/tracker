@@ -21,6 +21,7 @@ recommended_by:
 created: 2024-10-21
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 462b4401-887a-4efb-9bbf-e5e8078bbacd
 ---
 
 # Crow Folk by Mark Stay

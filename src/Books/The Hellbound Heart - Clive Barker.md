@@ -11,7 +11,7 @@ publisher:
 published:
 page_count:
 isbn:
-description: ""
+description: Frank Cotton's insatiable appetite for the dark pleasures of pain led him to the puzzle of Lemarchand's box, and from there, to a death only a sick-minded soul could invent. But his brother's love-crazed wife, Julia, has discovered a way to bring Frank back--though the price will be bloody and terrible . . . and there will certainly be hell to pay.
 coverUrl: https://covers.openlibrary.org/b/olid/OL24209310M-M.jpg
 shelf: read
 owned: true
@@ -24,6 +24,7 @@ recommended_by:
 created: 2015-10-06
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 8cc5dda4-763f-48d4-8a20-688a597f42ba
 ---
 
 # The Hellbound Heart by Clive Barker

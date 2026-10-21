@@ -25,6 +25,7 @@ recommended_by:
 created: 2021-04-22
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 4b08f812-ac95-4647-a453-62dec510e2ad
 ---
 
 # Foxglove Summer by Ben Aaronovitch

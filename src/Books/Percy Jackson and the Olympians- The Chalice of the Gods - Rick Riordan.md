@@ -26,6 +26,7 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: a9418734-27fa-472e-91f6-2c3728393330
 ---
 
 # Percy Jackson and the Olympians: The Chalice of the Gods by Rick Riordan

@@ -21,6 +21,7 @@ recommended_by:
 created: 2025-07-12
 reviewUrl:
 bookshopUrl:
+calibre_uuid: a58d4d91-e18f-4db8-b2f7-03dfa2ea7c04
 ---
 
 # The Keeper of Lost Causes [aka Mercy] (Department Q) by Jussi Adler-Olsen

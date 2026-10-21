@@ -5,7 +5,7 @@ title: If Cats Disappeared From The World
 subtitle: ""
 author:
   - Genki Kawamura
-publisher: Pan Macmillan
+publisher: Picador
 published: 2018-09-20
 page_count: 137
 isbn: 9781509889181
@@ -22,6 +22,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781509889181
 created: 2025-02-19 23:45:36
+calibre_uuid: 13088d58-f347-4119-85b0-841ff2fb339c
 ---
 
 # If Cats Disappeared From The World by Genki Kawamura

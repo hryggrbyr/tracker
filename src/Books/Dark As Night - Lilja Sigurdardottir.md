@@ -3,12 +3,12 @@ tags:
   - scandinoir
   - crime
   - iceland
-title: Dark As Night
+title: Dark as Night
 subtitle: An Áróra Investigation 04
 author:
   - Lilja Sigurðardóttir
-publisher:
-published: 2024-10-10
+publisher: Orenda Books
+published: 2024-10-15
 page_count:
 isbn:
 description: ""
@@ -24,6 +24,7 @@ recommended_by:
 created: 2025-03-18
 reviewUrl: /posts/book-review-dark-as-night-lilja-sigurdardottir
 bookshopUrl:
+calibre_uuid: 1f8a8f23-fa26-444b-8305-43fbefbd2590
 ---
 
 # Dark As Night by Lilja Sigurðardóttir

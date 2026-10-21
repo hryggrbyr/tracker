@@ -22,6 +22,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781473535428
 created: 2026-04-04 22:36:32
+calibre_uuid: 62b90f09-ce54-4c57-82cc-7c25d7b48933
 ---
 
 # The Sixth Watch by Sergei Lukyanenko

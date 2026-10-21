@@ -12,10 +12,10 @@ subtitle: The Dark is Rising Sequence 5
 author:
   - Susan Cooper
 publisher: Margaret K. McElderry Books
-published: 1977-12-31T00:00:00+01:00
+published: 2010-05-10
 page_count:
-isbn:
-description: ""
+isbn: "9780689849183"
+description: 'This is the fifth and last book in "The Dark Is Rising" sequence. The Dark is rising in its last and greatest bid to control the world. The servants of the light: Will Stanton, the last of the Old Ones, the mysterious Professor Merriman, and the strange albino Welsh boy, Bran, are helped by three ordinary children in this last desperate battle.'
 coverUrl: https://pics.cdn.librarything.com/picsizes/50/76/5076660-c-h0-w540-pv25_593752325451416341674141_v5.jpg
 shelf: read
 owned: true
@@ -27,7 +27,9 @@ recommended_by:
   url:
 created: 2022-12-31
 reviewUrl: https://thomasrigby.com/posts/book-review-silver-on-the-tree-by-susan-cooper/
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780689849183
+calibre_uuid: f1bcf27a-1a1e-4c2a-8935-ef65210bb5d0
+series: The Dark is Rising Sequence
 ---
 
 # Silver on the Tree by Susan Cooper

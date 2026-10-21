@@ -22,6 +22,7 @@ recommended_by:
 created: 2025-10-22 15:54:24
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 161949d5-a8c4-453f-adb5-fd8be52a7361
 ---
 
 # The Lancashire Witches by William Harrison Ainsworth

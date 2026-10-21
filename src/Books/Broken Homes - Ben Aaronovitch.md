@@ -8,11 +8,11 @@ title: Broken Homes
 subtitle: Rivers of London 4
 author:
   - Ben Aaronovitch
-publisher:
-published:
+publisher: Orion
+published: 2020-11-26
 page_count:
 isbn:
-description: ""
+description: My name is Peter Grant, and I'm a keeper of the secret flame. Truth be told, there's a lot I still don't know. My superior Nightingale is trying to teach me proper schooling for a magician's apprentice. But even he doesn't have all the answers. A mutilated body in Crawley means another murderer is on the loose. But then I get word of something very odd happening in Elephant and Castle. Just the typical day for a magician constable.
 coverUrl: https://covers.openlibrary.org/b/olid/OL27011566M-M.jpg
 shelf: read
 owned: true
@@ -25,6 +25,8 @@ recommended_by:
 created: 2021-04-22
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 90bf665c-d0aa-464e-a559-864f266857da
+series: Rivers of London
 ---
 
 # Broken Homes by Ben Aaronovitch

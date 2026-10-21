@@ -27,6 +27,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/book/1231779/imajica/clive-barker/
 created: 2025-10-27 17:58:24
+calibre_uuid: 24914124-15f0-4b06-9306-5704d08323be
 ---
 
 # Imajica by Clive Barker

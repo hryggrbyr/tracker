@@ -3,9 +3,9 @@ tags: []
 title: The Stranger Times
 subtitle: " "
 author:
-  - C.K. McDonnell
-publisher:
-published:
+  - C. K. McDonnell
+publisher: Penguin Books Ltd
+published: 2021-01-14
 page_count:
 isbn:
 description: ""
@@ -21,6 +21,7 @@ recommended_by:
 created: 2023-02-23
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 8519d7c6-dfd0-4662-a7f6-0c084be24929
 ---
 
 # The Stranger Times by C.K. McDonnell

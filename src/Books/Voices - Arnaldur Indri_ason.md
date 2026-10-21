@@ -22,6 +22,7 @@ recommended_by:
 created: 2025-04-26
 reviewUrl:
 bookshopUrl:
+calibre_uuid: db2c157c-8bc9-4b80-9f5d-fe7250428ff0
 ---
 
 # Voices by Arnaldur Indriðason

@@ -22,6 +22,7 @@ recommended_by:
 created: 2026-10-16 14:40:00
 reviewUrl:
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780060530921
+calibre_uuid: bdb37313-843b-4569-affb-b382fdcff330
 ---
 
 # The Graveyard Book by Neil Gaiman & Dave McKean

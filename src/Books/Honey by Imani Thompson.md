@@ -8,8 +8,8 @@ title: Honey
 subtitle: ""
 author:
   - Imani Thompson
-publisher: HarperCollins Publishers New Zealand
-published: 2026-04-23
+publisher: HarperCollinsPublishers
+published: 2026-04-07
 page_count: 352
 isbn: 9780008759773
 description: The first time, Yrsa doesn't intend to kill. But the Cambridge professor sitting opposite has manipulated her friend and stolen her research. When she flicks a bee into his drink, she thinks he'll get a nasty sting. Then he's dead. And Yrsa, who's been bored for a while, feels alive. Comic, sexy, addictive and unpredictable, Honey follows the not-always-righteous path of taking justice into your own hands.
@@ -25,6 +25,7 @@ recommended_by:
 reviewUrl: https://thomasrigby.com/posts/book-review-honey-imani-thompson/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780008759773
 created: 2026-08-23 00:00:00
+calibre_uuid: b52afa6a-0485-4ed1-b820-ec7c5a1fd061
 ---
 
 # Honey by Imani Thompson

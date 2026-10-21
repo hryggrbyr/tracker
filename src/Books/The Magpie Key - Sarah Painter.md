@@ -10,7 +10,7 @@ title: The Magpie Key
 subtitle: Crow Investigations 8
 author:
   - Sarah Painter
-publisher:
+publisher: Siskin Press Ltd
 published:
 page_count:
 isbn:
@@ -27,6 +27,8 @@ recommended_by:
 created: 2023-04-24
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 4c5772a9-d5b1-4cbe-bda7-5018e66a619c
+series: Crow Investigations
 ---
 
 # The Magpie Key by Sarah Painter

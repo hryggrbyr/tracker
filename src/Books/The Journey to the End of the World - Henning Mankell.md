@@ -21,6 +21,7 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 253e5735-2f7f-4092-b884-3fd4b1a5600f
 ---
 
 # The Journey to the End of the World by Henning Mankell

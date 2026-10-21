@@ -26,6 +26,7 @@ recommended_by:
 created: 2015-10-06
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 3aa5363c-e8ab-44c4-8608-fa19b902923d
 ---
 
 # Percy Jackson and the Lightning Thief by Rick Riordan

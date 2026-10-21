@@ -5,9 +5,9 @@ subtitle: ""
 author:
   - Sarah Painter
 publisher:
-published: 2013-05-29T23:00:00+01:00
+published: 2013-05-29
 page_count:
-isbn:
+isbn: "9781472017062"
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
@@ -20,7 +20,8 @@ recommended_by:
   url:
 created:
 reviewUrl:
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781472017062
+calibre_uuid: b0577f73-1c68-40bf-8df3-65ffbbc640d9
 ---
 
 # The Language of Spells by Painter

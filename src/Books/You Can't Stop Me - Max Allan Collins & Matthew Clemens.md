@@ -22,6 +22,7 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 9a54ae6f-7fad-42e5-9192-967ba675a53a
 ---
 
 # You Can't Stop Me by Max Allan Collins & Matthew Clemens

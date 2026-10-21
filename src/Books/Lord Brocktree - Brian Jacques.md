@@ -1,8 +1,13 @@
-b---
-tags: [ fantasy, TalkingAnimals, drama, JuvenileFiction ]
-title: "Lord Brocktree"
-subtitle: "Redwall 13"
-author: [Brian Jacques]
+---
+tags:
+  - fantasy
+  - TalkingAnimals
+  - drama
+  - JuvenileFiction
+title: Lord Brocktree
+subtitle: Redwall 13
+author:
+  - Brian Jacques
 publisher: Ace Books
 published: 2000-12-31
 page_count:
@@ -10,25 +15,28 @@ isbn:
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
-owned: TRUE
+owned: true
 start_date:
 end_date: 2000-12-31
 rating:
-recommended_by: { name: null, url: null }
+recommended_by:
+  name:
+  url:
 created:
-reviewUrl: null
-bookshopUrl: null
+reviewUrl:
+bookshopUrl:
+calibre_uuid: a6cb6f14-0521-458e-8496-45b1c59b153d
 ---
 
 # Lord Brocktree by Brian Jacques
 
-No cover image
+![Book Cover Art](https://covers.openlibrary.org/b/olid/-M.jpg)
 
-__
+_Redwall 13_
 
-| Shelf |  |
+| Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
 | Started |  |
-| Finished |  |
+| Finished | 2000-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

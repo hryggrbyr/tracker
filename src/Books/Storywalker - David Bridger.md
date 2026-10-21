@@ -24,6 +24,7 @@ recommended_by:
 reviewUrl: https://thomasrigby.com/posts/book-review-storywalker-david-bridger/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781786453600
 created: 2026-03-06 17:55:18
+calibre_uuid: c20341b1-6c3a-460b-b5f0-76ffcd262c85
 ---
 
 # Storywalker by David Bridger

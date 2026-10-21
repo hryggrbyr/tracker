@@ -22,6 +22,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780007353200
 created: 2026-01-02 18:16:28
+calibre_uuid: e494a485-f62f-47c1-967a-acf6fc3d3702
 ---
 
 # Dragon Haven (The Rain Wild Chronicles, Book 2) by Robin Hobb

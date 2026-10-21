@@ -8,7 +8,7 @@ title: A Grave for Two
 subtitle: The Selma Falck Series 1
 author:
   - Anne Holt
-publisher:
+publisher: Atlantic Books
 published:
 page_count:
 isbn:
@@ -25,6 +25,7 @@ recommended_by:
 created: 2021-12-18
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 8760ced1-ac29-46c4-b74c-000f72534fef
 ---
 
 # Grave for Two by Anne Holt

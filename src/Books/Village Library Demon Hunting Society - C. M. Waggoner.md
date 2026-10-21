@@ -24,6 +24,7 @@ recommended_by:
 created: 2024-10-30
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 354ef97d-86ad-4229-892e-c2d1d37e828f
 ---
 
 # Village Library Demon Hunting Society by C. M. Waggoner

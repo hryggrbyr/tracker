@@ -21,6 +21,7 @@ recommended_by:
 created: 2025-04-22
 reviewUrl:
 bookshopUrl:
+calibre_uuid: da36e680-625b-482b-86e2-e1509e44d984
 ---
 
 # You by Caroline Kepnes

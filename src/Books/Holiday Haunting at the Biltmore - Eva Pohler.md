@@ -21,6 +21,7 @@ recommended_by:
 created: 2024-11-07
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 0a1ddc3c-6b72-4163-81ea-8c9494262165
 ---
 
 # Holiday Haunting at the Biltmore by Eva Pohler

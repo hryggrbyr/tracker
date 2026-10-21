@@ -21,6 +21,7 @@ recommended_by:
 created: 2024-05-23
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 21a510a7-95b0-40a7-bca6-ad19026ade6c
 ---
 
 # Prophet by Sin Blach

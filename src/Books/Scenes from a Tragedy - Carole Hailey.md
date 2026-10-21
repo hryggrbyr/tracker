@@ -1,11 +1,11 @@
 ---
 tags:
   - Fiction
-title: Scenes from a Tragedy
+title: Scenes From a Tragedy
 subtitle: ""
 author:
   - Carole Hailey
-publisher: Atlantic Books
+publisher: Corvus
 published: 2025-03-06
 page_count: 381
 isbn: 9781805461555
@@ -22,6 +22,7 @@ recommended_by:
 created: 2025-08-13 15:40:58
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 696b6f03-5114-47c9-8464-f8c751163aa2
 ---
 
 # Scenes from a Tragedy by Carole Hailey

@@ -24,6 +24,7 @@ recommended_by:
 created: 2025-01-21
 reviewUrl: /posts/book-review-yellowface-rf-kuang
 bookshopUrl:
+calibre_uuid: 437d2ec2-3fe1-4f55-a620-3464e35904fc
 ---
 
 # Yellowface by R. F. Kuang

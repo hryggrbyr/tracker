@@ -12,7 +12,12 @@ publisher: Firebird
 published: 1992-12-31
 page_count:
 isbn:
-description: ""
+description: |-
+  The inhabitants of Redwall relax in the haze of summer-but as they do, the neighboring stronghold of Salamandastron lies besieged by the evil weasel army of Ferhago the Assassin. Worse still, Mara, beloved daughter of Urthstripe, Badger Lord of the Fire Mountain, is in terrible danger. Then a lightning bolt uncovers the sword of Martin the Warrior, and young Samkin embarks on an adventure that leads him to Mara. Can the good creatures triumph over the villainous Assassin? 
+
+  Illustrated by Gary Chalk
+
+  **
 coverUrl: https://covers.openlibrary.org/b/olid/OL7361099M-M.jpg
 shelf: read
 owned: true
@@ -25,6 +30,8 @@ recommended_by:
 created: 2015-10-06
 reviewUrl:
 bookshopUrl:
+calibre_uuid: c9378f61-3a62-418d-a86a-7ef6d269d855
+series: Redwall
 ---
 
 # Salamandastron by Brian Jacques

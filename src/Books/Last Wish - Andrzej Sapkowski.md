@@ -24,6 +24,7 @@ recommended_by:
 created: 2020-04-22
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 5313c4e1-ab28-4e6a-ac27-526515389309
 ---
 
 # Last Wish by Andrzej Sapkowski

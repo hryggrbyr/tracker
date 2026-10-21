@@ -12,7 +12,10 @@ publisher: Firebird
 published: 1998-12-31
 page_count:
 isbn:
-description: ""
+description: |-
+  A villainous new presence is aprowl in Mossflower Woods-the Marlfoxes. Stealthy and mysterious, they are out to plunder and destroy everything in their path. And when they reach Redwall Abbey, they ruthlessly steal the most precious treasure of all-the tapestry of Martin the Warrior. It takes Dann Reguba and Song Swifteye, children of warrior squirrels, to follow in their fathers' heroic footsteps. Together with the young shrew Dippler, and Burble the brave watervole, they embark upon the seemingly impossible quest. . . .
+
+  **
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
@@ -25,6 +28,8 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 1e2a2bcb-221b-4e65-9117-ad29e98d806a
+series: Redwall
 ---
 
 # Marlfox by Brian Jacques

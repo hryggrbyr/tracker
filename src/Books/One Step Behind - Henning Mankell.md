@@ -9,11 +9,11 @@ title: One Step Behind
 subtitle: A Kurt Wallender Mystery
 author:
   - Henning Mankell
-publisher:
+publisher: Random House Publishing Group
 published:
 page_count:
-isbn:
-description: ""
+isbn: "9781407017631"
+description: It is Midsummer's Eve. Three young friends meet in a wood to act out an elaborate masque. But, unknown to them, they are being watched. Each is killed by a single bullet.It is Midsummer's Eve. Three young friends meet in a wood to act out an elaborate masque. But, unknown to them, they are being watched. Each is killed by a single bullet. Soon afterwards, one of Inspector Wallander's colleagues is found murdered. Is it the same killer, and what could the connection be? In this investigation Wallander is always, tantalisingly, one step behind.
 coverUrl: https://covers.openlibrary.org/b/olid/OL9272839M-M.jpg
 shelf: read
 owned: true
@@ -25,7 +25,8 @@ recommended_by:
   url:
 created: 2021-07-19
 reviewUrl:
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781407017631
+calibre_uuid: 535e2692-b508-4dab-b1c6-122a8d77b244
 ---
 
 # One Step Behind by Henning Mankell

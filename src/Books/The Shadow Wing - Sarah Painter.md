@@ -10,7 +10,7 @@ title: The Shadow Wing
 subtitle: Crow Investigations 6
 author:
   - Sarah Painter
-publisher:
+publisher: Siskin Press Limited
 published:
 page_count:
 isbn:
@@ -27,6 +27,7 @@ recommended_by:
 created: 2023-03-12
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 54ab04e4-1782-43e8-8e5a-b86784316daa
 ---
 
 # The Shadow Wing by Sarah Painter

@@ -22,6 +22,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781409066149
 created: 2026-04-04 22:35:47
+calibre_uuid: 0a792aec-5af3-4bb5-8d6c-0cc56171ad52
 ---
 
 # The Twilight Watch by Sergei Lukyanenko

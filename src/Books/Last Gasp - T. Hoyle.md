@@ -17,11 +17,12 @@ start_date:
 end_date:
 rating:
 recommended_by:
-  name: John Rigby
+  name: my Dad
   url:
 created: 2022-08-07
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 7bf9977f-cebe-4196-8d41-c85806f7d04c
 ---
 
 # Last Gasp by T. Hoyle

@@ -4,8 +4,8 @@ title: I Did It for You
 subtitle: " "
 author:
   - Amy Engel
-publisher:
-published:
+publisher: HarperCollinsPublishers
+published: 2023-10-15
 page_count:
 isbn:
 description: ""
@@ -21,6 +21,7 @@ recommended_by:
 created: 2025-04-14
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 4a248624-3daa-4b11-b9bb-5727e06d39f4
 ---
 
 # I Did It for You by Amy Engel

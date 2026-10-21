@@ -22,6 +22,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780007444151
 created: 2026-01-02 18:17:19
+calibre_uuid: ce4b3dd2-c1c3-42df-9217-1e3439f0b885
 ---
 
 # Blood of Dragons (The Rain Wild Chronicles, Book 4) by Robin Hobb

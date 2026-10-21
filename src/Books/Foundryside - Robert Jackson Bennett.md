@@ -1,12 +1,15 @@
 ---
 tags:
   - Magic
+  - Fantasy
+  - High
+  - Dark
 title: Foundryside
 subtitle: ""
 author:
   - Robert Jackson Bennett
 publisher: Quercus
-published: 2018-08-23
+published: 2018-08-21
 page_count: 503
 isbn: 9781786487865
 description: The city of Tevanne runs on scrivings, industrialised magical inscriptions that make inanimate objects sentient; they power everything, from walls to wheels to weapons. Scrivings have brought enormous progress and enormous wealth - but only to the four merchant Houses who control them. Everyone else is a servant or slave
@@ -22,6 +25,8 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781786487865
 created: 2026-04-02 14:03:55
+calibre_uuid: 46cbe951-efb6-42eb-a18b-d7bff639c112
+series: The Founders Trilogy
 ---
 
 # Foundryside by Robert Jackson Bennett
@@ -32,7 +37,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Magic |
+| Genre | Magic,Fantasy,High,Dark |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

@@ -1,15 +1,25 @@
 ---
 tags:
-  - Young Adult Fiction
+  - fantasy
+  - dystopia
+  - YoungAdult
+  - magic
 title: Children of Virtue and Vengeance
 subtitle: A West African-inspired YA Fantasy, Filled with Danger and Magic
 author:
   - Tomi Adeyemi
-publisher: Pan Macmillan
+publisher: Henry Holt and Co. (BYR)
 published: 2019-12-03
 page_count: 428
 isbn: 9781509899463
-description: "Full of magic and danger, Children of Virtue and Vengeance is the breathtaking sequel to Tomi Adeyemi's ground-breaking, bestselling West African-inspired fantasy Children of Blood and Bone. After battling the impossible, Zélie and Amari have finally succeeded in bringing magic back to the land of Orïsha. But the ritual was more powerful than they could've imagined, reigniting the powers of not only the maji, but of nobles with magic ancestry, too. Now, Zélie struggles to unite the maji in an Orïsha where the enemy is just as powerful as they are. But with civil war looming on the horizon, Zélie finds herself at a breaking point: she must discover a way to bring the kingdom together or watch as Orïsha tears itself apart . . . Continue the mythical magic with the last in the trilogy, Children of Anguish and Anarchy."
+description: |-
+  A GOOD MORNING AMERICA BOOK CLUB PICK 
+
+  "Meet Tomi Adeyemi—the new J.K. Rowling. (Yep, she's that good)." —Entertainment Weekly
+  After battling the impossible, Zélie and Amari have finally succeeded in bringing magic back to the land of Orïsha. But the ritual was more powerful than they could've imagined, reigniting the powers of not only the maji, but of nobles with magic ancestry, too. 
+  Now, Zélie struggles to unite the maji in an Orïsha where the enemy is just as powerful as they are. But when the monarchy and military unite to keep control of Orïsha, Zélie must fight to secure Amari's right to the throne and protect the new maji from the monarchy's wrath.
+  With civil war looming on the horizon, Zélie finds herself at a breaking point: she must discover a way to bring the kingdom together or watch as Orïsha tears itself apart.
+  Children of Virtue and Vengeance is the stunning sequel to...
 coverUrl: http://books.google.com/books/content?id=UcZtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: read
 owned: true
@@ -19,9 +29,11 @@ rating: 4
 recommended_by:
   name:
   url:
-reviewUrl: https://thomasrigby.com/posts/book-review-children-of-virtue-and-vengeance-by-tomi-adeyemi/
+reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781509899463
 created: 2026-03-20 21:51:54
+calibre_uuid: 87de1874-8ba0-4083-a2b3-947cff49d5c9
+series: Orïsha
 ---
 
 # Children of Virtue and Vengeance by Tomi Adeyemi
@@ -30,14 +42,14 @@ created: 2026-03-20 21:51:54
 
 _A West African-inspired YA Fantasy, Filled with Danger and Magic_
 
-| &nbsp;   | read                          |
-| -------- | ----------------------------- |
-| Genre    | Young Adult Fiction           |
-| Started  | 2026-03-20T00:00:00.000+00:00 |
+| &nbsp; | read | 
+| --- | --- |
+| Genre | fantasy,dystopia,YoungAdult,magic |
+| Started | 2026-03-20T00:00:00.000+00:00 |
 | Finished | 2026-03-31T00:00:00.000+01:00 |
-| Rating   | 4/5                           |
+| Rating | 4/5 |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781509899463
-READ REVIEW:
+READ REVIEW: 
 
 Full of magic and danger, Children of Virtue and Vengeance is the breathtaking sequel to Tomi Adeyemi's ground-breaking, bestselling West African-inspired fantasy Children of Blood and Bone. After battling the impossible, Zélie and Amari have finally succeeded in bringing magic back to the land of Orïsha. But the ritual was more powerful than they could've imagined, reigniting the powers of not only the maji, but of nobles with magic ancestry, too. Now, Zélie struggles to unite the maji in an Orïsha where the enemy is just as powerful as they are. But with civil war looming on the horizon, Zélie finds herself at a breaking point: she must discover a way to bring the kingdom together or watch as Orïsha tears itself apart . . . Continue the mythical magic with the last in the trilogy, Children of Anguish and Anarchy.

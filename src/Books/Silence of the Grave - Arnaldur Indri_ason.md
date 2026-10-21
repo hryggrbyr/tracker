@@ -22,6 +22,7 @@ recommended_by:
 created: 2025-04-26
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 58fcf1ac-3d23-4dec-9d55-90150b8bccba
 ---
 
 # Silence of the Grave by Arnaldur Indriðason

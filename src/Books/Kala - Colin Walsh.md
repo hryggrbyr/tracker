@@ -9,7 +9,7 @@ title: Kala
 subtitle: A Novel
 author:
   - Colin Walsh
-publisher:
+publisher: Atlantic Books
 published: 2024-07-04
 page_count:
 isbn:
@@ -26,6 +26,7 @@ recommended_by:
 created: 2025-07-05
 reviewUrl: /posts/book-review-kala-colin-walsh
 bookshopUrl:
+calibre_uuid: 8608c2e6-c589-48ff-ae41-1d792ef6f7da
 ---
 
 # Kala by Colin Walsh

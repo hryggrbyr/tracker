@@ -5,10 +5,10 @@ subtitle: ""
 author:
   - Henning Mankell
 publisher: The New Press
-published: 2010-10-21T00:00:00+01:00
+published: 2010-10-20
 page_count:
-isbn:
-description: ""
+isbn: "9781595586322"
+description: The moving story of an African boy taken to Sweden in the 1870s and haunted by the memories of his desert home, from the Swedish writer who is a worldwide phenomenon and whose books have been translated into 40 languages with more than 35 million copies...
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
 owned: true
@@ -20,7 +20,8 @@ recommended_by:
   url:
 created:
 reviewUrl:
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781595586322
+calibre_uuid: 9b724496-dd29-4224-b3ee-2ff8b4e80aaf
 ---
 
 # Daniel by Henning Mankell

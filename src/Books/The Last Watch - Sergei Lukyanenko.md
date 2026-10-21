@@ -22,6 +22,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781409036029
 created: 2026-04-04 22:36:01
+calibre_uuid: 9b12ab8b-b90a-4647-8e6e-f6c984015dfc
 ---
 
 # The Last Watch by Sergei Lukyanenko

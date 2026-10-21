@@ -1,14 +1,15 @@
 ---
-tags: []
+tags:
+  - Modern fantasy
 title: The Green Man's Heir
 subtitle: " "
 author:
   - Juliet E. McKenna
-publisher:
-published:
+publisher: Wizard's Tower Press
+published: 2018-01-08
 page_count:
 isbn:
-description: ""
+description: A modern fantasy rooted in the ancient myths and folklore of the British Isles.
 coverUrl: https://covers.openlibrary.org/b/olid/OL28274497M-M.jpg
 shelf: read
 owned: true
@@ -21,6 +22,7 @@ recommended_by:
 created: 2023-12-31
 reviewUrl:
 bookshopUrl:
+calibre_uuid: f8982d57-de63-429d-a759-880f6b9dcd70
 ---
 
 # The Green Man's Heir by Juliet E. McKenna
@@ -31,7 +33,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | Modern fantasy |
 | Started | 2023-12-19T00:00:00.000+00:00 |
 | Finished | 2023-12-31T00:00:00.000+00:00 |
 | Rating | 5/5 |

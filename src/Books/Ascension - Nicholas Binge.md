@@ -6,8 +6,8 @@ title: Ascension
 subtitle: " "
 author:
   - Nicholas Binge
-publisher:
-published: 2023-12-31
+publisher: HarperCollinsPublishers
+published: 2023-03-21
 page_count:
 isbn:
 description: ""
@@ -23,6 +23,7 @@ recommended_by:
 created: 2025-02-04
 reviewUrl: /posts/book-review-ascension-nicholas-binge
 bookshopUrl:
+calibre_uuid: af945d86-532a-4606-84d5-222cef75c7f7
 ---
 
 # Ascension by Nicholas Binge

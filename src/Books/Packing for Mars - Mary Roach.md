@@ -7,11 +7,11 @@ title: Packing for Mars
 subtitle: " "
 author:
   - Mary Roach
-publisher:
+publisher: Oneworld Publications
 published:
 page_count:
 isbn:
-description: ""
+description: "Space is devoid of the stuff humans need to live: air, gravity, hot showers, fresh veg, privacy, beer. How much can a person give up? What happens when you can't walk for a year? Is sex any fun in zero gravity? As Mary Roach discovers, it's possible to explore space without ever leaving Earth. From the space shuttle training toilet to a 17,000-mile-per-hour crash test of NASA's space capsule, she takes us on a surreally entertaining trip into the science of living in space."
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
@@ -24,6 +24,7 @@ recommended_by:
 created: 2023-11-24
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 67f3faa6-ac14-4822-9bf5-e87b8e93bcd9
 ---
 
 # Packing for Mars by Mary Roach

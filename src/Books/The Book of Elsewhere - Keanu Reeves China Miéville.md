@@ -6,7 +6,7 @@ subtitle: A Novel
 author:
   - Keanu Reeves
   - China Miéville
-publisher: Del Rey
+publisher: Penguin Random House UK
 published: 2024-07-23
 page_count: 353
 isbn: 9780593446614
@@ -23,6 +23,7 @@ recommended_by:
 created: 2025-08-04 14:55:57
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 129dbf46-4dd0-4ceb-86f9-dec7b9ab861e
 ---
 
 # The Book of Elsewhere by Keanu Reeves, China Miéville

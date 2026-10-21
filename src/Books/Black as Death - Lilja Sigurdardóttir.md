@@ -24,6 +24,7 @@ recommended_by:
 reviewUrl: https://thomasrigby.com/posts/book-review-black-as-death-by-lilja-sigurdard%C3%B3ttir/
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781916788855
 created: 2026-02-17 21:13:47
+calibre_uuid: 8b52b2c2-e22b-49f9-be06-03008ff3abe9
 ---
 
 # Black as Death by Lilja Sigurdardóttir
