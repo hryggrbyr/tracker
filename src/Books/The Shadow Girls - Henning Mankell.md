@@ -5,7 +5,7 @@ subtitle: ""
 author:
   - Henning Mankell
 publisher: Random House UK
-published: 2012-09-06T07:00:00+01:00
+published: 2012-09-06
 page_count:
 isbn:
 description: ""
@@ -21,6 +21,7 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: a6cd3522-5c7f-4200-bd3a-68893e87c107
 ---
 
 # The Shadow Girls by Henning Mankell
