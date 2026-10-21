@@ -22,6 +22,7 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: fc2e3fb7-2f16-4aa4-b7aa-1e59649e4d50
 ---
 
 # Tainted Blood by Arnaldur Indriðason
