@@ -21,6 +21,7 @@ recommended_by:
 created: 2021-01-15
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 5d3175db-d11b-4219-b1a6-58663f16b061
 ---
 
 # Magician: Apprentice by Raymond E. Feist
