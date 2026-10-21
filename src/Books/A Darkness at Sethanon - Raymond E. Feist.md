@@ -8,10 +8,10 @@ subtitle: The Riftwar Saga 3
 author:
   - Raymond E. Feist
 publisher: HarperCollins Publishers
-published: 2012-11-05T01:00:00+01:00
+published: 2012-11-05
 page_count:
 isbn:
-description: ""
+description: The whole of the magnificent Riftwar Cycle by bestselling author Raymond E. Feist, master of magic and adventure, now available in ebook As Prince Arutha and his companions rally their forces for the final battle with an ancient and mysterious evil, the dread necromancer Marcos the Black has once again unleashed his dark sorcerery. Now the fate of two worlds will be decided in a titanic struggle beneath the walls of Sethanon, as the link between Kelewan and Midkemia is revived. A Darkness at Sethanon concludes Raymond E. Feist’s bestselling Riftwar Saga.
 coverUrl: https://covers.openlibrary.org/b/olid/OL7883162M-M.jpg
 shelf: read
 owned: true
@@ -24,6 +24,8 @@ recommended_by:
 created: 2021-03-17
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 79c7642c-c4ff-4200-919e-c3badc1520a4
+series: The Riftwar Saga
 ---
 
 # A Darkness at Sethanon by Raymond E. Feist
