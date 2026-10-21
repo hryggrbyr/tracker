@@ -25,6 +25,7 @@ recommended_by:
 created: 2023-08-17
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 49cd652d-21f0-44d6-8764-4b4602ad101e
 ---
 
 # Red As Blood by Lilja Sigurðardóttir
