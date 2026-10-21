@@ -9,7 +9,7 @@ subtitle: " "
 author:
   - David Bridger
 publisher:
-published:
+published: 2019-07-27
 page_count:
 isbn:
 description: ""
@@ -25,6 +25,7 @@ recommended_by:
 created: 2024-10-18
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 560c0fc1-525c-4780-aa42-bc1568209372
 ---
 
 # A Flight of Thieves by David Bridger
