@@ -22,6 +22,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.barnesandnoble.com/w/the-damnation-game-clive-barker/1101324242?ean=2940149730599
 created: 2015-10-06
+calibre_uuid: c989e712-37c3-4b76-97a8-847ed2c9a2b6
 ---
 
 # The Damnation Game by Clive Barker
