@@ -1,14 +1,16 @@
 ---
 tags: []
-title: The Girl Who Kicked the Hornet's Nest
+title: The Girl Who Kicked the Hornets' Nest
 subtitle: Millennium 3
 author:
   - Stieg Larsson
 publisher: Quercus
-published: 2009-09-30T13:00:00+01:00
+published: 2009-09-30
 page_count:
-isbn:
-description: ""
+isbn: "9781906694166"
+description: |-
+  SUMMARY:
+  Salander is plotting her revenge - against the man who tried to kill her, and against the government institutions that very nearly destroyed her life. But it is not going to be a straightforward campaign. After taking a bullet to the head, Salander is und
 coverUrl: https://covers.openlibrary.org/b/olid/OL24080825M-M.jpg
 shelf: read
 owned: true
@@ -20,7 +22,9 @@ recommended_by:
   url:
 created: 2015-10-06
 reviewUrl:
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781906694166
+calibre_uuid: 6dac578b-a7af-4a05-bd10-e8a785146490
+series: Millennium
 ---
 
 # The Girl Who Kicked the Hornet's Nest by Stieg Larsson
