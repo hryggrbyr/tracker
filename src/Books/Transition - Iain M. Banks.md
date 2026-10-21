@@ -1,15 +1,17 @@
 ---
 tags:
-  - sci-fi
+  - Science-Fiction
 title: Transition
 subtitle: ""
 author:
   - Iain M. Banks
 publisher: Orbit
-published: 2009-09-23T08:00:00+01:00
+published: 2009-09-23
 page_count:
-isbn:
-description: ""
+isbn: "9780316071987"
+description: |-
+  SUMMARY:
+  There is a world that hangs suspended between triumph and catastrophe, between the dismantling of the Wall and the fall of the Twin Towers, frozen in the shadow of suicide terrorism and global financial collapse. Such a world requires a firm hand and a guiding light. But does it need the Concern: an all-powerful organization with a malevolent presiding genius, pervasive influence and numberless invisible operatives in possession of extraordinary powers?Among those operatives are Temudjin Oh, of mysterious Mongolian origins, an un-killable assassin who journeys between the peaks of Nepal, a version of Victorian London and the dark palaces of Venice under snow; Adrian Cubbish, a restlessly greedy City trader; and a nameless, faceless state-sponsored torturer known only as the Philosopher, who moves between time zones with sinister ease. Then there are those who question the Concern: the bandit queen Mrs. Mulverhill, roaming the worlds recruiting rebels to her side; and Patient 8262, under sedation and feigning madness in a forgotten hospital ward, in hiding from a dirty past.There is a world that needs help; but whether it needs the Concern is a different matter.
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
 owned: true
@@ -21,7 +23,8 @@ recommended_by:
   url:
 created:
 reviewUrl:
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780316071987
+calibre_uuid: 1e497b04-84db-45c9-9fdf-a22f55f8ccd1
 ---
 
 # Transition by Iain M. Banks
@@ -32,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | sci-fi |
+| Genre | Science-Fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
