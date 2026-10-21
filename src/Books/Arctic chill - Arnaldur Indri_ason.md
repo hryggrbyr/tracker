@@ -21,6 +21,7 @@ recommended_by:
 created: 2025-04-26
 reviewUrl:
 bookshopUrl:
+calibre_uuid: fd9f686d-6ebf-44aa-9880-f3608416ef10
 ---
 
 # Arctic chill by Arnaldur Indriðason
