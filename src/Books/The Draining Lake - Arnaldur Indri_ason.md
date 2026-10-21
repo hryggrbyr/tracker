@@ -22,6 +22,7 @@ recommended_by:
 created: 2025-04-26
 reviewUrl:
 bookshopUrl:
+calibre_uuid: dc2811da-181d-4e27-8dad-ce7eb1061120
 ---
 
 # The Draining Lake by Arnaldur Indriðason
