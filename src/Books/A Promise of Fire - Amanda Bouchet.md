@@ -8,11 +8,11 @@ title: A Promise of Fire
 subtitle: " "
 author:
   - Amanda Bouchet
-publisher:
-published:
+publisher: piatkus
+published: 2016-07-31
 page_count:
 isbn:
-description: ""
+description: 441 pages ; 20 cm
 coverUrl: https://covers.openlibrary.org/b/olid/OL27213327M-M.jpg
 shelf: read
 owned: true
@@ -25,6 +25,7 @@ recommended_by:
 created: 2022-05-13
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 24ab3fee-3ffa-4b66-a70d-f8419849f3db
 ---
 
 # A Promise of Fire by Amanda Bouchet
