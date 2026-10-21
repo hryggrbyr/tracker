@@ -1,11 +1,11 @@
 ---
 tags: []
-title: White As Snow
+title: White as Snow
 subtitle: An Áróra Investigation 03
 author:
   - Lilja Sigurðardóttir
-publisher:
-published:
+publisher: Orenda Books
+published: 2023-10-15
 page_count:
 isbn:
 description: ""
@@ -21,6 +21,7 @@ recommended_by:
 created: 2024-02-08
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 387c4ba4-f326-44f2-89ac-64e12869dbfa
 ---
 
 # White As Snow by Lilja Sigurðardóttir
