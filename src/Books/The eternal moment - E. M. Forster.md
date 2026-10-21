@@ -22,6 +22,7 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 090f49e8-d25c-47da-8b06-ded89f17c9df
 ---
 
 # The eternal moment by E. M. Forster
