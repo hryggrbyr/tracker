@@ -6,6 +6,11 @@ tags:
   - magic
   - Religion
   - folklore
+  - Europe
+  - Great Britain
+  - General
+  - Body; Mind & Spirit
+  - Witchcraft
 title: The Lancashire Witches
 subtitle: A Chronicle of Sorcery and Death on Pendle Hill
 author:
@@ -14,7 +19,7 @@ publisher: Bloomsbury Publishing
 published: 2017-01-30
 page_count: 255
 isbn: 9781786739704
-description: "In the febrile religious and political climate of late sixteenth-century England, when the grip of the Reformation was as yet fragile and insecure, and underground papism still perceived to be rife, Lancashire was felt by the Protestant authorities to be a sinister corner of superstition, lawlessness and popery. And it was around Pendle Hill, a sombre ridge that looms over the intersecting pastures, meadows and moorland of the Ribble Valley, that their suspicions took infamous shape. The arraignment of the Lancashire witches in the assizes of Lancaster during 1612 is England's most notorious witch-trial. The women who lived in the vicinity of Pendle, who were accused, convicted and hanged alongside the so-called 'Salmesbury Witches', were more than just wicked sorcerers whose malign incantations caused others harm. They were reputed to be part of a dense network of devilry and mischief that revealed itself as much in hidden celebration of the Mass as in malevolent magic. They had to be eliminated to set an example to others. In this remarkable and authoritative treatment, published to coincide with the 400th anniversary of the case of the Lancashire witches, Philip C Almond evokes all the fear, drama and paranoia of those volatile times: the bleak story of the storm over Pendle."
+description: "In the febrile religious and political climate of late sixteenth-century England, when the grip of the Reformation was as yet fragile and insecure, and underground papism still perceived to be rife, Lancashire was felt by the Protestant authorities to be a sinister corner of superstition, lawlessness and popery. And it was around Pendle Hill, a sombre ridge that looms over the intersecting pastures, meadows and moorland of the Ribble Valley, that their suspicions took infamous shape. The arraignment of the Lancashire witches in the assizes of Lancaster during 1612 is England's most notorious witch-trial. The women who lived in the vicinity of Pendle, who were accused, convicted and hanged alongside the so-called 'Salmesbury Witches', were more than just wicked sorcerers whose malign incantations caused others harm. They were reputed to be part of a dense network of devilry and mischief that revealed itself as much in hidden celebration of the Mass as in malevolent magic. They had to be eliminated to set an example to others.In this remarkable and authoritative treatment, published to coincide with the 400th anniversary of the case of the Lancashire witches, Philip C Almond evokes all the fear, drama and paranoia of those volatile times: the bleak story of the storm over Pendle."
 coverUrl: http://books.google.com/books/content?id=n7qKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 shelf: to-read
 owned: true
@@ -26,7 +31,8 @@ recommended_by:
   url:
 created: 2025-10-22 15:54:37
 reviewUrl:
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781786739704
+calibre_uuid: aee61fd2-12d2-4ffd-bc69-4819047761fc
 ---
 
 # The Lancashire Witches by Philip C. Almond
@@ -37,7 +43,7 @@ _A Chronicle of Sorcery and Death on Pendle Hill_
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | History,england,witches,magic,Religion,folklore |
+| Genre | History,england,witches,magic,Religion,folklore,Europe,Great Britain,General,Body; Mind & Spirit,Witchcraft |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
