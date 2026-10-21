@@ -8,10 +8,10 @@ subtitle: The Cerulean Chronicles 1
 author:
   - TJ Klune
 publisher: Tom Doherty Associates
-published: 2020-03-16T19:30:00+01:00
+published: 2020-03-16
 page_count:
-isbn:
-description: ""
+isbn: "9781250217288"
+description: Linus is an uptight caseworker with a heart of gold working for the department in charge of magical youth. When he goes to investigate an orphanage on an island with supposedly dangerous children and an enigmatic leader Arthur, he’s expecting the worst. But it turns out he might be falling in love with Arthur and his charges.
 coverUrl: https://covers.openlibrary.org/b/olid/OL27930457M-M.jpg
 shelf: read
 owned: true
@@ -23,7 +23,9 @@ recommended_by:
   url:
 created: 2024-09-21
 reviewUrl:
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781250217288
+calibre_uuid: ef270739-d348-4e23-9eed-d4de9f3159ed
+series: The Cerulean Chronicles
 ---
 
 # The House in the Cerulean Sea by TJ Klune
