@@ -5,8 +5,8 @@ title: The Winter Killer
 subtitle: The DI James Walker Series 3
 author:
   - Alex Pine
-publisher: HarperCollins UK
-published: 2022-10-13
+publisher: HarperCollinsPublishers
+published: 2022-07-27
 page_count: 338
 isbn: 9780008520274
 description: ‘HELP! I am addicted to this series! Unputdownable’ NetGalley reviewer, ⭐⭐⭐⭐⭐ ‘Alex Pine has done it again! Another excellent crime thriller... I was hooked from the first page. Read it – you won’t be disappointed’ NetGalley reviewer, ⭐⭐⭐⭐⭐ ‘Absolutely gripping... I was on the edge of my seat’ NetGalley reviewer, ⭐⭐⭐⭐⭐
@@ -22,6 +22,8 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780008520274
 created: 2025-12-05 20:29:38
+calibre_uuid: 69962f1a-cbf7-4e0d-ac62-19459129775a
+series: The DI James Walker Series
 ---
 
 # The Winter Killer (DI James Walker series, Book 3) by Alex Pine
