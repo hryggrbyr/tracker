@@ -5,7 +5,7 @@ subtitle: ""
 author:
   - Henning Mankell
 publisher: Random House Publishing Group
-published: 2010-02-04T01:00:00+01:00
+published: 2010-02-04
 page_count:
 isbn:
 description: ""
@@ -21,6 +21,7 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 799ecbe7-60d6-4bf7-8142-928cf55dd68b
 ---
 
 # The Man From Beijing by Henning Mankell
