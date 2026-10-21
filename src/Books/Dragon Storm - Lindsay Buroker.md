@@ -21,6 +21,7 @@ recommended_by:
 created: 2024-11-15
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 18f8c224-8c9b-4d59-abf5-7b7381c828d8
 ---
 
 # Dragon Storm by Lindsay Buroker
