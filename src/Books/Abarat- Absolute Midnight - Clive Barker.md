@@ -21,6 +21,7 @@ recommended_by:
 created: 2025-04-26
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 2f9edf46-82f9-4da4-ac13-937a67b423b3
 ---
 
 # Abarat: Absolute Midnight by Clive Barker
