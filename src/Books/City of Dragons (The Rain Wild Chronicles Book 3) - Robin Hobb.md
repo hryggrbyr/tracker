@@ -22,6 +22,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780007486809
 created: 2026-01-02 18:16:54
+calibre_uuid: 722f5127-d197-4ea4-9be9-b1120acc2b44
 ---
 
 # City of Dragons (The Rain Wild Chronicles, Book 3) by Robin Hobb
