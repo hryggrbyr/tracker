@@ -25,6 +25,7 @@ recommended_by:
 created: 2021-05-07
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 8df21234-33dc-44ba-8ae3-4e3405e414ba
 ---
 
 # Lies Sleeping by Ben Aaronovitch
