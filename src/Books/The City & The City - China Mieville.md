@@ -21,6 +21,7 @@ recommended_by:
 created: 2022-12-26
 reviewUrl:
 bookshopUrl:
+calibre_uuid: a3d91d52-3bfb-4750-9ebe-2a1a2a2c5101
 ---
 
 # The City & The City by China Mieville
