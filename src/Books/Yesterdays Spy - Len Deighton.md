@@ -5,10 +5,10 @@ subtitle: ""
 author:
   - Len Deighton
 publisher: Harcourt Brace Jovanovich
-published: 1975-01-01T01:00:00+01:00
+published: 1975-01-01
 page_count:
-isbn:
-description: ""
+isbn: "9780446308823"
+description: Sinister rumors link clandestine Arab arms dealing with the man who led the old anti-Nazi Guernica network. It's time to re-open the master file on yesterday's spy...
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: to-read
 owned: true
@@ -20,7 +20,8 @@ recommended_by:
   url:
 created:
 reviewUrl:
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780446308823
+calibre_uuid: b4a1b9fb-c61f-4043-8d4f-6f11971c03a2
 ---
 
 # Yesterday's Spy by Len Deighton
