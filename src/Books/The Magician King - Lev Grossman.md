@@ -13,9 +13,9 @@ subtitle: Magician 2
 author:
   - Lev Grossman
 publisher: Penguin Group
-published: 2011-06-23T00:00:00+01:00
+published: 2011-06-22
 page_count:
-isbn:
+isbn: "9781101535530"
 description: ""
 coverUrl: https://covers.openlibrary.org/b/olid/OL27444584M-M.jpg
 shelf: read
@@ -28,7 +28,9 @@ recommended_by:
   url:
 created: 2025-05-11
 reviewUrl: /posts/book-review-the-magician-king-lev-grossman
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781101535530
+calibre_uuid: 40aae726-ef76-404e-b5b1-5d4b42bb6d50
+series: Magician
 ---
 
 # The Magician King by Lev Grossman
