@@ -1,9 +1,6 @@
 ---
 tags:
-  - fantasy
-  - magic
-  - wizards
-  - dragons
+  - sf_fantasy
 title: The Tombs of Atuan
 subtitle: Earthsea 2
 author:
@@ -12,7 +9,7 @@ publisher:
 published:
 page_count:
 isbn:
-description: ""
+description: Arha's isolated existence as high priestess in the tombs of Atuan is jarred by a thief who seeks a special treasure.
 coverUrl: https://covers.openlibrary.org/b/olid/OL23026851M-M.jpg
 shelf: read
 owned: true
@@ -25,6 +22,8 @@ recommended_by:
 created: 2020-04-22
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 50489231-07b6-4d00-a697-e834aac51ade
+series: Earthsea
 ---
 
 # The Tombs of Atuan by Ursula K. Le Guin
@@ -35,7 +34,7 @@ _Earthsea 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,magic,wizards,dragons |
+| Genre | sf_fantasy |
 | Started |  |
 | Finished | 2019-01-20T00:00:00.000+00:00 |
 | Rating | /5 |
