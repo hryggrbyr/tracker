@@ -21,6 +21,7 @@ recommended_by:
 created: 2021-09-24
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 93be19c0-eedc-466e-a7ac-6b075e8549e3
 ---
 
 # The legacy by Yrsa Sigurðardóttir
