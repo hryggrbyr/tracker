@@ -11,8 +11,8 @@ title: The Silence Factory
 subtitle: " "
 author:
   - Bridget Collins
-publisher:
-published:
+publisher: HarperCollinsPublishers
+published: 2024-03-26
 page_count:
 isbn:
 description: ""
@@ -28,6 +28,7 @@ recommended_by:
 created: 2025-06-29
 reviewUrl: /posts/book-review-the-silence-factory-bridget-collins
 bookshopUrl:
+calibre_uuid: a8769d06-8a0f-4980-9248-863a7a9de67c
 ---
 
 # The Silence Factory by Bridget Collins
