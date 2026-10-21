@@ -22,6 +22,7 @@ recommended_by:
 reviewUrl: ""
 bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780007290253
 created: 2026-01-02 18:15:38
+calibre_uuid: 56735174-e6d9-4248-aaff-9bf2264d8843
 ---
 
 # Dragon Keeper (The Rain Wild Chronicles, Book 1) by Robin Hobb
