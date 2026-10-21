@@ -1,16 +1,17 @@
 ---
 tags:
-  - fantasy
-  - JuvenileFiction
-title: The Voyage of the Dawn Treader
+  - Children's Books
+title: The voyage of the Dawn Treader
 subtitle: "Chronicles of Narnia: Chronological order 5"
 author:
   - C. S. Lewis
 publisher: HarperCollins
-published: 1994-07-01T08:00:00+01:00
+published: 1994-07-01
 page_count:
-isbn:
-description: ""
+isbn: "9780064405027"
+description: |-
+  SUMMARY:
+  Lucy and Edmund, accompanied by their peevish cousin Eustace, sail to the land of Narnia where Eustace is temporarily transformed into a green dragon because of his selfish behavior and skepticism.
 coverUrl: https://covers.openlibrary.org/b/olid/-M.jpg
 shelf: read
 owned: true
@@ -22,7 +23,9 @@ recommended_by:
   url:
 created:
 reviewUrl:
-bookshopUrl:
+bookshopUrl: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780064405027
+calibre_uuid: a83395ec-54ca-41c3-b976-8f21cf9ec5fd
+series: "Chronicles of Narnia: Chronological order"
 ---
 
 # The Voyage of the Dawn Treader by C. S. Lewis
@@ -33,7 +36,7 @@ _Chronicles of Narnia: Chronological order 5_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,JuvenileFiction |
+| Genre | Children's Books |
 | Started | 1994-07-01T00:00:00.000+01:00 |
 | Finished | 1994-07-01T00:00:00.000+01:00 |
 | Rating | 4/5 |
