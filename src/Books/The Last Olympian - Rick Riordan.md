@@ -26,6 +26,7 @@ recommended_by:
 created:
 reviewUrl:
 bookshopUrl:
+calibre_uuid: 84662973-3591-43e3-90f2-f69bb6fff04e
 ---
 
 # The Last Olympian (Percy Jackson and the Olympians by Rick Riordan
