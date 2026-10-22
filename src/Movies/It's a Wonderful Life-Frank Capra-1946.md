@@ -19,7 +19,8 @@ length: 2h 10m
 shelf: watched
 owned: false
 rating:
-watched: 1947-01-07
+watched:
+  - 1947-01-07
 poster: https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg
 ---
 
