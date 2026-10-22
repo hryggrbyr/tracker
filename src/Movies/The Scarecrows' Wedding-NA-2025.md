@@ -16,7 +16,8 @@ length: N/A
 shelf: watched
 owned: false
 rating:
-watched: 2025-12-26
+watched:
+  - 2025-12-26
 poster: https://media.themoviedb.org/t/p/w220_and_h330_face/fADwSvRNxppiQnViNYAflk0CF7Q.jpg
 ---
 
