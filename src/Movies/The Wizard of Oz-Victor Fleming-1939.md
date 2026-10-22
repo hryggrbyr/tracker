@@ -18,7 +18,8 @@ length: 1h 42m
 shelf: watched
 owned: false
 rating:
-watched: 1939-08-25
+watched:
+  - 1939-08-25
 poster: https://image.tmdb.org/t/p/w500/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg
 ---
 
