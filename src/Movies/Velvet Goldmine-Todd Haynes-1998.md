@@ -17,7 +17,8 @@ length: 2h 3m
 shelf: watched
 owned: false
 rating:
-watched: 1998-10-26
+watched:
+  - 1998-10-26
 poster: https://image.tmdb.org/t/p/w500/bsuSac0PldPFcOtR1Vioe7VBF4l.jpg
 ---
 
