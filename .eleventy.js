@@ -25,7 +25,27 @@ const humanReadableDate = (value = null, lang = "en-GB") => {
   return event.toLocaleDateString(lang, options);
 };
 
+/**
+ * Normalise a `watched` frontmatter value to a sorted (oldest first) array of Dates.
+ * Accepts a single date (legacy), an array of dates, or an empty value.
+ * @param {*} value A date, an array of dates, or null/undefined
+ * @return {Date[]} Valid dates, oldest first
+ */
+const watchedDates = (value) =>
+  (Array.isArray(value) ? value : [value])
+    .filter(Boolean)
+    .map((d) => new Date(d))
+    .filter((d) => !isNaN(d))
+    .sort((a, b) => a - b);
+
+const watchedFirst = (value) => watchedDates(value)[0];
+const watchedLatest = (value) => watchedDates(value).slice(-1)[0];
+const watchedCount = (value) => watchedDates(value).length;
+
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addNunjucksFilter("watchedFirst", watchedFirst);
+  eleventyConfig.addNunjucksFilter("watchedLatest", watchedLatest);
+  eleventyConfig.addNunjucksFilter("watchedCount", watchedCount);
   eleventyConfig.addNunjucksFilter("getFullYear", (x) =>
     new Date(x).getFullYear(),
   );
@@ -38,7 +58,8 @@ module.exports = function (eleventyConfig) {
       .filter((x) => x.frontmatter.shelf === "watched")
       .sort(
         (a, b) =>
-          new Date(b.frontmatter.watched) - new Date(a.frontmatter.watched),
+          (watchedLatest(b.frontmatter.watched) || 0) -
+          (watchedLatest(a.frontmatter.watched) || 0),
       )
       .slice(0, 8),
   );
@@ -94,7 +115,7 @@ module.exports = function (eleventyConfig) {
     items
       .filter((x) => shelf.includes(x.data.shelf))
       .forEach((item) => {
-        const date = item.data.watched || item.data.end_date;
+        const date = watchedLatest(item.data.watched) || item.data.end_date;
         const year = date.getFullYear();
         if (!byYear[year]) {
           byYear[year] = [];
@@ -106,9 +127,13 @@ module.exports = function (eleventyConfig) {
     Object.keys(byYear).forEach((year) => {
       byYear[year].sort((a, b) => {
         const dateA =
-          a.data.shelf === "read" ? a.data.end_date : a.data.watched;
+          a.data.shelf === "read"
+            ? a.data.end_date
+            : watchedLatest(a.data.watched);
         const dateB =
-          b.data.shelf === "read" ? b.data.end_date : b.data.watched;
+          b.data.shelf === "read"
+            ? b.data.end_date
+            : watchedLatest(b.data.watched);
         return dateA - dateB; // Oldest first
       });
     });

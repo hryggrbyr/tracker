@@ -77,9 +77,16 @@
 				{% endif %}
 			</p>
 		{% endif %}
-		{% if medium.shelf == 'watched' and medium.watched %}
+		{% set watchedCount = medium.watched | watchedCount %}
+		{% if medium.shelf == 'watched' and watchedCount > 0 %}
 			<p>
-				I last watched this on {{ medium.watched | humanReadableDate }}
+				{% if watchedCount > 1 %}
+					I first watched this on {{ medium.watched | watchedFirst | humanReadableDate }}
+					and most recently on {{ medium.watched | watchedLatest | humanReadableDate }}
+					({{ watchedCount }} times in total)
+				{% else %}
+					I watched this on {{ medium.watched | watchedLatest | humanReadableDate }}
+				{% endif %}
 				{% if medium.rating %}
 					and I gave it {{ medium.rating }} stars out of 5
 				{% endif %}

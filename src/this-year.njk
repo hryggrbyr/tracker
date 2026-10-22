@@ -55,7 +55,7 @@ eleventyComputed:
       {%- for item in yearData[1] -%}
         {% if item.data.type == 'movie' %}
       <tr>
-        <td>{{ item.data.watched | getMonthName }}</td>
+        <td>{{ item.data.watched | watchedLatest | getMonthName }}</td>
         <td>{{ item.data.title }}</td>
         <td>{{ item.data.director }}</td>
         <td>{{ item.data.year }}</td>
@@ -79,7 +79,7 @@ eleventyComputed:
       {%- for item in yearData[1] -%}
         {% if item.data.type == 'series' %}
       <tr>
-        <td>{{ item.data.watched | getMonthName }}</td>
+        <td>{{ item.data.watched | watchedLatest | getMonthName }}</td>
         <td>{{ item.data.title }}</td>
         <td>{{ item.data.director }}</td>
         <td>{{ item.data.year }}</td>
@@ -103,7 +103,7 @@ eleventyComputed:
       {%- for item in yearData[1] -%}
         {% if item.data.type == 'movie' and item.data.genre and ('Christmas' in item.data.genre or 'christmas' in item.data.genre) %}
       <tr>
-        <td>{{ item.data.watched | getMonthName }}</td>
+        <td>{{ item.data.watched | watchedLatest | getMonthName }}</td>
         <td>{{ item.data.title }}</td>
         <td>{{ item.data.director }}</td>
         <td>{{ item.data.year }}</td>
