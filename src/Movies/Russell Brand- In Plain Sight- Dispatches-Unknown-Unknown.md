@@ -15,7 +15,8 @@ length: Unknown
 shelf: watched
 owned: false
 rating:
-watched: 2023-09-17
+watched:
+  - 2023-09-17
 poster: No poster available
 ---
 
