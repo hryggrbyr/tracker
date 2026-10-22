@@ -16,7 +16,8 @@ length: 143
 shelf: watched
 owned: false
 rating:
-watched: 1979-12-31
+watched:
+  - 1979-12-31
 poster: https://m.media-amazon.com/images/M/MV5BNjcyMmVmMTItNTA3Yy00NGJjLTlmYjQtZWQ3ZjcyNmU5NDQ2XkEyXkFqcGc@._V1_SX300.jpg
 ---
 
