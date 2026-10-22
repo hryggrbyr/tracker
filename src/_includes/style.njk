@@ -11,7 +11,7 @@
   --card-bg: #fdf8f2;
   --shadow: rgba(0, 0, 0, 0.05);
   --radius: 0;
-  --font-family: 'Atkinson Hyperlegible Next Variable', system-ui, sans-serif;
+  --font-family: system-ui;
 
   color-scheme: light;
   font-family: var(--font-family);
@@ -292,9 +292,10 @@ details summary:hover {
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 300px;
+  min-height: 300px;
+}
+.shelf-cover:has(+.shelf-cover) {
   aspect-ratio: 3/4;
-  overflow: clip;
 }
 .shelf-cover .shelf-cover-image {
   position: absolute;
