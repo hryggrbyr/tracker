@@ -18,7 +18,8 @@ length: 2h 4m
 shelf: watched
 owned: false
 rating:
-watched: 1972-02-13
+watched:
+  - 1972-02-13
 poster: https://image.tmdb.org/t/p/w500/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg
 ---
 
