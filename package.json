@@ -6,7 +6,10 @@
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "NODE_ENV=production npx @11ty/eleventy",
-    "dev": "node build.js && NODE_ENV=development npx @11ty/eleventy --serve --watch"
+    "dev": "npm run generate-data && npm run start",
+    "generate-data": "node build.js",
+    "dev:watch": "concurrently \"npm run generate-data:watch\" \"npm run start\"",
+    "generate-data:watch": "nodemon -e md -x \"node build.js\" --watch src/"
   },
   "keywords": [],
   "author": "",
@@ -19,5 +22,9 @@
     "gray-matter": "^4.0.3",
     "markdown-it": "^14.1.0",
     "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.4"
   }
 }

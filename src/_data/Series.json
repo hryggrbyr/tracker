@@ -1,5 +1,32 @@
 [
   {
+    "filename": "aka Charlie Sheen-2025.md",
+    "path": "src/Series/aka Charlie Sheen-2025.md",
+    "slug": "aka Charlie Sheen-2025",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "aka Charlie Sheen",
+      "year": 2025,
+      "director": "N/A",
+      "actors": [
+        "Charlie Sheen",
+        "Tony Todd",
+        "Jon Cryer"
+      ],
+      "genre": [
+        "Documentary",
+        "Biography"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2026-02-05T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjk0N2YyZGEtZDU2NS00MjY5LWJiNGEtNzdhZjUyMzc4ZWFmXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Zom 100 Bucket List of the Dead-2023.md",
     "path": "src/Series/Zom 100 Bucket List of the Dead-2023.md",
     "slug": "Zom 100 Bucket List of the Dead-2023",
@@ -112,6 +139,32 @@
       "rating": null,
       "watched": "2023-05-18T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/iWIlaaQw9owfjKvc9HpbHdgBqsq.jpg"
+    }
+  },
+  {
+    "filename": "Wild Cherry-2025–.md",
+    "path": "src/Series/Wild Cherry-2025–.md",
+    "slug": "Wild Cherry-2025–",
+    "frontmatter": {
+      "type": "series",
+      "country": "N/A",
+      "title": "Wild Cherry",
+      "year": "2025–",
+      "director": "N/A",
+      "actors": [
+        "N/A"
+      ],
+      "genre": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "length": "N/A",
+      "shelf": "watchlist",
+      "owned": false,
+      "rating": null,
+      "watched": "2025–-12-31",
+      "poster": "N/A"
     }
   },
   {
@@ -406,7 +459,7 @@
       "country": "US",
       "title": "Tru Calling",
       "year": 2003,
-      "director": "Unknown",
+      "director": "Jon Harmon Feldman",
       "actors": [
         "Eliza Dushku",
         "Zach Galifianakis",
@@ -420,9 +473,9 @@
       ],
       "length": "2 seasons (26 episodes)",
       "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2005-04-22T00:00:00.000Z",
+      "owned": true,
+      "rating": 3,
+      "watched": "2026-01-14T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/jOqsAwPucH96rUQxZiRNwxd90Yu.jpg"
     }
   },
@@ -1354,6 +1407,61 @@
     }
   },
   {
+    "filename": "The Pirates of Dark Water-1991–1992.md",
+    "path": "src/Series/The Pirates of Dark Water-1991–1992.md",
+    "slug": "The Pirates of Dark Water-1991–1992",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "The Pirates of Dark Water",
+      "year": "1991–1992",
+      "director": "N/A",
+      "actors": [
+        "Hector Elizondo",
+        "Frank Welker",
+        "George Newbern"
+      ],
+      "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "length": 30,
+      "shelf": "watchlist",
+      "owned": true,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzliMTMxMDYtNzAwMi00NTUyLTkxZWQtMjBmZWRkYjQ1ZDc1XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "The Penguin-2024.md",
+    "path": "src/Series/The Penguin-2024.md",
+    "slug": "The Penguin-2024",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "The Penguin",
+      "year": 2024,
+      "director": "N/A",
+      "actors": [
+        "Colin Farrell",
+        "Cristin Milioti",
+        "Rhenzy Feliz"
+      ],
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "length": "N/A",
+      "shelf": "watchlist",
+      "owned": true,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmU3MzYzOWEtOTdkZi00YzA1LTliMzQtNDdiZDBjY2FiNmFlXkEyXkFqcGc@._V1_QL75_UX380_CR0, 0, 380, 562_.jpg"
+    }
+  },
+  {
     "filename": "The Office-2005.md",
     "path": "src/Series/The Office-2005.md",
     "slug": "The Office-2005",
@@ -1668,6 +1776,60 @@
     }
   },
   {
+    "filename": "The L Word-2004–2009.md",
+    "path": "src/Series/The L Word-2004–2009.md",
+    "slug": "The L Word-2004–2009",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States, Canada",
+      "title": "The L Word",
+      "year": "2004–2009",
+      "director": "N/A",
+      "actors": [
+        "Jennifer Beals",
+        "Leisha Hailey",
+        "Laurel Holloman",
+        "Katherine Moenig"
+      ],
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "length": 50,
+      "shelf": "watched",
+      "owned": true,
+      "rating": 4,
+      "watched": "2026-07-07T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDFhMDQ2NDAtM2RlYi00MDg4LThkYjgtYWFhYjFlNzk3NGEyXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "The L Word Generation Q-2019–2023.md",
+    "path": "src/Series/The L Word Generation Q-2019–2023.md",
+    "slug": "The L Word Generation Q-2019–2023",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "The L Word Generation Q",
+      "year": "2019–2023",
+      "director": "N/A",
+      "actors": [
+        "Jennifer Beals",
+        "Kate Moennig",
+        "Leisha Hailey"
+      ],
+      "genre": [
+        "Drama"
+      ],
+      "length": 55,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 2,
+      "watched": "2019-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTIzNjA2ZjgtZmVjNy00MmMwLTgwMTMtMDc1ZmEzZmY1ZjBiXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "The Killing-2007–2012.md",
     "path": "src/Series/The Killing-2007–2012.md",
     "slug": "The Killing-2007–2012",
@@ -1858,6 +2020,34 @@
       "rating": null,
       "watched": "2024-05-17T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/qIhsuhoIYR5yTnDta0IL4senbeN.jpg"
+    }
+  },
+  {
+    "filename": "The Girl Before-2021.md",
+    "path": "src/Series/The Girl Before-2021.md",
+    "slug": "The Girl Before-2021",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States, United Kingdom",
+      "title": "The Girl Before",
+      "year": 2021,
+      "director": "N/A",
+      "actors": [
+        "Gugu Mbatha-Raw",
+        "David Oyelowo",
+        "Jessica Plummer"
+      ],
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": false,
+      "rating": 4,
+      "watched": "2021-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDc4NTVjM2QtOTNiMi00MzU5LTk3OTYtYzA3MjMzYzZiOTEwXkEyXkFqcGc@._V1_QL75_UX380_CR0, 10, 380, 562_.jpg"
     }
   },
   {
@@ -2052,6 +2242,34 @@
     }
   },
   {
+    "filename": "The Apprentice UK-2005–.md",
+    "path": "src/Series/The Apprentice UK-2005–.md",
+    "slug": "The Apprentice UK-2005–",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "The Apprentice UK",
+      "year": "2005–",
+      "director": "N/A",
+      "actors": [
+        "Alan Sugar",
+        "Mark Halliley",
+        "Karren Brady"
+      ],
+      "genre": [
+        "Documentary",
+        "Game-Show",
+        "Reality-TV"
+      ],
+      "length": 59,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 3,
+      "watched": "2026-03-26T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDgwMmY0M2MtNWY3ZC00NGMwLWE0YjItNWQ4MDVmNjk1ZjRhXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "The Alienist-2018.md",
     "path": "src/Series/The Alienist-2018.md",
     "slug": "The Alienist-2018",
@@ -2241,8 +2459,8 @@
       "length": "5 seasons (42 episodes)",
       "shelf": "watched",
       "owned": false,
-      "rating": null,
-      "watched": "2025-12-04T00:00:00.000Z",
+      "rating": 3,
+      "watched": "2025-12-14T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
     }
   },
@@ -2684,6 +2902,34 @@
     }
   },
   {
+    "filename": "River-2015.md",
+    "path": "src/Series/River-2015.md",
+    "slug": "River-2015",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "River",
+      "year": 2015,
+      "director": "N/A",
+      "actors": [
+        "Stellan Skarsgård",
+        "Nicola Walker",
+        "Adeel Akhtar"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "length": "41S",
+      "shelf": "watched",
+      "owned": false,
+      "rating": 3,
+      "watched": "2015-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmM1N2U0YjQtNTZmMi00ZDkyLTkyZjgtNTFlNzkyZjJjYzQwXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Ringer-2011.md",
     "path": "src/Series/Ringer-2011.md",
     "slug": "Ringer-2011",
@@ -2796,6 +3042,43 @@
       "rating": null,
       "watched": "2017-11-16T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg"
+    }
+  },
+  {
+    "filename": "Reality Check Inside Americas Next Top Model-2026.md",
+    "path": "src/Series/Reality Check Inside Americas Next Top Model-2026.md",
+    "slug": "Reality Check Inside Americas Next Top Model-2026",
+    "frontmatter": {
+      "type": "series",
+      "country": "US",
+      "title": "Reality Check: Inside America's Next Top Model",
+      "year": 2026,
+      "director": [
+        "Mor Loushy",
+        "Daniel Sivan"
+      ],
+      "actors": [
+        "Tyra Banks",
+        "Jay Manuel",
+        "J. Alexander",
+        "Nigel Barker",
+        "Ken Mok",
+        "Shandi Sullivan",
+        "Dani Evans",
+        "Whitney Thompson",
+        "Giselle Samson",
+        "Shannon Stewart",
+        "Keenyah Hill"
+      ],
+      "genre": [
+        "Documentary"
+      ],
+      "length": "2h 45m",
+      "shelf": "watched",
+      "owned": false,
+      "rating": 6.5,
+      "watched": "2026-02-17T00:00:00.000Z",
+      "poster": "https://image.tmdb.org/t/p/w500/[poster-path-if-available].jpg"
     }
   },
   {
@@ -3410,6 +3693,34 @@
     }
   },
   {
+    "filename": "Ozark-2017–2022.md",
+    "path": "src/Series/Ozark-2017–2022.md",
+    "slug": "Ozark-2017–2022",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "Ozark",
+      "year": "2017–2022",
+      "director": "N/A",
+      "actors": [
+        "Jason Bateman",
+        "Laura Linney",
+        "Sofia Hublitz"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "length": 60,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2017-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDk1ZTdjOWItNTJmYS00MGIzLThmY2ItZWNiOGY5MzJlNTA5XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Our Flag Means Death-2022.md",
     "path": "src/Series/Our Flag Means Death-2022.md",
     "slug": "Our Flag Means Death-2022",
@@ -3461,6 +3772,34 @@
       "rating": null,
       "watched": "2024-09-12T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/aeA78pZZir01SJfitGOGc1poXA9.jpg"
+    }
+  },
+  {
+    "filename": "Obituary-2023–.md",
+    "path": "src/Series/Obituary-2023–.md",
+    "slug": "Obituary-2023–",
+    "frontmatter": {
+      "type": "series",
+      "country": "Ireland",
+      "title": "Obituary",
+      "year": "2023–",
+      "director": "N/A",
+      "actors": [
+        "Siobhán Cullen",
+        "Ronan Raftery",
+        "David Ganly"
+      ],
+      "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "length": "N/A",
+      "shelf": "watchlist",
+      "owned": true,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGNkNDg2OTktNTQwYi00MjFiLTgwMDYtNmNlZWJhMTEyZTc2XkEyXkFqcGc@._V1_QL75_UX380_CR0, 57, 380, 562_.jpg"
     }
   },
   {
@@ -3519,6 +3858,32 @@
       "rating": null,
       "watched": "1996-03-27T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg"
+    }
+  },
+  {
+    "filename": "Nathan Barley-2005.md",
+    "path": "src/Series/Nathan Barley-2005.md",
+    "slug": "Nathan Barley-2005",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom",
+      "title": "Nathan Barley",
+      "year": 2005,
+      "director": "N/A",
+      "actors": [
+        "Nicholas Burns",
+        "Julian Barratt",
+        "Claire Keelan"
+      ],
+      "genre": [
+        "Comedy"
+      ],
+      "length": 26,
+      "shelf": "watched",
+      "owned": false,
+      "rating": null,
+      "watched": "2005-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2Y0N2NmZmItOTUwMy00MGEwLWIzMjMtNGI5NDAxZDk3YjAyXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {
@@ -3691,6 +4056,33 @@
     }
   },
   {
+    "filename": "Mayfair Witches-2023–.md",
+    "path": "src/Series/Mayfair Witches-2023–.md",
+    "slug": "Mayfair Witches-2023–",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States",
+      "title": "Mayfair Witches",
+      "year": "2023–",
+      "director": "N/A",
+      "actors": [
+        "Alexandra Daddario",
+        "Tongayi Chirisa",
+        "Jack Huston"
+      ],
+      "genre": [
+        "Drama",
+        "Fantasy"
+      ],
+      "length": "N/A",
+      "shelf": "watched",
+      "owned": true,
+      "rating": 3,
+      "watched": "2026-10-16T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODdkNmZlMjQtZjVmZC00Yzk1LWFkNzMtZjVkNDkyZDJkZDY2XkEyXkFqcGc@._V1_QL75_UX380_CR0, 4, 380, 562_.jpg"
+    }
+  },
+  {
     "filename": "Maxine-2022.md",
     "path": "src/Series/Maxine-2022.md",
     "slug": "Maxine-2022",
@@ -3737,8 +4129,8 @@
       "length": "12 seasons (343 episodes)",
       "shelf": "watched",
       "owned": false,
-      "rating": null,
-      "watched": "2025-05-31T00:00:00.000Z",
+      "rating": 5,
+      "watched": "2026-03-18T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/2F0ADv2beVB4tRG0qx7YlWMvnDN.jpg"
     }
   },
@@ -4067,7 +4459,7 @@
       "shelf": "watched",
       "owned": false,
       "rating": null,
-      "watched": "2025-08-04T00:00:00.000Z",
+      "watched": "2026-06-05T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/8lkytocF9AzcCQlCq58sK4ogP0X.jpg"
     }
   },
@@ -4753,9 +5145,9 @@
     }
   },
   {
-    "filename": "High School D×D-2012.md",
-    "path": "src/Series/High School D×D-2012.md",
-    "slug": "High School D×D-2012",
+    "filename": "High School DxD-2012.md",
+    "path": "src/Series/High School DxD-2012.md",
+    "slug": "High School DxD-2012",
     "frontmatter": {
       "type": "series",
       "country": "JP",
@@ -5512,9 +5904,9 @@
       ],
       "length": "2 seasons (25 episodes)",
       "shelf": "watched",
-      "owned": false,
-      "rating": null,
-      "watched": "2010-01-30T00:00:00.000Z",
+      "owned": true,
+      "rating": 4,
+      "watched": "2026-04-16T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/oq5WPzUn7R0YcIk7QGwpXqvgSWO.jpg"
     }
   },
@@ -6298,6 +6690,34 @@
     }
   },
   {
+    "filename": "Blackshore-2024–.md",
+    "path": "src/Series/Blackshore-2024–.md",
+    "slug": "Blackshore-2024–",
+    "frontmatter": {
+      "type": "series",
+      "country": "Ireland",
+      "title": "Blackshore",
+      "year": "2024–",
+      "director": "N/A",
+      "actors": [
+        "Lisa Dwan",
+        "Rory Keenan",
+        "Stanley Townsend"
+      ],
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "length": "N/A",
+      "shelf": "watchlist",
+      "owned": true,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTU2YzRhNTYtZjQzNC00ZDU4LTkzNjQtNTM1NmQ2NmU2MzllXkEyXkFqcGc@._V1_QL75_UX380_CR0, 4, 380, 562_.jpg"
+    }
+  },
+  {
     "filename": "Blackadder-1983.md",
     "path": "src/Series/Blackadder-1983.md",
     "slug": "Blackadder-1983",
@@ -6323,6 +6743,32 @@
       "rating": null,
       "watched": "1989-11-02T00:00:00.000Z",
       "poster": "https://image.tmdb.org/t/p/w500/y3rXOeklqhZ7BTBveW5WLJqyjgU.jpg"
+    }
+  },
+  {
+    "filename": "Black Narcissus-2020.md",
+    "path": "src/Series/Black Narcissus-2020.md",
+    "slug": "Black Narcissus-2020",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom, United States",
+      "title": "Black Narcissus",
+      "year": 2020,
+      "director": "N/A",
+      "actors": [
+        "Gemma Arterton",
+        "Aisling Franciosi",
+        "Nila Aalia"
+      ],
+      "genre": [
+        "Drama"
+      ],
+      "length": 176,
+      "shelf": "watchlist",
+      "owned": true,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGRkOTE4MzAtZTUwYi00MWNlLWFjNTctZjQ4NTNmMmZiN2FiXkEyXkFqcGc@._V1_SX300.jpg"
     }
   },
   {

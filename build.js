@@ -1,5 +1,10 @@
 #!/usr/bin/env node
 
+// Usage:
+//   npm run generate-data          → generate JSON once
+//   npm run generate-data:watch   → regenerate on .md changes (requires nodemon)
+//   npm run dev                   → generate + serve (one-time)
+
 const fs = require("fs");
 const path = require("path");
 const matter = require("gray-matter");
@@ -103,7 +108,10 @@ function generateJsonFiles() {
 function build11tySite() {
   console.log("🏗️  Building 11ty site...");
   try {
-    execSync("npm run build", { stdio: "inherit" });
+    execSync("npx @11ty/eleventy", {
+      stdio: "inherit",
+      env: { ...process.env, NODE_ENV: "production" },
+    });
     console.log("✅ 11ty build completed\n");
   } catch (error) {
     console.error("❌ Error building 11ty site:", error.message);
@@ -146,8 +154,17 @@ function copyJsonFiles() {
 
 // Main execution
 function main() {
+  const args = process.argv.slice(2);
+  const generateOnly = args.includes("--generate-only");
+
   try {
     generateJsonFiles();
+
+    if (generateOnly) {
+      console.log("🎉 JSON generation completed (skip Eleventy build).\n");
+      return;
+    }
+
     build11tySite();
     copyJsonFiles();
 

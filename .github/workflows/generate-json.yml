@@ -124,7 +124,7 @@ jobs:
     - name: Install 11ty dependencies
       run: npm install @11ty/eleventy
     
-    - name: Build 11ty site
+    - name: Build full site (generate JSON + Eleventy)
       run: npm run build
     
     - name: Copy JSON files to public directory
