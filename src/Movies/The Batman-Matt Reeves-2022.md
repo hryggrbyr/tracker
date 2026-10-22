@@ -18,7 +18,8 @@ length: 2h 57m
 shelf: watched
 owned: false
 rating:
-watched: 2022-01-29
+watched:
+  - 2022-01-29
 poster: https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
 ---
 
