@@ -17,7 +17,8 @@ length: 2h 33m
 shelf: watched
 owned: false
 rating:
-watched: 1927-08-25
+watched:
+  - 1927-08-25
 poster: https://image.tmdb.org/t/p/w500/vZIJxGnjcswPCAa52jhbl01FQkV.jpg
 ---
 
