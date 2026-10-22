@@ -16,7 +16,8 @@ length: 1h 38m
 shelf: watched
 owned: false
 rating:
-watched: 1995-05-31
+watched:
+  - 1995-05-31
 poster: https://image.tmdb.org/t/p/w500/a6DGCZC2fHNr07tyRumM30ALEKE.jpg
 ---
 
