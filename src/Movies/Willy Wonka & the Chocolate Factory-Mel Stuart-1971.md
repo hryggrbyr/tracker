@@ -18,7 +18,8 @@ length: 1h 39m
 shelf: watched
 owned: false
 rating:
-watched: 1971-06-30
+watched:
+  - 1971-06-30
 poster: https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg
 ---
 
