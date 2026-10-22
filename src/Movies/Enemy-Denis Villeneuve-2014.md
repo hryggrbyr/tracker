@@ -15,9 +15,11 @@ genre:
   - Mystery
 length: 1h 31m
 shelf: watched
-owned: false
-rating:
-watched: 2014-03-14
+owned: true
+rating: 3
+watched:
+  - 2014-03-14
+  - 2026-10-22
 poster: https://image.tmdb.org/t/p/w500/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg
 ---
 
