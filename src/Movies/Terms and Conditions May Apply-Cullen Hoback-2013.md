@@ -16,7 +16,8 @@ length: 1h 19m
 shelf: watched
 owned: false
 rating:
-watched: 2013-07-12
+watched:
+  - 2013-07-12
 poster: https://image.tmdb.org/t/p/w500/hiXXUS7LVqALDNugz5kRvS0Xkx1.jpg
 ---
 

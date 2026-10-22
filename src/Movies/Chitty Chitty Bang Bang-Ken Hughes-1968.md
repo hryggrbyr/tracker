@@ -20,7 +20,8 @@ length: 2h 24m
 shelf: watched
 owned: false
 rating:
-watched: 1968-12-17
+watched:
+  - 1968-12-17
 poster: https://image.tmdb.org/t/p/w500/wJ62FzGeCAs6PjCIK1as6xzdIY5.jpg
 ---
 

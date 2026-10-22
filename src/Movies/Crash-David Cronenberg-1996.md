@@ -17,7 +17,8 @@ length: 1h 40m
 shelf: watched
 owned: false
 rating:
-watched: 1996-10-04
+watched:
+  - 1996-10-04
 poster: https://image.tmdb.org/t/p/w500/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg
 ---
 

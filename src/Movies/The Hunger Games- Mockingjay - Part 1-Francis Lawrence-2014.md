@@ -18,7 +18,8 @@ length: 2h 3m
 shelf: watched
 owned: false
 rating:
-watched: 2014-11-21
+watched:
+  - 2014-11-21
 poster: https://image.tmdb.org/t/p/w500/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg
 ---
 

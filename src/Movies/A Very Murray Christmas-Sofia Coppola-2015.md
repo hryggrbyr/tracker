@@ -18,7 +18,8 @@ length: 56m
 shelf: watched
 owned: false
 rating:
-watched: 2015-12-04
+watched:
+  - 2015-12-04
 poster: https://image.tmdb.org/t/p/w500/2ir2DjNNXmMePsyc4inFa8oI23r.jpg
 ---
 

@@ -20,7 +20,8 @@ length: 2h 15m
 shelf: watched
 owned: false
 rating:
-watched: 1977-03-31
+watched:
+  - 1977-03-31
 poster: https://image.tmdb.org/t/p/w500/dxLuj7VIv0ZRdvaIB6eY5fApONF.jpg
 ---
 

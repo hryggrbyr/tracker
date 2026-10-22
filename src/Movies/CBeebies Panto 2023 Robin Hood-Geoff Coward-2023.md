@@ -19,7 +19,8 @@ length: N/A
 shelf: watched
 owned: false
 rating:
-watched: 2023-12-31
+watched:
+  - 2023-12-31
 poster: https://m.media-amazon.com/images/M/MV5BOWRlMWEyZmEtM2E1Ni00ZTgyLTg1ZDYtODg2YzBjMDIxZGJkXkEyXkFqcGdeQXVyMzY0MDU4ODM@._V1_SX300.jpg
 ---
 

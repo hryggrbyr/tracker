@@ -20,7 +20,8 @@ length: 56
 shelf: watched
 owned: false
 rating:
-watched: 2025-08-29
+watched:
+  - 2025-08-29
 poster: https://m.media-amazon.com/images/M/MV5BNjJhMmZlNWItODhhNS00NmFmLTllYTgtMzMyYjVhMDRmYjliXkEyXkFqcGc@._V1_SX300.jpg
 ---
 

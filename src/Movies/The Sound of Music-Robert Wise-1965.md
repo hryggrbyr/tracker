@@ -19,7 +19,8 @@ length: 2h 54m
 shelf: watched
 owned: false
 rating:
-watched: 1965-04-01
+watched:
+  - 1965-04-01
 poster: https://image.tmdb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg
 ---
 
