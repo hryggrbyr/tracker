@@ -1,7 +1,7 @@
 ---
 type: series
 country: GB
-title: The Fantasy World of Clive Barker (The South Bank Show)
+title: The Fantasy World of Clive Barker
 year: 1994
 director: Daniel Wiles
 actors:
