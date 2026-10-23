@@ -1,6 +1,6 @@
 ---
 type: movie
-country: UKp
+country: UK
 title: "Russell Brand: In Plain Sight: Dispatches"
 year: 2023-09-16
 director: Alice MacShane, Imogen Wynell-Mayow
