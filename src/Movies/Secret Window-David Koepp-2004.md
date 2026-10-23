@@ -16,9 +16,11 @@ genre:
 length: 1h 36m
 shelf: watched
 owned: true
-rating: 3
+rating: 4
 watched:
+  - 2013-08-28
   - 2025-12-05
+  - 2026-10-23
 poster: https://image.tmdb.org/t/p/w500/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg
 ---
 
