@@ -1,7 +1,7 @@
 ---
-type: documentary
+type: series
 country: GB
-title: Clive Barker (The South Bank Show)
+title: The Fantasy World of Clive Barker (The South Bank Show)
 year: 1994
 director: Daniel Wiles
 actors:
@@ -19,7 +19,7 @@ shelf: watched
 owned: true
 rating: 3
 watched: 2026-10-23
-poster:
+poster: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/CliveBarker.jpg/1280px-CliveBarker.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 ---
 
 # Clive Barker (1994)
