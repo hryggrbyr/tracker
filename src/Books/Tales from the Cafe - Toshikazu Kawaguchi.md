@@ -19,9 +19,9 @@ description: |-
   The old detective who never gave his wife that gift...
   This beautiful, simple tale tells the story of people who must face up to their past, in order to move on with their lives. Kawaguchi once again invites the reader to ask themselves: what would you change...
 coverUrl: https://covers.openlibrary.org/b/id/12198651-M.jpg
-shelf: to-read
+shelf: reading
 owned: true
-start_date:
+start_date: 2026-10-24
 end_date:
 rating: 0
 recommended_by:
@@ -40,10 +40,10 @@ series: Before the Coffee Gets Cold
 
 _Before the Coffee Gets Cold 2_
 
-| &nbsp; | to-read | 
+| &nbsp; | reading | 
 | --- | --- |
 | Genre | Fiction |
-| Started |  |
+| Started | 2026-10-24T00:00:00.000+01:00 |
 | Finished |  |
 | Rating | /5 |
 
