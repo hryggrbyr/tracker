@@ -14,7 +14,7 @@ length: N/A
 shelf: watchlist
 owned: false
 rating:
-watched: 2025–-12-31
+watched:
 poster: N/A
 ---
 
