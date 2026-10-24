@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - poetry
 title: All Watched Over by Machines of Loving Grace
 subtitle: " "
 author:
@@ -10,11 +11,11 @@ page_count:
 isbn:
 description: ""
 coverUrl:
-shelf: to-read
+shelf: read
 owned: true
-start_date:
-end_date:
-rating:
+start_date: 2026-10-24
+end_date: 2026-10-24
+rating: 3
 recommended_by:
   name:
   url:
