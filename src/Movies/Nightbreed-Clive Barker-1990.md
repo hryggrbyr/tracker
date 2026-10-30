@@ -16,10 +16,11 @@ genre:
   - Action
 length: 2h 1m
 shelf: watched
-owned: false
-rating:
+owned: true
+rating: 5
 watched:
   - 1990-02-16
+  - 2026-10-30
 poster: https://image.tmdb.org/t/p/w500/1ChluYH0BEvJo3gtYoFHnMZI660.jpg
 ---
 
