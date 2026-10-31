@@ -22,6 +22,7 @@ owned: true
 rating:
 watched:
   - 1987-09-25
+  - 2026-10-31
 poster: https://image.tmdb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg
 ---
 
