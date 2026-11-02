@@ -1,6 +1,9 @@
 ---
 tags:
-  - Fiction
+  - UrbanFantasy
+  - TimeTravel
+  - gentle
+  - Japan
 title: Before Your Memory Fades
 subtitle: Before the Coffee Gets Cold 3
 author:
@@ -11,9 +14,9 @@ page_count:
 isbn: 9781335429285
 description: "Book 3 in the Before the Coffee Gets Cold series. Four more customers visit Café Funiculi Funicula in Tokyo, hoping to use its time-travelling offer: a daughter who lost her parents, half of an award-winning comedy duo mourning his late wife, an older sister missing her younger sister, and a lovesick lover who doesn't realise how they feel. Familiar faces from the earlier books return, and each visitor has something they wish they had said differently. Translated from the Japanese by Geoffrey Trousselot."
 coverUrl: https://books.google.com/books/content?id=Cdhe0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-shelf: to-read
+shelf: reading
 owned: true
-start_date:
+start_date: 2026-11-01
 end_date:
 rating: 0
 recommended_by:
@@ -32,10 +35,10 @@ series: Before the Coffee Gets Cold
 
 _Before the Coffee Gets Cold 3_
 
-| &nbsp; | to-read | 
+| &nbsp; | reading | 
 | --- | --- |
-| Genre | Fiction |
-| Started |  |
+| Genre | UrbanFantasy,TimeTravel,gentle,Japan |
+| Started | 2026-11-01T00:00:00.000+00:00 |
 | Finished |  |
 | Rating | /5 |
 
