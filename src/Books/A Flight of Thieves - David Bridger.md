@@ -2,7 +2,7 @@
 tags:
   - steampunk
   - pirates
-  - postapocalyptic
+  - PostApocalypse
   - england
 title: A Flight of Thieves
 subtitle: " "
@@ -36,7 +36,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | steampunk,pirates,postapocalyptic,england |
+| Genre | steampunk,pirates,PostApocalypse,england |
 | Started | 2024-10-13T00:00:00.000+01:00 |
 | Finished | 2024-10-17T00:00:00.000+01:00 |
 | Rating | /5 |
