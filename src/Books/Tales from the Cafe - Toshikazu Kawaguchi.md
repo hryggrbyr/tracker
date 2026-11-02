@@ -1,6 +1,9 @@
 ---
 tags:
-  - Fiction
+  - UrbanFantasy
+  - TimeTravel
+  - gentle
+  - Japan
 title: Tales from the Cafe
 subtitle: Before the Coffee Gets Cold 2
 author:
@@ -19,11 +22,11 @@ description: |-
   The old detective who never gave his wife that gift...
   This beautiful, simple tale tells the story of people who must face up to their past, in order to move on with their lives. Kawaguchi once again invites the reader to ask themselves: what would you change...
 coverUrl: https://covers.openlibrary.org/b/id/12198651-M.jpg
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-10-24
-end_date:
-rating: 0
+end_date: 2026-11-01
+rating: 5
 recommended_by:
   name:
   url:
@@ -40,12 +43,12 @@ series: Before the Coffee Gets Cold
 
 _Before the Coffee Gets Cold 2_
 
-| &nbsp; | reading | 
+| &nbsp; | read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre | UrbanFantasy,TimeTravel,gentle,Japan |
 | Started | 2026-10-24T00:00:00.000+01:00 |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2026-11-01T00:00:00.000+00:00 |
+| Rating | 5/5 |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780369715012
 READ REVIEW: 
