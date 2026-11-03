@@ -1,24 +1,13 @@
 ---
 tags:
-  - Fiction
-  - General
-  - United States
-  - Fiction - General
-  - Sagas
-  - Juvenile Fiction
-  - People & Places
-  - Horror & Ghost Stories
-  - Science Fiction
-  - Fantasy
-  - Magic
-  - Fantasy & Magic
-  - Interpersonal relations
-  - Werewolves
-  - School & Education
-  - "Children: Young Adult (Gr. 7-9)"
-  - Vampires
-  - Love & Romance
-  - Children's Books - Young Adult Fiction
+  - united-states
+  - fantasy
+  - juvenile-fiction
+  - werewolves
+  - school-education
+  - vampires
+  - horror
+  - romance
 title: Breaking Dawn
 subtitle: The Twilight Saga 4
 author:
@@ -53,7 +42,7 @@ _The Twilight Saga 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,General,United States,Fiction - General,Sagas,Juvenile Fiction,People & Places,Horror & Ghost Stories,Science Fiction,Fantasy,Magic,Fantasy & Magic,Interpersonal relations,Werewolves,School & Education,Children: Young Adult (Gr. 7-9),Vampires,Love & Romance,Children's Books - Young Adult Fiction |
+| Genre | united-states,fantasy,juvenile-fiction,werewolves,school-education,vampires,horror,romance |
 | Started | 2009-02-02T00:00:00.000+00:00 |
 | Finished | 2009-02-02T00:00:00.000+00:00 |
 | Rating | 3/5 |
