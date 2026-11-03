@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mystery
+  - mystery
 title: The Dogs of Riga
 subtitle: A Kurt Wallander Mystery 2
 author:
@@ -42,7 +42,7 @@ _A Kurt Wallander Mystery 2_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Mystery |
+| Genre | mystery |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
