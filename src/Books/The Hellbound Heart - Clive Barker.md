@@ -2,7 +2,7 @@
 tags:
   - fantasy
   - horror
-  - ParallelWorlds
+  - parallel-worlds
 title: The Hellbound Heart
 subtitle: " "
 author:
@@ -35,7 +35,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,horror,ParallelWorlds |
+| Genre | fantasy,horror,parallel-worlds |
 | Started | 1995-06-02T00:00:00.000+01:00 |
 | Finished | 1995-06-05T00:00:00.000+01:00 |
 | Rating | 4/5 |
