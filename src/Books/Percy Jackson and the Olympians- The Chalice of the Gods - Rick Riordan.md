@@ -1,8 +1,8 @@
 ---
 tags:
-  - YoungAdult
+  - young-adult
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - mythology
   - magic
 title: The Chalice of the Gods
@@ -37,7 +37,7 @@ _Percy Jackson and the Olympians 6_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | YoungAdult,fantasy,UrbanFantasy,mythology,magic |
+| Genre | young-adult,fantasy,urban-fantasy,mythology,magic |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
