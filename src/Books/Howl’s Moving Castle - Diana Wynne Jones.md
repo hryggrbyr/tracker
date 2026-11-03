@@ -1,10 +1,10 @@
 ---
 tags:
   - fantasy
-  - JuvenileFiction
+  - juvenile-fiction
   - magic
   - wizards
-  - ParallelWorlds
+  - parallel-worlds
 title: Howl’s Moving Castle
 subtitle: ""
 author:
@@ -38,7 +38,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,JuvenileFiction,magic,wizards,ParallelWorlds |
+| Genre | fantasy,juvenile-fiction,magic,wizards,parallel-worlds |
 | Started | 2020-04-01T00:00:00.000+01:00 |
 | Finished | 2020-04-22T00:00:00.000+01:00 |
 | Rating | 5/5 |
