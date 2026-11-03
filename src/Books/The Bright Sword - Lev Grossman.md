@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Bright Sword
 subtitle: An epic Arthurian retelling from the internationally bestselling author of The Magicians
 author:
@@ -32,7 +31,7 @@ _An epic Arthurian retelling from the internationally bestselling author of The 
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
