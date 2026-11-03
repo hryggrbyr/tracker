@@ -1,7 +1,6 @@
 ---
 tags:
-  - Fiction
-  - Science Fiction
+  - science fiction
 title: Night Watch
 subtitle: Book One
 author:
@@ -51,7 +50,7 @@ _Book One_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction,Science Fiction |
+| Genre | science fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
