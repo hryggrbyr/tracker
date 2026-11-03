@@ -1,6 +1,6 @@
 ---
 tags:
-  - Children's Books
+  - children's books
 title: Odd and the Frost Giants
 subtitle: ""
 author:
@@ -48,7 +48,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Children's Books |
+| Genre | children's books |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
