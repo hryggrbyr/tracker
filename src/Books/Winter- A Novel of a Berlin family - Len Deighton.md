@@ -1,26 +1,10 @@
 ---
 tags:
-  - Fiction
-  - Suspense
-  - Thrillers
-  - History
-  - Espionage
-  - Intrigue
-  - Non-Classifiable
-  - War & Military
-  - Historical
-  - Family
-  - Domestic Fiction
-  - Berlin (Germany)
-  - War Stories
-  - Germany
-  - Families
-  - Berlin (Germany) - History - 1918-1945 - Fiction
-  - Len - Prose & Criticism
-  - Deighton
-  - Family - Germany - Berlin - Fiction
-  - 1918-1945
-  - Berlin
+  - mystery
+  - espionage
+  - spy thriller
+  - thriller
+  - historical fiction
 title: "Winter: A Novel of a Berlin family"
 subtitle: ""
 author:
@@ -56,7 +40,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction,Suspense,Thrillers,History,Espionage,Intrigue,Non-Classifiable,War & Military,Historical,Family,Domestic Fiction,Berlin (Germany),War Stories,Germany,Families,Berlin (Germany) - History - 1918-1945 - Fiction,Len - Prose & Criticism,Deighton,Family - Germany - Berlin - Fiction,1918-1945,Berlin |
+| Genre | mystery,espionage,spy thriller,thriller,historical fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
