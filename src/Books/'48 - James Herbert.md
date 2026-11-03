@@ -1,6 +1,6 @@
 ---
 tags:
-  - Horror
+  - horror
 title: "'48"
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Horror |
+| Genre | horror |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
