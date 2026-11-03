@@ -3,8 +3,8 @@ tags:
   - gentle
   - charming
   - odd
-  - Japan
-  - SliceOfLife
+  - japan
+  - slice-of-life
   - philosophy
 title: Convenience Store Woman
 subtitle: " "
@@ -41,7 +41,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | gentle,charming,odd,Japan,SliceOfLife,philosophy |
+| Genre | gentle,charming,odd,japan,slice-of-life,philosophy |
 | Started | 2026-05-02T00:00:00.000+01:00 |
 | Finished | 2026-05-06T00:00:00.000+01:00 |
 | Rating | 5/5 |
