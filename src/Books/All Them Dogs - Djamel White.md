@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: All Them Dogs
 subtitle: A Novel
 author:
@@ -32,7 +31,7 @@ _A Novel_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
