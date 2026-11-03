@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction:Thriller
+  - fiction:thriller
 title: You Can't Stop Me
 subtitle: ""
 author:
@@ -33,7 +33,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction:Thriller |
+| Genre | fiction:thriller |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
