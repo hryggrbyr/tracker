@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Winter Killer
 subtitle: The DI James Walker Series 3
 author:
@@ -34,7 +33,7 @@ _The DI James Walker Series 3_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
