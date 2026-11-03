@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Small Things Like These
 subtitle: Shortlisted for the Booker Prize 2022
 author:
@@ -32,7 +31,7 @@ _Shortlisted for the Booker Prize 2022_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
