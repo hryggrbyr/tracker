@@ -1,6 +1,6 @@
 ---
 tags:
-  - Modern fantasy
+  - modern fantasy
 title: The Green Man's Heir
 subtitle: " "
 author:
@@ -33,7 +33,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | Modern fantasy |
+| Genre | modern fantasy |
 | Started | 2023-12-19T00:00:00.000+00:00 |
 | Finished | 2023-12-31T00:00:00.000+00:00 |
 | Rating | 5/5 |
