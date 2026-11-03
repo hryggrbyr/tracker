@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile fiction
   - fantasy & magic
   - animals
   - general
@@ -41,7 +40,7 @@ _Redwall 19_
 
 | Shelf | read |
 | --- | --- |
-| Genre | juvenile fiction,fantasy & magic,animals,general,action & adventure |
+| Genre | fantasy & magic,animals,general,action & adventure |
 | Started |  |
 | Finished | 2007-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
