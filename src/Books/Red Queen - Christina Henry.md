@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Red Queen
 subtitle: The Chronicles of Alice 2
 author:
@@ -42,7 +41,7 @@ _The Chronicles of Alice 2_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
