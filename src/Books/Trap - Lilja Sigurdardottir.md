@@ -4,8 +4,8 @@ tags:
   - scandinoir
   - iceland
   - police
-  - DrugSmuggling
-  - lgbt
+  - drug-smuggling
+  - queer
 title: Trap
 subtitle: The Reykjavik Noir 02
 author:
@@ -39,7 +39,7 @@ _The Reykjavik Noir 02_
 
 | Shelf | read |
 | --- | --- |
-| Genre | crime,scandinoir,iceland,police,DrugSmuggling,lgbt |
+| Genre | crime,scandinoir,iceland,police,drug-smuggling,queer |
 | Started | 2025-07-14T00:00:00.000+01:00 |
 | Finished | 2025-07-20T00:00:00.000+01:00 |
 | Rating | 3/5 |
