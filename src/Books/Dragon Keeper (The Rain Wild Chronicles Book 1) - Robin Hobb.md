@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Dragon Keeper (The Rain Wild Chronicles, Book 1)
 subtitle: ""
 author:
@@ -33,7 +32,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
