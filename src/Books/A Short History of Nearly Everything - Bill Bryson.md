@@ -1,6 +1,6 @@
 ---
 tags:
-  - nonfiction
+  - non-fiction
 title: A Short History of Nearly Everything
 subtitle: " "
 author:
@@ -32,7 +32,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | nonfiction |
+| Genre | non-fiction |
 | Started |  |
 | Finished | 2003-12-31T00:00:00.000+00:00 |
 | Rating | 3/5 |
