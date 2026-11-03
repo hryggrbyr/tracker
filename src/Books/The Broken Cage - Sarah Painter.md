@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - magic
   - england
   - supernatural
@@ -39,7 +39,7 @@ _Crow Investigations 7_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,magic,england,supernatural,folklore |
+| Genre | fantasy,urban-fantasy,magic,england,supernatural,folklore |
 | Started | 2023-03-13T00:00:00.000+00:00 |
 | Finished | 2023-04-02T00:00:00.000+01:00 |
 | Rating | /5 |
