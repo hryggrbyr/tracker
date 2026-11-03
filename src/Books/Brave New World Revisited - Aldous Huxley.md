@@ -1,6 +1,6 @@
 ---
 tags:
-  - Science-Fiction
+  - sci-fi
 title: Brave New World Revisited
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Science-Fiction |
+| Genre | sci-fi |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
