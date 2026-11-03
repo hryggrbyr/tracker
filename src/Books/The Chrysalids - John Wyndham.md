@@ -1,14 +1,13 @@
 ---
 tags:
-  - Fiction - Science Fiction
-  - Science Fiction
-  - 20th Century English Novel And Short Story
-  - Fiction
-  - Mutation (Biology)
-  - Science Fiction - General
-  - English Science Fiction And Fantasy
-  - Telepathy
-  - General
+  - fiction - science fiction
+  - science fiction
+  - 20th century english novel and short story
+  - mutation (biology)
+  - science fiction - general
+  - english science fiction and fantasy
+  - telepathy
+  - general
 title: The Chrysalids
 subtitle: " "
 author:
