@@ -1,7 +1,7 @@
 ---
 tags:
-  - UrbanFantasy
-  - lgbt
+  - urban-fantasy
+  - queer
   - romance
 title: The House in the Cerulean Sea
 subtitle: The Cerulean Chronicles 1
@@ -36,7 +36,7 @@ _The Cerulean Chronicles 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | UrbanFantasy,lgbt,romance |
+| Genre | urban-fantasy,queer,romance |
 | Started | 2024-08-23T00:00:00.000+01:00 |
 | Finished | 2024-09-20T00:00:00.000+01:00 |
 | Rating | 5/5 |
