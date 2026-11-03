@@ -1,6 +1,6 @@
 ---
 tags:
-  - Contemporary
+  - contemporary
 title: Chronicler of the Winds
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Contemporary |
+| Genre | contemporary |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
