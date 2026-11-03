@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Crazy Hawk
 subtitle: A Post-Apocalyptic Thriller
 author:
@@ -32,7 +31,7 @@ _A Post-Apocalyptic Thriller_
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
