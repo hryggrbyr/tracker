@@ -1,7 +1,6 @@
 ---
 tags:
   - fantasy
-  - juvenile-fiction
   - magic
   - wizards
   - parallel-worlds
@@ -38,7 +37,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,juvenile-fiction,magic,wizards,parallel-worlds |
+| Genre | fantasy,magic,wizards,parallel-worlds |
 | Started | 2020-04-01T00:00:00.000+01:00 |
 | Finished | 2020-04-22T00:00:00.000+01:00 |
 | Rating | 5/5 |

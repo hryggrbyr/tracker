@@ -2,7 +2,6 @@
 tags:
   - fantasy
   - romantasy
-  - young-adult
   - romance
 title: A Promise of Fire
 subtitle: " "
@@ -36,7 +35,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,romantasy,young-adult,romance |
+| Genre | fantasy,romantasy,romance |
 | Started | 2022-05-13T00:00:00.000+01:00 |
 | Finished | 2022-05-23T00:00:00.000+01:00 |
 | Rating | 3/5 |

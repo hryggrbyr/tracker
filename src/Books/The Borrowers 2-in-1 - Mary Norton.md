@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile-fiction
   - fantasy
   - urban-fantasy
 title: The Borrowers
@@ -34,7 +33,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | juvenile-fiction,fantasy,urban-fantasy |
+| Genre | fantasy,urban-fantasy |
 | Started |  |
 | Finished | 1986-12-25T00:00:00.000+00:00 |
 | Rating | 3/5 |

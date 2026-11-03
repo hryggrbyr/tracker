@@ -1,6 +1,5 @@
 ---
 tags:
-  - young-adult
   - fantasy
   - urban-fantasy
   - mythology
@@ -37,7 +36,7 @@ _Percy Jackson and The Olympians 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | young-adult,fantasy,urban-fantasy,mythology,magic |
+| Genre | fantasy,urban-fantasy,mythology,magic |
 | Started | 2011-08-02T00:00:00.000+01:00 |
 | Finished | 2011-08-22T00:00:00.000+01:00 |
 | Rating | 4/5 |

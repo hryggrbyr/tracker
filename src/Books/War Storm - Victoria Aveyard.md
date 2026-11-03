@@ -2,7 +2,6 @@
 tags:
   - fantasy
   - dystopia
-  - young-adult
 title: War Storm
 subtitle: Red Queen 4
 author:
@@ -41,7 +40,7 @@ _Red Queen 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,dystopia,young-adult |
+| Genre | fantasy,dystopia |
 | Started |  |
 | Finished | 2018-04-11T00:00:00.000+01:00 |
 | Rating | 4/5 |

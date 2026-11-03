@@ -1,6 +1,5 @@
 ---
-tags:
-  - juvenile fiction
+tags: []
 title: Where the Wild Things Are
 subtitle: ""
 author:
@@ -32,7 +31,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | juvenile fiction |
+| Genre |  |
 | Started | 1985-10-06T00:00:00.000+01:00 |
 | Finished | 1985-10-06T00:00:00.000+01:00 |
 | Rating | 4/5 |

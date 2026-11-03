@@ -2,7 +2,6 @@
 tags:
   - fantasy
   - dystopia
-  - young-adult
 title: King's Cage
 subtitle: Red Queen 3
 author:
@@ -43,7 +42,7 @@ _Red Queen 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,dystopia,young-adult |
+| Genre | fantasy,dystopia |
 | Started | 2015-05-07T00:00:00.000+01:00 |
 | Finished | 2016-05-31T00:00:00.000+01:00 |
 | Rating | 3/5 |

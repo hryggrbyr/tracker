@@ -2,7 +2,6 @@
 tags:
   - romance
   - fantasy
-  - young-adult
   - shapeshifters
   - monsters
 title: Underland
@@ -37,7 +36,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | romance,fantasy,young-adult,shapeshifters,monsters |
+| Genre | romance,fantasy,shapeshifters,monsters |
 | Started | 2022-09-29T00:00:00.000+01:00 |
 | Finished | 2022-10-10T00:00:00.000+01:00 |
 | Rating | /5 |

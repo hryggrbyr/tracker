@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile fiction
   - animals
   - action & adventure
   - fantasy & magic
@@ -43,7 +42,7 @@ _Redwall 22_
 
 | Shelf | read |
 | --- | --- |
-| Genre | juvenile fiction,animals,action & adventure,fantasy & magic,general |
+| Genre | animals,action & adventure,fantasy & magic,general |
 | Started |  |
 | Finished | 2011-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

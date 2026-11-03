@@ -3,7 +3,6 @@ tags:
   - fantasy
   - talking-animals
   - drama
-  - juvenile-fiction
 title: The Bellmaker
 subtitle: Redwall 7
 author:
@@ -37,7 +36,7 @@ _Redwall 7_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,talking-animals,drama,juvenile-fiction |
+| Genre | fantasy,talking-animals,drama |
 | Started |  |
 | Finished | 1994-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

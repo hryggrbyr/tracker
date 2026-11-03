@@ -1,6 +1,5 @@
 ---
 tags:
-  - young-adult
   - suicide
   - dark-humour
   - coming-of-age
@@ -43,7 +42,7 @@ _A Novel (Twenty-Fifth Anniversary Edition)_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | young-adult,suicide,dark-humour,coming-of-age |
+| Genre | suicide,dark-humour,coming-of-age |
 | Started | 2026-10-04T00:00:00.000+01:00 |
 | Finished | 2026-10-15T00:00:00.000+01:00 |
 | Rating | 5/5 |

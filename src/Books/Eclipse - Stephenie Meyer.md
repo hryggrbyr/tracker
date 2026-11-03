@@ -2,7 +2,6 @@
 tags:
   - united-states
   - fantasy
-  - juvenile-fiction
   - werewolves
   - school-education
   - vampires
@@ -41,7 +40,7 @@ _The Twilight Saga 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre | united-states,fantasy,juvenile-fiction,werewolves,school-education,vampires,horror,romance |
+| Genre | united-states,fantasy,werewolves,school-education,vampires,horror,romance |
 | Started | 2010-07-15T00:00:00.000+01:00 |
 | Finished | 2010-07-31T00:00:00.000+01:00 |
 | Rating | 3/5 |

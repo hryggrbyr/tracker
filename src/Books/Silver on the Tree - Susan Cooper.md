@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile fiction
   - fantasy
   - mythology
   - urban fantasy
@@ -40,7 +39,7 @@ _The Dark is Rising Sequence 5_
 
 | Shelf | read |
 | --- | --- |
-| Genre | juvenile fiction,fantasy,mythology,urban fantasy,folklore,magic,wizards |
+| Genre | fantasy,mythology,urban fantasy,folklore,magic,wizards |
 | Started | 2026-01-02T00:00:00.000+00:00 |
 | Finished | 2026-02-03T00:00:00.000+00:00 |
 | Rating | 3/5 |

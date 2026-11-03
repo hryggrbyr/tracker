@@ -3,7 +3,6 @@ tags:
   - fantasy
   - talking-animals
   - drama
-  - juvenile-fiction
 title: Mossflower
 subtitle: Redwall 2
 author:
@@ -42,7 +41,7 @@ _Redwall 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,talking-animals,drama,juvenile-fiction |
+| Genre | fantasy,talking-animals,drama |
 | Started |  |
 | Finished | 1988-12-31T00:00:00.000+00:00 |
 | Rating | 4/5 |

@@ -1,6 +1,5 @@
 ---
-tags:
-  - juvenile fiction
+tags: []
 title: The Plague Dogs
 subtitle: ""
 author:
@@ -35,7 +34,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | juvenile fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
