@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Jonathan Livingston Seagull
 subtitle: The Complete Edition
 author:
@@ -32,7 +31,7 @@ _The Complete Edition_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started | 1989-02-02T00:00:00.000+00:00 |
 | Finished | 1989-02-02T00:00:00.000+00:00 |
 | Rating | 2/5 |
