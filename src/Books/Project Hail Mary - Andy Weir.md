@@ -1,10 +1,10 @@
 ---
 tags:
-  - Science Fiction
-  - Adult
-  - Mystery
-  - Thriller
-  - Fantasy
+  - sci-fi
+  - mystery
+  - thriller
+  - science
+  - speculative-fiction
 title: Project Hail Mary
 subtitle: ""
 author:
@@ -87,7 +87,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Science Fiction,Adult,Mystery,Thriller,Fantasy |
+| Genre | sci-fi,mystery,thriller,science,speculative-fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
