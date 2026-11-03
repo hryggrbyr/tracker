@@ -1,6 +1,6 @@
 ---
 tags:
-  - Young Adult Fiction
+  - young adult fiction
 title: Roar of the Lambs
 subtitle: ""
 author:
@@ -32,7 +32,7 @@ __
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | Young Adult Fiction |
+| Genre | young adult fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
