@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction:Young Adult
+  - fiction:young adult
 title: The Red Pyramid
 subtitle: The Kane Chronicles 1
 author:
@@ -36,7 +36,7 @@ _The Kane Chronicles 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction:Young Adult |
+| Genre | fiction:young adult |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
