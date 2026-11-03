@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mystery
+  - mystery
 title: Rebel Island
 subtitle: ""
 author:
@@ -38,7 +38,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Mystery |
+| Genre | mystery |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
