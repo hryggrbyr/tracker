@@ -1,9 +1,10 @@
 ---
 tags:
-  - Magic
-  - Fantasy
-  - High
-  - Dark
+  - magic
+  - fantasy
+  - high fantasy
+  - dark fantasy
+  - dystopia
 title: Foundryside
 subtitle: ""
 author:
@@ -37,7 +38,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Magic,Fantasy,High,Dark |
+| Genre | magic,fantasy,high fantasy,dark fantasy,dystopia |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
