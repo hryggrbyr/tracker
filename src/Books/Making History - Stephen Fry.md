@@ -1,11 +1,11 @@
 ---
 tags:
-  - AlternateHistory
+  - alternate-history
   - sci-fi
-  - BritishLiterature
-  - lgbt
+  - british-literature
+  - queer
   - war
-  - TimeTravel
+  - time-travel
 title: Making History
 subtitle: ""
 author:
@@ -37,7 +37,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | AlternateHistory,sci-fi,BritishLiterature,lgbt,war,TimeTravel |
+| Genre | alternate-history,sci-fi,british-literature,queer,war,time-travel |
 | Started |  |
 | Finished | 2004-04-28T00:00:00.000+01:00 |
 | Rating | /5 |
