@@ -2,10 +2,10 @@
 tags:
   - fantasy
   - magic
-  - Religion
+  - religion
   - horror
-  - ParallelWorlds
-  - DarkFantasy
+  - parallel-worlds
+  - dark-fantasy
 title: Imajica
 subtitle: ""
 author:
@@ -38,7 +38,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | fantasy,magic,Religion,horror,ParallelWorlds,DarkFantasy |
+| Genre | fantasy,magic,religion,horror,parallel-worlds,dark-fantasy |
 | Started | 1995-10-10T00:00:00.000+01:00 |
 | Finished | 1995-10-16T00:00:00.000+01:00 |
 | Rating | 4/5 |
