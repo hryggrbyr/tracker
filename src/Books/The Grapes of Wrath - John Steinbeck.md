@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Grapes of Wrath
 subtitle: ""
 author:
@@ -35,7 +34,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started | 2005-01-20T00:00:00.000+00:00 |
 | Finished | 2005-02-10T00:00:00.000+00:00 |
 | Rating | 2/5 |
