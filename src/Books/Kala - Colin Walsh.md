@@ -3,7 +3,7 @@ tags:
   - mystery
   - ireland
   - childhood
-  - ComingOfAge
+  - coming-of-age
   - thriller
 title: Kala
 subtitle: A Novel
@@ -37,7 +37,7 @@ _A Novel_
 
 | Shelf | read |
 | --- | --- |
-| Genre | mystery,ireland,childhood,ComingOfAge,thriller |
+| Genre | mystery,ireland,childhood,coming-of-age,thriller |
 | Started | 2025-06-28T00:00:00.000+01:00 |
 | Finished | 2025-07-04T00:00:00.000+01:00 |
 | Rating | 5/5 |
