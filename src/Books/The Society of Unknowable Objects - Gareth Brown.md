@@ -1,8 +1,9 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - magic
+  - library
 title: The Society of Unknowable Objects
 subtitle: The fantastical new adventure from the bestselling author of The Book of Doors
 author:
@@ -38,7 +39,7 @@ _The fantastical new adventure from the bestselling author of The Book of Doors_
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,magic |
+| Genre | fantasy,urban-fantasy,magic,library |
 | Started | 2026-07-30T00:00:00.000+01:00 |
 | Finished | 2026-08-10T00:00:00.000+01:00 |
 | Rating | 5/5 |
