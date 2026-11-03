@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fantasy
+  - fantasy
 title: Before We Say Goodbye
 subtitle: " "
 author:
