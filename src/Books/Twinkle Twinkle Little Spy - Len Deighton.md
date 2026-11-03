@@ -1,15 +1,10 @@
 ---
 tags:
-  - Fiction
-  - General
-  - Mystery & Detective
-  - Mystery
-  - Espionage
-  - Non-Classifiable
-  - True Crime
-  - Espionage & spy thriller
-  - Foreign Language Study
-  - Arabic
+  - mystery
+  - espionage
+  - spy thriller
+  - thriller
+  - historical fiction
 title: Twinkle, Twinkle, Little Spy
 subtitle: ""
 author:
@@ -42,7 +37,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,General,Mystery & Detective,Mystery,Espionage,Non-Classifiable,True Crime,Espionage & spy thriller,Foreign Language Study,Arabic |
+| Genre | mystery,espionage,spy thriller,thriller,historical fiction |
 | Started |  |
 | Finished | 1992-09-12T00:00:00.000+01:00 |
 | Rating | /5 |
