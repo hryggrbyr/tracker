@@ -2,8 +2,8 @@
 tags:
   - fantasy
   - epic
-  - UrbanFantasy
-  - HistoricalFantasy
+  - urban-fantasy
+  - historical-fantasy
   - magic
   - war
   - family
@@ -40,7 +40,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,epic,UrbanFantasy,HistoricalFantasy,magic,war,family,relationships |
+| Genre | fantasy,epic,urban-fantasy,historical-fantasy,magic,war,family,relationships |
 | Started | 2025-01-01T00:00:00.000+00:00 |
 | Finished | 2025-01-09T00:00:00.000+00:00 |
 | Rating | 5/5 |
