@@ -1,6 +1,8 @@
 ---
 tags:
-  - child_sf
+  - sci-fi
+  - fantasy
+  - juvenile-fiction
 title: "Abarat: The First Book of Hours"
 subtitle: Abarat Book 1
 author:
@@ -34,7 +36,7 @@ _Abarat Book 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | child_sf |
+| Genre | sci-fi,fantasy,juvenile-fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
