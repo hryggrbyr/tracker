@@ -1,12 +1,11 @@
 ---
 tags:
-  - Fiction
-  - General
-  - Espionage
-  - War & Military
-  - Historical
-  - Espionage & spy thriller
-  - Fiction in English
+  - war
+  - military
+  - historical-fiction
+  - espionage
+  - spy
+  - thriller
 title: "SS-GB: Nazi-occupied Britain 1941"
 subtitle: " "
 author:
