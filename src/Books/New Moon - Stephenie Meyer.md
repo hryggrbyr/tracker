@@ -1,34 +1,13 @@
 ---
 tags:
-  - Fiction
-  - General
-  - United States
-  - Fiction - General
-  - Media Tie-In
-  - Fantasy - Contemporary
-  - Juvenile Fiction
-  - People & Places
-  - Horror & Ghost Stories
-  - Science Fiction
-  - Fantasy
-  - Magic
-  - Fantasy & Magic
-  - Werewolves
-  - School & Education
-  - "Children: Young Adult (Gr. 7-9)"
-  - Vampires
-  - Horror stories
-  - Schools
-  - Love & Romance
-  - Children's Books - Young Adult Fiction
-  - High schools
-  - Romance - Paranormal
-  - Cullen
-  - Edward (Fictitious character)
-  - Swan
-  - Bella (Fictitious character)
-  - Edward (Fictitious character
-  - Washington (State)
+  - united-states
+  - fantasy
+  - juvenile-fiction
+  - werewolves
+  - school-education
+  - vampires
+  - horror
+  - romance
 title: New Moon
 subtitle: The Twilight Saga 2
 author:
@@ -62,7 +41,7 @@ _The Twilight Saga 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,General,United States,Fiction - General,Media Tie-In,Fantasy - Contemporary,Juvenile Fiction,People & Places,Horror & Ghost Stories,Science Fiction,Fantasy,Magic,Fantasy & Magic,Werewolves,School & Education,Children: Young Adult (Gr. 7-9),Vampires,Horror stories,Schools,Love & Romance,Children's Books - Young Adult Fiction,High schools,Romance - Paranormal,Cullen,Edward (Fictitious character),Swan,Bella (Fictitious character),Edward (Fictitious character,Washington (State) |
+| Genre | united-states,fantasy,juvenile-fiction,werewolves,school-education,vampires,horror,romance |
 | Started | 2009-12-15T00:00:00.000+00:00 |
 | Finished | 2009-12-31T00:00:00.000+00:00 |
 | Rating | 3/5 |
