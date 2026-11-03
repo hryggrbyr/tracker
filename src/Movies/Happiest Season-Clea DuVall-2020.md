@@ -14,7 +14,7 @@ genre:
   - Romance
   - Comedy
   - Christmas
-  - lgbt
+  - queer
 length: 1h 42m
 shelf: watched
 owned: false
