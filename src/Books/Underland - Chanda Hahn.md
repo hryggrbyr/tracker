@@ -1,13 +1,10 @@
 ---
 tags:
-  - Romance
-  - Fantasy
-  - teen
-  - ya
+  - romance
+  - fantasy
+  - young-adult
   - shapeshifters
   - monsters
-  - mythical
-  - hunger games
 title: Underland
 subtitle: " "
 author:
@@ -40,7 +37,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | Romance,Fantasy,teen,ya,shapeshifters,monsters,mythical,hunger games |
+| Genre | romance,fantasy,young-adult,shapeshifters,monsters |
 | Started | 2022-09-29T00:00:00.000+01:00 |
 | Finished | 2022-10-10T00:00:00.000+01:00 |
 | Rating | /5 |
