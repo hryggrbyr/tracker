@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile fiction
   - animals
   - mice; hamsters; guinea pigs; etc
   - action & adventure
@@ -50,7 +49,7 @@ _Redwall 12_
 
 | Shelf | read |
 | --- | --- |
-| Genre | juvenile fiction,animals,mice; hamsters; guinea pigs; etc,action & adventure,general,fantasy & magic |
+| Genre | animals,mice; hamsters; guinea pigs; etc,action & adventure,general,fantasy & magic |
 | Started |  |
 | Finished | 1999-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
