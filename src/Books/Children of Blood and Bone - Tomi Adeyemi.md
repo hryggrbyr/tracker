@@ -2,7 +2,6 @@
 tags:
   - fantasy
   - dystopia
-  - young-adult
   - magic
 title: Children of Blood and Bone
 subtitle: Legacy of Orïsha 1
@@ -37,7 +36,7 @@ _Legacy of Orïsha 1_
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | fantasy,dystopia,young-adult,magic |
+| Genre | fantasy,dystopia,magic |
 | Started | 2026-03-09T00:00:00.000+00:00 |
 | Finished | 2026-03-20T00:00:00.000+00:00 |
 | Rating | 5/5 |
