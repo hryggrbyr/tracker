@@ -1,10 +1,10 @@
 ---
 tags:
-  - Juvenile Fiction
-  - Fantasy & Magic
-  - Animals
-  - General
-  - Action & Adventure
+  - juvenile fiction
+  - fantasy & magic
+  - animals
+  - general
+  - action & adventure
 title: The Sable Quean
 subtitle: Redwall 21
 author:
@@ -41,7 +41,7 @@ _Redwall 21_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction,Fantasy & Magic,Animals,General,Action & Adventure |
+| Genre | juvenile fiction,fantasy & magic,animals,general,action & adventure |
 | Started |  |
 | Finished | 2010-12-13T00:00:00.000+00:00 |
 | Rating | /5 |
