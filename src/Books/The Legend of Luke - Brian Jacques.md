@@ -1,11 +1,11 @@
 ---
 tags:
-  - Juvenile Fiction
-  - Animals
-  - Mice; Hamsters; Guinea Pigs; Etc
-  - Action & Adventure
-  - General
-  - Fantasy & Magic
+  - juvenile fiction
+  - animals
+  - mice; hamsters; guinea pigs; etc
+  - action & adventure
+  - general
+  - fantasy & magic
 title: The Legend of Luke
 subtitle: Redwall 12
 author:
@@ -50,7 +50,7 @@ _Redwall 12_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction,Animals,Mice; Hamsters; Guinea Pigs; Etc,Action & Adventure,General,Fantasy & Magic |
+| Genre | juvenile fiction,animals,mice; hamsters; guinea pigs; etc,action & adventure,general,fantasy & magic |
 | Started |  |
 | Finished | 1999-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
