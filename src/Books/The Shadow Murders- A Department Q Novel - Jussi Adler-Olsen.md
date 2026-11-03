@@ -1,11 +1,10 @@
 ---
 tags:
-  - Fiction
-  - Mystery & Detective
-  - Police Procedural
-  - Thrillers
-  - Crime
-  - International Crime & Mystery
+  - mystery & detective
+  - police procedural
+  - thriller
+  - crime
+  - international crime & mystery
 title: The Shadow Murders
 subtitle: Department Q 9
 author:
@@ -61,7 +60,7 @@ _Department Q 9_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction,Mystery & Detective,Police Procedural,Thrillers,Crime,International Crime & Mystery |
+| Genre | mystery & detective,police procedural,thriller,crime,international crime & mystery |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
