@@ -1,7 +1,7 @@
 ---
 tags:
   - sci-fi
-  - JuvenileFiction
+  - juvenile-fiction
 title: Escape to Witch Mountain
 subtitle: ""
 author:
@@ -34,7 +34,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | sci-fi,JuvenileFiction |
+| Genre | sci-fi,juvenile-fiction |
 | Started | 2026-05-06T00:00:00.000+01:00 |
 | Finished | 2026-05-09T00:00:00.000+01:00 |
 | Rating | 3/5 |
