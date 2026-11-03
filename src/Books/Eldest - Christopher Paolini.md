@@ -1,7 +1,7 @@
 ---
 tags:
-  - Fiction:Young Adult
-  - Fantasy
+  - fiction:young adult
+  - fantasy
 title: Eldest
 subtitle: " "
 author:
