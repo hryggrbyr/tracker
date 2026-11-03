@@ -2,7 +2,7 @@
 tags:
   - police
   - crime
-  - SerialKiller
+  - serial-killer
   - psychology
   - america
   - adventure
@@ -37,7 +37,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | police,crime,SerialKiller,psychology,america,adventure |
+| Genre | police,crime,serial-killer,psychology,america,adventure |
 | Started |  |
 | Finished | 1993-04-11T00:00:00.000+01:00 |
 | Rating | 4/5 |
