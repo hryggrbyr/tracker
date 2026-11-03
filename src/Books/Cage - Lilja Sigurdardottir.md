@@ -1,15 +1,12 @@
 ---
 tags:
-  - Fiction
-  - Mystery & Detective
-  - Hard-Boiled
-  - Noir
+  - mystery
   - crime
   - scandinoir
   - iceland
   - police
-  - DrugSmuggling
-  - lgbt
+  - drug-smuggling
+  - queer
 title: Cage
 subtitle: The Reykjavik Noir 03
 author:
@@ -43,7 +40,7 @@ _The Reykjavik Noir 03_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,Mystery & Detective,Hard-Boiled,Noir,crime,scandinoir,iceland,police,DrugSmuggling,lgbt |
+| Genre | mystery,crime,scandinoir,iceland,police,drug-smuggling,queer |
 | Started | 2025-07-20T00:00:00.000+01:00 |
 | Finished | 2025-07-27T00:00:00.000+01:00 |
 | Rating | 3/5 |
