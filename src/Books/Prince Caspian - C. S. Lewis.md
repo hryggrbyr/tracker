@@ -1,6 +1,6 @@
 ---
 tags:
-  - Children's Books
+  - children's books
 title: Prince Caspian
 subtitle: "Chronicles of Narnia: Chronological order 4"
 author:
@@ -37,7 +37,7 @@ _Chronicles of Narnia: Chronological order 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Children's Books |
+| Genre | children's books |
 | Started | 1994-07-01T00:00:00.000+01:00 |
 | Finished | 1994-07-01T00:00:00.000+01:00 |
 | Rating | 4/5 |
