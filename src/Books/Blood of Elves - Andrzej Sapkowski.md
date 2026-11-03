@@ -1,11 +1,12 @@
 ---
 tags:
-  - General
-  - Historical
-  - Epic
-  - Action & Adventure
-  - Fantasy
-  - Fiction
+  - epic
+  - adventure
+  - fantasy
+  - sword-and-sorcery
+  - monsters
+  - witches
+  - historical-fantasy
 title: Blood of Elves
 subtitle: " "
 author:
