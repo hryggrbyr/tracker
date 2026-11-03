@@ -1,6 +1,6 @@
 ---
 tags:
-  - Science-Fiction
+  - sci-fi
 title: The Midwich Cuckoos
 subtitle: ""
 author:
@@ -38,7 +38,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Science-Fiction |
+| Genre | sci-fi |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
