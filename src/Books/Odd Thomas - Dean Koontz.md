@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - supernatural
   - demons
 title: Odd Thomas
@@ -35,7 +35,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,supernatural,demons |
+| Genre | fantasy,urban-fantasy,supernatural,demons |
 | Started | 2016-05-06T00:00:00.000+01:00 |
 | Finished | 2017-04-15T00:00:00.000+01:00 |
 | Rating | 3/5 |
