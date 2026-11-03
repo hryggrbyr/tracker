@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile-fiction
   - urban-fantasy
   - witches
   - magic
@@ -37,7 +36,7 @@ __
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | juvenile-fiction,urban-fantasy,witches,magic,neurodivergent,scotland |
+| Genre | urban-fantasy,witches,magic,neurodivergent,scotland |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
