@@ -1,6 +1,6 @@
 ---
 tags:
-  - Science-Fiction
+  - sci-fi
 title: Matter
 subtitle: The Culture 8
 author:
@@ -43,7 +43,7 @@ _The Culture 8_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Science-Fiction |
+| Genre | sci-fi |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
