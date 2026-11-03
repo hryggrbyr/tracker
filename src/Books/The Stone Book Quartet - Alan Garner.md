@@ -1,6 +1,6 @@
 ---
 tags:
-  - Boys
+  - boys
 title: The Stone Book Quartet
 subtitle: ""
 author:
@@ -32,7 +32,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Boys |
+| Genre | boys |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
