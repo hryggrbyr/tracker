@@ -1,15 +1,10 @@
 ---
 tags:
-  - Whaling -- Fiction
-  - Sea stories
-  - Psychological Fiction
-  - Ship captains -- Fiction
-  - Adventure stories
-  - Mentally ill -- Fiction
-  - Ahab
-  - Captain (Fictitious character) -- Fiction
-  - Whales -- Fiction
-  - Whaling ships -- Fiction
+  - whaling
+  - sea stories
+  - psychological
+  - adventure
+  - epic
 title: "Moby Dick: Or, The Whale"
 subtitle: " "
 author:
