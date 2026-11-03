@@ -3,7 +3,6 @@ tags:
   - fantasy
   - talking-animals
   - drama
-  - juvenile-fiction
 title: Taggerung
 subtitle: Redwall 14
 author:
@@ -37,7 +36,7 @@ _Redwall 14_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,talking-animals,drama,juvenile-fiction |
+| Genre | fantasy,talking-animals,drama |
 | Started |  |
 | Finished | 2001-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
