@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Finn Mac Cool
 subtitle: The epic story of Ireland's greatest hero
 author:
@@ -32,7 +31,7 @@ _The epic story of Ireland's greatest hero_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
