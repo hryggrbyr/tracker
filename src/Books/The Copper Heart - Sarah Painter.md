@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - magic
   - england
   - supernatural
@@ -45,7 +45,7 @@ _Crow Investigations 5_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,magic,england,supernatural,folklore |
+| Genre | fantasy,urban-fantasy,magic,england,supernatural,folklore |
 | Started | 2023-01-23T00:00:00.000+00:00 |
 | Finished | 2023-02-23T00:00:00.000+00:00 |
 | Rating | 3/5 |
