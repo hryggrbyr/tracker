@@ -1,7 +1,7 @@
 ---
 tags:
-  - UrbanFantasy
-  - lgbt
+  - urban-fantasy
+  - queer
 title: Somewhere Beyond the Sea
 subtitle: The Cerulean Chronicles 2
 author:
@@ -40,7 +40,7 @@ _The Cerulean Chronicles 2_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | UrbanFantasy,lgbt |
+| Genre | urban-fantasy,queer |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
