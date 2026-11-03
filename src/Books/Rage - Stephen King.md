@@ -1,7 +1,7 @@
 ---
 tags:
   - thriller
-  - ComingOfAge
+  - coming-of-age
   - psychology
 title: Rage
 subtitle: ""
@@ -38,7 +38,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | thriller,ComingOfAge,psychology |
+| Genre | thriller,coming-of-age,psychology |
 | Started | 2026-02-03T00:00:00.000+00:00 |
 | Finished | 2026-02-07T00:00:00.000+00:00 |
 | Rating | 5/5 |
