@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Lancashire Witches
 subtitle: Enriched edition. A Romance of Pendle Forest
 author:
@@ -33,7 +32,7 @@ _Enriched edition. A Romance of Pendle Forest_
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
