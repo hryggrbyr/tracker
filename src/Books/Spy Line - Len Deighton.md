@@ -1,11 +1,10 @@
 ---
 tags:
-  - Mystery
-  - Fiction
-  - Suspense
-  - Thrillers
-  - Espionage
-  - Espionage & spy thriller
+  - mystery
+  - suspense
+  - thriller
+  - espionage
+  - espionage & spy thriller
 title: Spy Line
 subtitle: Bernard Samson 5
 author:
@@ -43,7 +42,7 @@ _Bernard Samson 5_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Mystery,Fiction,Suspense,Thrillers,Espionage,Espionage & spy thriller |
+| Genre | mystery,suspense,thriller,espionage,espionage & spy thriller |
 | Started |  |
 | Finished | 1992-08-01T00:00:00.000+01:00 |
 | Rating | 3/5 |
