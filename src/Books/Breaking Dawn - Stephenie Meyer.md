@@ -2,7 +2,6 @@
 tags:
   - united-states
   - fantasy
-  - juvenile-fiction
   - werewolves
   - school-education
   - vampires
@@ -42,7 +41,7 @@ _The Twilight Saga 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre | united-states,fantasy,juvenile-fiction,werewolves,school-education,vampires,horror,romance |
+| Genre | united-states,fantasy,werewolves,school-education,vampires,horror,romance |
 | Started | 2009-02-02T00:00:00.000+00:00 |
 | Finished | 2009-02-02T00:00:00.000+00:00 |
 | Rating | 3/5 |
