@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - sci-fi
+  - fantasy
+  - juvenile-fiction
 title: "Abarat: Absolute Midnight"
 subtitle: " "
 author:
@@ -32,7 +35,7 @@ _ _
 
 | Shelf | to-read |
 | --- | --- |
-| Genre |  |
+| Genre | sci-fi,fantasy,juvenile-fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
