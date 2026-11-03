@@ -1,6 +1,6 @@
 ---
 tags:
-  - Science Fiction
+  - science fiction
 title: The eternal moment
 subtitle: ""
 author:
@@ -33,7 +33,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Science Fiction |
+| Genre | science fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
