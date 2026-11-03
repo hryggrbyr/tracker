@@ -1,6 +1,6 @@
 ---
 tags:
-  - Juvenile Fiction
+  - juvenile fiction
 title: What Does the Fox Say?
 subtitle: ""
 author:
@@ -34,7 +34,7 @@ bookshopUrl:
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction |
+| Genre | juvenile fiction |
 | Started | 2022-08-04T00:00:00.000+01:00 |
 | Finished | 2022-08-04T00:00:00.000+01:00 |
 | Rating | 5/5 |
