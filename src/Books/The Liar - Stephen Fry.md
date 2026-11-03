@@ -1,9 +1,9 @@
 ---
 tags:
-  - Comedy
-  - ComingOfAge
-  - BritishLiterature
-  - lgbt
+  - comedy
+  - coming-of-age
+  - british-literature
+  - queer
 title: The Liar
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Comedy,ComingOfAge,BritishLiterature,lgbt |
+| Genre | comedy,coming-of-age,british-literature,queer |
 | Started | 2004-02-02T00:00:00.000+00:00 |
 | Finished | 2004-02-24T00:00:00.000+00:00 |
 | Rating | /5 |
