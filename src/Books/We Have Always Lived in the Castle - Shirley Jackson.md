@@ -1,16 +1,10 @@
 ---
 tags:
-  - LiteraryFiction
+  - literary-fiction
   - thriller
-  - Horror
-  - classics
-  - Mystery
-  - Adult
-  - Fiction
-  - General
-  - Psychological Fiction
-  - Social Isolation
-  - Compulsive Behavior
+  - horror
+  - mystery
+  - psychological
 title: We Have Always Lived in the Castle
 subtitle: ""
 author:
@@ -52,7 +46,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | LiteraryFiction,thriller,Horror,classics,Mystery,Adult,Fiction,General,Psychological Fiction,Social Isolation,Compulsive Behavior |
+| Genre | literary-fiction,thriller,horror,mystery,psychological |
 | Started | 2026-09-08T00:00:00.000+01:00 |
 | Finished | 2026-09-15T00:00:00.000+01:00 |
 | Rating | 5/5 |
