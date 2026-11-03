@@ -1,6 +1,6 @@
 ---
 tags:
-  - Magic
+  - magic
 title: The Queen's Nose
 subtitle: ""
 author:
@@ -32,7 +32,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Magic |
+| Genre | magic |
 | Started | 1986-10-10T00:00:00.000+01:00 |
 | Finished | 1986-10-10T00:00:00.000+01:00 |
 | Rating | 3/5 |
