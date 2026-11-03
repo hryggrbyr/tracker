@@ -1,8 +1,7 @@
 ---
 tags:
   - satire
-  - BlackComedy
-  - DarkHumour
+  - dark-humour
 title: Choke
 subtitle: " "
 author:
@@ -34,7 +33,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | satire,BlackComedy,DarkHumour |
+| Genre | satire,dark-humour |
 | Started | 2013-10-08T00:00:00.000+01:00 |
 | Finished | 2013-10-17T00:00:00.000+01:00 |
 | Rating | 3/5 |
