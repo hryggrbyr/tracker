@@ -1,8 +1,8 @@
 ---
 tags:
-  - YoungAdult
+  - young-adult
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - mythology
   - magic
 title: The Last Olympian
@@ -37,7 +37,7 @@ _Percy Jackson and the Olympians 5_
 
 | Shelf | read |
 | --- | --- |
-| Genre | YoungAdult,fantasy,UrbanFantasy,mythology,magic |
+| Genre | young-adult,fantasy,urban-fantasy,mythology,magic |
 | Started |  |
 | Finished | 2011-10-16T00:00:00.000+01:00 |
 | Rating | /5 |
