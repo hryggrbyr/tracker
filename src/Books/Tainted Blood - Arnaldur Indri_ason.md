@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction:Suspense
+  - fiction:suspense
 title: Tainted Blood
 subtitle: "Inspector Erlendur: UK Publication Order 1"
 author:
@@ -33,7 +33,7 @@ _Inspector Erlendur: UK Publication Order 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction:Suspense |
+| Genre | fiction:suspense |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
