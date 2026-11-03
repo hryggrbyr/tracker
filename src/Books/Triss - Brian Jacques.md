@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile fiction
   - fantasy & magic
   - fantasy
   - general
@@ -44,7 +43,7 @@ _Redwall 15_
 
 | Shelf | read |
 | --- | --- |
-| Genre | juvenile fiction,fantasy & magic,fantasy,general |
+| Genre | fantasy & magic,fantasy,general |
 | Started |  |
 | Finished | 2002-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
