@@ -2,7 +2,7 @@
 tags:
   - thriller
   - crime
-  - ShortStories
+  - short-stories
 title: No Middle Name
 subtitle: Jack Reacher
 author:
@@ -34,7 +34,7 @@ _Jack Reacher_
 
 | Shelf | read |
 | --- | --- |
-| Genre | thriller,crime,ShortStories |
+| Genre | thriller,crime,short-stories |
 | Started | 2018-02-08T00:00:00.000+00:00 |
 | Finished | 2020-04-22T00:00:00.000+01:00 |
 | Rating | 3/5 |
