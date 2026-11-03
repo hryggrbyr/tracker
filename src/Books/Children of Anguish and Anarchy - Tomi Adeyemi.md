@@ -1,6 +1,6 @@
 ---
 tags:
-  - Young Adult Fiction
+  - young adult fiction
 title: Children of Anguish and Anarchy
 subtitle: ""
 author:
@@ -42,7 +42,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Young Adult Fiction |
+| Genre | young adult fiction |
 | Started | 2026-03-31T00:00:00.000+01:00 |
 | Finished | 2026-04-17T00:00:00.000+01:00 |
 | Rating | 3/5 |
