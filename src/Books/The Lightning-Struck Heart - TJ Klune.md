@@ -1,9 +1,9 @@
 ---
 tags:
-  - Romance
-  - LGBT
-  - Gay
-  - Science Fiction & Fantasy
+  - romance
+  - queer
+  - magic
+  - fantasy
 title: The Lightning-Struck Heart
 subtitle: Tales From Verania 1
 author:
@@ -48,7 +48,7 @@ _Tales From Verania 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Romance,LGBT,Gay,Science Fiction & Fantasy |
+| Genre | romance,queer,magic,fantasy |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
