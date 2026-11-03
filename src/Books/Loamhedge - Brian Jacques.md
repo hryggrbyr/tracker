@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile fiction
   - fantasy & magic
   - action & adventure
   - general
@@ -43,7 +42,7 @@ _Redwall 16_
 
 | Shelf | read |
 | --- | --- |
-| Genre | juvenile fiction,fantasy & magic,action & adventure,general,animals |
+| Genre | fantasy & magic,action & adventure,general,animals |
 | Started |  |
 | Finished | 2003-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
