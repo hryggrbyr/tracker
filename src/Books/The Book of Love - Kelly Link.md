@@ -1,7 +1,6 @@
 ---
 tags:
-  - Fiction
-  - Fantasy
+  - fantasy
 title: The Book of Love
 subtitle: A Novel
 author:
@@ -41,7 +40,7 @@ _A Novel_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction,Fantasy |
+| Genre | fantasy |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
