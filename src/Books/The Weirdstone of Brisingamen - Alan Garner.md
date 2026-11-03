@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile fiction
   - fantasy
   - urban fantasy
   - folklore
@@ -37,7 +36,7 @@ _A Tale of Alderley_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | juvenile fiction,fantasy,urban fantasy,folklore,england |
+| Genre | fantasy,urban fantasy,folklore,england |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
