@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fantasy
+  - fantasy
 title: Busted Flush
 subtitle: Wild Cards 19
 author:
@@ -39,7 +39,7 @@ _Wild Cards 19_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fantasy |
+| Genre | fantasy |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
