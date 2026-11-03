@@ -1,6 +1,6 @@
 ---
 tags:
-  - Science-Fiction
+  - sci-fi
 title: The hitchhiker's guide to the galaxy
 subtitle: The Hitchhiker's Guide to the Galaxy 1
 author:
@@ -36,7 +36,7 @@ _The Hitchhiker's Guide to the Galaxy 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Science-Fiction |
+| Genre | sci-fi |
 | Started |  |
 | Finished | 1992-11-04T00:00:00.000+00:00 |
 | Rating | /5 |
