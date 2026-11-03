@@ -1,21 +1,9 @@
 ---
 tags:
-  - Blind
-  - Plant mutation - Fiction.
-  - Fiction - Science Fiction
-  - England
-  - Meteorites
-  - Science Fiction & Fantasy
-  - Horror
-  - Reading Group Guide
-  - England - Fiction.
-  - Fiction
-  - Literary
-  - Science Fiction
-  - Science Fiction - General
-  - Meteorites - Fiction.
-  - General
-  - Plant mutation
+  - sci-fi
+  - england
+  - horror
+  - literary-fiction
 title: The Day of the Triffids
 subtitle: " "
 author:
