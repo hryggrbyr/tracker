@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Honour Among Thieves
 subtitle: ""
 author:
@@ -32,7 +31,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started | 1996-10-17T00:00:00.000+01:00 |
 | Finished | 1996-10-17T00:00:00.000+01:00 |
 | Rating | 3/5 |
