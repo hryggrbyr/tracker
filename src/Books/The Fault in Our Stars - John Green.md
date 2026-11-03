@@ -1,6 +1,6 @@
 ---
 tags:
-  - YoungAdult
+  - young-adult
   - romance
   - drama
   - hospital
@@ -35,7 +35,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | YoungAdult,romance,drama,hospital |
+| Genre | young-adult,romance,drama,hospital |
 | Started | 2012-02-02T00:00:00.000+00:00 |
 | Finished | 2012-02-12T00:00:00.000+00:00 |
 | Rating | 4/5 |
