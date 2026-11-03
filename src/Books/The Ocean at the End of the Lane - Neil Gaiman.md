@@ -1,8 +1,8 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
-  - ModernFairyTale
+  - urban-fantasy
+  - modern-fairytale
 title: The Ocean at the End of the Lane
 subtitle: Illustrated Edition
 author:
@@ -34,7 +34,7 @@ _Illustrated Edition_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,ModernFairyTale |
+| Genre | fantasy,urban-fantasy,modern-fairytale |
 | Started | 2020-12-25T00:00:00.000+00:00 |
 | Finished | 2020-12-31T00:00:00.000+00:00 |
 | Rating | 4/5 |
