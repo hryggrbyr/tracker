@@ -1,11 +1,10 @@
 ---
 tags:
-  - Fiction
-  - Fantasy
-  - Mystery
-  - Thriller
-  - Science Fiction
-  - Crime
+  - fantasy
+  - mystery
+  - thriller
+  - science fiction
+  - crime
 title: The Tainted Cup
 subtitle: ""
 author:
@@ -52,7 +51,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction,Fantasy,Mystery,Thriller,Science Fiction,Crime |
+| Genre | fantasy,mystery,thriller,science fiction,crime |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
