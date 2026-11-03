@@ -1,12 +1,11 @@
 ---
 tags:
-  - Horror
-  - Fiction
-  - Thrillers
-  - Horror Fiction
-  - Suspense
-  - Fantasy Fiction
-  - Fantastic Fiction
+  - horror
+  - thriller
+  - horror fiction
+  - suspense
+  - fantasy fiction
+  - fantastic fiction
 title: Weaveworld
 subtitle: " "
 author:
