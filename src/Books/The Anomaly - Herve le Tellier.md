@@ -1,8 +1,8 @@
 ---
 tags:
-  - SpeculativeFiction
+  - speculative-fiction
   - sci-fi
-  - LiteraryFictiom
+  - literary-fiction
 title: The Anomaly
 subtitle: ""
 author:
@@ -34,7 +34,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | SpeculativeFiction,sci-fi,LiteraryFictiom |
+| Genre | speculative-fiction,sci-fi,literary-fiction |
 | Started | 2026-08-10T00:00:00.000+01:00 |
 | Finished | 2026-08-22T00:00:00.000+01:00 |
 | Rating | 5/5 |
