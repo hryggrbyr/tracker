@@ -1,6 +1,6 @@
 ---
 tags:
-  - Modern fantasy
+  - modern fantasy
 title: The Green Man's Foe
 subtitle: " "
 author:
@@ -33,7 +33,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | Modern fantasy |
+| Genre | modern fantasy |
 | Started | 2024-01-01T00:00:00.000+00:00 |
 | Finished | 2024-01-21T00:00:00.000+00:00 |
 | Rating | 4/5 |
