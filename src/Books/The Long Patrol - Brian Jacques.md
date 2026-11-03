@@ -1,10 +1,10 @@
 ---
 tags:
-  - Juvenile Fiction
-  - Action & Adventure
-  - General
-  - Animals
-  - Fantasy & Magic
+  - juvenile fiction
+  - action & adventure
+  - general
+  - animals
+  - fantasy & magic
 title: The Long Patrol
 subtitle: Redwall 10
 author:
@@ -38,7 +38,7 @@ _Redwall 10_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction,Action & Adventure,General,Animals,Fantasy & Magic |
+| Genre | juvenile fiction,action & adventure,general,animals,fantasy & magic |
 | Started |  |
 | Finished | 1997-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
