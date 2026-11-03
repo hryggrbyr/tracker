@@ -13,7 +13,7 @@ genre:
   - family
   - adventure
   - sea
-  - TalkingAnimals
+  - talking-animals
 length: 72
 shelf: watched
 owned: false
