@@ -1,8 +1,9 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
-  - ParallelWorlds
+  - urban-fantasy
+  - parallel-worlds
+  - library
 title: Storywalker
 subtitle: ""
 author:
@@ -35,7 +36,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,ParallelWorlds |
+| Genre | fantasy,urban-fantasy,parallel-worlds,library |
 | Started | 2026-06-23T00:00:00.000+01:00 |
 | Finished | 2026-07-03T00:00:00.000+01:00 |
 | Rating | 4/5 |
