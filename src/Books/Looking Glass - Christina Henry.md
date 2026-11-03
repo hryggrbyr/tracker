@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Looking Glass
 subtitle: The Chronicles of Alice 3
 author:
@@ -42,7 +41,7 @@ _The Chronicles of Alice 3_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
