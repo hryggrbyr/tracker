@@ -2,7 +2,6 @@
 tags:
   - fantasy
   - dystopia
-  - young-adult
   - magic
 title: Children of Virtue and Vengeance
 subtitle: A West African-inspired YA Fantasy, Filled with Danger and Magic
@@ -44,7 +43,7 @@ _A West African-inspired YA Fantasy, Filled with Danger and Magic_
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | fantasy,dystopia,young-adult,magic |
+| Genre | fantasy,dystopia,magic |
 | Started | 2026-03-20T00:00:00.000+00:00 |
 | Finished | 2026-03-31T00:00:00.000+01:00 |
 | Rating | 4/5 |
