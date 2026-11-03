@@ -3,7 +3,7 @@ tags:
   - thriller
   - horror
   - supernatural
-  - HistoricalFiction
+  - historical-fiction
   - england
 title: Hokey Pokey
 subtitle: ""
@@ -37,7 +37,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | thriller,horror,supernatural,HistoricalFiction,england |
+| Genre | thriller,horror,supernatural,historical-fiction,england |
 | Started | 2024-12-23T00:00:00.000+00:00 |
 | Finished | 2025-01-01T00:00:00.000+00:00 |
 | Rating | 5/5 |
