@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - mythology
 title: The Lost Hero
 subtitle: Heroes of Olympus 1
@@ -34,7 +34,7 @@ _Heroes of Olympus 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,mythology |
+| Genre | fantasy,urban-fantasy,mythology |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
