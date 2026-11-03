@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Killer in the Cold
 subtitle: The DI James Walker Series 5
 author:
@@ -32,7 +31,7 @@ _The DI James Walker Series 5_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
