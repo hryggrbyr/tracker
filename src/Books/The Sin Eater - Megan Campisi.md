@@ -1,6 +1,6 @@
 ---
 tags:
-  - HistoricalFiction
+  - historical-fiction
   - thriller
   - crime
   - dystopia
@@ -36,7 +36,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | HistoricalFiction,thriller,crime,dystopia |
+| Genre | historical-fiction,thriller,crime,dystopia |
 | Started | 2020-04-02T00:00:00.000+01:00 |
 | Finished | 2020-04-11T00:00:00.000+01:00 |
 | Rating | 4/5 |
