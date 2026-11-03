@@ -1,9 +1,9 @@
 ---
 tags:
   - crime
-  - SerialKiller
+  - serial-killer
   - psychology
-  - HistoricalFiction
+  - historical-fiction
   - adventure
 title: Hannibal Rising
 subtitle: ""
@@ -36,7 +36,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | crime,SerialKiller,psychology,HistoricalFiction,adventure |
+| Genre | crime,serial-killer,psychology,historical-fiction,adventure |
 | Started |  |
 | Finished | 2011-08-03T00:00:00.000+01:00 |
 | Rating | 3/5 |
