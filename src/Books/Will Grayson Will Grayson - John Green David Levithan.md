@@ -1,6 +1,5 @@
 ---
-tags:
-  - juvenile fiction
+tags: []
 title: Will Grayson, Will Grayson
 subtitle: ""
 author:
@@ -36,7 +35,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | juvenile fiction |
+| Genre |  |
 | Started | 2016-05-06T00:00:00.000+01:00 |
 | Finished | 2016-05-22T00:00:00.000+01:00 |
 | Rating | 2/5 |
