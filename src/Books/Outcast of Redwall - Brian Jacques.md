@@ -1,6 +1,5 @@
 ---
 tags:
-  - juvenile fiction
   - action & adventure
   - general
   - animals
@@ -41,7 +40,7 @@ _Redwall 8_
 
 | Shelf | read |
 | --- | --- |
-| Genre | juvenile fiction,action & adventure,general,animals,fantasy & magic |
+| Genre | action & adventure,general,animals,fantasy & magic |
 | Started |  |
 | Finished | 1995-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
