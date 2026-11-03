@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: If Cats Disappeared From The World
 subtitle: ""
 author:
@@ -33,7 +32,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
