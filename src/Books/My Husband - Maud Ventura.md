@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: My Husband
 subtitle: ""
 author:
@@ -34,7 +33,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
