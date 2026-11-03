@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fantasy
+  - fantasy
 title: The Way of Kings
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fantasy |
+| Genre | fantasy |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
