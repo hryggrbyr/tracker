@@ -1,10 +1,8 @@
 ---
 tags:
-  - Scottish Literature
-  - Dark Comedy
-  - Addiction
-  - Transgressive Fiction
-  - Working Class
+  - scotland
+  - dark-humour
+  - addiction
 title: Trainspotting
 subtitle: ""
 author:
@@ -36,7 +34,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Scottish Literature,Dark Comedy,Addiction,Transgressive Fiction,Working Class |
+| Genre | scotland,dark-humour,addiction |
 | Started |  |
 | Finished | 1996-09-26T00:00:00.000+01:00 |
 | Rating | /5 |
