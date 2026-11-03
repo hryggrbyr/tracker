@@ -1,6 +1,6 @@
 ---
 tags:
-  - Children's Books
+  - children's books
 title: The Lion, the Witch and the Wardrobe
 subtitle: "Chronicles of Narnia: Chronological order 2"
 author:
@@ -36,7 +36,7 @@ _Chronicles of Narnia: Chronological order 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Children's Books |
+| Genre | children's books |
 | Started | 1994-07-01T00:00:00.000+01:00 |
 | Finished | 1994-07-01T00:00:00.000+01:00 |
 | Rating | 5/5 |
