@@ -1,7 +1,6 @@
 ---
 tags:
   - fantasy
-  - young-adult
 title: Blade Breaker
 subtitle: Realm Breaker 2
 author:
@@ -44,7 +43,7 @@ _Realm Breaker 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,young-adult |
+| Genre | fantasy |
 | Started | 2022-08-07T00:00:00.000+01:00 |
 | Finished | 2022-09-04T00:00:00.000+01:00 |
 | Rating | 5/5 |
