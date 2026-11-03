@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Yesterday
 subtitle: The phenomenal debut thriller of secrets, lies and betrayal
 author:
@@ -32,7 +31,7 @@ _The phenomenal debut thriller of secrets, lies and betrayal_
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
