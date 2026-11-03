@@ -1,6 +1,5 @@
 ---
 tags:
-  - young-adult
   - fantasy
   - urban-fantasy
   - mythology
@@ -37,7 +36,7 @@ _Percy Jackson and the Olympians 6_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | young-adult,fantasy,urban-fantasy,mythology,magic |
+| Genre | fantasy,urban-fantasy,mythology,magic |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
