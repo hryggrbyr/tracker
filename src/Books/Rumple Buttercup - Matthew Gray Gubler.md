@@ -1,6 +1,6 @@
 ---
 tags:
-  - JuvenileFiction
+  - juvenile-fiction
   - graphic novel
   - illustration
   - fantasy
@@ -41,7 +41,7 @@ _A story of bananas, belonging and being yourself_
 
 | Shelf | read |
 | --- | --- |
-| Genre | JuvenileFiction,graphic novel,illustration,fantasy,humour,friendship |
+| Genre | juvenile-fiction,graphic novel,illustration,fantasy,humour,friendship |
 | Started | 2922-07-31T00:00:00.000+01:00 |
 | Finished | 2022-08-02T00:00:00.000+01:00 |
 | Rating | /5 |
