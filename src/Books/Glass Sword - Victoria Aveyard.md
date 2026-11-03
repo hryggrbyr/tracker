@@ -2,7 +2,6 @@
 tags:
   - fantasy
   - dystopia
-  - young-adult
 title: Glass Sword
 subtitle: Red Queen 2
 author:
@@ -40,7 +39,7 @@ _Red Queen 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,dystopia,young-adult |
+| Genre | fantasy,dystopia |
 | Started | 2015-04-16T00:00:00.000+01:00 |
 | Finished | 2016-05-06T00:00:00.000+01:00 |
 | Rating | /5 |
