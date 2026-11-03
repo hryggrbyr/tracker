@@ -1,6 +1,6 @@
 ---
 tags:
-  - Ghost stories
+  - ghost stories
 title: I Remember You
 subtitle: ""
 author:
@@ -32,7 +32,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Ghost stories |
+| Genre | ghost stories |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

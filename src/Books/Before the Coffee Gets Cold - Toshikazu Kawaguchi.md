@@ -1,9 +1,9 @@
 ---
 tags:
-  - UrbanFantasy
-  - TimeTravel
+  - urban-fantasy
+  - time-travel
   - gentle
-  - Japan
+  - japan
 title: Before the Coffee Gets Cold
 subtitle: Before the Coffee Gets Cold 1
 author:
@@ -37,7 +37,7 @@ _Before the Coffee Gets Cold 1_
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | UrbanFantasy,TimeTravel,gentle,Japan |
+| Genre | urban-fantasy,time-travel,gentle,japan |
 | Started | 2026-10-16T00:00:00.000+01:00 |
 | Finished | 2026-10-24T00:00:00.000+01:00 |
 | Rating | 5/5 |

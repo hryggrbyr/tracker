@@ -1,8 +1,8 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
-  - ParallelWorlds
+  - urban-fantasy
+  - parallel-worlds
   - gentle
   - charming
   - library
@@ -49,7 +49,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,ParallelWorlds,gentle,charming,library,japan |
+| Genre | fantasy,urban-fantasy,parallel-worlds,gentle,charming,library,japan |
 | Started | 2025-02-13T00:00:00.000+00:00 |
 | Finished | 2025-03-11T00:00:00.000+00:00 |
 | Rating | 3/5 |

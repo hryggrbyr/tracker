@@ -1,15 +1,14 @@
 ---
 tags:
-  - Fiction
-  - Action & Adventure
-  - Fantasy Fiction
-  - Juvenile Fiction
-  - Fantasy & Magic
-  - General
-  - Fantasy
-  - Magic
-  - Imaginary Places
-  - Epic
+  - action & adventure
+  - fantasy fiction
+  - juvenile fiction
+  - fantasy & magic
+  - general
+  - fantasy
+  - magic
+  - imaginary places
+  - epic
 title: The Subtle Knife
 subtitle: His Dark Materials 2
 author:
@@ -43,7 +42,7 @@ _His Dark Materials 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,Action & Adventure,Fantasy Fiction,Juvenile Fiction,Fantasy & Magic,General,Fantasy,Magic,Imaginary Places,Epic |
+| Genre | action & adventure,fantasy fiction,juvenile fiction,fantasy & magic,general,fantasy,magic,imaginary places,epic |
 | Started |  |
 | Finished | 2015-01-10T00:00:00.000+00:00 |
 | Rating | 4/5 |

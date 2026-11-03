@@ -1,6 +1,10 @@
 ---
 tags:
-  - sf_fantasy
+  - fantasy
+  - magic
+  - wizards
+  - magical-school
+  - dragons
 title: Tehanu
 subtitle: Earthsea 4
 author:
@@ -34,7 +38,7 @@ _Earthsea 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre | sf_fantasy |
+| Genre | fantasy,magic,wizards,magical-school,dragons |
 | Started |  |
 | Finished | 2020-02-27T00:00:00.000+00:00 |
 | Rating | /5 |

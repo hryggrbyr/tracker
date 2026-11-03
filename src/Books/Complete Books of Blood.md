@@ -1,6 +1,6 @@
 ---
 tags:
-  - Horror
+  - horror
 title: Complete Books of Blood
 subtitle: " "
 author:

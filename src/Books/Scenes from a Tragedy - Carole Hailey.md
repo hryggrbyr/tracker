@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Scenes From a Tragedy
 subtitle: ""
 author:
@@ -33,7 +32,7 @@ __
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

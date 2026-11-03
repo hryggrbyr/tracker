@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Sixth Watch
 subtitle: (Night Watch 6)
 author:
@@ -33,7 +32,7 @@ _(Night Watch 6)_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

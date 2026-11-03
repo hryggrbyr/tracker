@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Wasp Factory
 subtitle: ""
 author:
@@ -35,7 +34,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started | 1992-12-01T00:00:00.000+00:00 |
 | Finished | 1992-12-24T00:00:00.000+00:00 |
 | Rating | 5/5 |

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction:Young Adult
+  - fiction:young adult
 title: Geektastic
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction:Young Adult |
+| Genre | fiction:young adult |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

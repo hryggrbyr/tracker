@@ -1,8 +1,7 @@
 ---
 tags:
-  - Fiction
-  - Fiction:Young Adult
-  - Fantasy
+  - fiction:young adult
+  - fantasy
 title: Eragon
 subtitle: ""
 author:
@@ -39,7 +38,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction,Fiction:Young Adult,Fantasy |
+| Genre | fiction:young adult,fantasy |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

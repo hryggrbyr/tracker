@@ -1,9 +1,9 @@
 ---
 tags:
   - fantasy
-  - TalkingAnimals
+  - talking-animals
   - drama
-  - JuvenileFiction
+  - juvenile-fiction
 title: Pearls of Lutra
 subtitle: Redwall 9
 author:
@@ -40,7 +40,7 @@ _Redwall 9_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
+| Genre | fantasy,talking-animals,drama,juvenile-fiction |
 | Started |  |
 | Finished | 1997-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

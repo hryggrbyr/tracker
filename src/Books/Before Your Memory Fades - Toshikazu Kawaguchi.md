@@ -1,9 +1,9 @@
 ---
 tags:
-  - UrbanFantasy
-  - TimeTravel
+  - urban-fantasy
+  - time-travel
   - gentle
-  - Japan
+  - japan
 title: Before Your Memory Fades
 subtitle: Before the Coffee Gets Cold 3
 author:
@@ -37,7 +37,7 @@ _Before the Coffee Gets Cold 3_
 
 | &nbsp; | reading | 
 | --- | --- |
-| Genre | UrbanFantasy,TimeTravel,gentle,Japan |
+| Genre | urban-fantasy,time-travel,gentle,japan |
 | Started | 2026-11-01T00:00:00.000+00:00 |
 | Finished |  |
 | Rating | /5 |

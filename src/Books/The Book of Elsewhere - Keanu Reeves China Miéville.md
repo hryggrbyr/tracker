@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Book of Elsewhere
 subtitle: A Novel
 author:
@@ -36,7 +35,7 @@ _A Novel_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started | 2025-09-05T00:00:00.000+01:00 |
 | Finished |  |
 | Rating | /5 |

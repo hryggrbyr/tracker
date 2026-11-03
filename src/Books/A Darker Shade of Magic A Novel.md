@@ -1,8 +1,7 @@
 ---
 tags:
-  - Science Fiction & Fantasy
-  - Fantasy
-  - Historical
+  - fantasy
+  - historical-fantasy
 title: "A Darker Shade of Magic: A Novel"
 subtitle: " "
 author:

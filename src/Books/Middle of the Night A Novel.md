@@ -1,10 +1,9 @@
 ---
 tags:
-  - Fiction
-  - Thrillers
-  - Suspense
-  - Psychological
-  - Horror
+  - thriller
+  - suspense
+  - psychological
+  - horror
 title: "Middle of the Night: A Novel"
 subtitle: " "
 author:

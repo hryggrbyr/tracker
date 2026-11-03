@@ -1,16 +1,14 @@
 ---
 tags:
-  - History
+  - history
   - england
   - witches
   - magic
-  - Religion
+  - religion
   - folklore
-  - Europe
-  - Great Britain
-  - General
-  - Body; Mind & Spirit
-  - Witchcraft
+  - europe
+  - great-britain
+  - non-fiction
 title: The Lancashire Witches
 subtitle: A Chronicle of Sorcery and Death on Pendle Hill
 author:
@@ -43,7 +41,7 @@ _A Chronicle of Sorcery and Death on Pendle Hill_
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | History,england,witches,magic,Religion,folklore,Europe,Great Britain,General,Body; Mind & Spirit,Witchcraft |
+| Genre | history,england,witches,magic,religion,folklore,europe,great-britain,non-fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

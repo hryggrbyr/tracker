@@ -3,9 +3,9 @@ tags:
   - fantasy
   - magic
   - politics
-  - Religon
+  - religion
   - gentle
-  - New Adult; future fiction; near-future; utopian fiction; dystopia:Asian;Desi;
+  - new adult; future fiction; near-future; utopian fiction; dystopia:asian;desi;
 title: The Garden of Delights
 subtitle: ""
 author:
@@ -37,7 +37,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,magic,politics,Religon,gentle,New Adult; future fiction; near-future; utopian fiction; dystopia:Asian;Desi; |
+| Genre | fantasy,magic,politics,religion,gentle,new adult; future fiction; near-future; utopian fiction; dystopia:asian;desi; |
 | Started | 2025-07-27T00:00:00.000+01:00 |
 | Finished | 2025-08-20T00:00:00.000+01:00 |
 | Rating | 5/5 |

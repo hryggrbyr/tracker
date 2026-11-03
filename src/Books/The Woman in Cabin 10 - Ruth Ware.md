@@ -1,8 +1,9 @@
 ---
 tags:
   - crime
-  - whodunnit
+  - mystery
   - scandinoir
+  - thriller
 title: The Woman in Cabin 10
 subtitle: ""
 author:
@@ -34,7 +35,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | crime,whodunnit,scandinoir |
+| Genre | crime,mystery,scandinoir,thriller |
 | Started | 2026-07-23T00:00:00.000+01:00 |
 | Finished | 2026-07-30T00:00:00.000+01:00 |
 | Rating | 3/5 |

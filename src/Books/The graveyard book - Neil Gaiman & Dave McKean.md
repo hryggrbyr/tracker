@@ -1,6 +1,6 @@
 ---
 tags:
-  - JuvenileFiction
+  - juvenile-fiction
 title: The Graveyard Book
 subtitle: ""
 author:
@@ -33,7 +33,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | JuvenileFiction |
+| Genre | juvenile-fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - zombies
   - relationships
 title: Warm Bodies
@@ -38,7 +38,7 @@ _A Novel_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,zombies,relationships |
+| Genre | fantasy,urban-fantasy,zombies,relationships |
 | Started | 2012-12-25T00:00:00.000+00:00 |
 | Finished | 2012-12-31T00:00:00.000+00:00 |
 | Rating | 4/5 |

@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Christmas Killer
 subtitle: The DI James Walker Series 1
 author:
@@ -34,7 +33,7 @@ _The DI James Walker Series 1_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

@@ -1,11 +1,10 @@
 ---
 tags:
-  - Fiction
-  - Thrillers
-  - Fiction - Espionage
-  - Thriller
-  - Espionage
-  - Intrigue
+  - thriller
+  - fiction - espionage
+  - thriller
+  - espionage
+  - intrigue
 title: The Ipcress File
 subtitle: Harry Palmer 1
 author:
@@ -41,7 +40,7 @@ _Harry Palmer 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,Thrillers,Fiction - Espionage,Thriller,Espionage,Intrigue |
+| Genre | thriller,fiction - espionage,thriller,espionage,intrigue |
 | Started | 1993-07-26T00:00:00.000+01:00 |
 | Finished | 1993-08-01T00:00:00.000+01:00 |
 | Rating | 4/5 |

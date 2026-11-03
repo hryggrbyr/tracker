@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fantasy
+  - fantasy
 title: A Game Of Thrones
 subtitle: A Song of Ice and Fire 1
 author:
@@ -36,7 +36,7 @@ _A Song of Ice and Fire 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fantasy |
+| Genre | fantasy |
 | Started | 2008-02-02T00:00:00.000+00:00 |
 | Finished | 2008-02-02T00:00:00.000+00:00 |
 | Rating | 4/5 |

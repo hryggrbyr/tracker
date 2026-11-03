@@ -1,6 +1,6 @@
 ---
 tags:
-  - Design
+  - design
 title: Worn
 subtitle: A People's History of Clothing
 author:
@@ -33,7 +33,7 @@ _A People's History of Clothing_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Design |
+| Genre | design |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

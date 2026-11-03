@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Morrigan
 subtitle: A fierce feminist retelling of Irish mythology perfect for fans of The Wolf Den and Medea
 author:
@@ -32,7 +31,7 @@ _A fierce feminist retelling of Irish mythology perfect for fans of The Wolf Den
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

@@ -1,13 +1,12 @@
 ---
 tags:
-  - Fiction
-  - Fiction - Espionage
-  - Thriller
-  - Espionage
-  - Intrigue
-  - Crime & Thriller
-  - Espionage & spy thriller
-  - Fiction in English
+  - fiction - espionage
+  - thriller
+  - espionage
+  - intrigue
+  - crime & thriller
+  - espionage & spy thriller
+  - fiction in english
 title: Funeral in Berlin
 subtitle: Harry Palmer 3
 author:
@@ -43,7 +42,7 @@ _Harry Palmer 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,Fiction - Espionage,Thriller,Espionage,Intrigue,Crime & Thriller,Espionage & spy thriller,Fiction in English |
+| Genre | fiction - espionage,thriller,espionage,intrigue,crime & thriller,espionage & spy thriller,fiction in english |
 | Started |  |
 | Finished | 2010-02-04T00:00:00.000+00:00 |
 | Rating | 3/5 |

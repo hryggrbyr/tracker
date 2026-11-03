@@ -14,7 +14,7 @@ genre:
   - Adventure
   - Animation
   - fantasy
-  - TalkingAnimals
+  - talking-animals
 length: 3 seasons (39 episodes)
 shelf: watchlist
 owned: false

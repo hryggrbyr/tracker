@@ -1,8 +1,8 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
-  - HistoricalFantasy
+  - urban-fantasy
+  - historical-fantasy
 title: The Mermaid
 subtitle: ""
 author:
@@ -39,7 +39,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,HistoricalFantasy |
+| Genre | fantasy,urban-fantasy,historical-fantasy |
 | Started | 2026-02-25T00:00:00.000+00:00 |
 | Finished | 2026-03-05T00:00:00.000+00:00 |
 | Rating | 3/5 |

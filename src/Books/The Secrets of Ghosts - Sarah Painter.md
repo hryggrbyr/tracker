@@ -1,9 +1,8 @@
 ---
 tags:
-  - Fiction
-  - Romance
-  - Contemporary
-  - Contemporary Women
+  - romance
+  - contemporary
+  - contemporary women
 title: The Secrets of Ghosts
 subtitle: ""
 author:
@@ -45,7 +44,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction,Romance,Contemporary,Contemporary Women |
+| Genre | romance,contemporary,contemporary women |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

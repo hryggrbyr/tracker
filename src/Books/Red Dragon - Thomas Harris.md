@@ -2,7 +2,7 @@
 tags:
   - police
   - crime
-  - SerialKiller
+  - serial-killer
   - psychology
   - america
   - adventure
@@ -37,7 +37,7 @@ _The Silence of the Lambs_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | police,crime,SerialKiller,psychology,america,adventure |
+| Genre | police,crime,serial-killer,psychology,america,adventure |
 | Started |  |
 | Finished | 1994-02-09T00:00:00.000+00:00 |
 | Rating | 4/5 |

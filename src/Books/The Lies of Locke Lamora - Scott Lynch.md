@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fantasy
+  - fantasy
 title: The Lies of Locke Lamora
 subtitle: The Gentleman Bastard Sequence 1
 author:
@@ -36,7 +36,7 @@ _The Gentleman Bastard Sequence 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fantasy |
+| Genre | fantasy |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

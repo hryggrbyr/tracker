@@ -1,6 +1,10 @@
 ---
 tags:
-  - sf_fantasy
+  - fantasy
+  - magic
+  - wizards
+  - magical-school
+  - dragons
 title: A Wizard of Earthsea
 subtitle: Earthsea 1
 author:
@@ -46,7 +50,7 @@ _Earthsea 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | sf_fantasy |
+| Genre | fantasy,magic,wizards,magical-school,dragons |
 | Started | 2001-02-02T00:00:00.000+00:00 |
 | Finished | 2001-02-02T00:00:00.000+00:00 |
 | Rating | 5/5 |

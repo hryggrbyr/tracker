@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fantasy
+  - fantasy
 title: Alice
 subtitle: The Chronicles of Alice 1
 author:
@@ -41,7 +41,7 @@ _The Chronicles of Alice 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fantasy |
+| Genre | fantasy |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

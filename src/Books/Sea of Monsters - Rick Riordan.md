@@ -1,6 +1,6 @@
 ---
 tags:
-  - YoungAdult
+  - young-adult
 title: Sea of Monsters
 subtitle: ""
 author:
@@ -32,7 +32,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | YoungAdult |
+| Genre | young-adult |
 | Started |  |
 | Finished | 2011-02-02T00:00:00.000+00:00 |
 | Rating | /5 |

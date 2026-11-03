@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Last Watch
 subtitle: (Night Watch 4)
 author:
@@ -33,7 +32,7 @@ _(Night Watch 4)_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

@@ -1,13 +1,12 @@
 ---
 tags:
-  - Action & Adventure
-  - Epic
-  - Fantasy
-  - Fiction
-  - Fiction / Action & Adventure
-  - Fiction / Fantasy / Epic
-  - Fiction / Fantasy / Historical
-  - Historical
+  - epic
+  - adventure
+  - fantasy
+  - sword-and-sorcery
+  - monsters
+  - witches
+  - historical-fantasy
 title: Baptism of Fire
 subtitle: " "
 author:

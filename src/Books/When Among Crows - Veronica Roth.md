@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: When Among Crows
 subtitle: ""
 author:
@@ -32,7 +31,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

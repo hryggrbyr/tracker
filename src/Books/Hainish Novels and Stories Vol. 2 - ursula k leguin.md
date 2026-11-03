@@ -2,7 +2,7 @@
 tags:
   - fantasy
   - anthropology
-  - ShortStories
+  - short-stories
 title: Hainish Novels and Stories Vol. 2
 subtitle: The Word for World Is Forest | Five Ways to Forgiveness | The Telling | Stories
 author:
@@ -37,7 +37,7 @@ _The Word for World Is Forest | Five Ways to Forgiveness | The Telling | Stories
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,anthropology,ShortStories |
+| Genre | fantasy,anthropology,short-stories |
 | Started | 2020-04-22T00:00:00.000+01:00 |
 | Finished | 2020-04-30T00:00:00.000+01:00 |
 | Rating | 4/5 |

@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: "Stories: All-New Tales"
 subtitle: " "
 author:

@@ -15,7 +15,7 @@ genre:
   - Adventure
   - sci-fi
   - fantasy
-  - lgbt
+  - queer
 length: 101
 shelf: watchlist
 owned: true

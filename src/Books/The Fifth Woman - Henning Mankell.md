@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mystery
+  - mystery
 title: The Fifth Woman
 subtitle: Kurt Wallander 6
 author:
@@ -37,7 +37,7 @@ _Kurt Wallander 6_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Mystery |
+| Genre | mystery |
 | Started | 2021-06-01T00:00:00.000+01:00 |
 | Finished | 2021-07-19T00:00:00.000+01:00 |
 | Rating | 3/5 |

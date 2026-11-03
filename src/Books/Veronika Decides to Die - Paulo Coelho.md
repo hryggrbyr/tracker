@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Veronika Decides to Die
 subtitle: A Novel of Redemption
 author:
@@ -32,7 +31,7 @@ _A Novel of Redemption_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started | 2014-08-10T00:00:00.000+01:00 |
 | Finished | 2014-08-17T00:00:00.000+01:00 |
 | Rating | 4/5 |

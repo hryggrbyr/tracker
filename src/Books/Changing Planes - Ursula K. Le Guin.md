@@ -1,6 +1,6 @@
 ---
 tags:
-  - Sci-Fi Short
+  - sci-fi short
 title: Changing Planes
 subtitle: ""
 author:
@@ -33,7 +33,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | Sci-Fi Short |
+| Genre | sci-fi short |
 | Started |  |
 | Finished | 2020-04-22T00:00:00.000+01:00 |
 | Rating | 5/5 |

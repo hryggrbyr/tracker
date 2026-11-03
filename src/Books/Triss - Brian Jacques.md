@@ -1,10 +1,9 @@
 ---
 tags:
-  - Juvenile Fiction
-  - Fantasy & Magic
-  - Fiction
-  - Fantasy
-  - General
+  - juvenile fiction
+  - fantasy & magic
+  - fantasy
+  - general
 title: Triss
 subtitle: Redwall 15
 author:
@@ -45,7 +44,7 @@ _Redwall 15_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction,Fantasy & Magic,Fiction,Fantasy,General |
+| Genre | juvenile fiction,fantasy & magic,fantasy,general |
 | Started |  |
 | Finished | 2002-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

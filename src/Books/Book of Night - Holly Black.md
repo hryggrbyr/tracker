@@ -1,6 +1,6 @@
 ---
 tags:
-  - UrbanFantasy
+  - urban-fantasy
   - horror
   - magic
 title: The Book of Night
@@ -35,7 +35,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | UrbanFantasy,horror,magic |
+| Genre | urban-fantasy,horror,magic |
 | Started | 2025-02-04T00:00:00.000+00:00 |
 | Finished | 2025-02-13T00:00:00.000+00:00 |
 | Rating | 4/5 |

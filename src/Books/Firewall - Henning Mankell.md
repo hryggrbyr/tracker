@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mystery
+  - mystery
 title: Firewall
 subtitle: Kurt Wallander 8
 author:
@@ -37,7 +37,7 @@ _Kurt Wallander 8_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Mystery |
+| Genre | mystery |
 | Started |  |
 | Finished | 2020-12-17T00:00:00.000+00:00 |
 | Rating | 4/5 |

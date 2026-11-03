@@ -1,13 +1,12 @@
 ---
 tags:
-  - Fiction / Action & Adventure
-  - Historical
-  - Epic
-  - Action & Adventure
-  - Fiction / Fantasy / Epic
-  - Fantasy
-  - Fiction
-  - Fiction / Fantasy / Historical
+  - epic
+  - adventure
+  - fantasy
+  - sword-and-sorcery
+  - monsters
+  - witches
+  - historical-fantasy
 title: Sword of Destiny
 subtitle: " "
 author:

@@ -1,9 +1,9 @@
 ---
 tags:
-  - YoungAdult
+  - young-adult
   - suicide
-  - DarkHumour
-  - ComingOfAge
+  - dark-humour
+  - coming-of-age
 title: The Virgin Suicides
 subtitle: A Novel (Twenty-Fifth Anniversary Edition)
 author:
@@ -43,7 +43,7 @@ _A Novel (Twenty-Fifth Anniversary Edition)_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | YoungAdult,suicide,DarkHumour,ComingOfAge |
+| Genre | young-adult,suicide,dark-humour,coming-of-age |
 | Started | 2026-10-04T00:00:00.000+01:00 |
 | Finished | 2026-10-15T00:00:00.000+01:00 |
 | Rating | 5/5 |

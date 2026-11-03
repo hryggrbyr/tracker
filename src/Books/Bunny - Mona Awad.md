@@ -1,6 +1,5 @@
 ---
-tags:
-  - FICTION
+tags: []
 title: Bunny
 subtitle: ""
 author:
@@ -32,7 +31,7 @@ __
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | FICTION |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

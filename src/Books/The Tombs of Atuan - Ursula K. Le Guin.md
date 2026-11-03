@@ -1,6 +1,10 @@
 ---
 tags:
-  - sf_fantasy
+  - fantasy
+  - magic
+  - wizards
+  - magical-school
+  - dragons
 title: The Tombs of Atuan
 subtitle: Earthsea 2
 author:
@@ -34,7 +38,7 @@ _Earthsea 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | sf_fantasy |
+| Genre | fantasy,magic,wizards,magical-school,dragons |
 | Started |  |
 | Finished | 2019-01-20T00:00:00.000+00:00 |
 | Rating | /5 |

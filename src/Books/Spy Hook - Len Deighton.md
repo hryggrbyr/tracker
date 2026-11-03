@@ -1,12 +1,11 @@
 ---
 tags:
-  - Fiction - Espionage
-  - General
-  - Thriller
-  - Thrillers
-  - Fiction
-  - Intrigue
-  - Espionage
+  - fiction - espionage
+  - general
+  - thriller
+  - thriller
+  - intrigue
+  - espionage
 title: Spy Hook
 subtitle: Bernard Samson 4
 author:
@@ -42,7 +41,7 @@ _Bernard Samson 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction - Espionage,General,Thriller,Thrillers,Fiction,Intrigue,Espionage |
+| Genre | fiction - espionage,general,thriller,thriller,intrigue,espionage |
 | Started |  |
 | Finished | 1992-08-01T00:00:00.000+01:00 |
 | Rating | 3/5 |

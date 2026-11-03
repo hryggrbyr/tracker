@@ -1,10 +1,10 @@
 ---
 tags:
-  - Juvenile Fiction
-  - Action & Adventure
-  - General
-  - Animals
-  - Fantasy & Magic
+  - juvenile fiction
+  - action & adventure
+  - general
+  - animals
+  - fantasy & magic
 title: Outcast of Redwall
 subtitle: Redwall 8
 author:
@@ -41,7 +41,7 @@ _Redwall 8_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction,Action & Adventure,General,Animals,Fantasy & Magic |
+| Genre | juvenile fiction,action & adventure,general,animals,fantasy & magic |
 | Started |  |
 | Finished | 1995-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

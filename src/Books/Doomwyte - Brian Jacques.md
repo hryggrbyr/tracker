@@ -1,9 +1,9 @@
 ---
 tags:
   - fantasy
-  - TalkingAnimals
+  - talking-animals
   - drama
-  - JuvenileFiction
+  - juvenile-fiction
 title: Doomwyte
 subtitle: Redwall 20
 author:
@@ -37,7 +37,7 @@ _Redwall 20_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
+| Genre | fantasy,talking-animals,drama,juvenile-fiction |
 | Started |  |
 | Finished | 2008-10-16T00:00:00.000+01:00 |
 | Rating | /5 |

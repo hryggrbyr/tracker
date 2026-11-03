@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: A Letter to the Luminous Deep
 subtitle: the perfect cosy magical academia read!
 author:
@@ -32,7 +31,7 @@ _the perfect cosy magical academia read!_
 
 | &nbsp; | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

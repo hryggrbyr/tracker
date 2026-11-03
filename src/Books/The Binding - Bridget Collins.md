@@ -1,8 +1,8 @@
 ---
 tags:
   - fantasy
-  - HistoricalFantasy
-  - HistoricalFiction
+  - historical-fantasy
+  - historical-fiction
   - magic
   - queer
   - romance
@@ -38,7 +38,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | fantasy,HistoricalFantasy,HistoricalFiction,magic,queer,romance |
+| Genre | fantasy,historical-fantasy,historical-fiction,magic,queer,romance |
 | Started | 2026-07-04T00:00:00.000+01:00 |
 | Finished | 2026-07-23T00:00:00.000+01:00 |
 | Rating | 5/5 |

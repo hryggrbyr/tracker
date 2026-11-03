@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fantasy:Juvenile
+  - fantasy:juvenile
 title: Once Upon a Time in the North
 subtitle: His Dark Materials 0.5
 author:
@@ -34,7 +34,7 @@ _His Dark Materials 0.5_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fantasy:Juvenile |
+| Genre | fantasy:juvenile |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

@@ -1,10 +1,12 @@
 ---
 tags:
-  - Fiction
-  - Epic
-  - Action & Adventure
-  - Fantasy
-  - Historical
+  - epic
+  - adventure
+  - fantasy
+  - sword-and-sorcery
+  - monsters
+  - witches
+  - historical-fantasy
 title: The Tower of Swallows
 subtitle: " "
 author:

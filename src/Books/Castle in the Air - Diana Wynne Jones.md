@@ -1,6 +1,6 @@
 ---
 tags:
-  - Juvenile Fiction
+  - juvenile fiction
 title: Castle in the Air
 subtitle: ""
 author:
@@ -32,7 +32,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | Juvenile Fiction |
+| Genre | juvenile fiction |
 | Started |  |
 | Finished | 2020-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - ParallelWorlds
+  - parallel-worlds
 title: Little Wizard stories of Oz
 subtitle: " "
 author:
@@ -33,7 +33,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,ParallelWorlds |
+| Genre | fantasy,parallel-worlds |
 | Started |  |
 | Finished | 2015-11-02T00:00:00.000+00:00 |
 | Rating | 3/5 |

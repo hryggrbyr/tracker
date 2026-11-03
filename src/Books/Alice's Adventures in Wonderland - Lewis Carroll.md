@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - JuvenileFiction
+  - juvenile-fiction
   - classic
 title: Alice's Adventures in Wonderland
 subtitle: " "
@@ -34,7 +34,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,JuvenileFiction,classic |
+| Genre | fantasy,juvenile-fiction,classic |
 | Started | 1989-02-02T00:00:00.000+00:00 |
 | Finished | 1989-02-02T00:00:00.000+00:00 |
 | Rating | 3/5 |

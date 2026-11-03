@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fantasy
+  - fantasy
 title: "Smoke and Mirrors: Short Fictions and Illusions"
 subtitle: Neil Gaiman Short Stories 1
 author:
@@ -36,7 +36,7 @@ _Neil Gaiman Short Stories 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fantasy |
+| Genre | fantasy |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

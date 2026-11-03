@@ -1,10 +1,9 @@
 ---
 tags:
-  - Fiction
-  - Fantasy
-  - Epic
-  - Action & Adventure
-  - Coming of Age
+  - fantasy
+  - epic
+  - action & adventure
+  - coming of age
 title: Assassin's Fate
 subtitle: " "
 author:

@@ -1,10 +1,10 @@
 ---
 tags:
-  - Juvenile Fiction
-  - Action & Adventure
-  - General
-  - Animals
-  - Fantasy & Magic
+  - juvenile fiction
+  - action & adventure
+  - general
+  - animals
+  - fantasy & magic
 title: Mattimeo
 subtitle: Redwall 3
 author:
@@ -43,7 +43,7 @@ _Redwall 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction,Action & Adventure,General,Animals,Fantasy & Magic |
+| Genre | juvenile fiction,action & adventure,general,animals,fantasy & magic |
 | Started |  |
 | Finished | 1989-12-31T00:00:00.000+00:00 |
 | Rating | 5/5 |

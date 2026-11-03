@@ -1,7 +1,8 @@
 ---
 tags:
-  - ebook
-  - book
+  - ireland
+  - history
+  - non-fiction
 title: 101 Things You Didn't Know About Irish History
 subtitle: " "
 author:

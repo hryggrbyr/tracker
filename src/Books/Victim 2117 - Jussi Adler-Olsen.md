@@ -1,7 +1,7 @@
 ---
 tags:
-  - Thriller
-  - Mystery
+  - thriller
+  - mystery
 title: Victim 2117
 subtitle: Department Q 8
 author:
@@ -76,7 +76,7 @@ _Department Q 8_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Thriller,Mystery |
+| Genre | thriller,mystery |
 | Started |  |
 | Finished |  |
 | Rating | 4/5 |

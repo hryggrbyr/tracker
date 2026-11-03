@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: When the Moon Hits Your Eye
 subtitle: A light-hearted science fiction adventure for fans of Douglas Adams
 author:
@@ -33,7 +32,7 @@ _A light-hearted science fiction adventure for fans of Douglas Adams_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

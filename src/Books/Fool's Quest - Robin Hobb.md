@@ -1,10 +1,9 @@
 ---
 tags:
-  - Fiction
-  - Action & Adventure
-  - Fantasy
-  - Epic
-  - Coming of Age
+  - action & adventure
+  - fantasy
+  - epic
+  - coming of age
 title: Fool's Quest
 subtitle: " "
 author:

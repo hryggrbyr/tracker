@@ -1,8 +1,7 @@
 ---
 tags:
-  - Fiction
-  - General
-  - Fantasy
+  - general
+  - fantasy
 title: Time of Contempt
 subtitle: " "
 author:

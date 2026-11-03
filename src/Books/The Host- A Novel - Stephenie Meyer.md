@@ -1,18 +1,17 @@
 ---
 tags:
-  - Fiction
-  - General
-  - Love stories
-  - Romance
-  - Science Fiction
-  - Fiction - Science Fiction
-  - Science Fiction - General
-  - American Science Fiction And Fantasy
+  - general
+  - love stories
+  - romance
+  - science fiction
+  - fiction - science fiction
+  - science fiction - general
+  - american science fiction and fantasy
   - paranormal
-  - Triangles (Interpersonal relations)
-  - Spirit possession
-  - Betrayal
-  - Biological invasions
+  - triangles (interpersonal relations)
+  - spirit possession
+  - betrayal
+  - biological invasions
 title: "The Host: A Novel"
 subtitle: " 6"
 author:
@@ -45,7 +44,7 @@ _ 6_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction,General,Love stories,Romance,Science Fiction,Fiction - Science Fiction,Science Fiction - General,American Science Fiction And Fantasy,paranormal,Triangles (Interpersonal relations),Spirit possession,Betrayal,Biological invasions |
+| Genre | general,love stories,romance,science fiction,fiction - science fiction,science fiction - general,american science fiction and fantasy,paranormal,triangles (interpersonal relations),spirit possession,betrayal,biological invasions |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

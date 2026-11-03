@@ -6,9 +6,9 @@ tags:
   - sword battles
   - warrior girl
   - sibling envy
-  - lgbt fantasy
+  - queer fantasy
   - character arc
-  - lgbt character
+  - queer character
   - twin rivalry
 title: Marilia, the Warlord
 subtitle: " "

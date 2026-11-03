@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: A Marvellous Light
 subtitle: A dazzling, queer romantic fantasy
 author:
@@ -32,7 +31,7 @@ _A dazzling, queer romantic fantasy_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

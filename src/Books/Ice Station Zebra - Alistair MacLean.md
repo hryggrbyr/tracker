@@ -1,8 +1,7 @@
 ---
 tags:
-  - Action
   - adventure
-  - War
+  - war
 title: Ice Station Zebra
 subtitle: ""
 author:
@@ -34,7 +33,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Action,adventure,War |
+| Genre | adventure,war |
 | Started |  |
 | Finished | 1993-03-23T00:00:00.000+00:00 |
 | Rating | /5 |

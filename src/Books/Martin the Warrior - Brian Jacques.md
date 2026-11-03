@@ -1,9 +1,9 @@
 ---
 tags:
   - fantasy
-  - TalkingAnimals
+  - talking-animals
   - drama
-  - JuvenileFiction
+  - juvenile-fiction
 title: Martin the Warrior
 subtitle: Redwall 6
 author:
@@ -40,7 +40,7 @@ _Redwall 6_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,TalkingAnimals,drama,JuvenileFiction |
+| Genre | fantasy,talking-animals,drama,juvenile-fiction |
 | Started |  |
 | Finished | 1993-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

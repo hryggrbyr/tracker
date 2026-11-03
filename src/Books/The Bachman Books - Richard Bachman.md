@@ -1,11 +1,10 @@
 ---
 tags:
-  - General
-  - Fiction
-  - Short stories
-  - Horror
-  - Modern fiction
-  - Horror tales; American
+  - general
+  - short stories
+  - horror
+  - modern fiction
+  - horror tales; american
 title: The Bachman Books
 subtitle: ""
 author:
@@ -38,7 +37,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | General,Fiction,Short stories,Horror,Modern fiction,Horror tales; American |
+| Genre | general,short stories,horror,modern fiction,horror tales; american |
 | Started |  |
 | Finished | 2014-09-09T00:00:00.000+01:00 |
 | Rating | 5/5 |

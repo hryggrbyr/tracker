@@ -1,8 +1,9 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - magic
+  - library
 title: The Book of Doors
 subtitle: ""
 author:
@@ -44,7 +45,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,magic |
+| Genre | fantasy,urban-fantasy,magic,library |
 | Started | 2025-06-02T00:00:00.000+01:00 |
 | Finished | 2025-06-19T00:00:00.000+01:00 |
 | Rating | 5/5 |

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction:Thriller
+  - fiction:thriller
 title: All the Pretty Dead Girls
 subtitle: " "
 author:
@@ -36,7 +36,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction:Thriller |
+| Genre | fiction:thriller |
 | Started | 2023-09-28T00:00:00.000+01:00 |
 | Finished | 2023-10-07T00:00:00.000+01:00 |
 | Rating | /5 |

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Science-Fiction
+  - sci-fi
 title: Surface Detail
 subtitle: The Culture 9
 author:
@@ -36,7 +36,7 @@ _The Culture 9_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Science-Fiction |
+| Genre | sci-fi |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

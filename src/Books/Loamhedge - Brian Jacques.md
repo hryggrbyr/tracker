@@ -1,10 +1,10 @@
 ---
 tags:
-  - Juvenile Fiction
-  - Fantasy & Magic
-  - Action & Adventure
-  - General
-  - Animals
+  - juvenile fiction
+  - fantasy & magic
+  - action & adventure
+  - general
+  - animals
 title: Loamhedge
 subtitle: Redwall 16
 author:
@@ -43,7 +43,7 @@ _Redwall 16_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Juvenile Fiction,Fantasy & Magic,Action & Adventure,General,Animals |
+| Genre | juvenile fiction,fantasy & magic,action & adventure,general,animals |
 | Started |  |
 | Finished | 2003-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

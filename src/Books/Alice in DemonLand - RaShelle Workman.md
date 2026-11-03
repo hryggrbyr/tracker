@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - demons
 title: Alice in DemonLand
 subtitle: " "
@@ -34,7 +34,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,demons |
+| Genre | fantasy,urban-fantasy,demons |
 | Started |  |
 | Finished | 2020-07-14T00:00:00.000+01:00 |
 | Rating | 4/5 |

@@ -1,10 +1,10 @@
 ---
 tags:
-  - Scottish Literature
-  - Transgressive Fiction
-  - Dark Comedy
-  - Novella Collection
-  - Crime
+  - scottish literature
+  - transgressive fiction
+  - dark comedy
+  - novella collection
+  - crime
 title: "Ecstasy: Three Tales of Chemical Romance"
 subtitle: ""
 author:
@@ -36,7 +36,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Scottish Literature,Transgressive Fiction,Dark Comedy,Novella Collection,Crime |
+| Genre | scottish literature,transgressive fiction,dark comedy,novella collection,crime |
 | Started |  |
 | Finished | 1997-10-12T00:00:00.000+01:00 |
 | Rating | /5 |

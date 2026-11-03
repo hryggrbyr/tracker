@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mystery
+  - mystery
 title: Mission road
 subtitle: ""
 author:
@@ -39,7 +39,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Mystery |
+| Genre | mystery |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

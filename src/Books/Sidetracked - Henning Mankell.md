@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mystery
+  - mystery
 title: Sidetracked
 subtitle: Kurt Wallander 5
 author:
@@ -37,7 +37,7 @@ _Kurt Wallander 5_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Mystery |
+| Genre | mystery |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

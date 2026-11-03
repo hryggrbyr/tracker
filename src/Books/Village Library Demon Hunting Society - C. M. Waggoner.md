@@ -1,6 +1,6 @@
 ---
 tags:
-  - UrbanFantasy
+  - urban-fantasy
   - fantasy
   - demons
 title: Village Library Demon Hunting Society
@@ -35,7 +35,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | UrbanFantasy,fantasy,demons |
+| Genre | urban-fantasy,fantasy,demons |
 | Started | 2024-10-18T00:00:00.000+01:00 |
 | Finished | 2024-10-30T00:00:00.000+00:00 |
 | Rating | 4/5 |

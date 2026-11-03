@@ -1,8 +1,7 @@
 ---
 tags:
-  - Action
   - adventure
-  - War
+  - war
 title: Force Ten from Navarone
 subtitle: ""
 author:
@@ -34,7 +33,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Action,adventure,War |
+| Genre | adventure,war |
 | Started |  |
 | Finished | 1993-04-08T00:00:00.000+01:00 |
 | Rating | /5 |

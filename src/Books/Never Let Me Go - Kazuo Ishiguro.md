@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Never Let Me Go
 subtitle: With GCSE and A Level study guide
 author:
@@ -32,7 +31,7 @@ _With GCSE and A Level study guide_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

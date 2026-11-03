@@ -1,13 +1,13 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - magic
   - wizards
-  - MagicalSchool
-  - ParallelWorlds
+  - magical-school
+  - parallel-worlds
   - horror
-  - DarkFantasy
+  - dark-fantasy
 title: The Magicians
 subtitle: Magician 1
 author:
@@ -41,7 +41,7 @@ _Magician 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,magic,wizards,MagicalSchool,ParallelWorlds,horror,DarkFantasy |
+| Genre | fantasy,urban-fantasy,magic,wizards,magical-school,parallel-worlds,horror,dark-fantasy |
 | Started | 2025-04-18T00:00:00.000+01:00 |
 | Finished | 2025-04-30T00:00:00.000+01:00 |
 | Rating | 5/5 |

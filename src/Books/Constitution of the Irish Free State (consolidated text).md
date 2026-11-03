@@ -1,9 +1,11 @@
 ---
 tags:
-  - Nonfiction
-  - Reference & Language
-  - Law
-  - History
+  - non-fiction
+  - reference
+  - language
+  - law
+  - history
+  - ireland
 title: Constitution of the Irish Free State (consolidated text)
 subtitle: " "
 author:

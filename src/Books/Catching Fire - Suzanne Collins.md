@@ -1,7 +1,7 @@
 ---
 tags:
-  - Fantasy
-  - Thriller
+  - fantasy
+  - thriller
 title: Catching Fire
 subtitle: The Hunger Games 2
 author:
@@ -43,7 +43,7 @@ _The Hunger Games 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fantasy,Thriller |
+| Genre | fantasy,thriller |
 | Started | 2011-09-27T00:00:00.000+01:00 |
 | Finished | 2011-10-19T00:00:00.000+01:00 |
 | Rating | 3/5 |

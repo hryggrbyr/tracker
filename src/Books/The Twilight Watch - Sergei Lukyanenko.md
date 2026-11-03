@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: The Twilight Watch
 subtitle: (Night Watch 3)
 author:
@@ -33,7 +32,7 @@ _(Night Watch 3)_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fantástico
+  - fantástico
 title: Phantastes
 subtitle: ""
 author:
@@ -33,7 +33,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fantástico |
+| Genre | fantástico |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

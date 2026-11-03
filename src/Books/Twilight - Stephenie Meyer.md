@@ -1,27 +1,13 @@
 ---
 tags:
-  - Fiction
-  - General
-  - United States
-  - Juvenile Fiction
-  - People & Places
-  - Horror
-  - Horror & Ghost Stories
-  - Science Fiction
-  - Fantasy
-  - Magic
-  - Fantasy & Magic
-  - Large type books
-  - School & Education
-  - "& Magic"
-  - Vampires
-  - Schools
-  - Love & Romance
-  - Children's Books - Young Adult Fiction
-  - "Children: Young Adult (Gr. 10-12)"
-  - High schools
-  - Washington (State)
-  - Ghost Stories (Young Adult)
+  - united-states
+  - fantasy
+  - juvenile-fiction
+  - werewolves
+  - school-education
+  - vampires
+  - horror
+  - romance
 title: Twilight
 subtitle: The Twilight Saga 1
 author:
@@ -55,7 +41,7 @@ _The Twilight Saga 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,General,United States,Juvenile Fiction,People & Places,Horror,Horror & Ghost Stories,Science Fiction,Fantasy,Magic,Fantasy & Magic,Large type books,School & Education,& Magic,Vampires,Schools,Love & Romance,Children's Books - Young Adult Fiction,Children: Young Adult (Gr. 10-12),High schools,Washington (State),Ghost Stories (Young Adult) |
+| Genre | united-states,fantasy,juvenile-fiction,werewolves,school-education,vampires,horror,romance |
 | Started | 2009-12-01T00:00:00.000+00:00 |
 | Finished | 2025-09-08T00:00:00.000+01:00 |
 | Rating | 5/5 |

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Botanical fantasy
+  - botanical fantasy
   - victorian language of flowers
   - women's fantasy
   - cozy fantasy
@@ -38,7 +38,7 @@ _ _
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Botanical fantasy,victorian language of flowers,women's fantasy,cozy fantasy |
+| Genre | botanical fantasy,victorian language of flowers,women's fantasy,cozy fantasy |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

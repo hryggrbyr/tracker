@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction:Thriller
+  - fiction:thriller
 title: Our Kind of Traitor
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction:Thriller |
+| Genre | fiction:thriller |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

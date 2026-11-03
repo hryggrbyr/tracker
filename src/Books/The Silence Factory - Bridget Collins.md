@@ -3,9 +3,9 @@ tags:
   - thriller
   - horror
   - supernatural
-  - HistoricalFiction
+  - historical-fiction
   - fantasy
-  - HistoricalFantasy
+  - historical-fantasy
   - england
 title: The Silence Factory
 subtitle: " "
@@ -39,7 +39,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | thriller,horror,supernatural,HistoricalFiction,fantasy,HistoricalFantasy,england |
+| Genre | thriller,horror,supernatural,historical-fiction,fantasy,historical-fantasy,england |
 | Started | 2025-06-19T00:00:00.000+01:00 |
 | Finished | 2025-06-28T00:00:00.000+01:00 |
 | Rating | 4/5 |

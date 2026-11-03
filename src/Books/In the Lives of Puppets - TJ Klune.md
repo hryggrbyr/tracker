@@ -1,6 +1,6 @@
 ---
 tags:
-  - lgbt
+  - queer
 title: In the Lives of Puppets
 subtitle: " "
 author:
@@ -42,7 +42,7 @@ _ _
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | lgbt |
+| Genre | queer |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

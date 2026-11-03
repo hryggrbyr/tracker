@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - mythology
   - magic
 title: Percy Jackson and the Sword of Hades
@@ -35,7 +35,7 @@ _Percy Jackson and The Olympians_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,mythology,magic |
+| Genre | fantasy,urban-fantasy,mythology,magic |
 | Started | 2011-02-02T00:00:00.000+00:00 |
 | Finished | 2011-02-02T00:00:00.000+00:00 |
 | Rating | 4/5 |

@@ -1,6 +1,5 @@
 ---
 tags:
-  - Fiction
   - classics
 title: Wuthering Heights
 subtitle: " "

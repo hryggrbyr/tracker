@@ -1,9 +1,9 @@
 ---
 tags:
-  - UrbanFantasy
-  - TimeTravel
+  - urban-fantasy
+  - time-travel
   - gentle
-  - Japan
+  - japan
 title: Tales from the Cafe
 subtitle: Before the Coffee Gets Cold 2
 author:
@@ -45,7 +45,7 @@ _Before the Coffee Gets Cold 2_
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | UrbanFantasy,TimeTravel,gentle,Japan |
+| Genre | urban-fantasy,time-travel,gentle,japan |
 | Started | 2026-10-24T00:00:00.000+01:00 |
 | Finished | 2026-11-01T00:00:00.000+00:00 |
 | Rating | 5/5 |

@@ -1,7 +1,7 @@
 ---
 tags:
   - horror
-  - ComingOfAge
+  - coming-of-age
 title: Summer of Night
 subtitle: A Novel
 author:
@@ -33,7 +33,7 @@ _A Novel_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | horror,ComingOfAge |
+| Genre | horror,coming-of-age |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

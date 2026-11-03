@@ -1,11 +1,10 @@
 ---
 tags:
-  - Police Procedural
-  - Mystery & Detective
-  - Crime
-  - Fiction
-  - Thrillers
-  - General
+  - police procedural
+  - mystery & detective
+  - crime
+  - thriller
+  - general
 title: A Conspiracy of Faith
 subtitle: Department Q (US) 3
 author:
@@ -72,7 +71,7 @@ _Department Q (US) 3_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Police Procedural,Mystery & Detective,Crime,Fiction,Thrillers,General |
+| Genre | police procedural,mystery & detective,crime,thriller,general |
 | Started |  |
 | Finished |  |
 | Rating | 4/5 |

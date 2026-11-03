@@ -1,9 +1,9 @@
 ---
 tags:
-  - Satire
-  - Mystery
-  - BritishLiterature
-  - lgbt
+  - satire
+  - mystery
+  - british-literature
+  - queer
   - supernatural
 title: The Hippopotamus
 subtitle: ""
@@ -36,7 +36,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Satire,Mystery,BritishLiterature,lgbt,supernatural |
+| Genre | satire,mystery,british-literature,queer,supernatural |
 | Started |  |
 | Finished | 2004-03-30T00:00:00.000+01:00 |
 | Rating | /5 |

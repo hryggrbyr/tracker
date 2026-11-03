@@ -2,7 +2,7 @@
 tags:
   - fantasy
   - urban fantasy
-  - lgbt
+  - queer
 title: The Book Eaters
 subtitle: ""
 author:
@@ -40,7 +40,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | fantasy,urban fantasy,lgbt |
+| Genre | fantasy,urban fantasy,queer |
 | Started | 2026-02-07T00:00:00.000+00:00 |
 | Finished | 2026-02-17T00:00:00.000+00:00 |
 | Rating | 5/5 |

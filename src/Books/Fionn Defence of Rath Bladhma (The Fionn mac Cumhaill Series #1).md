@@ -1,14 +1,13 @@
 ---
 tags:
-  - celtic
-  - historical fantasy
-  - historical adventure
-  - sword sorcery
-  - irish mythology
-  - lesbian action fantasy
-  - ireland ancient
-  - irish fantasy
-  - fionn mac cumhaill
+  - ireland
+  - fantasy
+  - mythology
+  - folklore
+  - queer
+  - historical-fantasy
+  - historical-fiction
+  - sword-and-sorcery
 title: "Fionn: Defence of Rath Bladhma (The Fionn mac Cumhaill Series #1)"
 subtitle: " "
 author:

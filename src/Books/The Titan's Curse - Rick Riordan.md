@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction - Young Adult
+  - fiction - young adult
 title: The Titan's Curse
 subtitle: Percy Jackson and the Olympians 3
 author:
@@ -33,7 +33,7 @@ _Percy Jackson and the Olympians 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction - Young Adult |
+| Genre | fiction - young adult |
 | Started |  |
 | Finished | 2011-09-12T00:00:00.000+01:00 |
 | Rating | 4/5 |

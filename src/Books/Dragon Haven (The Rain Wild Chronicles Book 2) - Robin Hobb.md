@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Dragon Haven (The Rain Wild Chronicles, Book 2)
 subtitle: ""
 author:
@@ -33,7 +32,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

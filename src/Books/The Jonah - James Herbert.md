@@ -2,7 +2,7 @@
 tags:
   - horror
   - supernatural
-  - DrugSmuggling
+  - drug-smuggling
 title: The Jonah
 subtitle: ""
 author:
@@ -34,7 +34,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | horror,supernatural,DrugSmuggling |
+| Genre | horror,supernatural,drug-smuggling |
 | Started |  |
 | Finished | 1995-08-28T00:00:00.000+01:00 |
 | Rating | /5 |

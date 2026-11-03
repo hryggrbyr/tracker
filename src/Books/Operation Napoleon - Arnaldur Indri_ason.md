@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction:Thriller
+  - fiction:thriller
 title: Operation Napoleon
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction:Thriller |
+| Genre | fiction:thriller |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

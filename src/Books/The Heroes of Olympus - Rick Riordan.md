@@ -1,6 +1,6 @@
 ---
 tags:
-  - Children's Books
+  - children's books
 title: The Heroes of Olympus
 subtitle: The Heroes of Olympus 1
 author:
@@ -36,7 +36,7 @@ _The Heroes of Olympus 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Children's Books |
+| Genre | children's books |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

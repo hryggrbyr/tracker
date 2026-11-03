@@ -4,8 +4,8 @@ tags:
   - scandinoir
   - iceland
   - police
-  - DrugSmuggling
-  - lgbt
+  - drug-smuggling
+  - queer
 title: Snare
 subtitle: The Reykjavik Noir 01
 author:
@@ -37,7 +37,7 @@ _The Reykjavik Noir 01_
 
 | Shelf | read |
 | --- | --- |
-| Genre | crime,scandinoir,iceland,police,DrugSmuggling,lgbt |
+| Genre | crime,scandinoir,iceland,police,drug-smuggling,queer |
 | Started | 2025-07-04T00:00:00.000+01:00 |
 | Finished | 2025-07-14T00:00:00.000+01:00 |
 | Rating | 3/5 |

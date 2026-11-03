@@ -1,8 +1,7 @@
 ---
 tags:
-  - Fiction
-  - Science Fiction
-  - General
+  - science fiction
+  - general
 title: The Left Hand of Darkness
 subtitle: Ekumen 4
 author:
@@ -42,7 +41,7 @@ _Ekumen 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,Science Fiction,General |
+| Genre | science fiction,general |
 | Started | 2026-05-09T00:00:00.000+01:00 |
 | Finished | 2026-06-23T00:00:00.000+01:00 |
 | Rating | 5/5 |

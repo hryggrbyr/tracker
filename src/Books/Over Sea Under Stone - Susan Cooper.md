@@ -1,9 +1,9 @@
 ---
 tags:
-  - JuvenileFiction
+  - juvenile-fiction
   - fantasy
   - mythology
-  - UrbanFantasy
+  - urban-fantasy
   - folklore
   - magic
   - wizards
@@ -40,7 +40,7 @@ _The Dark is Rising sequence_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | JuvenileFiction,fantasy,mythology,UrbanFantasy,folklore,magic,wizards |
+| Genre | juvenile-fiction,fantasy,mythology,urban-fantasy,folklore,magic,wizards |
 | Started | 2025-09-25T00:00:00.000+01:00 |
 | Finished | 2025-10-05T00:00:00.000+01:00 |
 | Rating | 4/5 |

@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - ModernFairyTale
+  - modern-fairytale
   - pirates
   - witches
   - magic
@@ -39,7 +39,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,ModernFairyTale,pirates,witches,magic,quest,adventure,steampunk |
+| Genre | fantasy,modern-fairytale,pirates,witches,magic,quest,adventure,steampunk |
 | Started |  |
 | Finished | 2011-03-02T00:00:00.000+00:00 |
 | Rating | 3/5 |

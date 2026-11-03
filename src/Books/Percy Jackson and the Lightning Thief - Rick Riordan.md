@@ -1,8 +1,8 @@
 ---
 tags:
-  - YoungAdult
+  - young-adult
   - fantasy
-  - UrbanFantasy
+  - urban-fantasy
   - mythology
   - magic
 title: The Lightning Thief
@@ -37,7 +37,7 @@ _Percy Jackson and The Olympians 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | YoungAdult,fantasy,UrbanFantasy,mythology,magic |
+| Genre | young-adult,fantasy,urban-fantasy,mythology,magic |
 | Started | 2011-08-02T00:00:00.000+01:00 |
 | Finished | 2011-08-22T00:00:00.000+01:00 |
 | Rating | 4/5 |

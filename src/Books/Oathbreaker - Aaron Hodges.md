@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - SwordAndSorcery
+  - sword-and-sorcery
   - magic
   - wizards
   - dragons
@@ -37,7 +37,7 @@ _Legend of the Gods 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,SwordAndSorcery,magic,wizards,dragons,war |
+| Genre | fantasy,sword-and-sorcery,magic,wizards,dragons,war |
 | Started | 2025-03-18T00:00:00.000+00:00 |
 | Finished | 2025-03-31T00:00:00.000+01:00 |
 | Rating | 4/5 |

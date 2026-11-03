@@ -1,6 +1,10 @@
 ---
 tags:
-  - sf_fantasy
+  - fantasy
+  - magic
+  - wizards
+  - magical-school
+  - dragons
 title: Tales from Earthsea
 subtitle: Earthsea 5
 author:
@@ -34,7 +38,7 @@ _Earthsea 5_
 
 | Shelf | read |
 | --- | --- |
-| Genre | sf_fantasy |
+| Genre | fantasy,magic,wizards,magical-school,dragons |
 | Started |  |
 | Finished | 2020-04-23T00:00:00.000+01:00 |
 | Rating | /5 |

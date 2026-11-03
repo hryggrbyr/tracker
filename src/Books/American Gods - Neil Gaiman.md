@@ -1,8 +1,8 @@
 ---
 tags:
   - fantasy
-  - UrbanFantasy
-  - Religon
+  - urban-fantasy
+  - religion
   - americana
 title: American Gods
 subtitle: " "
@@ -35,7 +35,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,UrbanFantasy,Religon,americana |
+| Genre | fantasy,urban-fantasy,religion,americana |
 | Started |  |
 | Finished | 2022-11-02T00:00:00.000+00:00 |
 | Rating | 4/5 |

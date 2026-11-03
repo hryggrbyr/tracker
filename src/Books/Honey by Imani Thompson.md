@@ -3,7 +3,7 @@ tags:
   - thriller
   - suspense
   - crime
-  - BritishLiterature
+  - british-literature
 title: Honey
 subtitle: ""
 author:

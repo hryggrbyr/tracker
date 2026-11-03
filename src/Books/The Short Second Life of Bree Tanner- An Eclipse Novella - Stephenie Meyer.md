@@ -1,16 +1,16 @@
 ---
 tags:
-  - General
-  - United States
-  - Juvenile Fiction
-  - People & Places
-  - Horror & Ghost Stories
-  - Science Fiction
-  - Fantasy
-  - Magic
-  - "Children: Young Adult (Gr. 7-9)"
-  - Love & Romance
-  - Children's Books - Young Adult Fiction
+  - general
+  - united states
+  - juvenile fiction
+  - people & places
+  - horror & ghost stories
+  - science fiction
+  - fantasy
+  - magic
+  - "children: young adult (gr. 7-9)"
+  - love & romance
+  - children's books - young adult fiction
 title: "The Short Second Life of Bree Tanner: An Eclipse Novella"
 subtitle: The Twilight Saga 3.5
 author:
@@ -44,7 +44,7 @@ _The Twilight Saga 3.5_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | General,United States,Juvenile Fiction,People & Places,Horror & Ghost Stories,Science Fiction,Fantasy,Magic,Children: Young Adult (Gr. 7-9),Love & Romance,Children's Books - Young Adult Fiction |
+| Genre | general,united states,juvenile fiction,people & places,horror & ghost stories,science fiction,fantasy,magic,children: young adult (gr. 7-9),love & romance,children's books - young adult fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

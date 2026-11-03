@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction:Young Adult
+  - fiction:young adult
 title: A Bridge to the Stars
 subtitle: Joel Gustafsson 1
 author:
@@ -36,7 +36,7 @@ _Joel Gustafsson 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction:Young Adult |
+| Genre | fiction:young adult |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
