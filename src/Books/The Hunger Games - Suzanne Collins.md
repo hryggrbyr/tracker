@@ -1,7 +1,7 @@
 ---
 tags:
-  - Fantasy
-  - Thriller
+  - fantasy
+  - thriller
 title: The Hunger Games
 subtitle: The Hunger Games 1
 author:
@@ -45,7 +45,7 @@ _The Hunger Games 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fantasy,Thriller |
+| Genre | fantasy,thriller |
 | Started | 2011-09-06T00:00:00.000+01:00 |
 | Finished | 2011-09-27T00:00:00.000+01:00 |
 | Rating | 3/5 |
