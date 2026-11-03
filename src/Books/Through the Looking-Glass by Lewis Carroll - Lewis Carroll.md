@@ -1,7 +1,7 @@
 ---
 tags:
   - fantasy
-  - ParallelWorlds
+  - parallel-worlds
 title: Through the Looking-Glass
 subtitle: " "
 author:
@@ -33,7 +33,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,ParallelWorlds |
+| Genre | fantasy,parallel-worlds |
 | Started |  |
 | Finished | 1987-02-02T00:00:00.000+00:00 |
 | Rating | 3/5 |
