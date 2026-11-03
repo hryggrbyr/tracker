@@ -1,6 +1,6 @@
 ---
 tags:
-  - nonfiction
+  - non-fiction
   - biography
   - music
 title: Dissecting Marilyn Manson
@@ -34,7 +34,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | nonfiction,biography,music |
+| Genre | non-fiction,biography,music |
 | Started |  |
 | Finished | 2000-08-01T00:00:00.000+01:00 |
 | Rating | 3/5 |
