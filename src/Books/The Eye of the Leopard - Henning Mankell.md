@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fiction:Detective
+  - fiction:detective
 title: The Eye of the Leopard
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Fiction:Detective |
+| Genre | fiction:detective |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
