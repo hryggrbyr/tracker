@@ -1,11 +1,10 @@
 ---
 tags:
-  - Fiction
-  - General
-  - Mystery & Detective
-  - Thrillers
-  - Suspense
-  - Crime
+  - general
+  - mystery & detective
+  - thriller
+  - suspense
+  - crime
   - scandinoir
   - iceland
   - police
@@ -41,7 +40,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | Fiction,General,Mystery & Detective,Thrillers,Suspense,Crime,scandinoir,iceland,police |
+| Genre | general,mystery & detective,thriller,suspense,crime,scandinoir,iceland,police |
 | Started | 2022-01-05T00:00:00.000+00:00 |
 | Finished | 2022-08-07T00:00:00.000+01:00 |
 | Rating | 4/5 |
