@@ -1,10 +1,10 @@
 ---
 tags:
-  - Science Fiction
-  - Space Adventure
-  - Speculative Fiction
-  - SciFi
-  - Historical Fiction
+  - space
+  - adventure
+  - speculative-fiction
+  - sci-fi
+  - historical-fiction
 title: A Curious Orb
 subtitle: " "
 author:
