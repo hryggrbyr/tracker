@@ -1,6 +1,6 @@
 ---
 tags:
-  - Biography & Autobiography
+  - biography & autobiography
 title: Bigger than Hitler - Better than Christ
 subtitle: ""
 author:
@@ -36,7 +36,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | Biography & Autobiography |
+| Genre | biography & autobiography |
 | Started | 2005-09-03T00:00:00.000+01:00 |
 | Finished | 2005-09-11T00:00:00.000+01:00 |
 | Rating | 5/5 |
