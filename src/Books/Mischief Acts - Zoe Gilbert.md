@@ -1,6 +1,5 @@
 ---
-tags:
-  - Fiction
+tags: []
 title: Mischief Acts
 subtitle: "'Joyous' THE TIMES, Best summer reads 2022"
 author:
@@ -32,7 +31,7 @@ _'Joyous' THE TIMES, Best summer reads 2022_
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | Fiction |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
