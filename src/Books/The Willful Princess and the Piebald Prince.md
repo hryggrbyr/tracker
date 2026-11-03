@@ -1,11 +1,8 @@
 ---
 tags:
-  - Fiction
-  - Epic
-  - Robin Hobb
-  - Fantasy
+  - epic
+  - fantasy
   - high fantasy
-  - Farseer
 title: The Willful Princess and the Piebald Prince
 subtitle: " "
 author:
