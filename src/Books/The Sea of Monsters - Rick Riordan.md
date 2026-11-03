@@ -1,6 +1,5 @@
 ---
 tags:
-  - young-adult
   - fantasy
   - urban-fantasy
   - mythology
@@ -36,7 +35,7 @@ _Percy Jackson and the Olympians 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | young-adult,fantasy,urban-fantasy,mythology,magic |
+| Genre | fantasy,urban-fantasy,mythology,magic |
 | Started |  |
 | Finished | 2011-09-03T00:00:00.000+01:00 |
 | Rating | 4/5 |
