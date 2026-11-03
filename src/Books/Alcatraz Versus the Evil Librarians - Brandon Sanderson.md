@@ -1,6 +1,6 @@
 ---
 tags:
-  - Children's Books
+  - children's books
 title: Alcatraz Versus the Evil Librarians
 subtitle: Alcatraz 1
 author:
@@ -36,7 +36,7 @@ _Alcatraz 1_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | Children's Books |
+| Genre | children's books |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
