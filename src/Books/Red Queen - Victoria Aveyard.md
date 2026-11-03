@@ -2,7 +2,7 @@
 tags:
   - fantasy
   - dystopia
-  - YoungAdult
+  - young-adult
 title: Red Queen
 subtitle: Red Queen 1
 author:
@@ -39,7 +39,7 @@ _Red Queen 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,dystopia,YoungAdult |
+| Genre | fantasy,dystopia,young-adult |
 | Started | 2015-11-16T00:00:00.000+00:00 |
 | Finished | 2016-04-15T00:00:00.000+01:00 |
 | Rating | 4/5 |
