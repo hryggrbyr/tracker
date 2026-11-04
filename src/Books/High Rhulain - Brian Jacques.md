@@ -1,8 +1,8 @@
 ---
 tags:
-  - fantasy & magic
-  - animals
-  - 
+  - fantasy
+  - magic
+  - talking-animals
   - adventure
 title: High Rhulain
 subtitle: Redwall 18
@@ -40,7 +40,7 @@ _Redwall 18_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy & magic,animals,,adventure |
+| Genre | fantasy,magic,talking-animals,adventure |
 | Started |  |
 | Finished | 2005-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
