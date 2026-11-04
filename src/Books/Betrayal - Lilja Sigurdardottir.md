@@ -1,7 +1,7 @@
 ---
 tags:
-  - general
-  - mystery & detective
+  - 
+  - mystery
   - thriller
   - suspense
   - crime
@@ -40,7 +40,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | general,mystery & detective,thriller,suspense,crime,scandinoir,iceland,police |
+| Genre | ,mystery,thriller,suspense,crime,scandinoir,iceland,police |
 | Started | 2022-01-05T00:00:00.000+00:00 |
 | Finished | 2022-08-07T00:00:00.000+01:00 |
 | Rating | 4/5 |
