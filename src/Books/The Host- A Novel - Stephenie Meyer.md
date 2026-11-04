@@ -1,11 +1,11 @@
 ---
 tags:
-  - general
+  - 
   - love stories
   - romance
   - science fiction
   - fiction - science fiction
-  - science fiction - general
+  - science fiction -
   - american science fiction and fantasy
   - paranormal
   - triangles (interpersonal relations)
@@ -44,7 +44,7 @@ _ 6_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | general,love stories,romance,science fiction,fiction - science fiction,science fiction - general,american science fiction and fantasy,paranormal,triangles (interpersonal relations),spirit possession,betrayal,biological invasions |
+| Genre | ,love stories,romance,science fiction,fiction - science fiction,science fiction -,american science fiction and fantasy,paranormal,triangles (interpersonal relations),spirit possession,betrayal,biological invasions |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
