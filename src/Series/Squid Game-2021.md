@@ -11,7 +11,7 @@ actors:
   - Jo Yu-ri
   - Lee Byung-hun
 genre:
-  - Action & Adventure
+  - adventure
   - Mystery
   - Drama
 length: 3 seasons (22 episodes)
