@@ -1,9 +1,9 @@
 ---
 tags:
+  - fantasy
+  - magic
+  - talking-animals
   - adventure
-  - 
-  - animals
-  - fantasy & magic
 title: The Long Patrol
 subtitle: Redwall 10
 author:
@@ -37,7 +37,7 @@ _Redwall 10_
 
 | Shelf | read |
 | --- | --- |
-| Genre | adventure,,animals,fantasy & magic |
+| Genre | fantasy,magic,talking-animals,adventure |
 | Started |  |
 | Finished | 1997-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
