@@ -1,6 +1,6 @@
 ---
 tags:
-  - action & adventure
+  - adventure
   - fantasy fiction
   - fantasy & magic
   - general
@@ -41,7 +41,7 @@ _His Dark Materials 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | action & adventure,fantasy fiction,fantasy & magic,general,fantasy,magic,imaginary places,epic |
+| Genre | adventure,fantasy fiction,fantasy & magic,general,fantasy,magic,imaginary places,epic |
 | Started |  |
 | Finished | 2015-01-10T00:00:00.000+00:00 |
 | Rating | 4/5 |
