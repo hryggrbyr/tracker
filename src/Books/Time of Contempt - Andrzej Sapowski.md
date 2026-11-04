@@ -1,7 +1,12 @@
 ---
 tags:
-  - general
+  - epic
+  - adventure
   - fantasy
+  - sword-and-sorcery
+  - monsters
+  - witches
+  - historical-fantasy
 title: Time of Contempt
 subtitle: " "
 author:
