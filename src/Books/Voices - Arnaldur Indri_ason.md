@@ -1,6 +1,9 @@
 ---
 tags:
-  - fiction:suspense
+  - thriller
+  - police
+  - scandinoir
+  - crime
 title: Voices
 subtitle: Kriminalpolis Erlendur Sveinsson 5
 author:
@@ -33,7 +36,7 @@ _Kriminalpolis Erlendur Sveinsson 5_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:suspense |
+| Genre | thriller,police,scandinoir,crime |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
