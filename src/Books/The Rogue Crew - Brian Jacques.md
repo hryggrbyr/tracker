@@ -1,9 +1,9 @@
 ---
 tags:
   - animals
-  - action & adventure
+  - adventure
   - fantasy & magic
-  - general
+  - 
 title: The Rogue Crew
 subtitle: Redwall 22
 author:
@@ -42,7 +42,7 @@ _Redwall 22_
 
 | Shelf | read |
 | --- | --- |
-| Genre | animals,action & adventure,fantasy & magic,general |
+| Genre | animals,adventure,fantasy & magic, |
 | Started |  |
 | Finished | 2011-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
