@@ -1,8 +1,12 @@
 ---
 tags:
-  - fiction / action & adventure
-  - fiction / fantasy / historical
-  - fiction / fantasy / epic
+  - epic
+  - adventure
+  - fantasy
+  - sword-and-sorcery
+  - monsters
+  - witches
+  - historical-fantasy
 title: The Lady of the Lake
 subtitle: " "
 author:
