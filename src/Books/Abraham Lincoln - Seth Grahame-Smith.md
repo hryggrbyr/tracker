@@ -2,7 +2,7 @@
 tags:
   - horror
   - vampires
-  - america
+  - united-states
   - historical-fantasy
 title: Abraham Lincoln, Vampire Hunter
 subtitle: " "
@@ -35,7 +35,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | horror,vampires,america,historical-fantasy |
+| Genre | horror,vampires,united-states,historical-fantasy |
 | Started | 2010-03-02T00:00:00.000+00:00 |
 | Finished | 2010-03-02T00:00:00.000+00:00 |
 | Rating | 3/5 |
