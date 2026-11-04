@@ -17,6 +17,130 @@ eleventyComputed:
 	</div>
 </nav>
 
+{% set monthly = yearData[1] | monthlyMedia %}
+
+<section class="flow" id="overview">
+  <h2>📈 Month by Month</h2>
+
+  <ul class="media-legend">
+    {% for s in monthly.series %}
+    <li><span class="swatch" style="background: {{ s.color }}"></span>{{ s.label }} ({{ s.total }})</li>
+    {% endfor %}
+  </ul>
+
+  <svg class="media-linechart" viewBox="-8 -6 256 124" role="img"
+       aria-label="Books, films, telly and Christmas films completed per month in {{ yearData[0] }}">
+
+    {# Gridlines: zero, half, max #}
+    <line x1="0" y1="100" x2="240" y2="100" stroke="currentColor" stroke-width="0.5" opacity="0.6" />
+    <line x1="0" y1="50"  x2="240" y2="50"  stroke="currentColor" stroke-width="0.3" opacity="0.25" />
+    <line x1="0" y1="0"   x2="240" y2="0"   stroke="currentColor" stroke-width="0.3" opacity="0.25" />
+    <text x="-3" y="100" class="axis" text-anchor="end">0</text>
+    <text x="-3" y="0"   class="axis" text-anchor="end">{{ monthly.max }}</text>
+
+    {# Month labels #}
+    {% for label in monthly.labels %}
+    <text x="{{ loop.index0 / 11 * 240 }}" y="111" class="axis" text-anchor="middle">{{ label }}</text>
+    {% endfor %}
+
+    {# Lines #}
+    {% for s in monthly.series %}
+    <polyline points="{{ s.polyline }}" fill="none" stroke="{{ s.color }}"
+              stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+    {% for p in s.points %}
+    <circle cx="{{ p.x }}" cy="{{ p.y }}" r="1.6" fill="{{ s.color }}">
+      <title>{{ s.label }}, {{ monthly.labels[p.month] }}: {{ p.count }}</title>
+    </circle>
+    {% endfor %}
+    {% endfor %}
+  </svg>
+</section>
+
+<style>
+.media-linechart { width: 100%; max-height: 60vh; display: block; overflow: visible; }
+.media-linechart .axis { font-size: 4px; fill: currentColor; opacity: 0.7; dominant-baseline: middle; }
+.media-legend { display: flex; flex-wrap: wrap; gap: 0.5rem 2ch; list-style: none; padding: 0; }
+.media-legend .swatch { display: inline-block; width: 1.5ch; height: 1.5ch; border-radius: 50%; margin-inline-end: 0.5ch; }
+.chart-horizontal { display: flex; flex-direction: column; gap: 0.5rem; width: 100%; }
+.bar { position: relative; width: 100%; }
+.bar .meter {
+  display: block;
+  width: 0;
+  min-width: 2rem;
+  height: 1.75rem;
+  background: var(--bar-color, transparent);
+  opacity: 0.35;
+  border-bottom: 3px solid var(--bar-color, goldenrod);
+  animation: growBar 1000ms ease forwards;
+}
+@keyframes growBar { from { width: 0; } to { width: var(--value); } }
+.bar .label { position: absolute; left: 0.5rem; top: 50%; transform: translateY(-50%); white-space: nowrap; }
+.bar .label::first-letter { text-transform: uppercase; }
+.bar .count { position: absolute; right: 0.5rem; top: 50%; transform: translateY(-50%); }
+.media-linechart .draw {
+  stroke-dasharray: 1 1;
+  stroke-dashoffset: 1;
+  opacity: 0;
+  animation: drawLine 1.5s ease-out forwards;
+}
+@keyframes drawLine {
+  0%   { stroke-dashoffset: 1; opacity: 0; }
+  1%   { stroke-dashoffset: 1; opacity: 1; } /* avoids a stray dot from the round linecap */
+  100% { stroke-dashoffset: 0; opacity: 1; }
+}
+
+.media-linechart .dot {
+  opacity: 0;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: popDot 0.3s ease-out forwards;
+}
+@keyframes popDot {
+  from { opacity: 0; transform: scale(0); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+@media (prefers-reduced-motion: reduceXXX) {
+  .media-linechart .draw,
+  .media-linechart .dot,
+  .bar .meter {
+    animation: none;
+    opacity: 1;
+    stroke-dashoffset: 0;
+    transform: none;
+  }
+  .bar .meter { width: var(--value); }
+}
+</style>
+
+{% macro barChart(title, rows) %}
+<div class="flow">
+  <h3>{{ title }}</h3>
+  {% if rows | length %}
+  {% set maxValue = rows[0].count %}
+  <div class="chart-horizontal">
+    {% for row in rows %}
+    <div class="bar">
+      <span class="meter" style="--value: {{ row.count / maxValue * 100 }}%; animation-delay: {{ loop.index0 * 0.15 }}s"></span>
+      <span class="label">{{ row.name }}</span>
+      <span class="count">{{ row.count }}</span>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p>No data for this year.</p>
+  {% endif %}
+</div>
+{% endmacro %}
+
+<section class="flow" id="top-books">
+  <h2>📊 Top Book Genres &amp; Authors</h2>
+  <div class="grid" style="--width-card: 22rem;">
+    {{ barChart("Top 10 Genres", yearData[1] | topCounts("tags", 10)) }}
+    {{ barChart("Top 10 Authors", yearData[1] | topCounts("author", 10)) }}
+  </div>
+</section>
+
 <div class="flow" style="--flow-gap: 2lh;">
   <section class="books-section" id="books">
     <h2>📚 Books</h2>

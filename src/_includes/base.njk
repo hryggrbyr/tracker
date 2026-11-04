@@ -37,7 +37,7 @@
                 </div>
                 <div class="column">
                     <p>My Year in Lists</p>
-                    <div>
+                    <div style="max-width:300px;">
                         {% for year, posts in collections.mediaByYear %}
                             <a href="{{ ('/this-year/' + year) | url }}">{{ year }}</a>
                         {% endfor %}
