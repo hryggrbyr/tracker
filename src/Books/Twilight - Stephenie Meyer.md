@@ -3,7 +3,7 @@ tags:
   - united-states
   - fantasy
   - werewolves
-  - school-education
+  - school
   - vampires
   - horror
   - romance
@@ -40,7 +40,7 @@ _The Twilight Saga 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | united-states,fantasy,werewolves,school-education,vampires,horror,romance |
+| Genre | united-states,fantasy,werewolves,school,vampires,horror,romance |
 | Started | 2009-12-01T00:00:00.000+00:00 |
 | Finished | 2025-09-08T00:00:00.000+01:00 |
 | Rating | 5/5 |
