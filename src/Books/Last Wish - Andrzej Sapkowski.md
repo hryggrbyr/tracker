@@ -1,8 +1,12 @@
 ---
 tags:
+  - epic
+  - adventure
   - fantasy
-  - magic
-  - wizards
+  - sword-and-sorcery
+  - monsters
+  - witches
+  - historical-fantasy
 title: Last Wish
 subtitle: " "
 author:
@@ -35,7 +39,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy,magic,wizards |
+| Genre | epic,adventure,fantasy,sword-and-sorcery,monsters,witches,historical-fantasy |
 | Started | 2019-12-20T00:00:00.000+00:00 |
 | Finished | 2020-01-01T00:00:00.000+00:00 |
 | Rating | 4/5 |
