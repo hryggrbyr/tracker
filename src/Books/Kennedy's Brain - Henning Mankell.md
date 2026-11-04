@@ -1,6 +1,10 @@
 ---
 tags:
-  - fiction:thriller
+  - thriller
+  - historical-fiction
+  - crime
+  - mystery
+  - united-states
 title: Kennedy's Brain
 subtitle: ""
 author:
@@ -35,7 +39,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:thriller |
+| Genre | thriller,historical-fiction,crime,mystery,united-states |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
