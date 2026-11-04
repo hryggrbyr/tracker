@@ -12,7 +12,7 @@ actors:
   - Enver Gjokaj
 genre:
   - Sci-Fi & Fantasy
-  - Action & Adventure
+  - adventure
   - Drama
 length: 2 seasons (25 episodes)
 shelf: watched
