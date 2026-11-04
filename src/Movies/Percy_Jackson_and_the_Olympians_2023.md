@@ -9,7 +9,7 @@ actors:
   - Leah Sava Jeffries
   - Aryan Simhadri
 genre:
-  - Action & Adventure
+  - adventure
   - Sci-Fi & Fantasy
   - Drama
   - Family
