@@ -1,6 +1,10 @@
 ---
 tags:
-  - fiction:young adult
+  - short-stories
+  - fantasy
+  - dark-fantasy
+  - modern-fairytale
+  - fairies
 title: "The Poison Eaters: And Other Stories"
 subtitle: ""
 author:
@@ -35,7 +39,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:young adult |
+| Genre | short-stories,fantasy,dark-fantasy,modern-fairytale,fairies |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
