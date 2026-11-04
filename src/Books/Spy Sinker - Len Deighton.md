@@ -2,7 +2,7 @@
 tags:
   - "audio adult: books on tape"
   - modern & contemporary fiction (post c 1945)
-  - general
+  - 
   - crime & thriller
   - intrigue
   - espionage
@@ -42,7 +42,7 @@ _Bernard Samson 6_
 
 | Shelf | read |
 | --- | --- |
-| Genre | audio adult: books on tape,modern & contemporary fiction (post c 1945),general,crime & thriller,intrigue,espionage,espionage & spy thriller |
+| Genre | audio adult: books on tape,modern & contemporary fiction (post c 1945),,crime & thriller,intrigue,espionage,espionage & spy thriller |
 | Started |  |
 | Finished | 1992-08-01T00:00:00.000+01:00 |
 | Rating | 3/5 |
