@@ -1,5 +1,12 @@
 ---
-tags: []
+tags:
+  - adventure
+  - fantasy
+  - magic
+  - parallel-worlds
+  - religion
+  - epic
+  - talking-animals
 title: Northern Lights
 subtitle: His Dark Materials 1
 author:
@@ -31,7 +38,7 @@ _His Dark Materials 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre |  |
+| Genre | adventure,fantasy,magic,parallel-worlds,religion,epic,talking-animals |
 | Started |  |
 | Finished | 2015-01-01T00:00:00.000+00:00 |
 | Rating | 4/5 |
