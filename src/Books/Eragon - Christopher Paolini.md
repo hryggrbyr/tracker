@@ -1,7 +1,8 @@
 ---
 tags:
-  - fiction:young adult
+  - magic
   - fantasy
+  - dragons
 title: Eragon
 subtitle: ""
 author:
@@ -38,7 +39,7 @@ __
 
 | &nbsp; | to-read | 
 | --- | --- |
-| Genre | fiction:young adult,fantasy |
+| Genre | magic,fantasy,dragons |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

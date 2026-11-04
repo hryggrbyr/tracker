@@ -1,12 +1,9 @@
 ---
 tags:
-  - "audio adult: books on tape"
-  - modern & contemporary fiction (post c 1945)
-  - 
-  - crime & thriller
-  - intrigue
+  - crime
   - espionage
-  - espionage & spy thriller
+  - spy
+  - thriller
 title: Spy Sinker
 subtitle: Bernard Samson 6
 author:
@@ -42,7 +39,7 @@ _Bernard Samson 6_
 
 | Shelf | read |
 | --- | --- |
-| Genre | audio adult: books on tape,modern & contemporary fiction (post c 1945),,crime & thriller,intrigue,espionage,espionage & spy thriller |
+| Genre | crime,espionage,spy,thriller |
 | Started |  |
 | Finished | 1992-08-01T00:00:00.000+01:00 |
 | Rating | 3/5 |

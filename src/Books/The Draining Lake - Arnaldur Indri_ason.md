@@ -1,6 +1,6 @@
 ---
 tags:
-  - fiction:suspense
+  - thriller
 title: The Draining Lake
 subtitle: Kriminalpolis Erlendur Sveinsson 6
 author:
@@ -33,7 +33,7 @@ _Kriminalpolis Erlendur Sveinsson 6_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:suspense |
+| Genre | thriller |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

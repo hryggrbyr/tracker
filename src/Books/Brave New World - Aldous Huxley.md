@@ -1,6 +1,6 @@
 ---
 tags:
-  - classics
+  - classic
 title: Brave New World
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | classics |
+| Genre | classic |
 | Started |  |
 | Finished | 1991-08-17T00:00:00.000+01:00 |
 | Rating | /5 |

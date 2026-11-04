@@ -1,6 +1,5 @@
 ---
 tags:
-  - fiction:young adult
 title: Shadows in the Twilight
 subtitle: Joel Gustafsson 2
 author:
@@ -37,7 +36,7 @@ _Joel Gustafsson 2_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:young adult |
+| Genre |  |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

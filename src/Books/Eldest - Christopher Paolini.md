@@ -1,6 +1,7 @@
 ---
 tags:
-  - fiction:young adult
+  - magic
+  - dragons
   - fantasy
 title: Eldest
 subtitle: " "

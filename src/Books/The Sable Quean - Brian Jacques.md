@@ -1,8 +1,8 @@
 ---
 tags:
-  - fantasy & magic
-  - animals
-  - 
+  - fantasy
+  - magic
+  - talking-animals
   - adventure
 title: The Sable Quean
 subtitle: Redwall 21
@@ -40,7 +40,7 @@ _Redwall 21_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy & magic,animals,,adventure |
+| Genre | fantasy,magic,talking-animals,adventure |
 | Started |  |
 | Finished | 2010-12-13T00:00:00.000+00:00 |
 | Rating | /5 |

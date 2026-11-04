@@ -4,7 +4,7 @@ tags:
   - crime
   - serial-killer
   - psychology
-  - america
+  - united-states
   - adventure
 title: The Silence of the Lambs
 subtitle: ""
@@ -37,7 +37,7 @@ __
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | police,crime,serial-killer,psychology,america,adventure |
+| Genre | police,crime,serial-killer,psychology,united-states,adventure |
 | Started |  |
 | Finished | 1993-04-11T00:00:00.000+01:00 |
 | Rating | 4/5 |

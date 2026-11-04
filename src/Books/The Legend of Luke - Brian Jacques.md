@@ -1,10 +1,9 @@
 ---
 tags:
-  - animals
-  - mice; hamsters; guinea pigs; etc
+  - fantasy
+  - magic
+  - talking-animals
   - adventure
-  - 
-  - fantasy & magic
 title: The Legend of Luke
 subtitle: Redwall 12
 author:
@@ -49,7 +48,7 @@ _Redwall 12_
 
 | Shelf | read |
 | --- | --- |
-| Genre | animals,mice; hamsters; guinea pigs; etc,adventure,,fantasy & magic |
+| Genre | fantasy,magic,talking-animals,adventure |
 | Started |  |
 | Finished | 1999-12-31T00:00:00.000+00:00 |
 | Rating | /5 |

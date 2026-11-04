@@ -1,6 +1,13 @@
 ---
 tags:
-  - fiction:thriller
+  - thriller
+  - police
+  - scandinoir
+  - crime
+  - historical-fiction
+  - mystery
+  - iceland
+  - military
 title: Operation Napoleon
 subtitle: ""
 author:
@@ -35,7 +42,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:thriller |
+| Genre | thriller,police,scandinoir,crime,historical-fiction,mystery,iceland,military |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
