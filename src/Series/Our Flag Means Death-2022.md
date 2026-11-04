@@ -12,7 +12,7 @@ actors:
   - Samson Kayo
 genre:
   - Comedy
-  - Action & Adventure
+  - adventure
   - Drama
 length: 2 seasons (18 episodes)
 shelf: watched
