@@ -1,6 +1,8 @@
 ---
 tags:
-  - young adult fiction
+  - fantasy
+  - dystopia
+  - magic
 title: Children of Anguish and Anarchy
 subtitle: ""
 author:
@@ -42,7 +44,7 @@ __
 
 | &nbsp; | read | 
 | --- | --- |
-| Genre | young adult fiction |
+| Genre | fantasy,dystopia,magic |
 | Started | 2026-03-31T00:00:00.000+01:00 |
 | Finished | 2026-04-17T00:00:00.000+01:00 |
 | Rating | 3/5 |
