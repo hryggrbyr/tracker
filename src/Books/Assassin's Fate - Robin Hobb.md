@@ -2,7 +2,7 @@
 tags:
   - fantasy
   - epic
-  - action & adventure
+  - adventure
   - coming of age
 title: Assassin's Fate
 subtitle: " "
