@@ -1,6 +1,6 @@
 ---
 tags:
-  - general
+  - 
   - united states
   - people & places
   - horror & ghost stories
@@ -43,7 +43,7 @@ _The Twilight Saga 3.5_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | general,united states,people & places,horror & ghost stories,science fiction,fantasy,magic,children: young adult (gr. 7-9),love & romance,children's books - young adult fiction |
+| Genre | ,united states,people & places,horror & ghost stories,science fiction,fantasy,magic,children: young adult (gr. 7-9),love & romance,children's books - young adult fiction |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
