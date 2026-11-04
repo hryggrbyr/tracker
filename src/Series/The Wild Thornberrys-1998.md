@@ -13,7 +13,7 @@ actors:
 genre:
   - Animation
   - Comedy
-  - Action & Adventure
+  - adventure
   - Kids
   - Family
 length: 5 seasons (91 episodes)
