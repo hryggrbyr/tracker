@@ -1,6 +1,9 @@
 ---
 tags:
-  - fiction:detective
+  - sweden
+  - zambia
+  - scandinoir
+  - thriller
 title: The Eye of the Leopard
 subtitle: ""
 author:
@@ -35,7 +38,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:detective |
+| Genre | sweden,zambia,scandinoir,thriller |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
