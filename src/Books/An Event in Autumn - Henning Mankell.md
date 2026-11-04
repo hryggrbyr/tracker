@@ -1,9 +1,9 @@
 ---
 tags:
-  - mystery & detective
+  - mystery
   - international mystery & crime
   - thriller
-  - general
+  - 
 title: An Event in Autumn
 subtitle: Kurt Wallander 11
 author:
@@ -48,7 +48,7 @@ _Kurt Wallander 11_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | mystery & detective,international mystery & crime,thriller,general |
+| Genre | mystery,international mystery & crime,thriller, |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
