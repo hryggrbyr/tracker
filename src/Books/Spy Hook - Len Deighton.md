@@ -1,7 +1,7 @@
 ---
 tags:
   - fiction - espionage
-  - general
+  - 
   - thriller
   - thriller
   - intrigue
@@ -41,7 +41,7 @@ _Bernard Samson 4_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fiction - espionage,general,thriller,thriller,intrigue,espionage |
+| Genre | fiction - espionage,,thriller,thriller,intrigue,espionage |
 | Started |  |
 | Finished | 1992-08-01T00:00:00.000+01:00 |
 | Rating | 3/5 |
