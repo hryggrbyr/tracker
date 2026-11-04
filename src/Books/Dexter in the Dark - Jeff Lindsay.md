@@ -2,7 +2,7 @@
 tags:
   - crime
   - police
-  - america
+  - united-states
   - serial-killer
 title: Dexter in the Dark
 subtitle: " "
@@ -35,7 +35,7 @@ _ _
 
 | Shelf | read |
 | --- | --- |
-| Genre | crime,police,america,serial-killer |
+| Genre | crime,police,united-states,serial-killer |
 | Started |  |
 | Finished | 2007-05-01T00:00:00.000+01:00 |
 | Rating | /5 |
