@@ -1,6 +1,6 @@
 ---
 tags:
-  - fiction:suspense
+  - thriller
 title: Silence of the Grave
 subtitle: Kriminalpolis Erlendur Sveinsson 4
 author:
@@ -33,7 +33,7 @@ _Kriminalpolis Erlendur Sveinsson 4_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:suspense |
+| Genre | thriller |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
