@@ -4,7 +4,7 @@ tags:
   - crime
   - serial-killer
   - psychology
-  - america
+  - united-states
   - adventure
 title: Hannibal
 subtitle: The Return of Hannibal Lecter
@@ -37,7 +37,7 @@ _The Return of Hannibal Lecter_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | police,crime,serial-killer,psychology,america,adventure |
+| Genre | police,crime,serial-killer,psychology,united-states,adventure |
 | Started |  |
 | Finished | 2004-05-07T00:00:00.000+01:00 |
 | Rating | 3/5 |
