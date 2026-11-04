@@ -1,9 +1,9 @@
 ---
 tags:
+  - fantasy
+  - magic
+  - talking-animals
   - adventure
-  - 
-  - animals
-  - fantasy & magic
 title: Mattimeo
 subtitle: Redwall 3
 author:
@@ -42,7 +42,7 @@ _Redwall 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre | adventure,,animals,fantasy & magic |
+| Genre | fantasy,magic,talking-animals,adventure |
 | Started |  |
 | Finished | 1989-12-31T00:00:00.000+00:00 |
 | Rating | 5/5 |
