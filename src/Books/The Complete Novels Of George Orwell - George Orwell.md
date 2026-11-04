@@ -1,6 +1,6 @@
 ---
 tags:
-  - classics
+  - classic
 title: The Complete Novels Of George Orwell
 subtitle: ""
 author:
@@ -35,7 +35,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | classics |
+| Genre | classic |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
