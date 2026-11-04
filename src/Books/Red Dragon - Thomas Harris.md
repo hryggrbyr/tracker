@@ -4,7 +4,7 @@ tags:
   - crime
   - serial-killer
   - psychology
-  - america
+  - united-states
   - adventure
 title: Red Dragon
 subtitle: The Silence of the Lambs
@@ -37,7 +37,7 @@ _The Silence of the Lambs_
 
 | &nbsp; | read |
 | --- | --- |
-| Genre | police,crime,serial-killer,psychology,america,adventure |
+| Genre | police,crime,serial-killer,psychology,united-states,adventure |
 | Started |  |
 | Finished | 1994-02-09T00:00:00.000+00:00 |
 | Rating | 4/5 |
