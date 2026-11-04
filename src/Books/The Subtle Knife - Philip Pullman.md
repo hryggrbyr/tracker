@@ -1,13 +1,12 @@
 ---
 tags:
   - adventure
-  - fantasy fiction
-  - fantasy & magic
-  - general
   - fantasy
   - magic
-  - imaginary places
+  - parallel-worlds
+  - religion
   - epic
+  - talking-animals
 title: The Subtle Knife
 subtitle: His Dark Materials 2
 author:
@@ -41,7 +40,7 @@ _His Dark Materials 2_
 
 | Shelf | read |
 | --- | --- |
-| Genre | adventure,fantasy fiction,fantasy & magic,general,fantasy,magic,imaginary places,epic |
+| Genre | adventure,fantasy,magic,parallel-worlds,religion,epic,talking-animals |
 | Started |  |
 | Finished | 2015-01-10T00:00:00.000+00:00 |
 | Rating | 4/5 |
