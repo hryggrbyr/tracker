@@ -9,7 +9,7 @@ actors:
   - Christine Cavanaugh
   - Terence McGovern
 genre:
-  - Action & Adventure
+  - adventure
   - Animation
   - Comedy
   - Family
