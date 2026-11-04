@@ -1,6 +1,9 @@
 ---
 tags:
-  - fantasy:juvenile
+  - fantasy
+  - talking-animals
+  - religion
+  - western
 title: Once Upon a Time in the North
 subtitle: His Dark Materials 0.5
 author:
@@ -34,7 +37,7 @@ _His Dark Materials 0.5_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fantasy:juvenile |
+| Genre | fantasy,talking-animals,religion,western |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
