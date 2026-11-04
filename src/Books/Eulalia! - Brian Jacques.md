@@ -1,8 +1,8 @@
 ---
 tags:
-  - fantasy & magic
-  - animals
-  - 
+  - fantasy
+  - magic
+  - talking-animals
   - adventure
 title: Eulalia!
 subtitle: Redwall 19
@@ -40,7 +40,7 @@ _Redwall 19_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy & magic,animals,,adventure |
+| Genre | fantasy,magic,talking-animals,adventure |
 | Started |  |
 | Finished | 2007-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
