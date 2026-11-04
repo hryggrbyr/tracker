@@ -1,7 +1,7 @@
 ---
 tags:
-  - action & adventure
-  - general
+  - adventure
+  - 
   - animals
   - fantasy & magic
 title: Mattimeo
@@ -42,7 +42,7 @@ _Redwall 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre | action & adventure,general,animals,fantasy & magic |
+| Genre | adventure,,animals,fantasy & magic |
 | Started |  |
 | Finished | 1989-12-31T00:00:00.000+00:00 |
 | Rating | 5/5 |

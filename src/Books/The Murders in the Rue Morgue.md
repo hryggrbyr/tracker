@@ -1,6 +1,6 @@
 ---
 tags:
-  - mystery & detective
+  - mystery
   - short stories
 title: The Murders in the Rue Morgue
 subtitle: " "

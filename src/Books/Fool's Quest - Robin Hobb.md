@@ -1,6 +1,6 @@
 ---
 tags:
-  - action & adventure
+  - adventure
   - fantasy
   - epic
   - coming of age

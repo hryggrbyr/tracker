@@ -1,13 +1,7 @@
 ---
 tags:
-  - general
-  - science fiction
-  - fiction - science fiction
-  - short stories
-  - english science fiction and fantasy
-  - short stories (single author)
-  - science fiction - short stories
-  - short stories; american
+  - sci-fi
+  - short-stories
 title: Wireless
 subtitle: " "
 author:

@@ -1,7 +1,7 @@
 ---
 tags:
-  - mystery & detective
-  - police procedural
+  - mystery
+  - police
   - thriller
   - crime
   - international crime & mystery
@@ -60,7 +60,7 @@ _Department Q 9_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | mystery & detective,police procedural,thriller,crime,international crime & mystery |
+| Genre | mystery,police,thriller,crime,international crime & mystery |
 | Started |  |
 | Finished |  |
 | Rating | /5 |

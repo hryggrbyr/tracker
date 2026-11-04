@@ -1,6 +1,6 @@
 ---
 tags:
-  - general
+  - 
   - short stories
   - horror
   - modern fiction
@@ -37,7 +37,7 @@ __
 
 | Shelf | read |
 | --- | --- |
-| Genre | general,short stories,horror,modern fiction,horror tales; american |
+| Genre | ,short stories,horror,modern fiction,horror tales; american |
 | Started |  |
 | Finished | 2014-09-09T00:00:00.000+01:00 |
 | Rating | 5/5 |

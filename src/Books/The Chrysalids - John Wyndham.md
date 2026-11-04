@@ -4,10 +4,10 @@ tags:
   - science fiction
   - 20th century english novel and short story
   - mutation (biology)
-  - science fiction - general
+  - science fiction -
   - english science fiction and fantasy
   - telepathy
-  - general
+  - 
 title: The Chrysalids
 subtitle: " "
 author:

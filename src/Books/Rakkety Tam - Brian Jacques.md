@@ -2,8 +2,8 @@
 tags:
   - fantasy & magic
   - animals
-  - general
-  - action & adventure
+  - 
+  - adventure
 title: Rakkety Tam
 subtitle: Redwall 17
 author:
@@ -40,7 +40,7 @@ _Redwall 17_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy & magic,animals,general,action & adventure |
+| Genre | fantasy & magic,animals,,adventure |
 | Started |  |
 | Finished | 2004-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
