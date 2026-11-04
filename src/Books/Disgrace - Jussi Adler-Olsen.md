@@ -1,7 +1,7 @@
 ---
 tags:
-  - mystery & detective
-  - general
+  - mystery
+  - 
 title: Disgrace
 subtitle: Department Q
 author:
@@ -42,7 +42,7 @@ _Department Q_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | mystery & detective,general |
+| Genre | mystery, |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
