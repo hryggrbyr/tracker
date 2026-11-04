@@ -1,17 +1,11 @@
 ---
 tags:
-  - 
-  - love stories
   - romance
-  - science fiction
-  - fiction - science fiction
-  - science fiction -
-  - american science fiction and fantasy
-  - paranormal
-  - triangles (interpersonal relations)
-  - spirit possession
-  - betrayal
-  - biological invasions
+  - sci-fi
+  - supernatural
+  - possession
+  - body-horror
+  - biological-invasions
 title: "The Host: A Novel"
 subtitle: " 6"
 author:
@@ -44,7 +38,7 @@ _ 6_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | ,love stories,romance,science fiction,fiction - science fiction,science fiction -,american science fiction and fantasy,paranormal,triangles (interpersonal relations),spirit possession,betrayal,biological invasions |
+| Genre | romance,sci-fi,supernatural,possession,body-horror,biological-invasions |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
