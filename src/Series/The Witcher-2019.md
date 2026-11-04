@@ -13,7 +13,7 @@ actors:
 genre:
   - Sci-Fi & Fantasy
   - Drama
-  - Action & Adventure
+  - adventure
 length: 4 seasons (24 episodes)
 shelf: watched
 owned: false

@@ -11,7 +11,7 @@ actors:
   - Toru Okawa
   - Ryotaro Okiayu
 genre:
-  - Action & Adventure
+  - adventure
   - Animation
   - Sci-Fi & Fantasy
 length: 1 season (51 episodes)

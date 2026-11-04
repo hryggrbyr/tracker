@@ -12,7 +12,7 @@ actors:
   - Showtaro Morikubo
 genre:
   - Animation
-  - Action & Adventure
+  - adventure
   - Sci-Fi & Fantasy
 length: 20 seasons (500 episodes)
 shelf: watched

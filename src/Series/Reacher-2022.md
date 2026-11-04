@@ -11,7 +11,7 @@ actors:
   - Johnny Berchtold
   - Roberto Montesinos
 genre:
-  - Action & Adventure
+  - adventure
   - Drama
   - Crime
 length: 3 seasons (24 episodes)

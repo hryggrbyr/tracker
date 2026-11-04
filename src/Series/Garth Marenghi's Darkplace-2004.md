@@ -12,7 +12,7 @@ actors:
 genre:
   - Comedy
   - Mystery
-  - Action & Adventure
+  - adventure
   - Sci-Fi & Fantasy
 length: 1 season (6 episodes)
 shelf: watched

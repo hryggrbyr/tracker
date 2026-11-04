@@ -14,7 +14,7 @@ genre:
   - Comedy
   - Family
   - Kids
-  - Action & Adventure
+  - adventure
 length: 2 seasons (21 episodes)
 shelf: watched
 owned: true

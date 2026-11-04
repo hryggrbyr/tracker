@@ -11,7 +11,7 @@ actors:
   - Michael Gough
   - Peter Renaday
 genre:
-  - Action & Adventure
+  - adventure
   - Animation
   - Comedy
   - Kids

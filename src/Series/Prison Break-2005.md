@@ -11,7 +11,7 @@ actors:
   - Paul Adelstein
   - Rockmond Dunbar
 genre:
-  - Action & Adventure
+  - adventure
   - Crime
   - Drama
 length: 5 seasons (88 episodes)

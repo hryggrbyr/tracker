@@ -12,7 +12,7 @@ actors:
 genre:
   - Kids
   - Animation
-  - Action & Adventure
+  - adventure
   - Sci-Fi & Fantasy
 length: 4 seasons (117 episodes)
 shelf: watched

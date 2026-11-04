@@ -11,7 +11,7 @@ actors:
   - Okieriete Onaodowan
   - Louis Ozawa
 genre:
-  - Action & Adventure
+  - adventure
   - Drama
 length: 4 seasons (30 episodes)
 shelf: watched

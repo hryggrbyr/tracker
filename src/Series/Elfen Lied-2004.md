@@ -11,7 +11,7 @@ actors:
   - Hiroaki Hirata
   - Hitomi Nabatame
 genre:
-  - Action & Adventure
+  - adventure
   - Animation
   - Drama
   - Mystery

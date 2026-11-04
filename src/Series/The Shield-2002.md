@@ -13,7 +13,7 @@ actors:
 genre:
   - Crime
   - Drama
-  - Action & Adventure
+  - adventure
 length: 7 seasons (88 episodes)
 shelf: watched
 owned: false
