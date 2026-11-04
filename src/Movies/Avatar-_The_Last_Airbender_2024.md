@@ -11,7 +11,7 @@ actors:
   - Dallas Liu
   - Ken Leung
 genre:
-  - Action & Adventure
+  - adventure
   - Comedy
   - Drama
   - Family
