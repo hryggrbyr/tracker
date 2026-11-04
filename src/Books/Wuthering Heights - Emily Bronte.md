@@ -1,6 +1,6 @@
 ---
 tags:
-  - classics
+  - classic
 title: Wuthering Heights
 subtitle: " "
 author:
