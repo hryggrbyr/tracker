@@ -1,15 +1,12 @@
 ---
 tags:
-  - 
-  - united states
-  - people & places
-  - horror & ghost stories
-  - science fiction
+  - united-states
+  - vampires
+  - horror
   - fantasy
+  - urban-fantasy
   - magic
-  - "children: young adult (gr. 7-9)"
-  - love & romance
-  - children's books - young adult fiction
+  - romance
 title: "The Short Second Life of Bree Tanner: An Eclipse Novella"
 subtitle: The Twilight Saga 3.5
 author:
@@ -43,7 +40,7 @@ _The Twilight Saga 3.5_
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | ,united states,people & places,horror & ghost stories,science fiction,fantasy,magic,children: young adult (gr. 7-9),love & romance,children's books - young adult fiction |
+| Genre | united-states,vampires,horror,fantasy,urban-fantasy,magic,romance |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
