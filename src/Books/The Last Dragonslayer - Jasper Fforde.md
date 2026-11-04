@@ -1,6 +1,7 @@
 ---
 tags:
-  - fiction:young adult
+  - magic
+  - dragons
 title: The Last Dragonslayer
 subtitle: ""
 author:
@@ -33,7 +34,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:young adult |
+| Genre | magic,dragons |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
