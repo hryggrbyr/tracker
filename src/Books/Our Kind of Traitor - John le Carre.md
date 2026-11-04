@@ -1,6 +1,8 @@
 ---
 tags:
-  - fiction:thriller
+  - espionage
+  - spy
+  - thriller
 title: Our Kind of Traitor
 subtitle: ""
 author:
@@ -35,7 +37,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:thriller |
+| Genre | espionage,spy,thriller |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
