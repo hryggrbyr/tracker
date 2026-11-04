@@ -13,7 +13,7 @@ genre:
   - Animation
   - Comedy
   - Kids
-  - Action & Adventure
+  - adventure
 length: 1 season (52 episodes)
 shelf: watched
 owned: false
