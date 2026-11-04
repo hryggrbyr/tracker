@@ -8,7 +8,7 @@ actors:
   - Unknown
 genre:
   - Sci-Fi & Fantasy
-  - Action & Adventure
+  - adventure
   - Kids
   - Animation
   - Comedy
