@@ -1,6 +1,8 @@
 ---
 tags:
-  - fiction:thriller
+  - thriller
+  - adventure
+  - scandinoir
 title: Depths
 subtitle: ""
 author:
@@ -37,7 +39,7 @@ __
 
 | Shelf | to-read |
 | --- | --- |
-| Genre | fiction:thriller |
+| Genre | thriller,adventure,scandinoir |
 | Started |  |
 | Finished |  |
 | Rating | /5 |
