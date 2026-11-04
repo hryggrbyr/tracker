@@ -1,6 +1,8 @@
 ---
 tags:
-  - fiction:young adult
+  - dystopia
+  - fantasy
+  - sci-fi
 title: Mockingjay
 subtitle: The Hunger Games 3
 author:
@@ -36,7 +38,7 @@ _The Hunger Games 3_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fiction:young adult |
+| Genre | dystopia,fantasy,sci-fi |
 | Started | 2011-10-20T00:00:00.000+01:00 |
 | Finished | 2011-11-04T00:00:00.000+00:00 |
 | Rating | 3/5 |
