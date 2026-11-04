@@ -1,9 +1,9 @@
 ---
 tags:
-  - fantasy & magic
+  - fantasy
+  - magic
+  - talking-animals
   - adventure
-  - 
-  - animals
 title: Loamhedge
 subtitle: Redwall 16
 author:
@@ -42,7 +42,7 @@ _Redwall 16_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy & magic,adventure,,animals |
+| Genre | fantasy,magic,talking-animals,adventure |
 | Started |  |
 | Finished | 2003-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
