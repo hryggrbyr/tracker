@@ -1,8 +1,8 @@
 ---
 tags:
-  - fantasy & magic
+  - magic
   - fantasy
-  - general
+  - talking-animals
 title: Triss
 subtitle: Redwall 15
 author:
@@ -43,7 +43,7 @@ _Redwall 15_
 
 | Shelf | read |
 | --- | --- |
-| Genre | fantasy & magic,fantasy,general |
+| Genre | magic,fantasy,talking-animals |
 | Started |  |
 | Finished | 2002-12-31T00:00:00.000+00:00 |
 | Rating | /5 |
