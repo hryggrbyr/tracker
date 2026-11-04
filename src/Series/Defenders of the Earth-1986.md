@@ -12,7 +12,7 @@ actors:
   - Ron Feinberg
 genre:
   - Animation
-  - Action & Adventure
+  - adventure
 length: 1 season (65 episodes)
 shelf: watched
 owned: false
