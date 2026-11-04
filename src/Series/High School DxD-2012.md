@@ -12,7 +12,7 @@ actors:
   - Ayana Taketatsu
 genre:
   - Animation
-  - Action & Adventure
+  - adventure
   - Comedy
   - Sci-Fi & Fantasy
 length: 4 seasons (49 episodes)
