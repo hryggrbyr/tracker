@@ -14,11 +14,11 @@ page_count:
 isbn: 9781335429285
 description: "Book 3 in the Before the Coffee Gets Cold series. Four more customers visit Café Funiculi Funicula in Tokyo, hoping to use its time-travelling offer: a daughter who lost her parents, half of an award-winning comedy duo mourning his late wife, an older sister missing her younger sister, and a lovesick lover who doesn't realise how they feel. Familiar faces from the earlier books return, and each visitor has something they wish they had said differently. Translated from the Japanese by Geoffrey Trousselot."
 coverUrl: https://books.google.com/books/content?id=Cdhe0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-shelf: reading
+shelf: read
 owned: true
 start_date: 2026-11-01
-end_date:
-rating: 0
+end_date: 2026-11-10
+rating: 3
 recommended_by:
   name:
   url:
@@ -35,12 +35,12 @@ series: Before the Coffee Gets Cold
 
 _Before the Coffee Gets Cold 3_
 
-| &nbsp; | reading | 
+| &nbsp; | read | 
 | --- | --- |
 | Genre | urban-fantasy,time-travel,gentle,japan |
 | Started | 2026-11-01T00:00:00.000+00:00 |
-| Finished |  |
-| Rating | /5 |
+| Finished | 2026-11-10T00:00:00.000+00:00 |
+| Rating | 3/5 |
 
 BUY: https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9781335429285
 READ REVIEW: 
