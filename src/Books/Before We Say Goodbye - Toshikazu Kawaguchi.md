@@ -18,9 +18,9 @@ description: |-
   The Daughter Who Drove Her Father Away* 
   In *Last Chance to Say Goodbye* , which is translated from Japanese by Geoffrey Trousselot and features signature heartwarming characters and wistful storytelling, Kawaguchi once again invites the reader to ask themselves: What would you change if you could travel back in time?
 coverUrl:
-shelf: to-read
+shelf: reading
 owned: true
-start_date:
+start_date: 2026-11-10
 end_date:
 rating:
 recommended_by:
