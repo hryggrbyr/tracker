@@ -18,6 +18,7 @@ owned: false
 rating: 2
 watched: 2026-11-02
 poster: https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX380_CR0, 20, 380, 562_.jpg
+review_url: https://thomasrigby.com/posts/review-wicked-john-m-chu-2024/
 ---
 
 # Wicked (2024)
