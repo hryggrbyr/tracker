@@ -1,8 +1,11 @@
 ---
 tags:
   - fantasy
+  - time-travel
+  - japan
+  - gentle
 title: Before We Say Goodbye
-subtitle: " "
+subtitle: Before the Coffee Gets Cold 4
 author:
   - Toshikazu Kawaguchi
 publisher: Hanover Square Press
@@ -17,11 +20,11 @@ description: |-
   The Woman Who Couldn’t Answer a Proposal 
   The Daughter Who Drove Her Father Away* 
   In *Last Chance to Say Goodbye* , which is translated from Japanese by Geoffrey Trousselot and features signature heartwarming characters and wistful storytelling, Kawaguchi once again invites the reader to ask themselves: What would you change if you could travel back in time?
-coverUrl:
-shelf: reading
+coverUrl: https://image.ebooks.com/cover/210828258.jpg?width=900&quality=85
+shelf: read
 owned: true
 start_date: 2026-11-10
-end_date:
+end_date: 2026-11-17
 rating:
 recommended_by:
   name:
@@ -34,3 +37,5 @@ series: Before the Coffee Gets Cold
 ---
 
 # Before We Say Goodbye by Toshikazu Kawaguchi
+
+![](https://image.ebooks.com/cover/210828258.jpg?width=900&quality=85)
