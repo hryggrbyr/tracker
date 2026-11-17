@@ -1,7 +1,11 @@
 ---
-tags: []
+tags:
+  - fantasy
+  - time-travel
+  - japan
+  - gentle
 title: Before We Forget Kindness
-subtitle: " "
+subtitle: Before the coffee gets cold 5
 author:
   - Toshikazu Kawaguchi
 publisher: Macmillan
@@ -21,10 +25,10 @@ description: "**In the fifth book in the sensational, cozy Before the Coffee Get
 
 
   They must follow the café's strict rules, however, and come back to the present before their coffee goes cold. Another moving and heartwarming tale from Toshikazu Kawaguchi, in *Before We Forget Kindness* our new visitors wish to go back into their past to move on their present, finding closure and comfort so they can embark on a beautiful future."
-coverUrl: https://covers.openlibrary.org/b/id/15265275-M.jpg
-shelf: to-read
+coverUrl: https://image.ebooks.com/cover/211446280.jpg?width=900&quality=85
+shelf: reading
 owned: true
-start_date:
+start_date: 2026-11-17
 end_date:
 rating:
 recommended_by:
@@ -38,3 +42,5 @@ series: Before the Coffee Gets Cold
 ---
 
 # Before We Forget Kindness by Toshikazu Kawaguchi
+
+![](https://image.ebooks.com/cover/211446280.jpg?width=900&quality=85)
