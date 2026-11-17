@@ -13,10 +13,10 @@ genre:
   - Drama
   - Mystery
 length: N/A
-shelf: watchlist
+shelf: watched
 owned: true
-rating:
-watched:
+rating: 3
+watched: 2026-11-17
 poster: https://m.media-amazon.com/images/M/MV5BOTU2YzRhNTYtZjQzNC00ZDU4LTkzNjQtNTM1NmQ2NmU2MzllXkEyXkFqcGc@._V1_QL75_UX380_CR0, 4, 380, 562_.jpg
 ---
 
