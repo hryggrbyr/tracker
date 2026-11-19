@@ -4,8 +4,11 @@ permalink: "/authors/"
 ---
 <h1>Authors</h1>
 
-<ul>
+<table>
   {%- for author in collections.booksByAuthor -%}
-  <li><a href="/authors/{{ author.slug }}/">{{ author.name }}</a> ({{ author.books | length }})</li>
+  <tr>
+    <td><a href="/authors/{{ author.slug }}/">{{ author.name }}</a></td>
+    <td>{{ author.books | length }}</td>
+  </tr>
   {%- endfor -%}
 </ul>

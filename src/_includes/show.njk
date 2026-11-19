@@ -1,43 +1,83 @@
 ---
 layout: base.njk
 ---
+{# ---------- Setup ---------- #}
+{% set shelfKey = shelf or 'watchlist' %}
+{% set stars = rating | int %}
+{% set image = (poster or coverUrl) | replace('http://', 'https://') if (poster or coverUrl) else '' %}
+{% if director is string %}{% set directorText = director %}{% elif director %}{% set directorText = director | join(', ') %}{% endif %}
+{% if actors is string %}{% set castText = actors %}{% elif actors %}{% set castText = actors | join(', ') %}{% endif %}
+{% if watched %}
+  {% set lastWatched = watched | watchedLatest %}
+  {% set watchedYear = lastWatched | humanReadableDate | getFullYear %}
+{% endif %}
 
-<h1>{{ title }}<span class="meta"><br />({{ director }}, {{ year }})</span></h1>
+<div class="detail-shell">
+  <div class="detail">
 
-<div class="flow" style="--flow-gap: 2lh;">
-<section>
-{% set medium = {
-    title: title,
-    subtitle: subtitle,
-    author: author,
-    director: director,
-    actors: actors,
-    coverUrl: coverUrl,
-    poster: poster,
-    description: description,
-    published: published,
-    year: year,
-    isbn: isbn,
-    bookshopUrl: bookshopUrl,
-    reviewUrl: reviewUrl,
-    owned: owned,
-    shelf: shelf,
-    start_date: start_date,
-    end_date: end_date,
-    rating: rating,
-    watched: watched,
-    self: true
-} %}
-{% set slug = slug | slugify %}
-{% set path = "/series/" ~ slug %}
-{% include "card.njk" %}
-</section>
-<section>
-<h2>YAML for Review</h2>
-<pre>
+    {# Image first in the DOM: above the copy on mobile, on the right (row-reverse) on wide screens #}
+    {% if image %}
+    <div class="column detail-media border" style="--cover: url('{{ image }}')">
+      <figure>
+        <img src="{{ image }}" alt="Poster for {{ title }}" width="400" height="600">
+      </figure>
+    </div>
+    {% endif %}
+
+    <div class="detail-copy flow" style="--flow-gap: 1.5lh;">
+      <h1>{{ title }}</h1>
+
+      {% if directorText %}<p class="byline">Directed by {{ directorText }}</p>{% endif %}
+
+      <div class="badges">
+        <span class="shelf-indicator shelf-{{ shelfKey }}">{{ shelfKey | replace('-', ' ') | capitalize }}</span>
+        {% if owned %}<span class="owned-indicator border">Owned</span>{% endif %}
+        {% if stars > 0 %}
+        <span class="stars" role="img" aria-label="{{ stars }} out of 5 stars">{% for i in range(0, 5) %}{{ '★' if i < stars else '☆' }}{% endfor %}</span>
+        {% endif %}
+      </div>
+
+      {% if description %}<p class="description">{{ description }}</p>{% endif %}
+
+      {% if year or castText or watched %}
+      <dl class="facts">
+        {% if year %}<dt>First aired</dt><dd>{{ year }}</dd>{% endif %}
+        {% if castText %}<dt>Cast</dt><dd>{{ castText }}</dd>{% endif %}
+        {% if watched %}
+        <dt>Watched</dt>
+        <dd>
+          {{ lastWatched | humanReadableDate }}{% if not (watched is string) and watched | length > 1 %} (seen {{ watched | length }} times){% endif %}
+          <br /><a href="{{ ('/this-year/' ~ watchedYear ~ '/') | url }}">Everything I watched in {{ watchedYear }}</a>
+        </dd>
+        {% endif %}
+      </dl>
+      {% endif %}
+
+      {% if (bookshopUrl and not owned) or reviewUrl %}
+      <div class="conjoined">
+        {% if bookshopUrl and not owned %}<a href="{{ bookshopUrl }}">Buy a copy</a>{% endif %}
+        {% if reviewUrl %}<a href="{{ reviewUrl }}">Read my review</a>{% endif %}
+      </div>
+      {% endif %}
+
+      {% if genre and genre | length %}
+      <ul class="tag-list" aria-label="Genres">
+        {% for g in genre %}<li class="border">{{ g }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+
+  </div>
+</div>
+
+<section class="flow detail-yaml" style="--flow-gap: 1lh;">
+  <details>
+    <summary>YAML for a review</summary>
+    <div class="flow" style="--flow-gap: 1lh;">
+<pre id="review-yaml">
 ---
 public: false
-title: "Review — {{ title }} ({{ director }}, {{ year }})"
+title: "Review — {{ title }} ({{ directorText }}, {{ year }})"
 date:
 tags:
   - review
@@ -48,8 +88,12 @@ tags:
 {% endfor -%}
 description: "One of my sporadic telly reviews"
 layout: "review"
-rating: "{{ rating or "0" }}"
+rating: "{{ rating or '0' }}"
 ---
 </pre>
+      <button type="button" class="border" data-copy>Copy YAML</button>
+    </div>
+  </details>
 </section>
-</div>
+
+{% include "detail-assets.njk" %}

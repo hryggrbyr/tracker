@@ -1,0 +1,88 @@
+<style>
+/* The shell is its own container, so the layout doesn't depend on the page wrapper */
+.detail-shell { container-type: inline-size; }
+
+.detail {
+  display: flex;
+  flex-direction: column;   /* mobile: cover above copy */
+  gap: 2lh;
+}
+
+/* ---- Cover panel: reuses `.column:has(figure) img` for sizing/centring ---- */
+.detail-media {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding: 1lh;
+}
+.detail-media::before {            /* blurred cover as the panel's atmosphere */
+  content: "";
+  position: absolute;
+  inset: -2rem;
+  z-index: -1;
+  background: var(--cover) center / cover;
+  filter: blur(28px) brightness(0.55) saturate(1.2);
+}
+.detail-media figure { margin: 0; }
+.detail-media img {
+  max-height: 70dvh;
+  box-shadow: 0 1rem 2rem var(--shadow), 0 0 0 1px var(--border);
+}
+
+/* ---- Copy ---- */
+.detail-copy { min-width: 0; }
+.detail-copy h1 { margin: 0; text-align: start; }
+.detail-copy .byline { margin: 0; font-size: 1.2em; }
+.detail-copy .description { max-width: 65ch; }
+
+.badges { display: flex; flex-wrap: wrap; align-items: center; gap: 1ch; }
+.stars { color: var(--accent); font-size: 1.25em; letter-spacing: 0.1em; }
+
+.facts {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.25lh 2ch;
+  margin: 0;
+}
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+
+.tag-list { display: flex; flex-wrap: wrap; gap: 1ch; list-style: none; padding: 0; margin: 0; }
+.tag-list li { padding: 0.1lh 1ch; font-size: 0.9em; }
+
+.detail-copy .conjoined { max-width: 32rem; }
+
+.detail-more, .detail-yaml { margin-block-start: 3lh; }
+.detail-yaml button {
+  background: none;
+  color: var(--accent);
+  font: inherit;
+  padding: 0.25lh 2ch;
+  cursor: pointer;
+}
+
+/* ---- Wide: cover on the right, docked while the copy scrolls ---- */
+@container (min-width: 52rem) {
+  .detail { flex-direction: row-reverse; align-items: flex-start; }
+  .detail-media {
+    flex: 0 0 40%;
+    position: sticky;
+    top: 1rem;
+  }
+  .detail-media img { max-height: calc(100dvh - 2rem - 2lh); }
+  .detail-copy { flex: 1 1 0; }
+}
+</style>
+
+<script>
+document.querySelector("[data-copy]")?.addEventListener("click", async (event) => {
+  const button = event.currentTarget;
+  try {
+    await navigator.clipboard.writeText(document.getElementById("review-yaml").textContent.trim());
+    button.textContent = "Copied";
+  } catch {
+    button.textContent = "Copy failed";
+  }
+  setTimeout(() => (button.textContent = "Copy YAML"), 1500);
+});
+</script>
