@@ -24,7 +24,7 @@ recommended_by:
   name:
   url:
 created: 2025-01-26
-reviewUrl: /posts/book-review-the-snow-song-sally-gardner
+reviewUrl: https://thomasrigby.com/posts/book-review-the-snow-song-sally-gardner
 bookshopUrl:
 calibre_uuid: 6de2761b-32cf-4b48-9e2d-3d06c9d152bb
 ---

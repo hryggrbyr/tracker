@@ -22,7 +22,7 @@ recommended_by:
   name:
   url:
 created: 2025-03-18
-reviewUrl: /posts/book-review-dark-as-night-lilja-sigurdardottir
+reviewUrl: https://thomasrigby.com/posts/book-review-dark-as-night-lilja-sigurdardottir
 bookshopUrl:
 calibre_uuid: 1f8a8f23-fa26-444b-8305-43fbefbd2590
 ---
