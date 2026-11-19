@@ -298,10 +298,25 @@ details summary:hover {
   margin-block-start: auto;
 }
 .grid {
+  --width-card: 16rem;
+  --max-cols: 3;
+  --gap: 1rlh;
+
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
+  gap: var(--gap);
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(
+      max(var(--width-card), (100% - (var(--max-cols) - 1) * var(--gap)) / var(--max-cols)),
+      1fr
+    )
+  );
 }
+
+.grid > * {
+  min-width: 0;
+}
+
 .shelf-cover {
   --cut: 1rlh;
   content-visibility: auto;
