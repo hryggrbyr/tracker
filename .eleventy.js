@@ -230,6 +230,8 @@ module.exports = function (eleventyConfig) {
     return groupByYear(items, ["read", "watched"]);
   });
 
+  eleventyConfig.addPlugin(require("./src/booksByAuthor.js"));
+
   return {
     markdownTemplateEngine: "njk",
     dataTemplateEngine: "njk",

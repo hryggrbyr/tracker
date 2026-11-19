@@ -44,12 +44,11 @@ tags:
   - entertainment
   - tv
 {%- for tag in genre %}
-  - {{ tag }}
+  - {{ tag | slugify }}
 {% endfor -%}
 description: "One of my sporadic telly reviews"
 layout: "review"
 rating: "{{ rating or "0" }}"
-permalink: /posts/review-{{ title | slugify }}-{{ director | slugify }}-{{ year }}
 ---
 </pre>
 </section>

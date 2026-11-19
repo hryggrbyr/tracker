@@ -43,12 +43,11 @@ tags:
   - review
   - entertainment
   - films
-{% for tag in genre %}  - {{ tag }}
+{% for tag in genre %}  - {{ tag | slugify }}
 {% endfor -%}
 description: "One of my sporadic film reviews"
 layout: "review"
 rating: "{{ rating or "0" }}"
-permalink: /posts/review-{{ title | slugify }}-{{ director | slugify }}-{{ year }}
 ---
 </pre>
 </section>

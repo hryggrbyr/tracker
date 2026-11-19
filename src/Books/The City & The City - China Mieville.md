@@ -3,7 +3,7 @@ tags: []
 title: The City & The City
 subtitle: " "
 author:
-  - China Mieville
+  - China Miéville
 publisher:
 published:
 page_count:
@@ -24,16 +24,15 @@ bookshopUrl:
 calibre_uuid: a3d91d52-3bfb-4750-9ebe-2a1a2a2c5101
 ---
 
-# The City & The City by China Mieville
+# The City & The City by China Miéville
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL24279214M-M.jpg)
 
 _ _
 
-| Shelf | to-read |
-| --- | --- |
-| Genre |  |
-| Started |  |
-| Finished |  |
-| Rating | /5 |
-
+| Shelf    | to-read |
+| -------- | ------- |
+| Genre    |         |
+| Started  |         |
+| Finished |         |
+| Rating   | /5      |

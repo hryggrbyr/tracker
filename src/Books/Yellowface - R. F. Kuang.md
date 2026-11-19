@@ -6,7 +6,7 @@ tags:
 title: Yellowface
 subtitle: " "
 author:
-  - R. F. Kuang
+  - R.F. Kuang
 publisher: Harper Collins
 published: 2023-05-16
 page_count:
@@ -27,15 +27,15 @@ bookshopUrl:
 calibre_uuid: 437d2ec2-3fe1-4f55-a620-3464e35904fc
 ---
 
-# Yellowface by R. F. Kuang
+# Yellowface by R.F. Kuang
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL38009025M-M.jpg)
 
 _ _
 
-| Shelf | read |
-| --- | --- |
-| Genre | drama,publishing,crime |
-| Started | 2025-01-11T00:00:00.000+00:00 |
+| Shelf    | read                          |
+| -------- | ----------------------------- |
+| Genre    | drama,publishing,crime        |
+| Started  | 2025-01-11T00:00:00.000+00:00 |
 | Finished | 2025-01-21T00:00:00.000+00:00 |
-| Rating | 4/5 |
+| Rating   | 4/5                           |

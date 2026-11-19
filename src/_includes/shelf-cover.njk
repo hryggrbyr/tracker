@@ -14,7 +14,7 @@
 
     {# New: Add a content overlay wrapper to handle the linear gradient #}
     <div class="shelf-cover-overlay">
-        <div class="top-meta" style="display: flex; flex-direxction: row; gap: 1ch;">
+        <div class="top-meta">
             <div class="column-first" style="padding: 1ch;">
                 {% if medium.rating %}{{ medium.rating | asStars }}{% endif %}
             </div>
@@ -37,7 +37,7 @@
                 <span class="meta">
                     {% if medium.subtitle %}
                     <br/><em>{{ medium.subtitle }}</em>{% endif %}
-                    <br /><i>{{ medium.author }}</i>
+                    <br /><a href="/authors/{{medium.author | slugify}}">{{ medium.author }}</a>
                 {% else %}
                 yer da wears crocs
                 {% endif %}

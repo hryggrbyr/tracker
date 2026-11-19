@@ -1,0 +1,11 @@
+---
+title: Authors
+permalink: "/authors/"
+---
+<h1>Authors</h1>
+
+<ul>
+  {%- for author in collections.booksByAuthor -%}
+  <li><a href="/authors/{{ author.slug }}/">{{ author.name }}</a> ({{ author.books | length }})</li>
+  {%- endfor -%}
+</ul>

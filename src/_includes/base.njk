@@ -4,13 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/atkinson-hyperlegible-next@5.2.7/index.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,900,100,1;1,9..144,900,100,1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
   {% include "style.njk" %}
 </head>
 <body>
     <header>
         <div class="wrapper spacing gutters">
-            <a class="radar-text" rel="home" href="{{ '/' | url }}"><i style="text-transform: uppercase;">Tracker</i></a>
+            <a class="radar-text" rel="home" href="{{ '/' | url }}"><i style="text-transform: lowercase; font-style: normal; font-weight: 900;">Tracker</i></a>
         </div>
     </header>
     <nav class="wrapper spacing gutters">
