@@ -18,7 +18,7 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1959-07-17
+  - 1996-07-17
 poster: https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg
 ---
 
