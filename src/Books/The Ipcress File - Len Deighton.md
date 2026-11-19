@@ -1,8 +1,6 @@
 ---
 tags:
   - thriller
-  - fiction - espionage
-  - thriller
   - espionage
   - intrigue
 title: The Ipcress File
@@ -16,7 +14,7 @@ isbn: "9780061008160"
 description: |-
   SUMMARY:
   What would happen if the Kremlin could bring off a plot to put its operatives in controlling positions in Her Majesty's government? Subjects, with the highest security clearance, who feed top level secrets directly to the East? It would mean, for England, almost certain destruction! This gripping novel of international intrigue and espionage is not only a fascinating adventure but a superb close-up of the inner workings of a shadowy and fantastic profession. And because the Russians enjoyed such success in real life penetrating British security, Len Deighton's fiction mirrors fact. "An utterly thrilling headlong flight through terror, chaos, suspense and shock...You'll not forget it." (The Los Angeles Herald Examiner) "A spy thriller which outbonds Bond." (The London Daily Express)
-coverUrl: https://covers.openlibrary.org/b/olid/OL18146157M-M.jpg
+coverUrl: https://static.nadirkitap.com/fotograf/880630/20/Kitap_2020111320430988063012.jpg
 shelf: read
 owned: true
 start_date: 1993-07-26
@@ -34,13 +32,13 @@ series: Harry Palmer
 
 # The Ipcress File by Len Deighton
 
-![Book Cover Art](https://covers.openlibrary.org/b/olid/OL18146157M-M.jpg)
+![Book Cover Art](https://static.nadirkitap.com/fotograf/880630/20/Kitap_2020111320430988063012.jpg)
 
 _Harry Palmer 1_
 
 | Shelf | read |
 | --- | --- |
-| Genre | thriller,fiction - espionage,thriller,espionage,intrigue |
+| Genre | thriller,espionage,intrigue |
 | Started | 1993-07-26T00:00:00.000+01:00 |
 | Finished | 1993-08-01T00:00:00.000+01:00 |
 | Rating | 4/5 |
