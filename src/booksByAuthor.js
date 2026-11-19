@@ -48,6 +48,12 @@ function getBooks(collectionApi) {
 }
 
 module.exports = function (eleventyConfig) {
+  // Filters, so templates link to author pages using exactly the same slugs
+  eleventyConfig.addFilter("authorSlug", slugify);
+  eleventyConfig.addFilter("authorList", (raw) =>
+    normaliseAuthors(raw).map((name) => ({ name, slug: slugify(name) })),
+  );
+
   eleventyConfig.addCollection("booksByAuthor", (collectionApi) => {
     const books = getBooks(collectionApi);
     const authors = new Map();

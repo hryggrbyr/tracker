@@ -163,7 +163,7 @@
       "shelf": "watchlist",
       "owned": false,
       "rating": null,
-      "watched": "2025–-12-31",
+      "watched": null,
       "poster": "N/A"
     }
   },
@@ -353,7 +353,7 @@
       ],
       "genre": [
         "Sci-Fi & Fantasy",
-        "Action & Adventure",
+        "adventure",
         "Kids",
         "Animation",
         "Comedy",
@@ -497,7 +497,7 @@
         "Louis Ozawa"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Drama"
       ],
       "length": "4 seasons (30 episodes)",
@@ -776,7 +776,7 @@
       "genre": [
         "Sci-Fi & Fantasy",
         "Drama",
-        "Action & Adventure"
+        "adventure"
       ],
       "length": "4 seasons (24 episodes)",
       "shelf": "watched",
@@ -835,7 +835,7 @@
       "genre": [
         "Animation",
         "Comedy",
-        "Action & Adventure",
+        "adventure",
         "Kids",
         "Family"
       ],
@@ -1011,7 +1011,7 @@
       "genre": [
         "Animation",
         "Kids",
-        "Action & Adventure",
+        "adventure",
         "Sci-Fi & Fantasy"
       ],
       "length": "4 seasons (95 episodes)",
@@ -1152,6 +1152,36 @@
     }
   },
   {
+    "filename": "The South Bank Show - The Fantasy World of Clive Barker - Melvyn Bragg  - 1994.md",
+    "path": "src/Series/The South Bank Show - The Fantasy World of Clive Barker - Melvyn Bragg  - 1994.md",
+    "slug": "The South Bank Show - The Fantasy World of Clive Barker - Melvyn Bragg  - 1994",
+    "frontmatter": {
+      "type": "series",
+      "country": "GB",
+      "title": "The Fantasy World of Clive Barker",
+      "year": 1994,
+      "director": "Daniel Wiles",
+      "actors": [
+        "Melvyn Bragg",
+        "Clive Barker",
+        "Peter Atkins",
+        "Doug Bradley",
+        "Nigel Floyd",
+        "Bob Keen",
+        "Oliver Parker"
+      ],
+      "genre": [
+        "Documentary"
+      ],
+      "length": "53m",
+      "shelf": "watched",
+      "owned": true,
+      "rating": 3,
+      "watched": "2026-10-23T00:00:00.000Z",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/CliveBarker.jpg/1280px-CliveBarker.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    }
+  },
+  {
     "filename": "The Sopranos-1999–2007.md",
     "path": "src/Series/The Sopranos-1999–2007.md",
     "slug": "The Sopranos-1999–2007",
@@ -1230,7 +1260,7 @@
       "genre": [
         "Crime",
         "Drama",
-        "Action & Adventure"
+        "adventure"
       ],
       "length": "7 seasons (88 episodes)",
       "shelf": "watched",
@@ -1576,6 +1606,32 @@
     }
   },
   {
+    "filename": "The Net-1998–1999.md",
+    "path": "src/Series/The Net-1998–1999.md",
+    "slug": "The Net-1998–1999",
+    "frontmatter": {
+      "type": "series",
+      "country": "United States, Canada",
+      "title": "The Net",
+      "year": 1998,
+      "director": "N/A",
+      "actors": [
+        "Brooke Langton",
+        "Joseph Bottoms",
+        "Eric Szmanda"
+      ],
+      "genre": [
+        "Thriller"
+      ],
+      "length": 45,
+      "shelf": "watchlist",
+      "owned": true,
+      "rating": null,
+      "watched": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTY0NDJiNzgtMzZmMS00ZmQwLWIxNWMtNzVkNTI4YjcwOWRlXkEyXkFqcGc@._V1_QL75_UX380_CR0, 4, 380, 562_.jpg"
+    }
+  },
+  {
     "filename": "The Mysterious Cities of Gold-1982.md",
     "path": "src/Series/The Mysterious Cities of Gold-1982.md",
     "slug": "The Mysterious Cities of Gold-1982",
@@ -1594,7 +1650,7 @@
       "genre": [
         "Kids",
         "Animation",
-        "Action & Adventure",
+        "adventure",
         "Sci-Fi & Fantasy"
       ],
       "length": "4 seasons (117 episodes)",
@@ -2317,7 +2373,7 @@
         "Peter Renaday"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Animation",
         "Comedy",
         "Kids"
@@ -2591,7 +2647,7 @@
         "Lee Byung-hun"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Mystery",
         "Drama"
       ],
@@ -3099,7 +3155,7 @@
         "Roberto Montesinos"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Drama",
         "Crime"
       ],
@@ -3300,7 +3356,7 @@
         "Rockmond Dunbar"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Crime",
         "Drama"
       ],
@@ -3739,7 +3795,7 @@
       ],
       "genre": [
         "Comedy",
-        "Action & Adventure",
+        "adventure",
         "Drama"
       ],
       "length": "2 seasons (18 episodes)",
@@ -3905,7 +3961,7 @@
       ],
       "genre": [
         "Animation",
-        "Action & Adventure",
+        "adventure",
         "Sci-Fi & Fantasy"
       ],
       "length": "20 seasons (500 episodes)",
@@ -5163,7 +5219,7 @@
       ],
       "genre": [
         "Animation",
-        "Action & Adventure",
+        "adventure",
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
@@ -5388,7 +5444,7 @@
       "genre": [
         "Comedy",
         "Mystery",
-        "Action & Adventure",
+        "adventure",
         "Sci-Fi & Fantasy"
       ],
       "length": "1 season (6 episodes)",
@@ -5419,7 +5475,7 @@
       "genre": [
         "Sci-Fi & Fantasy",
         "Drama",
-        "Action & Adventure"
+        "adventure"
       ],
       "length": "8 seasons (73 episodes)",
       "shelf": "watched",
@@ -5507,7 +5563,7 @@
         "Ryotaro Okiayu"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Animation",
         "Sci-Fi & Fantasy"
       ],
@@ -5779,7 +5835,7 @@
         "Hitomi Nabatame"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Animation",
         "Drama",
         "Mystery",
@@ -5899,7 +5955,7 @@
       ],
       "genre": [
         "Sci-Fi & Fantasy",
-        "Action & Adventure",
+        "adventure",
         "Drama"
       ],
       "length": "2 seasons (25 episodes)",
@@ -6042,7 +6098,7 @@
       ],
       "genre": [
         "Animation",
-        "Action & Adventure"
+        "adventure"
       ],
       "length": "1 season (65 episodes)",
       "shelf": "watched",
@@ -6209,7 +6265,7 @@
         "Terence McGovern"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Animation",
         "Comedy",
         "Family",
@@ -6352,7 +6408,7 @@
       ],
       "length": 50,
       "shelf": "watched",
-      "owned": false,
+      "owned": true,
       "rating": null,
       "watched": "2010-12-31T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BZTI0NDYzYjctNTNhNy00OGJkLTgyYmMtZTVhOTQ1NWMyNDZjXkEyXkFqcGc@._V1_SX300.jpg"
@@ -6710,10 +6766,10 @@
         "Mystery"
       ],
       "length": "N/A",
-      "shelf": "watchlist",
+      "shelf": "watched",
       "owned": true,
-      "rating": null,
-      "watched": null,
+      "rating": 3,
+      "watched": "2026-11-17T00:00:00.000Z",
       "poster": "https://m.media-amazon.com/images/M/MV5BOTU2YzRhNTYtZjQzNC00ZDU4LTkzNjQtNTM1NmQ2NmU2MzllXkEyXkFqcGc@._V1_QL75_UX380_CR0, 4, 380, 562_.jpg"
     }
   },
@@ -6873,7 +6929,7 @@
         "Comedy",
         "Family",
         "Kids",
-        "Action & Adventure"
+        "adventure"
       ],
       "length": "2 seasons (21 episodes)",
       "shelf": "watched",
@@ -6903,7 +6959,7 @@
         "Animation",
         "Comedy",
         "Kids",
-        "Action & Adventure"
+        "adventure"
       ],
       "length": "1 season (52 episodes)",
       "shelf": "watched",

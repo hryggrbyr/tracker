@@ -37,7 +37,7 @@
                 <span class="meta">
                     {% if medium.subtitle %}
                     <br/><em>{{ medium.subtitle }}</em>{% endif %}
-                    <br /><a href="/authors/{{medium.author | slugify}}">{{ medium.author }}</a>
+                    <br /><a href="{{ ('/authors/' ~ (medium.author | slugify) ~ '/') | url }}">{{medium.author}}</a>
                 {% else %}
                 yer da wears crocs
                 {% endif %}

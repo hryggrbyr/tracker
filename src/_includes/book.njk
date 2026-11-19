@@ -2,42 +2,120 @@
 layout: base.njk
 ---
 
-<h1>{{ title }}<span class="meta">{% if subtitle %}<br/><em>{{ subtitle }}</em>{% endif %}<br />{{ author }}</span></h1>
-
-<div class="flow" style="--flow-gap: 2lh;">
-<section>
-{% set medium = {
-    title: title,
-    subtitle: subtitle,
-    author: author,
-    director: director,
-    actors: actors,
-    coverUrl: coverUrl,
-    poster: poster,
-    description: description,
-    published: published,
-    year: year,
-    isbn: isbn,
-    bookshopUrl: bookshopUrl,
-    reviewUrl: reviewUrl,
-    owned: owned,
-    shelf: shelf,
-    start_date: start_date,
-    end_date: end_date,
-    rating: rating,
-    watched: watched,
-    self: true
-} %}
+{# ---------- Setup ---------- #}
+{% set authors = author | authorList %}
+{% set primary = authors | first %}
+{% set authorText %}{% for a in authors %}{{ a.name }}{% if not loop.last %}, {% endif %}{% endfor %}{% endset %}
 {% set slug = slug | slugify %}
-{% set path = "/books/" ~ slug %}
-{% include "card.njk" %}
+{% set shelfKey = shelf or 'to-read' %}
+{% set stars = rating | int %}
+{% set cover = coverUrl | replace('http://', 'https://') if coverUrl else '' %}
+{% set buyUrl = bookshopUrl or 'https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=' ~ (isbn or (title | urlencode ~ '%20' ~ authorText | urlencode)) %}
+{% if end_date %}{% set readYear = end_date | humanReadableDate | getFullYear %}{% endif %}
+
+{# Other books by the first-listed author (excluding this one) #}
+{% set more = [] %}
+{% if primary %}
+  {% for a in collections.booksByAuthor %}
+    {% if a.slug == primary.slug %}
+      {% for b in a.books %}
+        {% if b.slug != page.fileSlug %}{% set _ = more.push(b) %}{% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<div class="book-detail-shell">
+  <div class="book-detail">
+
+    {# Image first in the DOM: it sits above the copy on mobile and, via
+       flex-direction: row-reverse, on the right on wide screens #}
+    {% if cover %}
+    <div class="column book-media border" style="--cover: url('{{ cover }}')">
+      <figure>
+        <img src="{{ cover }}" alt="Cover of {{ title }}" width="400" height="600">
+      </figure>
+    </div>
+    {% endif %}
+
+    <div class="book-copy flow">
+      <h1 class="flow">{{ title }}
+      {% if subtitle and subtitle | trim %}<br><em class="meta">{{ subtitle | trim }}</em>{% endif %}</h1>
+
+      {% if authors | length %}
+      <p class="byline">
+        by
+        {% for a in authors %}
+          <a href="{{ ('/authors/' ~ a.slug ~ '/') | url }}">{{ a.name }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </p>
+      {% endif %}
+
+      <div class="badges">
+        <span class="shelf-indicator shelf-{{ shelfKey }}">{{ shelfKey | replace('-', ' ') | capitalize }}</span>
+        {% if owned %}<span class="owned-indicator border">Owned</span>{% endif %}
+        {% if stars > 0 %}
+        <span class="stars" role="img" aria-label="{{ stars }} out of 5 stars">{% for i in range(0, 5) %}{{ '★' if i < stars else '☆' }}{% endfor %}</span>
+        {% endif %}
+      </div>
+
+      {% if description %}<p class="description">{{ description }}</p>{% endif %}
+
+      {% if published or publisher or page_count or isbn or start_date or end_date %}
+      <dl class="facts">
+        {% if published %}<dt>Published</dt><dd>{{ published | humanReadableDate | getFullYear }}</dd>{% endif %}
+        {% if publisher %}<dt>Publisher</dt><dd>{{ publisher }}</dd>{% endif %}
+        {% if page_count %}<dt>Pages</dt><dd>{{ page_count }}</dd>{% endif %}
+        {% if isbn %}<dt>ISBN</dt><dd>{{ isbn }}</dd>{% endif %}
+        {% if start_date %}<dt>Started</dt><dd>{{ start_date | humanReadableDate }}</dd>{% endif %}
+        {% if end_date %}
+        <dt>Finished</dt>
+        <dd>{{ end_date | humanReadableDate }}<br /><a href="{{ ('/this-year/' ~ readYear ~ '/') | url }}">Everything I finished in {{ readYear }}</a></dd>
+        {% endif %}
+      </dl>
+      {% endif %}
+
+      {% if not owned or reviewUrl %}
+      <div class="conjoined">
+        {% if not owned %}<a href="{{ buyUrl }}">Buy a copy</a>{% endif %}
+        {% if reviewUrl %}<a href="{{ reviewUrl }}">Read my review</a>{% endif %}
+      </div>
+      {% endif %}
+
+      {% if tags and tags | length %}
+      <ul class="tag-list" aria-label="Genres and themes">
+        {% for tag in tags %}<li class="border">{{ tag }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+
+  </div>
+</div>
+
+{% if more | length %}
+<section class="flow book-more" style="--flow-gap: 1lh;">
+  <h2>More by <a href="{{ ('/authors/' ~ primary.slug ~ '/') | url }}">{{ primary.name }}</a></h2>
+  <div class="grid">
+    {% for b in more.slice(0, 3) %}
+      {% set medium = b.frontmatter %}
+      {% set path = '/books/' ~ (b.slug | slugify) %}
+      {% include "shelf-cover.njk" %}
+    {% endfor %}
+  </div>
+  {% if more | length > 3 %}
+  <p><a class="border" href="{{ ('/authors/' ~ primary.slug ~ '/') | url }}">All {{ more | length + 1 }} books by {{ primary.name }}</a></p>
+  {% endif %}
 </section>
-<section>
-<h2>YAML for Review</h2>
-<pre>
+{% endif %}
+
+<section class="flow book-yaml" style="--flow-gap: 1lh;">
+  <details>
+    <summary>YAML for a review</summary>
+    <div class="flow" style="--flow-gap: 1lh;">
+<pre id="review-yaml">
 ---
 public: false
-title: "Book Review — {{ title }} by {{ author }}"
+title: "Book Review — {{ title }} by {{ authorText | trim }}"
 date:
 tags:
   - entertainment
@@ -51,11 +129,102 @@ hero: "/images/book-review.jpg"
 teaserImage: true
 book:
   title: "{{ title }}"
-  author: "{{ author }}"
+  author: "{{ authorText | trim }}"
   publishedDate: "{{ published }}"
   rating: "{{ rating or '0'}}"
-  url: "{{ bookshopUrl or 'https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=' ~ (isbn or (title | urlencode ~ '%20' ~ author | urlencode)) }}"
+  url: "{{ buyUrl }}"
 ---
 </pre>
+      <button type="button" class="border" data-copy>Copy YAML</button>
+    </div>
+  </details>
 </section>
-</div>
+
+<style>
+/* The shell is its own container, so the layout doesn't depend on the page wrapper */
+.book-detail-shell { container-type: inline-size; }
+
+.book-detail {
+  display: flex;
+  flex-direction: column;   /* mobile: cover above copy */
+  gap: 2lh;
+}
+
+/* ---- Cover panel: reuses `.column:has(figure) img` for sizing/centring ---- */
+.book-media {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding: 1lh;
+}
+.book-media::before {            /* blurred cover as the panel's atmosphere */
+  content: "";
+  position: absolute;
+  inset: -2rem;
+  z-index: -1;
+  background: var(--cover) center / cover;
+  filter: blur(28px) brightness(0.55) saturate(1.2);
+}
+.book-media figure { margin: 0; }
+.book-media img {
+  max-height: 70dvh;
+  box-shadow: 0 1rem 2rem var(--shadow), 0 0 0 1px var(--border);
+}
+
+/* ---- Copy ---- */
+.book-copy { min-width: 0; }
+.book-copy h1 { margin: 0; text-align: start; }
+.book-copy .byline { margin: 0; font-size: 1.2em; }
+.book-copy .description { max-width: 65ch; }
+
+.badges { display: flex; flex-wrap: wrap; align-items: center; gap: 1ch; }
+.stars { color: var(--accent); font-size: 1.25em; letter-spacing: 0.1em; }
+
+.facts {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.25lh 2ch;
+  margin: 0;
+}
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+
+.tag-list { display: flex; flex-wrap: wrap; gap: 1ch; list-style: none; padding: 0; margin: 0; }
+.tag-list li { padding: 0.1lh 1ch; font-size: 0.9em; }
+
+.book-copy .conjoined { max-width: 32rem; }
+
+.book-more, .book-yaml { margin-block-start: 3lh; }
+.book-yaml button {
+  background: none;
+  color: var(--accent);
+  font: inherit;
+  padding: 0.25lh 2ch;
+  cursor: pointer;
+}
+
+/* ---- Wide: cover on the right, docked while the copy scrolls ---- */
+@container (min-width: 52rem) {
+  .book-detail { flex-direction: row-reverse; align-items: flex-start; }
+  .book-media {
+    flex: 0 0 40%;
+    position: sticky;
+    top: 1rem;
+  }
+  .book-media img { max-height: calc(100dvh - 2rem - 2lh); }
+  .book-copy { flex: 1 1 0; }
+}
+</style>
+
+<script>
+document.querySelector("[data-copy]")?.addEventListener("click", async (event) => {
+  const button = event.currentTarget;
+  try {
+    await navigator.clipboard.writeText(document.getElementById("review-yaml").textContent.trim());
+    button.textContent = "Copied";
+  } catch {
+    button.textContent = "Copy failed";
+  }
+  setTimeout(() => (button.textContent = "Copy YAML"), 1500);
+});
+</script>

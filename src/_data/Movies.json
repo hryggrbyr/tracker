@@ -595,6 +595,35 @@
     }
   },
   {
+    "filename": "Wicked-Jon M. Chu-2024.md",
+    "path": "src/Movies/Wicked-Jon M. Chu-2024.md",
+    "slug": "Wicked-Jon M. Chu-2024",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United Kingdom, United States, Canada, Japan",
+      "title": "Wicked",
+      "year": 2024,
+      "director": "Jon M. Chu",
+      "actors": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jeff Goldblum"
+      ],
+      "genre": [
+        "Fantasy",
+        "Musical",
+        "Romance"
+      ],
+      "length": 160,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 2,
+      "watched": "2026-11-02T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX380_CR0, 20, 380, 562_.jpg",
+      "review_url": "https://thomasrigby.com/posts/review-wicked-john-m-chu-2024/"
+    }
+  },
+  {
     "filename": "Who Framed Roger Rabbit-Robert Zemeckis-1988.md",
     "path": "src/Movies/Who Framed Roger Rabbit-Robert Zemeckis-1988.md",
     "slug": "Who Framed Roger Rabbit-Robert Zemeckis-1988",
@@ -810,6 +839,34 @@
         "1980-04-25T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/8XgXvVmb5SdxWu4Enxh9ntbyate.jpg"
+    }
+  },
+  {
+    "filename": "When Marnie Was There-Hiromasa Yonebayashi-2015.md",
+    "path": "src/Movies/When Marnie Was There-Hiromasa Yonebayashi-2015.md",
+    "slug": "When Marnie Was There-Hiromasa Yonebayashi-2015",
+    "frontmatter": {
+      "type": "movie",
+      "country": "Japan",
+      "title": "When Marnie Was There",
+      "year": 2015,
+      "director": "Hiromasa Yonebayashi",
+      "actors": [
+        "Sara Takatsuki",
+        "Kasumi Arimura",
+        "Nanako Matsushima"
+      ],
+      "genre": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "length": 103,
+      "shelf": "watched",
+      "owned": true,
+      "rating": 4,
+      "watched": "2026-11-10T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjc4MDI2ZGUtOGZkNS00ZDFiLTllYTYtNGRmZDgxN2FiMjUzXkEyXkFqcGc@._V1_QL75_UY562_CR3, 0, 380, 562_.jpg"
     }
   },
   {
@@ -3233,7 +3290,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1939-08-25T00:00:00.000Z"
+        "1985-08-25T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg"
     }
@@ -4701,7 +4758,8 @@
       "owned": true,
       "rating": null,
       "watched": [
-        "1987-09-25T00:00:00.000Z"
+        "1987-09-25T00:00:00.000Z",
+        "2026-10-31T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg"
     }
@@ -5515,7 +5573,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1941-10-18T00:00:00.000Z"
+        "1993-10-18T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg"
     }
@@ -11497,9 +11555,11 @@
       "length": "1h 36m",
       "shelf": "watched",
       "owned": true,
-      "rating": 3,
+      "rating": 4,
       "watched": [
-        "2025-12-05T00:00:00.000Z"
+        "2013-08-28T00:00:00.000Z",
+        "2025-12-05T00:00:00.000Z",
+        "2026-10-23T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg"
     }
@@ -12229,7 +12289,7 @@
     "slug": "Russell Brand- In Plain Sight- Dispatches-Unknown-Unknown",
     "frontmatter": {
       "type": "movie",
-      "country": "UKp",
+      "country": "UK",
       "title": "Russell Brand: In Plain Sight: Dispatches",
       "year": "2023-09-16T00:00:00.000Z",
       "director": "Alice MacShane, Imogen Wynell-Mayow",
@@ -12831,7 +12891,7 @@
         "Adventure",
         "Animation",
         "fantasy",
-        "TalkingAnimals"
+        "talking-animals"
       ],
       "length": "3 seasons (39 episodes)",
       "shelf": "watchlist",
@@ -14036,7 +14096,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1940-02-23T00:00:00.000Z"
+        "1984-02-23T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg"
     }
@@ -14382,7 +14442,7 @@
         "Aryan Simhadri"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Sci-Fi & Fantasy",
         "Drama",
         "Family"
@@ -15217,7 +15277,7 @@
         "family",
         "adventure",
         "sea",
-        "TalkingAnimals"
+        "talking-animals"
       ],
       "length": 72,
       "shelf": "watched",
@@ -15249,7 +15309,7 @@
         "family",
         "adventure",
         "sea",
-        "TalkingAnimals"
+        "talking-animals"
       ],
       "length": 72,
       "shelf": "watched",
@@ -15281,7 +15341,7 @@
         "family",
         "adventure",
         "sea",
-        "TalkingAnimals",
+        "talking-animals",
         "musical"
       ],
       "length": 47,
@@ -15535,7 +15595,7 @@
         "Adventure",
         "sci-fi",
         "fantasy",
-        "lgbt"
+        "queer"
       ],
       "length": 101,
       "shelf": "watchlist",
@@ -15601,10 +15661,11 @@
       ],
       "length": "2h 1m",
       "shelf": "watched",
-      "owned": false,
-      "rating": null,
+      "owned": true,
+      "rating": 5,
       "watched": [
-        "1990-02-16T00:00:00.000Z"
+        "1990-02-16T00:00:00.000Z",
+        "2026-10-30T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/1ChluYH0BEvJo3gtYoFHnMZI660.jpg"
     }
@@ -16943,7 +17004,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1927-08-25T00:00:00.000Z"
+        "1998-08-25T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/vZIJxGnjcswPCAa52jhbl01FQkV.jpg"
     }
@@ -19614,7 +19675,13 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1947-01-07T00:00:00.000Z"
+        "1990-12-25T00:00:00.000Z",
+        "1991-12-25T00:00:00.000Z",
+        "1992-12-25T00:00:00.000Z",
+        "1993-12-25T00:00:00.000Z",
+        "1994-12-25T00:00:00.000Z",
+        "1995-12-25T00:00:00.000Z",
+        "1996-12-25T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg"
     }
@@ -21602,7 +21669,7 @@
         "Romance",
         "Comedy",
         "Christmas",
-        "lgbt"
+        "queer"
       ],
       "length": "1h 42m",
       "shelf": "watched",
@@ -22205,7 +22272,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1939-12-15T00:00:00.000Z"
+        "1989-12-15T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg"
     }
@@ -26647,7 +26714,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1941-05-06T00:00:00.000Z"
+        "1997-05-06T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg"
     }
@@ -30120,7 +30187,7 @@
         "Ken Leung"
       ],
       "genre": [
-        "Action & Adventure",
+        "adventure",
         "Comedy",
         "Drama",
         "Family",
@@ -30377,7 +30444,10 @@
       "owned": true,
       "rating": null,
       "watched": [
-        "1944-09-01T00:00:00.000Z"
+        "1993-09-01T00:00:00.000Z",
+        "2002-09-01T00:00:00.000Z",
+        "2009-09-01T00:00:00.000Z",
+        "2011-09-01T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg"
     }
