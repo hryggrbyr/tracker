@@ -21,7 +21,7 @@ recommended_by:
   name:
   url:
 created: 2025-02-04
-reviewUrl: /posts/book-review-ascension-nicholas-binge
+reviewUrl: https://thomasrigby.com/posts/book-review-ascension-nicholas-binge
 bookshopUrl:
 calibre_uuid: af945d86-532a-4606-84d5-222cef75c7f7
 ---
