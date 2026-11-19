@@ -19,7 +19,7 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1951-09-28
+  - 1988-09-28
 poster: https://image.tmdb.org/t/p/w500/eslDNzf0LF1m9GsgUXlmyfTcC6Y.jpg
 ---
 
