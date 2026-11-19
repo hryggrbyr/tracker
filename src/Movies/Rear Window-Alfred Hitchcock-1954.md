@@ -18,7 +18,7 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1954-09-01
+  - 1994-09-01
 poster: https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg
 ---
 
