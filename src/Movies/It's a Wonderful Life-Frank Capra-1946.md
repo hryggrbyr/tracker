@@ -20,7 +20,13 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1947-01-07
+  - 1990-12-25
+  - 1991-12-25
+  - 1992-12-25
+  - 1993-12-25
+  - 1994-12-25
+  - 1995-12-25
+  - 1996-12-25
 poster: https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg
 ---
 

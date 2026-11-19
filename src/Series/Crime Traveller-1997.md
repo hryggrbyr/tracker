@@ -14,7 +14,7 @@ genre:
   - Mystery
 length: 50
 shelf: watched
-owned: false
+owned: true
 rating:
 watched: 2010-12-31
 poster: https://m.media-amazon.com/images/M/MV5BZTI0NDYzYjctNTNhNy00OGJkLTgyYmMtZTVhOTQ1NWMyNDZjXkEyXkFqcGc@._V1_SX300.jpg
