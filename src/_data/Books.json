@@ -210,7 +210,7 @@
       "title": "Yellowface",
       "subtitle": " ",
       "author": [
-        "R.F. Kuang"
+        "R. F. Kuang"
       ],
       "publisher": "Harper Collins",
       "published": "2023-05-16T00:00:00.000Z",
@@ -228,7 +228,7 @@
         "url": null
       },
       "created": "2025-01-21T00:00:00.000Z",
-      "reviewUrl": "/posts/book-review-yellowface-rf-kuang",
+      "reviewUrl": "https://thomasrigby.com/posts/book-review-yellowface-rf-kuang",
       "bookshopUrl": null,
       "calibre_uuid": "437d2ec2-3fe1-4f55-a620-3464e35904fc"
     }
@@ -858,23 +858,27 @@
     "path": "src/Books/Where Eagles Dare - Alistair Mac Lean.md",
     "slug": "Where Eagles Dare - Alistair Mac Lean",
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "thriller",
+        "adventure",
+        "war"
+      ],
       "title": "Where Eagles Dare",
       "subtitle": "",
       "author": [
-        "Alistair Mac Lean"
+        "Alistair MacLean"
       ],
       "publisher": null,
       "published": 1965,
       "page_count": 255,
       "isbn": "OCLC:934036114",
       "description": "",
-      "coverUrl": null,
+      "coverUrl": "https://ia601904.us.archive.org/view_archive.php?archive=/22/items/olcovers29/olcovers29-L.zip&file=290501-L.jpg",
       "shelf": "read",
       "owned": false,
       "start_date": null,
       "end_date": "1993-02-01T00:00:00.000Z",
-      "rating": 0,
+      "rating": 3,
       "recommended_by": {
         "name": null,
         "url": null
@@ -4290,7 +4294,7 @@
         "url": null
       },
       "created": "2025-01-26T00:00:00.000Z",
-      "reviewUrl": "/posts/book-review-the-snow-song-sally-gardner",
+      "reviewUrl": "https://thomasrigby.com/posts/book-review-the-snow-song-sally-gardner",
       "bookshopUrl": null,
       "calibre_uuid": "6de2761b-32cf-4b48-9e2d-3d06c9d152bb"
     }
@@ -7761,8 +7765,6 @@
     "frontmatter": {
       "tags": [
         "thriller",
-        "fiction - espionage",
-        "thriller",
         "espionage",
         "intrigue"
       ],
@@ -7776,7 +7778,7 @@
       "page_count": null,
       "isbn": "9780061008160",
       "description": "SUMMARY:\nWhat would happen if the Kremlin could bring off a plot to put its operatives in controlling positions in Her Majesty's government? Subjects, with the highest security clearance, who feed top level secrets directly to the East? It would mean, for England, almost certain destruction! This gripping novel of international intrigue and espionage is not only a fascinating adventure but a superb close-up of the inner workings of a shadowy and fantastic profession. And because the Russians enjoyed such success in real life penetrating British security, Len Deighton's fiction mirrors fact. \"An utterly thrilling headlong flight through terror, chaos, suspense and shock...You'll not forget it.\" (The Los Angeles Herald Examiner) \"A spy thriller which outbonds Bond.\" (The London Daily Express)",
-      "coverUrl": "https://covers.openlibrary.org/b/olid/OL18146157M-M.jpg",
+      "coverUrl": "https://m.media-amazon.com/images/M/MV5BOWNhNzgxOTMtNjQ2ZC00NTYzLWEwYTEtODUzNDU5NzkyMzM3XkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_.jpg",
       "shelf": "read",
       "owned": true,
       "start_date": "1993-07-26T00:00:00.000Z",
@@ -8351,38 +8353,6 @@
       "bookshopUrl": null,
       "calibre_uuid": "72154513-1d2e-48a2-a7d4-824839f67872",
       "series": "Department Q"
-    }
-  },
-  {
-    "filename": "The Guns of Navarone - Alastair MacLean Alistair MacLean.md",
-    "path": "src/Books/The Guns of Navarone - Alastair MacLean Alistair MacLean.md",
-    "slug": "The Guns of Navarone - Alastair MacLean Alistair MacLean",
-    "frontmatter": {
-      "tags": [],
-      "title": "The Guns of Navarone",
-      "subtitle": "",
-      "author": [
-        "Alastair MacLean",
-        "Alistair MacLean"
-      ],
-      "publisher": "Fawcett",
-      "published": "1976-02",
-      "page_count": 0,
-      "isbn": 9780449135372,
-      "description": "",
-      "coverUrl": null,
-      "shelf": "read",
-      "owned": false,
-      "start_date": null,
-      "end_date": "1993-01-20T00:00:00.000Z",
-      "rating": 0,
-      "recommended_by": {
-        "name": null,
-        "url": null
-      },
-      "reviewUrl": "",
-      "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780449135372",
-      "created": "2026-01-10T12:33:29.000Z"
     }
   },
   {
@@ -22120,7 +22090,7 @@
         "url": null
       },
       "created": "2025-03-18T00:00:00.000Z",
-      "reviewUrl": "/posts/book-review-dark-as-night-lilja-sigurdardottir",
+      "reviewUrl": "https://thomasrigby.com/posts/book-review-dark-as-night-lilja-sigurdardottir",
       "bookshopUrl": null,
       "calibre_uuid": "1f8a8f23-fa26-444b-8305-43fbefbd2590"
     }
@@ -24550,7 +24520,7 @@
         "url": null
       },
       "created": "2025-02-04T00:00:00.000Z",
-      "reviewUrl": "/posts/book-review-ascension-nicholas-binge",
+      "reviewUrl": "https://thomasrigby.com/posts/book-review-ascension-nicholas-binge",
       "bookshopUrl": null,
       "calibre_uuid": "af945d86-532a-4606-84d5-222cef75c7f7"
     }

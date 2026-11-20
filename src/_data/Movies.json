@@ -1719,7 +1719,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1958-05-28T00:00:00.000Z"
+        "1996-05-28T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg"
     }
@@ -7841,7 +7841,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1951-09-28T00:00:00.000Z"
+        "1988-09-28T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/eslDNzf0LF1m9GsgUXlmyfTcC6Y.jpg"
     }
@@ -10411,17 +10411,17 @@
         "Peter Ustinov"
       ],
       "genre": [
-        "History",
-        "War",
-        "Drama",
-        "Adventure"
+        "history",
+        "war",
+        "drama",
+        "adventure"
       ],
       "length": "3h 17m",
       "shelf": "watched",
       "owned": false,
       "rating": null,
       "watched": [
-        "1960-10-13T00:00:00.000Z"
+        "1990-10-13T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg"
     }
@@ -13080,7 +13080,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1954-09-01T00:00:00.000Z"
+        "1994-09-01T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg"
     }
@@ -13293,7 +13293,9 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1960-06-22T00:00:00.000Z"
+        "1995-06-22T00:00:00.000Z",
+        "1999-06-22T00:00:00.000Z",
+        "2004-06-22T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg"
     }
@@ -15474,7 +15476,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1959-07-17T00:00:00.000Z"
+        "1996-07-17T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg"
     }
@@ -21365,7 +21367,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1950-12-21T00:00:00.000Z"
+        "1991-12-21T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/dgd82hYmpiXDM1G867HqNaWe8wj.jpg"
     }
@@ -28311,7 +28313,7 @@
       "owned": false,
       "rating": null,
       "watched": [
-        "1961-10-06T00:00:00.000Z"
+        "1992-10-06T00:00:00.000Z"
       ],
       "poster": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg"
     }
