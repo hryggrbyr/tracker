@@ -1,7 +1,6 @@
 ---
 layout: base.njk
 ---
-
 {# ---------- Setup ---------- #}
 {% set authors = author | authorList %}
 {% set primary = authors | first %}
@@ -25,22 +24,21 @@ layout: base.njk
   {% endfor %}
 {% endif %}
 
-<div class="book-detail-shell">
-  <div class="book-detail">
+<div class="detail-shell">
+  <div class="detail">
 
     {# Image first in the DOM: it sits above the copy on mobile and, via
        flex-direction: row-reverse, on the right on wide screens #}
     {% if cover %}
-    <div class="column book-media border" style="--cover: url('{{ cover }}')">
+    <div class="column detail-media border" style="--cover: url('{{ cover }}')">
       <figure>
         <img src="{{ cover }}" alt="Cover of {{ title }}" width="400" height="600">
       </figure>
     </div>
     {% endif %}
 
-    <div class="book-copy flow">
-      <h1 class="flow">{{ title }}
-      {% if subtitle and subtitle | trim %}<br><em class="meta">{{ subtitle | trim }}</em>{% endif %}</h1>
+    <div class="detail-copy flow" style="--flow-gap: 1.5lh;">
+      <h1>{{ title }}{% if subtitle and subtitle | trim %}<span class="meta"><br /><em>{{ subtitle | trim }}</em></span>{% endif %}</h1>
 
       {% if authors | length %}
       <p class="byline">
@@ -93,7 +91,7 @@ layout: base.njk
 </div>
 
 {% if more | length %}
-<section class="flow book-more" style="--flow-gap: 1lh;">
+<section class="flow detail-more" style="--flow-gap: 1lh;">
   <h2>More by <a href="{{ ('/authors/' ~ primary.slug ~ '/') | url }}">{{ primary.name }}</a></h2>
   <div class="grid">
     {% for b in more.slice(0, 3) %}
@@ -108,7 +106,7 @@ layout: base.njk
 </section>
 {% endif %}
 
-<section class="flow book-yaml" style="--flow-gap: 1lh;">
+<section class="flow detail-yaml" style="--flow-gap: 1lh;">
   <details>
     <summary>YAML for a review</summary>
     <div class="flow" style="--flow-gap: 1lh;">
@@ -140,91 +138,4 @@ book:
   </details>
 </section>
 
-<style>
-/* The shell is its own container, so the layout doesn't depend on the page wrapper */
-.book-detail-shell { container-type: inline-size; }
-
-.book-detail {
-  display: flex;
-  flex-direction: column;   /* mobile: cover above copy */
-  gap: 2lh;
-}
-
-/* ---- Cover panel: reuses `.column:has(figure) img` for sizing/centring ---- */
-.book-media {
-  position: relative;
-  isolation: isolate;
-  overflow: hidden;
-  padding: 1lh;
-}
-.book-media::before {            /* blurred cover as the panel's atmosphere */
-  content: "";
-  position: absolute;
-  inset: -2rem;
-  z-index: -1;
-  background: var(--cover) center / cover;
-  filter: blur(28px) brightness(0.55) saturate(1.2);
-}
-.book-media figure { margin: 0; }
-.book-media img {
-  max-height: 70dvh;
-  box-shadow: 0 1rem 2rem var(--shadow), 0 0 0 1px var(--border);
-}
-
-/* ---- Copy ---- */
-.book-copy { min-width: 0; }
-.book-copy h1 { margin: 0; text-align: start; }
-.book-copy .byline { margin: 0; font-size: 1.2em; }
-.book-copy .description { max-width: 65ch; }
-
-.badges { display: flex; flex-wrap: wrap; align-items: center; gap: 1ch; }
-.stars { color: var(--accent); font-size: 1.25em; letter-spacing: 0.1em; }
-
-.facts {
-  display: grid;
-  grid-template-columns: max-content 1fr;
-  gap: 0.25lh 2ch;
-  margin: 0;
-}
-.facts dt { color: var(--muted); }
-.facts dd { margin: 0; }
-
-.tag-list { display: flex; flex-wrap: wrap; gap: 1ch; list-style: none; padding: 0; margin: 0; }
-.tag-list li { padding: 0.1lh 1ch; font-size: 0.9em; }
-
-.book-copy .conjoined { max-width: 32rem; }
-
-.book-more, .book-yaml { margin-block-start: 3lh; }
-.book-yaml button {
-  background: none;
-  color: var(--accent);
-  font: inherit;
-  padding: 0.25lh 2ch;
-  cursor: pointer;
-}
-
-/* ---- Wide: cover on the right, docked while the copy scrolls ---- */
-@container (min-width: 52rem) {
-  .book-detail { flex-direction: row-reverse; align-items: flex-start; }
-  .book-media {
-    flex: 0 0 40%;
-    position: sticky;
-    top: 1rem;
-  }
-  .book-media img { max-height: calc(100dvh - 2rem - 2lh); }
-  .book-copy { flex: 1 1 0; }
-}
-</style>
-
-<script>
-document.querySelector("[data-copy]")?.addEventListener("click", async (event) => {
-  const button = event.currentTarget;
-  try {
-    await navigator.clipboard.writeText(document.getElementById("review-yaml").textContent.trim());
-    button.textContent = "Copied";
-  } catch {
-    button.textContent = "Copy failed";
-  }
-  setTimeout(() => (button.textContent = "Copy YAML"), 1500);
-});
-</script>
+{% include "detail-assets.njk" %}

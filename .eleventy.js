@@ -1,5 +1,15 @@
 const slugify = require("slugify");
 
+const pathPrefix = process.env.NODE_ENV === "production" ? "/tracker/" : "/";
+
+// Same slugging as the permalink computed below, so links always match output paths
+const slugifyPath = (p) =>
+  p
+    .split("/")
+    .filter(Boolean)
+    .map((part) => slugify(part, { lower: true, strict: true }))
+    .join("/");
+
 /**
  * Human-readable Date
  * Returns a date as a string value appropriate to the host environment's current locale.
@@ -174,13 +184,11 @@ module.exports = function (eleventyConfig) {
       const wikiLinkRegex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
 
       return content.replace(wikiLinkRegex, (match, target, displayText) => {
-        // Replace ../ with /tracker/
-        const normalizedPath = target.replace(/^\.\.\//, "/tracker/");
+        // "../Books/foo" -> "Books/foo" (relative to src root), minus any extension
+        const normalizedPath = target.replace(/^\.\.\//, "").replace(/\.[^./]+$/, "");
 
-        // Slugify the entire filepath using 11ty's slugify
-        const slug = eleventyConfig.getFilter("slugify")(normalizedPath);
+        const href = `${pathPrefix}${slugifyPath(normalizedPath)}/`;
 
-        // Use display text if provided, otherwise use the target filename
         const linkText =
           displayText ||
           target
@@ -188,8 +196,7 @@ module.exports = function (eleventyConfig) {
             .pop()
             .replace(/\.[^.]+$/, "");
 
-        // Return as HTML link
-        return `${linkText}`;
+        return `<a href="${href}">${linkText}</a>`;
       });
     }
     return content;
@@ -236,7 +243,7 @@ module.exports = function (eleventyConfig) {
     markdownTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
-    pathPrefix: process.env.NODE_ENV === "production" ? "/tracker/" : "/",
+    pathPrefix,
     dir: {
       input: "src",
       output: "public",

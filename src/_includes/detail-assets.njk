@@ -23,16 +23,17 @@
   background: var(--cover) center / cover;
   filter: blur(28px) brightness(0.55) saturate(1.2);
 }
-.detail-media figure { margin: 0; }
 .detail-media img {
+  width: 100%;
+  height: auto;
   max-height: 70dvh;
   box-shadow: 0 1rem 2rem var(--shadow), 0 0 0 1px var(--border);
 }
 
 /* ---- Copy ---- */
 .detail-copy { min-width: 0; }
-.detail-copy h1 { margin: 0; text-align: start; }
-.detail-copy .byline { margin: 0; font-size: 1.2em; }
+.detail-copy h1 { text-align: start; }
+.detail-copy .byline { font-size: 1.2em; }
 .detail-copy .description { max-width: 65ch; }
 
 .badges { display: flex; flex-wrap: wrap; align-items: center; gap: 1ch; }
