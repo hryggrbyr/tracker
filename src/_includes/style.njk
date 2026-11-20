@@ -155,11 +155,18 @@ nav {
 nav > div {
   flex-grow: 1;
 }
-.conjoined {
+.button-group {
   display: flex;
   flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 2ch;
+}
+.button-group > * {
+  flex-grow: 1;
+}
+.conjoined {
   gap: 0;
-  justify-content: stretch;
 }
 .conjoined :is(a, button) {
   appearance: none;
