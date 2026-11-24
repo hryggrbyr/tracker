@@ -8,6 +8,7 @@
     <div class="grid">
     {% for book in Books | reverse %}
         {% if book.frontmatter.shelf == 'to-read' and not book.frontmatter.owned %}
+          {% set medium = book %}
           {% include "shelf-cover.njk" %}
         {% endif %}
     {% endfor %}
