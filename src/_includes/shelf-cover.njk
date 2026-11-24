@@ -45,7 +45,7 @@
             </h4>
       <div class="button-group">
 
-        {% if not medium.owned %}<a class="border" href="{{ buyUrl }}">Buy a copy</a>{% endif %}
+        {% if not medium.owned and medium.type == 'book' %}<a class="border" href="{{ buyUrl }}">Buy a copy</a>{% endif %}
         {% if medium.reviewUrl %}<a class="border" href="{{ reviewUrl }}">Read my review</a>{% endif %}
         <a class="border" href="{{ path | url }}">View details</a>
       </div>

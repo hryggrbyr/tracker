@@ -178,6 +178,10 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addPassthroughCopy("./src/css");
   eleventyConfig.addWatchTarget("./src/css/");
+  eleventyConfig.addPassthroughCopy("./src/fonts/");
+  eleventyConfig.addWatchTarget("./src/fonts/");
+  eleventyConfig.addPassthroughCopy("./src/js/");
+  eleventyConfig.addWatchTarget("./src/js/");
 
   eleventyConfig.addTransform("fixWikilinks", function (content, outputPath) {
     if (outputPath && outputPath.endsWith(".html")) {

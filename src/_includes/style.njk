@@ -1,49 +1,44 @@
 <style>
+@font-face {
+  font-family: "Fraunces";
+  src: url("/fonts/Fraunces.woff2") format("woff2");
+  font-weight: 100 800;  /* match the font's actual weight axis range */
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Paper Mono";
+  src: url("/fonts/PaperMono.woff2") format("woff2");
+  font-weight: 100 800;  /* match the font's actual weight axis range */
+  font-style: normal;
+  font-display: swap;
+}
 :root {
-  /* Default light theme (Virgin Suicides) */
-  --bg: #f4ecdc;
-  --fg: #5b4a4e;
-  --muted: #9a8a86;
-  --accent: #c06f72;
-  --accent-bg: #7f9264;
-  --border: #e6cfc4;
-  --code-bg: #f0e8d8;
-  --card-bg: #fdf8f2;
-  --shadow: rgba(0, 0, 0, 0.05);
+  /* Enemy theme */
+  --bg: #1a1608;
+  --fg: #cfc59f;
+  --muted: #93a3a6;
+  --accent: #b6a746;
+  --accent-bg: #6f9078;
+  --border: #4a4219;
+  --code-bg: #251f0b;
+  --card-bg: #2d2711;
+  --shadow: rgba(0, 0, 0, 0.3);
   --radius: 0;
-  --font-family-main: "Inter", sans-serif, system-ui;
-  --font-family-accent: "Fraunces", serif;
+
+  --chart-books: #93a3a6;
+  --chart-films: #b6a746;
+  --chart-telly: #6f9078;
+  --chart-christmas: #c4675f;
+
+  --font-family-main: "Paper Mono", cursive, sans-serif, system-ui;
+  --font-family-accent: "Fraunces", monospace, serif;
   --font-family: var(--font-family-accent);
   --bar-color: var(--accent);
-  --chart-books: #5f7f86;
-  --chart-films: #b8893f;
-  --chart-telly: #7f9264;
-  --chart-christmas: #a63d40;
 
-  color-scheme: light;
+  color-scheme: dark;
   font-family: var(--font-family-main);
   line-height: 1.6;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    /* Enemy theme */
-    --bg: #1a1608;
-    --fg: #cfc59f;
-    --muted: #93a3a6;
-    --accent: #b6a746;
-    --accent-bg: #6f9078;
-    --border: #4a4219;
-    --code-bg: #251f0b;
-    --card-bg: #2d2711;
-    --shadow: rgba(0, 0, 0, 0.3);
-    --radius: 0;
-
-    --chart-books: #93a3a6;
-    --chart-films: #b6a746;
-    --chart-telly: #6f9078;
-    --chart-christmas: #c4675f;
-  }
 }
 
 /* Reset all border-radius */

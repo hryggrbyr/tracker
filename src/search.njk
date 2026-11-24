@@ -1,0 +1,20 @@
+---
+title: "Search"
+---
+
+<h1>{{ title | safe }}</h1>
+
+<label for="search" class="flow">
+  <p class="label">Search books, films and telly by title, creator, cast, genre or shelf</p>
+  <input
+    class="gutters spacing radius border shadow"
+    style="--spacing: 0.5em; --width-gutter: 2ch;"
+    autocomplete="off"
+    type="search"
+    id="search"
+    placeholder="Type / to search"
+    data-index="{{ '/search.json' | url }}"
+  />
+</label>
+<ul id="results" aria-live="polite"></ul>
+<script defer src="{{ '/js/search.js' | url }}"></script>

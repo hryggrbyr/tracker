@@ -9,7 +9,7 @@
     "dev": "npm run generate-data && npm run start",
     "generate-data": "node build.js",
     "dev:watch": "concurrently \"npm run generate-data:watch\" \"npm run start\"",
-    "generate-data:watch": "nodemon -e md -x \"node build.js\" --watch src/"
+    "generate-data:watch": "nodemon -e md -x \"NODE_ENV=development node build.js\" --watch src/"
   },
   "keywords": [],
   "author": "",
