@@ -8,13 +8,7 @@
     <div class="grid">
     {% for book in Books | reverse %}
         {% if book.frontmatter.shelf == 'to-read' and not book.frontmatter.owned %}
-        {% set isOwned = item.frontmatter.owned == true %}
-        {% if item.frontmatter.shelf == shelf.shelf and (not shelf.ownedFilter or (shelf.ownedFilter == "owned") == isOwned) %}
-            {% set medium = book.frontmatter %}
-            {% set slug = book.slug | slugify %}
-            {% set path = "/" ~ slug %}
-            {% include "shelf-cover.njk" %}
-        {% endif %}
+          {% include "shelf-cover.njk" %}
         {% endif %}
     {% endfor %}
     </div>
