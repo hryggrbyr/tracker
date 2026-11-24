@@ -353,11 +353,14 @@ display: flex; flex-direction: row; gap: 1ch;
   padding-block-end: 4rlh;
 }
 .shelf-cover .content {
+  --flow-gap: 1lh;
   display: flex;
   flex-direction: column;
   width: 100%;
   height: fit-content;
   padding: 2rem;
+  padding: 1rlh;
+  text-align: center;
   margin-block-start: auto;
   background: rgba(0,0,0,0.125);
   backdrop-filter: blur(4px);
@@ -365,7 +368,6 @@ display: flex; flex-direction: row; gap: 1ch;
 .shelf-cover h4 {
   font-size: 2rem;
   line-height: 1.1;
-  text-align: center;
 }
 .shelf-cover h4 .meta {
   font-family: var(--font-family-main);

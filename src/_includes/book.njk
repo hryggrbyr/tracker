@@ -74,9 +74,9 @@ layout: base.njk
       {% endif %}
 
       {% if not owned or reviewUrl %}
-      <div class="conjoined">
-        {% if not owned %}<a href="{{ buyUrl }}">Buy a copy</a>{% endif %}
-        {% if reviewUrl %}<a href="{{ reviewUrl }}">Read my review</a>{% endif %}
+      <div class="button-group">
+        {% if not owned %}<a class="border" href="{{ buyUrl }}">Buy a copy</a>{% endif %}
+        {% if reviewUrl %}<a class="border" href="{{ reviewUrl }}">Read my review</a>{% endif %}
       </div>
       {% endif %}
 

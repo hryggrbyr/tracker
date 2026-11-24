@@ -232,6 +232,13 @@ module.exports = function (eleventyConfig) {
     return Object.entries(byYear).sort((a, b) => b[0] - a[0]); // Sort by year descending
     //.slice(0, 10);
   };
+  eleventyConfig.addCollection("media", (collectionApi) =>
+    collectionApi.getFilteredByGlob([
+      "src/Books/**/*.md",
+      "src/Movies/**/*.md",
+      "src/Series/**/*.md",
+    ]),
+  );
   eleventyConfig.addCollection("mediaByYear", (collectionApi) => {
     const items = collectionApi.getFilteredByGlob([
       "src/Books/**/*.md",

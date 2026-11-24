@@ -1,36 +1,34 @@
 ---
 permalink: '/search.json'
+eleventyComputed:
+  permalink: '/search.json'
 layout: false
 eleventyExcludeFromCollections: true
 ---
-{#- Indexes anything with a title that is a film/TV entry (has `type`) or a book (lives in src/Books or under /books/). -#}
+{#- Built from the `media` collection (src/Books, src/Movies, src/Series). -#}
 {%- set entries = [] -%}
-{%- for item in collections.all -%}
+{%- for item in collections.media -%}
   {%- if item.url and item.data.title -%}
-    {%- set fromBooksDir = item.inputPath and item.inputPath.includes("/Books/") -%}
-    {%- set isBook = fromBooksDir or (item.url.startsWith("/books/") and item.url != "/books/") -%}
-    {%- if item.data.type or isBook -%}
-      {%- set itemUrl = item.url | url -%}
-      {%- set itemType = "book" if isBook else item.data.type -%}
-      {%- set _ = entries.push({
-        "title": item.data.title,
-        "subtitle": item.data.subtitle,
-        "url": itemUrl,
-        "type": itemType,
-        "year": item.data.year,
-        "published": item.data.published,
-        "director": item.data.director,
-        "author": item.data.author,
-        "series": item.data.series,
-        "publisher": item.data.publisher,
-        "actors": item.data.actors,
-        "genre": item.data.genre,
-        "tags": item.data.tags,
-        "recommended_by": item.data.recommended_by,
-        "shelf": item.data.shelf,
-        "owned": item.data.owned
-      }) -%}
-    {%- endif -%}
+    {%- set itemUrl = item.url | url -%}
+    {%- set itemType = "book" if item.inputPath.includes("/Books/") else (item.data.type or ("series" if item.inputPath.includes("/Series/") else "movie")) -%}
+    {%- set _ = entries.push({
+      "title": item.data.title,
+      "subtitle": item.data.subtitle,
+      "url": itemUrl,
+      "type": itemType,
+      "year": item.data.year,
+      "published": item.data.published,
+      "director": item.data.director,
+      "author": item.data.author,
+      "series": item.data.series,
+      "publisher": item.data.publisher,
+      "actors": item.data.actors,
+      "genre": item.data.genre,
+      "tags": item.data.tags,
+      "recommended_by": item.data.recommended_by,
+      "shelf": item.data.shelf,
+      "owned": item.data.owned
+    }) -%}
   {%- endif -%}
 {%- endfor -%}
 {{ entries | dump | safe }}

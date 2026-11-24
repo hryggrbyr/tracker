@@ -1,8 +1,6 @@
 <article class="shelf-cover border">
-
     {% set coverUrl = medium.coverUrl or medium.poster %}
 
-    {# New: Insert the lazy-loading <img> tag #}
     {% if coverUrl %}
     <img
         class="shelf-cover-image"
@@ -12,43 +10,40 @@
     >
     {% endif %}
 
-    {# New: Add a content overlay wrapper to handle the linear gradient #}
     <div class="shelf-cover-overlay">
         <div class="top-meta">
             <div class="column-first" style="padding: 1ch;">
                 {% if medium.rating %}{{ medium.rating | asStars }}{% endif %}
             </div>
             <div class="column-last" style="padding: 1ch; margin-inline-start: auto;">
-                {% if medium.owned %}
-                    <span class="owned-indicator border">Owned</span>
-                {% endif %}
-                <span class="shelf-indicator shelf-{{medium.shelf}} border">{{ medium.shelf }}</span>
+              {% if medium.owned -%}
+                <span class="owned-indicator border">Owned</span>
+              {%- endif %}
+              <span class="shelf-indicator shelf-{{medium.shelf}} border">
+                {{ medium.shelf }}
+              </span>
             </div>
         </div>
-        <div class="content">
-            <h4>
-                {{ medium.title }}
-                <span class="meta">
-                {% if medium.type == 'movie' %}
-                <br />({{ medium.director }}, {{ medium.year }})</span>
-                {% elif medium.type == 'series' %}
-                <br />({{ medium.director }}, {{ medium.year }})</span>
-                {% elif medium.author %}
-                <span class="meta">
-                    {% if medium.subtitle %}
-                    <br/><em>{{ medium.subtitle }}</em>{% endif %}
-                    <br /><a href="{{ ('/authors/' ~ (medium.author | slugify) ~ '/') | url }}">{{medium.author}}</a>
-                {% else %}
-                yer da wears crocs
-                {% endif %}
-                </span>
-            </h4>
-      <div class="button-group">
-
-        {% if not medium.owned and medium.type == 'book' %}<a class="border" href="{{ buyUrl }}">Buy a copy</a>{% endif %}
-        {% if medium.reviewUrl %}<a class="border" href="{{ reviewUrl }}">Read my review</a>{% endif %}
-        <a class="border" href="{{ path | url }}">View details</a>
-      </div>
+        <div class="content flow">
+          <h4>{{ medium.title }}</h4>
+          <p class="meta">
+            {% if medium.type == 'movie' %}
+              ({{ medium.director }}, {{ medium.year }})
+            {% elif medium.type == 'series' %}
+              ({{ medium.director }}, {{ medium.year }})
+            {% elif medium.author %}
+              {% if medium.subtitle %}
+              <br/><em>{{ medium.subtitle }}</em>{% endif %}
+              <br /><a href="{{ ('/authors/' ~ (medium.author | slugify) ~ '/') | url }}">{{medium.author}}</a>
+            {% else %}
+              yer da wears crocs
+            {% endif %}
+            </p>
+            <div class="button-group">
+              {% if medium.bookshopUrl %}<a class="border" href="{{ medium.bookshopUrl }}">Buy a copy</a>{% endif %}
+              {% if medium.reviewUrl %}<a class="border" href="{{ reviewUrl }}">Read my review</a>{% endif %}
+              <a class="border" href="{{ path | url }}">View details</a>
+            </div>
         </div>
     </div>
 </article>
