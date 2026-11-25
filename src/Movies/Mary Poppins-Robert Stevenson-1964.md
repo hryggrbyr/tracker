@@ -19,7 +19,10 @@ shelf: watched
 owned: true
 rating:
 watched:
-  - 1965-08-18
+  - 1985-08-18
+  - 1995-08-18
+  - 2005-08-18
+  - 2015-08-18
 poster: https://image.tmdb.org/t/p/w500/ei8hhYCMfURfPOXKBnyl61be2iV.jpg
 ---
 
