@@ -20,7 +20,8 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1975-09-29
+  - 1995-09-29
+  - 2014-09-29
 poster: https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg
 ---
 
