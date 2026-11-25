@@ -8,8 +8,7 @@ publisher: HarperCollinsPublishers
 published: 2022-07-29
 page_count:
 isbn:
-description:
-  "From award-winning author R.F. Kuang comes Babel, a thematic response to The Secret History and a tonal retort to Jonathan Strange & Mr. Norrell that grapples with student revolutions, colonial resistance, and the use of language and translation as the dominating tool of the British empire.\r
+description: "From award-winning author R. F. Kuang comes Babel, a thematic response to The Secret History and a tonal retort to Jonathan Strange & Mr. Norrell that grapples with student revolutions, colonial resistance, and the use of language and translation as the dominating tool of the British empire.\r
 
 
   Traduttore, traditore: An act of translation is always an act of betrayal.\r
@@ -40,15 +39,15 @@ bookshopUrl:
 calibre_uuid: 659c677e-9dc9-44ff-8d0e-93cd0bdb3882
 ---
 
-# Babel by R.F. Kuang
+# Babel by R. F. Kuang
 
 ![Book Cover Art](https://covers.openlibrary.org/b/olid/OL36282397M-M.jpg)
 
 _ _
 
-| Shelf    | to-read |
-| -------- | ------- |
-| Genre    |         |
-| Started  |         |
-| Finished |         |
-| Rating   | /5      |
+| Shelf | to-read |
+| --- | --- |
+| Genre |  |
+| Started |  |
+| Finished |  |
+| Rating | /5 |
