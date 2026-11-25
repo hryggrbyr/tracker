@@ -16,7 +16,7 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1974-12-31
+  - 1989-12-31
 poster: https://m.media-amazon.com/images/M/MV5BNjFkYTk3NzctYWIwMS00NGQ3LWJkNzEtZjYyMGFkY2Y4ZDQ1XkEyXkFqcGc@._V1_SX300.jpg
 ---
 
