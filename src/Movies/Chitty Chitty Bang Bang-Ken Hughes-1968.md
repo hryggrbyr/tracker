@@ -21,7 +21,10 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1968-12-17
+  - 1988-12-17
+  - 1998-12-17
+  - 2008-12-17
+  - 2018-12-17
 poster: https://image.tmdb.org/t/p/w500/wJ62FzGeCAs6PjCIK1as6xzdIY5.jpg
 ---
 

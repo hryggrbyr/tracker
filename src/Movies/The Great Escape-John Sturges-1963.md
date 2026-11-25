@@ -19,7 +19,7 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1963-07-04
+  - 1987-07-04
 poster: https://image.tmdb.org/t/p/w500/gBH4H8UMFxl139HaLz6lRuvsel8.jpg
 ---
 

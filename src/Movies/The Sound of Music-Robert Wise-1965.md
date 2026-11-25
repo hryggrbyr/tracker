@@ -20,7 +20,10 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1965-04-01
+  - 1986-04-01
+  - 1996-04-01
+  - 2006-04-01
+  - 2016-04-01
 poster: https://image.tmdb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg
 ---
 
