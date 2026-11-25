@@ -1,6 +1,6 @@
 {
   "Books": {
-    "count": 774,
+    "count": 775,
     "items": [
       {
         "filename": "ecstasy three tales of chemical romance - irvine welsh.md",
@@ -213,7 +213,7 @@
           "title": "Yellowface",
           "subtitle": " ",
           "author": [
-            "R. F. Kuang"
+            "R.F. Kuang"
           ],
           "publisher": "Harper Collins",
           "published": "2023-05-16T00:00:00.000Z",
@@ -8356,6 +8356,41 @@
           "bookshopUrl": null,
           "calibre_uuid": "72154513-1d2e-48a2-a7d4-824839f67872",
           "series": "Department Q"
+        }
+      },
+      {
+        "filename": "The Guns of Navarone - Alistair MacLean.md",
+        "path": "src/Books/The Guns of Navarone - Alistair MacLean.md",
+        "slug": "The Guns of Navarone - Alistair MacLean",
+        "frontmatter": {
+          "tags": [
+            "thriller",
+            "adventure",
+            "war"
+          ],
+          "title": "The Guns of Navarone",
+          "subtitle": "",
+          "author": [
+            "Alistair MacLean"
+          ],
+          "publisher": "Fawcett",
+          "published": "1976-02",
+          "page_count": 0,
+          "isbn": 9780449135372,
+          "description": "",
+          "coverUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F81d5SdmCuvL._SL1500_.jpg&f=1&nofb=1&ipt=591438e6fb3cd74149dec95551c844920709e99fe8587e23d4f1abf31b0e775a&ipo=images",
+          "shelf": "read",
+          "owned": false,
+          "start_date": null,
+          "end_date": "1993-01-20T00:00:00.000Z",
+          "rating": 3,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780449135372",
+          "created": "2026-01-10T12:33:29.000Z"
         }
       },
       {
@@ -17925,7 +17960,7 @@
           "published": "2025-08-26T00:00:00.000Z",
           "page_count": 579,
           "isbn": 9780063021495,
-          "description": "Dante’s Inferno meets Susanna Clarke’s Piranesi in this all-new dark academia fantasy from R.F. Kuang, the #1 New York Times bestselling author of Babel and Yellowface, in which two graduate students must put aside their rivalry and journey to Hell to save their professor’s soul—perhaps at the cost of their own. Katabasis, noun, Ancient Greek: The story of a hero’s descent to the underworld Alice Law has only ever had one goal: to become one of the brightest minds in the field of Magick. She has sacrificed everything to make that a reality: her pride, her health, her love life, and most definitely her sanity. All to work with Professor Jacob Grimes at Cambridge, the greatest magician in the world. That is, until he dies in a magical accident that could possibly be her fault. Grimes is now in Hell, and she’s going in after him. Because his recommendation could hold her very future in his now incorporeal hands and even death is not going to stop the pursuit of her dreams…. Nor will the fact that her rival, Peter Murdoch, has come to the very same conclusion. With nothing but the tales of Orpheus and Dante to guide them, enough chalk to draw the Pentagrams necessary for their spells, and the burning desire to make all the academic trauma mean anything, they set off across Hell to save a man they don’t even like. But Hell is not like the storybooks say, Magick isn’t always the answer, and there’s something in Alice and Peter’s past that could forge them into the perfect allies…or lead to their doom.",
+          "description": "Dante’s Inferno meets Susanna Clarke’s Piranesi in this all-new dark academia fantasy from R. F. Kuang, the #1 New York Times bestselling author of Babel and Yellowface, in which two graduate students must put aside their rivalry and journey to Hell to save their professor’s soul—perhaps at the cost of their own. Katabasis, noun, Ancient Greek: The story of a hero’s descent to the underworld Alice Law has only ever had one goal: to become one of the brightest minds in the field of Magick. She has sacrificed everything to make that a reality: her pride, her health, her love life, and most definitely her sanity. All to work with Professor Jacob Grimes at Cambridge, the greatest magician in the world. That is, until he dies in a magical accident that could possibly be her fault. Grimes is now in Hell, and she’s going in after him. Because his recommendation could hold her very future in his now incorporeal hands and even death is not going to stop the pursuit of her dreams…. Nor will the fact that her rival, Peter Murdoch, has come to the very same conclusion. With nothing but the tales of Orpheus and Dante to guide them, enough chalk to draw the Pentagrams necessary for their spells, and the burning desire to make all the academic trauma mean anything, they set off across Hell to save a man they don’t even like. But Hell is not like the storybooks say, Magick isn’t always the answer, and there’s something in Alice and Peter’s past that could forge them into the perfect allies…or lead to their doom.",
           "coverUrl": "http://books.google.com/books/content?id=Nlf8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
           "shelf": "to-read",
           "owned": false,
@@ -24376,7 +24411,7 @@
           "published": "2022-07-29T00:00:00.000Z",
           "page_count": null,
           "isbn": null,
-          "description": "From award-winning author R.F. Kuang comes Babel, a thematic response to The Secret History and a tonal retort to Jonathan Strange & Mr. Norrell that grapples with student revolutions, colonial resistance, and the use of language and translation as the dominating tool of the British empire.\r\n\nTraduttore, traditore: An act of translation is always an act of betrayal.\r\n\n1828. Robin Swift, orphaned by cholera in Canton, is brought to London by the mysterious Professor Lovell. There, he trains for years in Latin, Ancient Greek, and Chinese, all in preparation for the day he’ll enroll in Oxford University’s prestigious Royal Institute of Translation—also known as Babel.\r\n\nBabel is the world's center for translation and, more importantly, magic. Silver working—the art of manifesting the meaning lost in translation using enchanted silver bars—has made the British unparalleled in power, as its knowledge serves the Empire’s quest for colonization.\r\n\nFor Robin, Oxford is a utopia dedicated to the pursuit of knowledge. But knowledge obeys power, and as a Chinese boy raised in Britain, Robin realizes serving Babel means betraying his motherland. As his studies progress, Robin finds himself caught between Babel and the shadowy Hermes Society, an organization dedicated to stopping imperial expansion. When Britain pursues an unjust war with China over silver and opium, Robin must decide…\r\n\nCan powerful institutions be changed from within, or does revolution always require violence?",
+          "description": "From award-winning author R. F. Kuang comes Babel, a thematic response to The Secret History and a tonal retort to Jonathan Strange & Mr. Norrell that grapples with student revolutions, colonial resistance, and the use of language and translation as the dominating tool of the British empire.\r\n\nTraduttore, traditore: An act of translation is always an act of betrayal.\r\n\n1828. Robin Swift, orphaned by cholera in Canton, is brought to London by the mysterious Professor Lovell. There, he trains for years in Latin, Ancient Greek, and Chinese, all in preparation for the day he’ll enroll in Oxford University’s prestigious Royal Institute of Translation—also known as Babel.\r\n\nBabel is the world's center for translation and, more importantly, magic. Silver working—the art of manifesting the meaning lost in translation using enchanted silver bars—has made the British unparalleled in power, as its knowledge serves the Empire’s quest for colonization.\r\n\nFor Robin, Oxford is a utopia dedicated to the pursuit of knowledge. But knowledge obeys power, and as a Chinese boy raised in Britain, Robin realizes serving Babel means betraying his motherland. As his studies progress, Robin finds himself caught between Babel and the shadowy Hermes Society, an organization dedicated to stopping imperial expansion. When Britain pursues an unjust war with China over silver and opium, Robin must decide…\r\n\nCan powerful institutions be changed from within, or does revolution always require violence?",
           "coverUrl": "https://covers.openlibrary.org/b/olid/OL36282397M-M.jpg",
           "shelf": "to-read",
           "owned": true,
@@ -26526,7 +26561,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1974-12-15T00:00:00.000Z"
+            "2010-12-15T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/c6335WJCZO8NK5wehHk5sA9Cypv.jpg"
         }
@@ -27236,7 +27271,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1973-08-15T00:00:00.000Z"
+            "1993-08-15T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg"
         }
@@ -30199,7 +30234,10 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1965-04-01T00:00:00.000Z"
+            "1986-04-01T00:00:00.000Z",
+            "1996-04-01T00:00:00.000Z",
+            "2006-04-01T00:00:00.000Z",
+            "2016-04-01T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg"
         }
@@ -30605,7 +30643,8 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1975-09-29T00:00:00.000Z"
+            "1995-09-29T00:00:00.000Z",
+            "2014-09-29T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg"
         }
@@ -30790,7 +30829,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1970-12-21T00:00:00.000Z"
+            "1990-12-21T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/kusEIHfdngzcypY36yjWJVWMShj.jpg"
         }
@@ -30910,7 +30949,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1967-11-22T00:00:00.000Z"
+            "2000-11-22T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/5TYUsAygWKtufAC78ep2AiohEiR.jpg"
         }
@@ -32285,7 +32324,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1974-12-31T00:00:00.000Z"
+            "1989-12-31T00:00:00.000Z"
           ],
           "poster": "https://m.media-amazon.com/images/M/MV5BNjFkYTk3NzctYWIwMS00NGQ3LWJkNzEtZjYyMGFkY2Y4ZDQ1XkEyXkFqcGc@._V1_SX300.jpg"
         }
@@ -32573,7 +32612,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1965-03-18T00:00:00.000Z"
+            "1997-03-18T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/iCNRK7NVhBvNpiyMRmCpTBFNoLO.jpg"
         }
@@ -33175,7 +33214,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1963-07-04T00:00:00.000Z"
+            "1987-07-04T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/gBH4H8UMFxl139HaLz6lRuvsel8.jpg"
         }
@@ -33235,7 +33274,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1967-12-29T00:00:00.000Z"
+            "1990-12-29T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg"
         }
@@ -33800,7 +33839,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1973-12-26T00:00:00.000Z"
+            "1998-12-26T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg"
         }
@@ -33929,7 +33968,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1967-06-15T00:00:00.000Z"
+            "1989-06-15T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg"
         }
@@ -34793,7 +34832,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1963-03-28T00:00:00.000Z"
+            "1994-03-28T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg"
         }
@@ -38707,7 +38746,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1968-06-12T00:00:00.000Z"
+            "1992-06-12T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg"
         }
@@ -40075,7 +40114,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1968-02-07T00:00:00.000Z"
+            "1988-02-07T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg"
         }
@@ -41915,7 +41954,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1968-10-04T00:00:00.000Z"
+            "1996-10-04T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg"
         }
@@ -43505,7 +43544,10 @@
           "owned": true,
           "rating": null,
           "watched": [
-            "1965-08-18T00:00:00.000Z"
+            "1985-08-18T00:00:00.000Z",
+            "1995-08-18T00:00:00.000Z",
+            "2005-08-18T00:00:00.000Z",
+            "2015-08-18T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/ei8hhYCMfURfPOXKBnyl61be2iV.jpg"
         }
@@ -44297,7 +44339,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1962-06-13T00:00:00.000Z"
+            "1995-06-13T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/8Puqbeh0D95DpXFWep1rmH78btu.jpg"
         }
@@ -45177,7 +45219,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1970-04-03T00:00:00.000Z"
+            "1993-04-03T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg"
         }
@@ -51050,7 +51092,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1964-01-29T00:00:00.000Z"
+            "1992-01-29T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg"
         }
@@ -53175,7 +53217,10 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1968-12-17T00:00:00.000Z"
+            "1988-12-17T00:00:00.000Z",
+            "1998-12-17T00:00:00.000Z",
+            "2008-12-17T00:00:00.000Z",
+            "2018-12-17T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/wJ62FzGeCAs6PjCIK1as6xzdIY5.jpg"
         }
@@ -54311,7 +54356,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1968-10-17T00:00:00.000Z"
+            "1998-10-17T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/2ffzF1WmeXtH420fSUoCrecFvDA.jpg"
         }
@@ -58321,7 +58366,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1968-04-10T00:00:00.000Z"
+            "1999-04-10T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg"
         }
