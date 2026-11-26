@@ -18,7 +18,7 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1976-03-18
+  - 1993-03-18
 poster: https://image.tmdb.org/t/p/w500/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg
 ---
 

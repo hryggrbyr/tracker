@@ -20,7 +20,7 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1982-06-11
+  - 1986-06-11
 poster: https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg
 ---
 

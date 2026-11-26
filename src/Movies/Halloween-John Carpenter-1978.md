@@ -18,7 +18,11 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1978-10-25
+  - 1994-10-31
+  - 2000-10-31
+  - 2007-10-31
+  - 2009-10-31
+  - 2010-10-31
 poster: https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg
 ---
 
