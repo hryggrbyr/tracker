@@ -18,7 +18,9 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1974-02-07
+  - 1993-02-07
+  - 2002-02-07
+  - 2010-02-07
 poster: https://image.tmdb.org/t/p/w500/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg
 ---
 
