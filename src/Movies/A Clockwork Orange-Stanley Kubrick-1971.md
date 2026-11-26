@@ -18,7 +18,9 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1971-12-19
+  - 1995-12-19
+  - 2000-12-19
+  - 2007-12-19
 poster: https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg
 ---
 
