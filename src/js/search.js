@@ -81,10 +81,14 @@ document.addEventListener("DOMContentLoaded", () => {
     return total;
   };
 
+  const tableTemplate = document.getElementById("result-table");
+  const rowTemplate = document.getElementById("result-row");
+  const messageTemplate = document.getElementById("result-message");
+
   const message = (str) => {
-    const li = document.createElement("li");
-    li.textContent = str;
-    results.append(li);
+    const p = messageTemplate.content.firstElementChild.cloneNode(true);
+    p.textContent = str;
+    results.append(p);
   };
 
   const render = () => {
@@ -99,20 +103,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (!hits.length) return message("No results found 😢");
 
+    const table = tableTemplate.content.firstElementChild.cloneNode(true);
+    const tbody = table.querySelector("tbody");
+
     for (const { entry } of hits.slice(0, MAX_RESULTS)) {
-      const li = document.createElement("li");
-      const a = document.createElement("a");
-      a.href = entry.url;
-      a.textContent =
-        `${ICONS[entry.type] ?? ""} ${entry.title}${entry.year ? ` (${entry.year})` : ""}`.trim();
-      li.append(a);
-      if (entry.creator) {
-        const small = document.createElement("small");
-        small.textContent = ` ${entry.creator}`;
-        li.append(small);
-      }
-      results.append(li);
+      const row = rowTemplate.content.firstElementChild.cloneNode(true);
+
+      const titleLink = row.querySelector(".title a");
+      titleLink.href = entry.url;
+      titleLink.textContent = `${ICONS[entry.type] ?? ""} ${entry.title}`.trim();
+
+      row.querySelector(".creator").textContent = entry.creator || "—";
+      row.querySelector(".year").textContent = entry.year || "—";
+
+      tbody.append(row);
     }
+
+    results.append(table);
 
     if (hits.length > MAX_RESULTS) {
       message(`Showing ${MAX_RESULTS} of ${hits.length}. Keep typing to narrow it down.`);
