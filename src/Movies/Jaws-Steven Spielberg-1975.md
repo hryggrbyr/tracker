@@ -19,7 +19,7 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1975-06-20
+  - 1988-06-20
 poster: https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg
 ---
 
