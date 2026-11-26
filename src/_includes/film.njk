@@ -38,6 +38,8 @@ layout: base.njk
       </div>
 
       {% if description %}<p class="description">{{ description }}</p>{% endif %}
+      {% set body = content | stripBodyChrome %}
+      {% if body %}<div class="synopsis">{{ body | safe }}</div>{% endif %}
 
       {% if year or castText or watched %}
       <dl class="facts">

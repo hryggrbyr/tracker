@@ -2546,6 +2546,33 @@
     }
   },
   {
+    "filename": "Stark-1993.md",
+    "path": "src/Series/Stark-1993.md",
+    "slug": "Stark-1993",
+    "frontmatter": {
+      "type": "series",
+      "country": "United Kingdom, Australia",
+      "title": "Stark",
+      "year": 1993,
+      "director": "N/A",
+      "actors": [
+        "Colin Friels",
+        "Ben Elton",
+        "Derrick O'Connor"
+      ],
+      "genre": [
+        "comedy",
+        "sci-fi"
+      ],
+      "length": 158,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 3,
+      "watched": "1993-12-31T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU3ODA4NTIwOV5BMl5BanBnXkFtZTcwMDY2NDU4MQ@@._V1_SX300.jpg"
+    }
+  },
+  {
     "filename": "Star Trek-1966–1969.md",
     "path": "src/Series/Star Trek-1966–1969.md",
     "slug": "Star Trek-1966–1969",

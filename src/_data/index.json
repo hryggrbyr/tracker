@@ -1,6 +1,6 @@
 {
   "Books": {
-    "count": 775,
+    "count": 778,
     "items": [
       {
         "filename": "ecstasy three tales of chemical romance - irvine welsh.md",
@@ -13335,6 +13335,42 @@
         }
       },
       {
+        "filename": "Rosencrantz Guildenstern are Dead - Tom Stoppard.md",
+        "path": "src/Books/Rosencrantz Guildenstern are Dead - Tom Stoppard.md",
+        "slug": "Rosencrantz Guildenstern are Dead - Tom Stoppard",
+        "frontmatter": {
+          "tags": [
+            "play",
+            "drama",
+            "denmark",
+            "comedy"
+          ],
+          "title": "Rosencrantz & Guildenstern are Dead",
+          "subtitle": "",
+          "author": [
+            "Tom Stoppard"
+          ],
+          "publisher": null,
+          "published": 1967,
+          "page_count": 132,
+          "isbn": 9780802132758,
+          "description": "Two minor characters from \"Hamlet\" offer a novel view of the melancholy Dane.",
+          "coverUrl": "http://books.google.com/books/content?id=Yayzn4DsyC4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "read",
+          "owned": false,
+          "start_date": "1997-11-02T00:00:00.000Z",
+          "end_date": "1997-12-25T00:00:00.000Z",
+          "rating": 4,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780802132758",
+          "created": "2026-11-26T06:16:38.000Z"
+        }
+      },
+      {
         "filename": "Ronia - Astrid Lindgren.md",
         "path": "src/Books/Ronia - Astrid Lindgren.md",
         "slug": "Ronia - Astrid Lindgren",
@@ -13363,6 +13399,42 @@
           "created": "2024-06-02T00:00:00.000Z",
           "reviewUrl": null,
           "bookshopUrl": null
+        }
+      },
+      {
+        "filename": "Romeo and Juliet - William Shakespeare.md",
+        "path": "src/Books/Romeo and Juliet - William Shakespeare.md",
+        "slug": "Romeo and Juliet - William Shakespeare",
+        "frontmatter": {
+          "tags": [
+            "play",
+            "drama",
+            "romance",
+            "classic"
+          ],
+          "title": "Romeo and Juliet",
+          "subtitle": "",
+          "author": [
+            "William Shakespeare"
+          ],
+          "publisher": "Heinemann",
+          "published": 1993,
+          "page_count": 296,
+          "isbn": 9780435192013,
+          "description": "A study edition of \"Romeo and Juliet\", featuring facing notes, activities, text graded by importance, and illustrations.",
+          "coverUrl": "http://books.google.com/books/content?id=-L9bV67l_C8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "read",
+          "owned": false,
+          "start_date": "1993-09-02T00:00:00.000Z",
+          "end_date": "1993-12-25T00:00:00.000Z",
+          "rating": 3,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780435192013",
+          "created": "2026-11-26T06:19:10.000Z"
         }
       },
       {
@@ -19611,6 +19683,42 @@
           "created": "2015-10-06T00:00:00.000Z",
           "reviewUrl": null,
           "bookshopUrl": null
+        }
+      },
+      {
+        "filename": "Hamlet Prince of Denmark - William Shakespeare.md",
+        "path": "src/Books/Hamlet Prince of Denmark - William Shakespeare.md",
+        "slug": "Hamlet Prince of Denmark - William Shakespeare",
+        "frontmatter": {
+          "tags": [
+            "play",
+            "tragedy",
+            "denmark",
+            "classic"
+          ],
+          "title": "Hamlet, Prince of Denmark",
+          "subtitle": "A Tragedy ...",
+          "author": [
+            "William Shakespeare"
+          ],
+          "publisher": null,
+          "published": 1767,
+          "page_count": 72,
+          "isbn": "KBNL:KBNL03000049160",
+          "description": "",
+          "coverUrl": "http://books.google.com/books/content?id=Xm9XAAAAcAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "shelf": "read",
+          "owned": false,
+          "start_date": "1997-09-02T00:00:00.000Z",
+          "end_date": "1997-10-31T00:00:00.000Z",
+          "rating": 3,
+          "recommended_by": {
+            "name": null,
+            "url": null
+          },
+          "reviewUrl": "",
+          "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=KBNL:KBNL03000049160",
+          "created": "2026-11-26T06:14:34.000Z"
         }
       },
       {
@@ -26249,7 +26357,7 @@
     ]
   },
   "Movies": {
-    "count": 1034,
+    "count": 1035,
     "items": [
       {
         "filename": "eXistenZ-David Cronenberg-1999.md",
@@ -38714,6 +38822,7 @@
           "owned": true,
           "rating": 4,
           "watched": [
+            "1997-11-02T00:00:00.000Z",
             "2025-10-29T00:00:00.000Z"
           ],
           "poster": "https://m.media-amazon.com/images/M/MV5BNjc0MTU0MDY1OV5BMl5BanBnXkFtZTcwMDI2OTY2NA@@._V1_SX300.jpg"
@@ -38810,6 +38919,33 @@
             "1992-12-31T00:00:00.000Z"
           ],
           "poster": "https://m.media-amazon.com/images/M/MV5BODUxYmUxZDUtZTA4Yi00NDY0LWI3NGUtODk1YjAwMzAxYTg4XkEyXkFqcGc@._V1_SX300.jpg"
+        }
+      },
+      {
+        "filename": "Romeo and Juliet-Franco Zeffirelli-1968.md",
+        "path": "src/Movies/Romeo and Juliet-Franco Zeffirelli-1968.md",
+        "slug": "Romeo and Juliet-Franco Zeffirelli-1968",
+        "frontmatter": {
+          "type": "movie",
+          "country": "United Kingdom, Italy",
+          "title": "Romeo and Juliet",
+          "year": 1968,
+          "director": "Franco Zeffirelli",
+          "actors": [
+            "Leonard Whiting",
+            "Olivia Hussey",
+            "John McEnery"
+          ],
+          "genre": [
+            "Drama",
+            "Romance"
+          ],
+          "length": 138,
+          "shelf": "watched",
+          "owned": false,
+          "rating": 2,
+          "watched": "1993-11-02T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMDAxNjRiZmEtOWUxYy00YjVmLWFlMDItZmQxOWI3MjI2Y2NmXkEyXkFqcGc@._V1_QL75_UX380_CR0, 1, 380, 562_.jpg"
         }
       },
       {
@@ -58504,7 +58640,7 @@
     ]
   },
   "Series": {
-    "count": 272,
+    "count": 273,
     "items": [
       {
         "filename": "aka Charlie Sheen-2025.md",
@@ -61050,6 +61186,33 @@
           "rating": 2,
           "watched": "2025-09-05T00:00:00.000Z",
           "poster": "https://i2-prod.manchestereveningnews.co.uk/article32334542.ece/ALTERNATES/s1200e/0_ECR_220825_strandedonhoneymoonisland.jpg"
+        }
+      },
+      {
+        "filename": "Stark-1993.md",
+        "path": "src/Series/Stark-1993.md",
+        "slug": "Stark-1993",
+        "frontmatter": {
+          "type": "series",
+          "country": "United Kingdom, Australia",
+          "title": "Stark",
+          "year": 1993,
+          "director": "N/A",
+          "actors": [
+            "Colin Friels",
+            "Ben Elton",
+            "Derrick O'Connor"
+          ],
+          "genre": [
+            "comedy",
+            "sci-fi"
+          ],
+          "length": 158,
+          "shelf": "watched",
+          "owned": false,
+          "rating": 3,
+          "watched": "1993-12-31T00:00:00.000Z",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTU3ODA4NTIwOV5BMl5BanBnXkFtZTcwMDY2NDU4MQ@@._V1_SX300.jpg"
         }
       },
       {

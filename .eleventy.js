@@ -61,6 +61,15 @@ module.exports = function (eleventyConfig) {
     new Date(x).toLocaleString("en-GB", { month: "long" }),
   );
   eleventyConfig.addNunjucksFilter("humanReadableDate", humanReadableDate);
+  // Strip the redundant "# Title" heading and poster image from a media
+  // markdown body (the template already renders the title and poster).
+  eleventyConfig.addNunjucksFilter("stripBodyChrome", (html) => {
+    if (!html) return html;
+    return html
+      .replace(/<h1[^>]*>.*?<\/h1>/s, "")
+      .replace(/<p>\s*<img[^>]*>\s*<\/p>/s, "")
+      .trim();
+  });
   eleventyConfig.addNunjucksFilter("watched", (x) =>
     x
       .filter((x) => x.frontmatter.shelf === "watched")

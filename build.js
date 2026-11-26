@@ -110,7 +110,7 @@ function build11tySite() {
   try {
     execSync("npx @11ty/eleventy", {
       stdio: "inherit",
-      env: { ...process.env, NODE_ENV: "production" },
+      env: { ...process.env, NODE_ENV: process.env.NODE_ENV || "production" },
     });
     console.log("✅ 11ty build completed\n");
   } catch (error) {

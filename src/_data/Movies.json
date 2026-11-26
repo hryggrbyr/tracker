@@ -12462,6 +12462,7 @@
       "owned": true,
       "rating": 4,
       "watched": [
+        "1997-11-02T00:00:00.000Z",
         "2025-10-29T00:00:00.000Z"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNjc0MTU0MDY1OV5BMl5BanBnXkFtZTcwMDI2OTY2NA@@._V1_SX300.jpg"
@@ -12558,6 +12559,33 @@
         "1992-12-31T00:00:00.000Z"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BODUxYmUxZDUtZTA4Yi00NDY0LWI3NGUtODk1YjAwMzAxYTg4XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "filename": "Romeo and Juliet-Franco Zeffirelli-1968.md",
+    "path": "src/Movies/Romeo and Juliet-Franco Zeffirelli-1968.md",
+    "slug": "Romeo and Juliet-Franco Zeffirelli-1968",
+    "frontmatter": {
+      "type": "movie",
+      "country": "United Kingdom, Italy",
+      "title": "Romeo and Juliet",
+      "year": 1968,
+      "director": "Franco Zeffirelli",
+      "actors": [
+        "Leonard Whiting",
+        "Olivia Hussey",
+        "John McEnery"
+      ],
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "length": 138,
+      "shelf": "watched",
+      "owned": false,
+      "rating": 2,
+      "watched": "1993-11-02T00:00:00.000Z",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDAxNjRiZmEtOWUxYy00YjVmLWFlMDItZmQxOWI3MjI2Y2NmXkEyXkFqcGc@._V1_QL75_UX380_CR0, 1, 380, 562_.jpg"
     }
   },
   {

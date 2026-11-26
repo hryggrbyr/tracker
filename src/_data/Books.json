@@ -13332,6 +13332,42 @@
     }
   },
   {
+    "filename": "Rosencrantz Guildenstern are Dead - Tom Stoppard.md",
+    "path": "src/Books/Rosencrantz Guildenstern are Dead - Tom Stoppard.md",
+    "slug": "Rosencrantz Guildenstern are Dead - Tom Stoppard",
+    "frontmatter": {
+      "tags": [
+        "play",
+        "drama",
+        "denmark",
+        "comedy"
+      ],
+      "title": "Rosencrantz & Guildenstern are Dead",
+      "subtitle": "",
+      "author": [
+        "Tom Stoppard"
+      ],
+      "publisher": null,
+      "published": 1967,
+      "page_count": 132,
+      "isbn": 9780802132758,
+      "description": "Two minor characters from \"Hamlet\" offer a novel view of the melancholy Dane.",
+      "coverUrl": "http://books.google.com/books/content?id=Yayzn4DsyC4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "1997-11-02T00:00:00.000Z",
+      "end_date": "1997-12-25T00:00:00.000Z",
+      "rating": 4,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780802132758",
+      "created": "2026-11-26T06:16:38.000Z"
+    }
+  },
+  {
     "filename": "Ronia - Astrid Lindgren.md",
     "path": "src/Books/Ronia - Astrid Lindgren.md",
     "slug": "Ronia - Astrid Lindgren",
@@ -13360,6 +13396,42 @@
       "created": "2024-06-02T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "Romeo and Juliet - William Shakespeare.md",
+    "path": "src/Books/Romeo and Juliet - William Shakespeare.md",
+    "slug": "Romeo and Juliet - William Shakespeare",
+    "frontmatter": {
+      "tags": [
+        "play",
+        "drama",
+        "romance",
+        "classic"
+      ],
+      "title": "Romeo and Juliet",
+      "subtitle": "",
+      "author": [
+        "William Shakespeare"
+      ],
+      "publisher": "Heinemann",
+      "published": 1993,
+      "page_count": 296,
+      "isbn": 9780435192013,
+      "description": "A study edition of \"Romeo and Juliet\", featuring facing notes, activities, text graded by importance, and illustrations.",
+      "coverUrl": "http://books.google.com/books/content?id=-L9bV67l_C8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "1993-09-02T00:00:00.000Z",
+      "end_date": "1993-12-25T00:00:00.000Z",
+      "rating": 3,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=9780435192013",
+      "created": "2026-11-26T06:19:10.000Z"
     }
   },
   {
@@ -19608,6 +19680,42 @@
       "created": "2015-10-06T00:00:00.000Z",
       "reviewUrl": null,
       "bookshopUrl": null
+    }
+  },
+  {
+    "filename": "Hamlet Prince of Denmark - William Shakespeare.md",
+    "path": "src/Books/Hamlet Prince of Denmark - William Shakespeare.md",
+    "slug": "Hamlet Prince of Denmark - William Shakespeare",
+    "frontmatter": {
+      "tags": [
+        "play",
+        "tragedy",
+        "denmark",
+        "classic"
+      ],
+      "title": "Hamlet, Prince of Denmark",
+      "subtitle": "A Tragedy ...",
+      "author": [
+        "William Shakespeare"
+      ],
+      "publisher": null,
+      "published": 1767,
+      "page_count": 72,
+      "isbn": "KBNL:KBNL03000049160",
+      "description": "",
+      "coverUrl": "http://books.google.com/books/content?id=Xm9XAAAAcAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "shelf": "read",
+      "owned": false,
+      "start_date": "1997-09-02T00:00:00.000Z",
+      "end_date": "1997-10-31T00:00:00.000Z",
+      "rating": 3,
+      "recommended_by": {
+        "name": null,
+        "url": null
+      },
+      "reviewUrl": "",
+      "bookshopUrl": "https://www.ebooks.com/en-gb/searchapp/searchresults.net?term=KBNL:KBNL03000049160",
+      "created": "2026-11-26T06:14:34.000Z"
     }
   },
   {
