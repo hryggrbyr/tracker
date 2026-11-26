@@ -31908,7 +31908,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1976-03-18T00:00:00.000Z"
+            "1993-03-18T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg"
         }
@@ -32527,7 +32527,8 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1977-08-10T00:00:00.000Z"
+            "1990-08-10T00:00:00.000Z",
+            "2002-08-10T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/qk0iXBQgP6b4xfS2bIUNBSENJAn.jpg"
         }
@@ -34047,7 +34048,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1977-03-31T00:00:00.000Z"
+            "1991-03-31T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/dxLuj7VIv0ZRdvaIB6eY5fApONF.jpg"
         }
@@ -35415,7 +35416,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1976-02-09T00:00:00.000Z"
+            "1994-02-09T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
         }
@@ -42155,7 +42156,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1976-11-14T00:00:00.000Z"
+            "2002-11-14T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/gZ8hhuVEQ78CLND09trZJ45Eiy8.jpg"
         }
@@ -44510,7 +44511,8 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1976-12-31T00:00:00.000Z"
+            "1992-12-31T00:00:00.000Z",
+            "2004-12-31T00:00:00.000Z"
           ],
           "poster": "https://m.media-amazon.com/images/M/MV5BNWFmOGQ3NmItY2QzZC00ODdlLWE2NjMtM2I5YTdjYjk4YjUwXkEyXkFqcGc@._V1_SX300.jpg"
         }
@@ -46175,7 +46177,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1978-12-20T00:00:00.000Z"
+            "1998-12-20T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg"
         }
@@ -48263,7 +48265,11 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1978-10-25T00:00:00.000Z"
+            "1994-10-31T00:00:00.000Z",
+            "2000-10-31T00:00:00.000Z",
+            "2007-10-31T00:00:00.000Z",
+            "2009-10-31T00:00:00.000Z",
+            "2010-10-31T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg"
         }
@@ -50762,7 +50768,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1977-03-19T00:00:00.000Z"
+            "1996-03-19T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg"
         }
@@ -51142,7 +51148,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1982-06-11T00:00:00.000Z"
+            "1986-06-11T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg"
         }
@@ -53055,7 +53061,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1977-11-18T00:00:00.000Z"
+            "1987-11-18T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg"
         }
@@ -53991,7 +53997,9 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1976-11-03T00:00:00.000Z"
+            "1993-11-03T00:00:00.000Z",
+            "1999-11-03T00:00:00.000Z",
+            "2013-11-03T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg"
         }
@@ -57103,7 +57111,7 @@
           "owned": false,
           "rating": null,
           "watched": [
-            "1978-07-28T00:00:00.000Z"
+            "1995-07-28T00:00:00.000Z"
           ],
           "poster": "https://image.tmdb.org/t/p/w500/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg"
         }
