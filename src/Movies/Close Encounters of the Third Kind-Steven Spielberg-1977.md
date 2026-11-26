@@ -18,7 +18,7 @@ shelf: watched
 owned: false
 rating:
 watched:
-  - 1977-11-18
+  - 1987-11-18
 poster: https://image.tmdb.org/t/p/w500/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg
 ---
 
